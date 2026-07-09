@@ -6,11 +6,10 @@ hexagrams are never repeated).
 
 ## Output Preferences
 
-- **Language:** All briefing output must be in Traditional Chinese (繁體中文).
-- **Technical/professional terms:** keep the original term (English, proper
-  nouns, model names, code identifiers, etc.) in parentheses after the
-  Chinese term, e.g. 「聯準會（Federal Reserve）」、「熱重載（Hot Reload）」。
-  (Requested 2026-07-09.)
+- **Language:** Bilingual, full text in both languages — English version
+  first, followed by the full Traditional Chinese (繁體中文) version. Not
+  parenthetical annotations; each section should be written out completely
+  in both languages. (Requested 2026-07-09, revised same day.)
 
 ## Spanish Lessons Taught
 
