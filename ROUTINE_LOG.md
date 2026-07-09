@@ -18,12 +18,40 @@ hexagrams are never repeated).
   Instead: keep the push notification message short (a one-line alert),
   and deliver the full formatted briefing as a standalone `.html` file via
   SendUserFile, which renders correctly.
+- **File delivery:** SendUserFile only puts the file into the current
+  Claude app/session — it does NOT reach the user's email inbox. When the
+  user wants a persistent, linkable copy, commit the file into this repo
+  (under `briefings/` or `spanish-lessons/`) on the working branch, push,
+  and give the GitHub blob + raw URLs instead. (Established 2026-07-09.)
+
+## Spanish Lesson Template (required format, set 2026-07-09)
+
+Every Spanish lesson must follow this exact structure (written in
+Traditional Chinese, with Spanish target-language content inline). Do not
+revert to the old brief format.
+
+1. **🎯 今日學習目標** — 1-2 sentences: what the learner can do after this lesson.
+2. **🗣️ 核心對話 / 句子** — a minimal dialogue or 2-3 core sentences, each line
+   formatted as `[Spanish] (pronunciation in Chinese phonetic approximation
+   — not English-based syllables) —— [Chinese translation]`.
+3. **🔍 拆解與超詳細細節** — break down every word/verb conjugation/gender in
+   the core sentences; proactively answer likely questions (e.g. why the
+   inverted ¡/¿, where a reflexive verb form comes from).
+4. **💡 文化或實用小撇步** — one cultural/usage note (e.g. Hola vs. Buenos días).
+5. **✍️ 1分鐘互動練習題** — 2 very short practice items (fill-in-blank,
+   matching, or a one-line situational sentence).
+6. `---` divider, then **🔑 今日練習題答案與解析** — answers with brief
+   explanations, kept below the divider so the learner can cover it.
+
+Lesson files are saved under `spanish-lessons/day-XX.html` and pushed to
+the repo so a permanent link can be shared.
 
 ## Spanish Lessons Taught
 
-| Date | Lesson # | Topic | New concept introduced |
-|------|----------|-------|-------------------------|
-| 2026-07-08 | 1 | Greetings & introducing yourself | "Hola", "¿Cómo te llamas?", "Me llamo...", basic vowel pronunciation |
+| Date | Lesson # | Topic | New concept introduced | File |
+|------|----------|-------|-------------------------|------|
+| 2026-07-08 | 1 | Greetings & introducing yourself (brief format, superseded) | "Hola", "¿Cómo te llamas?", "Me llamo...", basic vowel pronunciation | — |
+| 2026-07-09 | 1 (upgraded) | 問候與自我介紹 — full template version | ¡Hola!, ¿Cómo te llamas? / Me llamo (reflexive verb llamarse), Mucho gusto, inverted ¡ ¿ | spanish-lessons/day-01.html |
 
 ## I Ching Hexagrams Featured
 
