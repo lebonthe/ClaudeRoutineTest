@@ -31,9 +31,16 @@ Traditional Chinese, with Spanish target-language content inline). Do not
 revert to the old brief format.
 
 1. **🎯 今日學習目標** — 1-2 sentences: what the learner can do after this lesson.
-2. **🗣️ 核心對話 / 句子** — a minimal dialogue or 2-3 core sentences, each line
-   formatted as `[Spanish] (pronunciation in Chinese phonetic approximation
-   — not English-based syllables) —— [Chinese translation]`.
+2. **🗣️ 核心對話 / 句子** — a minimal dialogue or 2-3 core sentences. Each line
+   is a two-line block:
+   - Line 1: `[Spanish sentence] —— [Chinese translation]`
+   - Line 2 (indented, smaller/grey text): the Chinese phonetic
+     approximation (諧音, not English-based syllables), followed by its
+     Hanyu Pinyin in parentheses and italics, e.g.
+     `歐拉!摳摸 貼 呀馬斯?(ōu lā! kōu mō tiē yā mǎ sī?)` — the pinyin
+     disambiguates the tones/reading of the Chinese proxy characters.
+     (Revised 2026-07-09 per user feedback — see spanish-lessons/day-01.html
+     for the reference layout.)
 3. **🔍 拆解與超詳細細節** — break down every word/verb conjugation/gender in
    the core sentences; proactively answer likely questions (e.g. why the
    inverted ¡/¿, where a reflexive verb form comes from).
