@@ -4,6 +4,14 @@ This file tracks state across daily runs of the morning briefing routine so each
 run can build on the last (Spanish lessons progress sequentially; I Ching
 hexagrams are never repeated).
 
+## Output Preferences
+
+- **Language:** All briefing output must be in Traditional Chinese (繁體中文).
+- **Technical/professional terms:** keep the original term (English, proper
+  nouns, model names, code identifiers, etc.) in parentheses after the
+  Chinese term, e.g. 「聯準會（Federal Reserve）」、「熱重載（Hot Reload）」。
+  (Requested 2026-07-09.)
+
 ## Spanish Lessons Taught
 
 | Date | Lesson # | Topic | New concept introduced |
