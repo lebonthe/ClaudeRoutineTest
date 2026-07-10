@@ -59,9 +59,11 @@ the repo so a permanent link can be shared.
 |------|----------|-------|-------------------------|------|
 | 2026-07-08 | 1 | Greetings & introducing yourself (brief format, superseded) | "Hola", "¿Cómo te llamas?", "Me llamo...", basic vowel pronunciation | — |
 | 2026-07-09 | 1 (upgraded) | 問候與自我介紹 — full template version | ¡Hola!, ¿Cómo te llamas? / Me llamo (reflexive verb llamarse), Mucho gusto, inverted ¡ ¿ | spanish-lessons/day-01.html |
+| 2026-07-10 | 2 | 道別與基本禮貌用語 — Farewells & basic courtesy phrases | Hasta luego / Adiós, tener que + irse (reflexive), Fue un placer conocerte, Gracias / De nada, subjunctive wish "Que tengas un buen día" (previewed) | spanish-lessons/day-02.html |
 
 ## I Ching Hexagrams Featured
 
 | Date | Hexagram # | Name (Chinese / Pinyin / English) |
 |------|-----------|-------------------------------------|
 | 2026-07-08 | 1 | 乾 (Qián) — The Creative |
+| 2026-07-10 | 2 | 坤 (Kūn) — The Receptive |
