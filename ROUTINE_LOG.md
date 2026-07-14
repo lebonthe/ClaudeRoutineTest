@@ -59,9 +59,48 @@ the repo so a permanent link can be shared.
 |------|----------|-------|-------------------------|------|
 | 2026-07-08 | 1 | Greetings & introducing yourself (brief format, superseded) | "Hola", "¿Cómo te llamas?", "Me llamo...", basic vowel pronunciation | — |
 | 2026-07-09 | 1 (upgraded) | 問候與自我介紹 — full template version | ¡Hola!, ¿Cómo te llamas? / Me llamo (reflexive verb llamarse), Mucho gusto, inverted ¡ ¿ | spanish-lessons/day-01.html |
+| 2026-07-14 | 2 | 你來自哪裡?— asking/saying origin & nationality | Verb ser (soy/eres/es/somos/sois/son), ¿De dónde eres?, gendered nationality adjectives (taiwanés/taiwanesa) | spanish-lessons/day-02.html |
 
 ## I Ching Hexagrams Featured
 
 | Date | Hexagram # | Name (Chinese / Pinyin / English) |
 |------|-----------|-------------------------------------|
 | 2026-07-08 | 1 | 乾 (Qián) — The Creative |
+| 2026-07-14 | 2 | 坤 (Kūn) — The Receptive |
+
+## Country/Region/Faction Spotlights Featured (new section, added 2026-07-14)
+
+| Date | Subject |
+|------|---------|
+| 2026-07-14 | Bhutan (不丹) |
+
+## Internet Meme Spotlights Featured (new section, added 2026-07-14)
+
+| Date | Meme |
+|------|------|
+| 2026-07-14 | Rickroll (瑞克搖) |
+
+## Operational Notes
+
+- **2026-07-14 — gap in daily cadence:** No briefing/lesson/hexagram was recorded between
+  2026-07-09 and 2026-07-14 (5-day gap; the intervening session branches
+  `claude/epic-brahmagupta-*` show no committed briefing/lesson files). This
+  run picked up sequentially from the last recorded state (Spanish Day 1,
+  Hexagram 1) without backfilling the missed days, and produced only the
+  2026-07-14 briefing.
+- **2026-07-14 — index page unreachable from this environment:** The task's
+  pre-check step ("check https://lebonthe.github.io/ClaudeRoutineTest/ for
+  the latest date") could not be completed — outbound requests to
+  `lebonthe.github.io` were rejected by the environment's network egress
+  policy (proxy CONNECT returned 403; confirmed via
+  `$HTTPS_PROXY/__agentproxy/status` → `recentRelayFailures`). GitHub's API
+  (github.com) is reachable via the GitHub MCP tools, but no `main` or
+  `gh-pages` branch currently exists in this repo, so a Pages site may not
+  even be published yet. This run used `ROUTINE_LOG.md` (read via both the
+  local checkout and the GitHub API, which agreed) as the sole source of
+  truth. If a future run can reach the Pages site and finds it disagrees
+  with this log, prefer the Pages site's date per the standing instruction.
+- Sections 5 (country/region/faction spotlight) and 6 (internet meme
+  spotlight) are new as of 2026-07-14 and were not present in the
+  2026-07-08 briefing; tracking tables for both were added above starting
+  from this run.
