@@ -98,6 +98,7 @@ the repo so a permanent link can be shared.
 | 2026-07-12 | 5 | 你從哪裡來?(ser 動詞與國籍) | ¿De dónde eres? / Soy (verb ser, permanent identity vs. estar), nationality adjectives (español/española) | spanish-lessons/day-05.html |
 | 2026-07-13 | 6 | 數字 0-10 | cero–diez, ¿Cuántos años tienes? / Tengo... años (tener + age idiom) | spanish-lessons/day-06.html |
 | 2026-07-15 | 7 | 星期幾(los días de la semana) | lunes–domingo, ¿Qué día es hoy? / Hoy es... | spanish-lessons/day-07.html |
+| 2026-07-16 | 8 | 月份(los meses del año) | enero–diciembre, ¿En qué mes estamos? / Estamos en... (estar vs. ser recap), cumpleaños | spanish-lessons/day-08.html |
 
 Note: a duplicate "Day 2" lesson (ser/¿De dónde eres?, i.e. the same topic
 as Day 5) was independently produced on 2026-07-14 on an orphaned branch
@@ -116,6 +117,7 @@ continues from Day 6.
 | 2026-07-12 | 5 | 需 (Xū) — Waiting |
 | 2026-07-13 | 6 | 訟 (Sòng) — Conflict |
 | 2026-07-15 | 7 | 師 (Shī) — The Army |
+| 2026-07-16 | 8 | 比 (Bǐ) — Holding Together |
 
 Note: a duplicate Hexagram 2 (坤 Kūn) was also independently produced on
 2026-07-14 on the same orphaned branch, for the same reason. Hexagram 7
@@ -127,6 +129,7 @@ above correctly continues from Hexagram 6.
 |------|---------|
 | 2026-07-14 | Bhutan (不丹) |
 | 2026-07-15 | Uruguay (烏拉圭) |
+| 2026-07-16 | Mongolia (蒙古) |
 
 ## Internet Meme Spotlights Featured
 
@@ -134,6 +137,7 @@ above correctly continues from Hexagram 6.
 |------|------|
 | 2026-07-14 | Rickroll (瑞克搖) |
 | 2026-07-15 | "8+9" (八加九, Taiwan) |
+| 2026-07-16 | Gangnam Style (江南 Style, South Korea) |
 
 ## Run Notes
 
@@ -200,3 +204,32 @@ above correctly continues from Hexagram 6.
 - Briefings are saved under `briefings/YYYY-MM-DD.html` for every date,
   2026-07-08 through 2026-07-15 (all now present on this branch, with
   2026-07-14 carried over from the `-qhq5rv` branch as described above).
+- **2026-07-16 — bug recurred a fourth time (this run started on a
+  brand-new local branch, `claude/happy-newton-ltdkx9`), same pattern as
+  before.** The session's initial git state was, once again, checked out
+  from the stale default branch (`claude/gracious-ramanujan-4wyzgc`,
+  frozen at Day 1 / Hexagram 1 only) rather than continuing from any
+  branch with real progress. Network egress to
+  `https://lebonthe.github.io/ClaudeRoutineTest/` was also blocked again
+  in this session (both `WebFetch`, which returned HTTP 403, and a
+  direct `curl`, which returned connection code 000/no route) — so, per
+  the recommended recovery procedure above, this run listed all
+  `claude/*` branches via the GitHub MCP tools and diffed their
+  `briefings/`/`ROUTINE_LOG.md` contents instead of trusting the local
+  checkout or the Pages site. `claude/happy-newton-6o3hr4` was confirmed
+  to have the longest unbroken run (07-08 through 07-15, Spanish 1-7,
+  hexagrams 1-7, plus the Bhutan/Uruguay and Rickroll/"8+9" spotlights)
+  and was adopted as the base (`git reset --hard
+  origin/claude/happy-newton-6o3hr4`) before adding today's content.
+  **This confirms the branch-divergence bug is still unresolved as of
+  2026-07-16** — every session continues to land on a fresh branch from
+  a stale starting point rather than resuming prior work or branching
+  from the tip of whatever branch GitHub Pages actually deploys from.
+  The fix still needs a human to check the Routine's trigger/session
+  configuration (and confirm which branch Pages Settings points at) —
+  this cannot be corrected from inside a session. **Recommendation for
+  the user:** consider pointing the routine at a fixed persistent branch
+  (or configuring GitHub Pages to deploy from whichever branch is
+  actually maintained, e.g. rename/merge the `happy-newton-6o3hr4` line
+  into a permanent branch like `main`) so future runs have one
+  unambiguous source of truth to resume from.
