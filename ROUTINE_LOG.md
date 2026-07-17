@@ -99,6 +99,7 @@ the repo so a permanent link can be shared.
 | 2026-07-13 | 6 | 數字 0-10 | cero–diez, ¿Cuántos años tienes? / Tengo... años (tener + age idiom) | spanish-lessons/day-06.html |
 | 2026-07-15 | 7 | 星期幾(los días de la semana) | lunes–domingo, ¿Qué día es hoy? / Hoy es... | spanish-lessons/day-07.html |
 | 2026-07-16 | 8 | 月份(los meses del año) | enero–diciembre, ¿En qué mes estamos? / Estamos en... (estar vs. ser recap), cumpleaños | spanish-lessons/day-08.html |
+| 2026-07-17 | 9 | 報時(¿Qué hora es?) | Es la una / Son las... (singular vs. plural for telling time), y cuarto / y media / menos cuarto, ¿A qué hora...? + Es a las... | spanish-lessons/day-09.html |
 
 Note: a duplicate "Day 2" lesson (ser/¿De dónde eres?, i.e. the same topic
 as Day 5) was independently produced on 2026-07-14 on an orphaned branch
@@ -118,6 +119,7 @@ continues from Day 6.
 | 2026-07-13 | 6 | 訟 (Sòng) — Conflict |
 | 2026-07-15 | 7 | 師 (Shī) — The Army |
 | 2026-07-16 | 8 | 比 (Bǐ) — Holding Together |
+| 2026-07-17 | 9 | 小畜 (Xiǎo Chù) — The Taming Power of the Small |
 
 Note: a duplicate Hexagram 2 (坤 Kūn) was also independently produced on
 2026-07-14 on the same orphaned branch, for the same reason. Hexagram 7
@@ -130,6 +132,7 @@ above correctly continues from Hexagram 6.
 | 2026-07-14 | Bhutan (不丹) |
 | 2026-07-15 | Uruguay (烏拉圭) |
 | 2026-07-16 | Mongolia (蒙古) |
+| 2026-07-17 | Iceland (冰島) |
 
 ## Internet Meme Spotlights Featured
 
@@ -138,6 +141,7 @@ above correctly continues from Hexagram 6.
 | 2026-07-14 | Rickroll (瑞克搖) |
 | 2026-07-15 | "8+9" (八加九, Taiwan) |
 | 2026-07-16 | Gangnam Style (江南 Style, South Korea) |
+| 2026-07-17 | Doge (狗狗迷因) |
 
 ## Run Notes
 
@@ -233,3 +237,35 @@ above correctly continues from Hexagram 6.
   actually maintained, e.g. rename/merge the `happy-newton-6o3hr4` line
   into a permanent branch like `main`) so future runs have one
   unambiguous source of truth to resume from.
+- **2026-07-17 — bug recurred a fifth time (this run started on yet
+  another brand-new branch, `claude/happy-newton-018a9x`), same pattern
+  as before.** The session's initial git checkout was, once again, on the
+  stale default branch (`claude/gracious-ramanujan-4wyzgc`, frozen at Day
+  1 / Hexagram 1 only). Both `WebFetch` (HTTP 403) and a direct `curl`
+  (exit code 000 / no route) to
+  `https://lebonthe.github.io/ClaudeRoutineTest/` were blocked again in
+  this session, confirming egress to that host is not reliably available
+  from inside these sessions — so, per the recommended recovery
+  procedure, this run used the GitHub MCP tools to list all `claude/*`
+  branches and diff their `briefings/`/`spanish-lessons/`/`ROUTINE_LOG.md`
+  contents instead of trusting the local checkout or the Pages site.
+  `claude/happy-newton-ltdkx9` was confirmed to have the longest unbroken
+  run (07-08 through 07-16, Spanish Days 1-8, Hexagrams 1-8, plus the
+  Bhutan/Uruguay/Mongolia and Rickroll/"8+9"/Gangnam Style spotlights —
+  one commit ahead of `happy-newton-6o3hr4`, which stops at 07-15) and was
+  adopted as the base (`git checkout -B claude/happy-newton-018a9x
+  origin/claude/happy-newton-ltdkx9`) before adding today's content
+  (Spanish Day 9, Hexagram 9, Iceland, Doge).
+  **This confirms the branch-divergence bug is still unresolved as of
+  2026-07-17** — every session continues to land on a fresh branch from a
+  stale starting point rather than resuming prior work or branching from
+  the tip of whatever branch GitHub Pages actually deploys from, and the
+  live Pages site cannot be used from inside a session to verify the
+  latest date either. **Recommendation for the user (repeated, now a
+  fifth time):** this needs a human-side fix outside what these sessions
+  can change — either point the routine/trigger at one fixed persistent
+  branch, or merge the actively-maintained line (currently
+  `happy-newton-ltdkx9`) into a permanent branch such as `main` and
+  configure GitHub Pages to deploy from it, so future runs have one
+  unambiguous source of truth to branch from without needing to
+  reconstruct history via the GitHub API every time.
