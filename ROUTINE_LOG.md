@@ -24,6 +24,21 @@ hexagrams are never repeated).
   (under `briefings/` or `spanish-lessons/`) on the working branch, push,
   and give the GitHub blob + raw URLs instead. (Established 2026-07-09.)
 
+## Progress-Source Note (2026-07-18)
+
+The task instructions call for cross-checking progress against the index
+page at https://lebonthe.github.io/ClaudeRoutineTest/ before generating
+content. On 2026-07-18 that page could not be reached — the environment's
+outbound network policy rejects the `lebonthe.github.io` host (proxy
+returned "gateway answered 403 to CONNECT"). Per the fallback rule ("use
+whichever is most recent"), this run treated the repo's committed files
+and this log as the source of truth: the last committed Spanish lesson
+was Day 1 (2026-07-09) and the last hexagram was #1, so this run produced
+Day 2 and Hexagram #2. No briefings/spanish-lessons files are present in
+the repo for 2026-07-10 through 2026-07-17 — if the index page (once
+reachable again) shows further progress than this, reconcile before the
+next run to avoid skipping or duplicating days.
+
 ## Spanish Lesson Template (required format, set 2026-07-09)
 
 Every Spanish lesson must follow this exact structure (written in
@@ -59,9 +74,23 @@ the repo so a permanent link can be shared.
 |------|----------|-------|-------------------------|------|
 | 2026-07-08 | 1 | Greetings & introducing yourself (brief format, superseded) | "Hola", "¿Cómo te llamas?", "Me llamo...", basic vowel pronunciation | — |
 | 2026-07-09 | 1 (upgraded) | 問候與自我介紹 — full template version | ¡Hola!, ¿Cómo te llamas? / Me llamo (reflexive verb llamarse), Mucho gusto, inverted ¡ ¿ | spanish-lessons/day-01.html |
+| 2026-07-18 | 2 | 你好嗎?(問候近況) | estar (estoy/estás/está), feeling adjectives (bien, mal, más o menos, cansado/a), ¿Y tú? | spanish-lessons/day-02.html |
 
 ## I Ching Hexagrams Featured
 
 | Date | Hexagram # | Name (Chinese / Pinyin / English) |
 |------|-----------|-------------------------------------|
 | 2026-07-08 | 1 | 乾 (Qián) — The Creative |
+| 2026-07-18 | 2 | 坤 (Kūn) — The Receptive |
+
+## Countries / Regions Featured
+
+| Date | Country / Region |
+|------|-------------------|
+| 2026-07-18 | Bhutan |
+
+## Internet Memes Featured
+
+| Date | Meme |
+|------|------|
+| 2026-07-18 | Doge |
