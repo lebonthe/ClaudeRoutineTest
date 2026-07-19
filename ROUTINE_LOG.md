@@ -23,6 +23,12 @@ hexagrams are never repeated).
   user wants a persistent, linkable copy, commit the file into this repo
   (under `briefings/` or `spanish-lessons/`) on the working branch, push,
   and give the GitHub blob + raw URLs instead. (Established 2026-07-09.)
+- **Index page check:** `https://lebonthe.github.io/ClaudeRoutineTest/` is
+  blocked by this environment's outbound network policy (proxy returns a
+  403 on the CONNECT tunnel — confirmed 2026-07-19, not a transient
+  error). Do not keep retrying it. Fall back to this log file plus
+  `git ls-tree`/`git log` on the working branch (and its GitHub-side
+  counterpart) as the source of truth for the latest date and progress.
 
 ## Spanish Lesson Template (required format, set 2026-07-09)
 
@@ -59,9 +65,25 @@ the repo so a permanent link can be shared.
 |------|----------|-------|-------------------------|------|
 | 2026-07-08 | 1 | Greetings & introducing yourself (brief format, superseded) | "Hola", "¿Cómo te llamas?", "Me llamo...", basic vowel pronunciation | — |
 | 2026-07-09 | 1 (upgraded) | 問候與自我介紹 — full template version | ¡Hola!, ¿Cómo te llamas? / Me llamo (reflexive verb llamarse), Mucho gusto, inverted ¡ ¿ | spanish-lessons/day-01.html |
+| 2026-07-19 | 2 | 你好嗎? — ser vs. estar 入門 | ¿Cómo estás?, estar conjugation (estoy/estás/está), ser vs. estar distinction, gendered adjective endings (cansado/cansada) | spanish-lessons/day-02.html |
 
 ## I Ching Hexagrams Featured
 
 | Date | Hexagram # | Name (Chinese / Pinyin / English) |
 |------|-----------|-------------------------------------|
 | 2026-07-08 | 1 | 乾 (Qián) — The Creative |
+| 2026-07-19 | 2 | 坤 (Kūn) — The Receptive |
+
+## Countries / Regions Featured
+
+(New section added 2026-07-19 — the briefing template gained a country/region spotlight and an internet-meme spotlight; neither existed in the 2026-07-08 briefing, so tracking starts fresh here.)
+
+| Date | Country / Region | File |
+|------|-------------------|------|
+| 2026-07-19 | Mongolia | briefings/2026-07-19.html |
+
+## Internet Memes Featured
+
+| Date | Meme | File |
+|------|------|------|
+| 2026-07-19 | Skibidi Toilet | briefings/2026-07-19.html |
