@@ -100,6 +100,7 @@ the repo so a permanent link can be shared.
 | 2026-07-15 | 7 | 星期幾(los días de la semana) | lunes–domingo, ¿Qué día es hoy? / Hoy es... | spanish-lessons/day-07.html |
 | 2026-07-16 | 8 | 月份(los meses del año) | enero–diciembre, ¿En qué mes estamos? / Estamos en... (estar vs. ser recap), cumpleaños | spanish-lessons/day-08.html |
 | 2026-07-17 | 9 | 報時(¿Qué hora es?) | Es la una / Son las... (singular vs. plural for telling time), y cuarto / y media / menos cuarto, ¿A qué hora...? + Es a las... | spanish-lessons/day-09.html |
+| 2026-07-19 | 10 | 家人與所有格(mi/tu/su) | Family vocabulary (madre, padre, hermano/a...), possessive adjectives mi/tu/su → mis/tus/sus (agree with the noun owned, not the owner) | spanish-lessons/day-10.html |
 
 Note: a duplicate "Day 2" lesson (ser/¿De dónde eres?, i.e. the same topic
 as Day 5) was independently produced on 2026-07-14 on an orphaned branch
@@ -120,6 +121,7 @@ continues from Day 6.
 | 2026-07-15 | 7 | 師 (Shī) — The Army |
 | 2026-07-16 | 8 | 比 (Bǐ) — Holding Together |
 | 2026-07-17 | 9 | 小畜 (Xiǎo Chù) — The Taming Power of the Small |
+| 2026-07-19 | 10 | 履 (Lǚ) — Treading |
 
 Note: a duplicate Hexagram 2 (坤 Kūn) was also independently produced on
 2026-07-14 on the same orphaned branch, for the same reason. Hexagram 7
@@ -133,6 +135,7 @@ above correctly continues from Hexagram 6.
 | 2026-07-15 | Uruguay (烏拉圭) |
 | 2026-07-16 | Mongolia (蒙古) |
 | 2026-07-17 | Iceland (冰島) |
+| 2026-07-19 | Greenland (格陵蘭) |
 
 ## Internet Meme Spotlights Featured
 
@@ -142,6 +145,7 @@ above correctly continues from Hexagram 6.
 | 2026-07-15 | "8+9" (八加九, Taiwan) |
 | 2026-07-16 | Gangnam Style (江南 Style, South Korea) |
 | 2026-07-17 | Doge (狗狗迷因) |
+| 2026-07-19 | Skibidi Toilet (滑稽馬桶) |
 
 ## Run Notes
 
@@ -269,3 +273,66 @@ above correctly continues from Hexagram 6.
   configure GitHub Pages to deploy from it, so future runs have one
   unambiguous source of truth to branch from without needing to
   reconstruct history via the GitHub API every time.
+- **2026-07-19 — bug recurred a sixth and seventh time, plus the Pages
+  branch itself was found to have silently fallen behind this line.**
+  Two more isolated, duplicate-only runs happened: `claude/happy-newton-d0ctxa`
+  (2026-07-18, picked Bhutan again and Doge again — both already used,
+  and Day 2/Hexagram 2 again — nothing new, unlike 07-14's `qhq5rv` which
+  at least contributed genuinely new Bhutan/Rickroll spotlights) and this
+  session's own starting point on 2026-07-19 (`claude/happy-newton-wevard`,
+  also forked from the stale `gracious-ramanujan-4wyzgc` base and
+  independently produced its own duplicate Day 2/Hexagram 2/Mongolia,
+  plus a Skibidi Toilet meme pick that — unlike Mongolia — was NOT a
+  duplicate of anything in this line's history).
+  - **Separately, and more seriously:** this session initially checked
+    GitHub Pages' deployment history directly
+    (`GET /repos/.../deployments?environment=github-pages`) and found
+    Pages was actually configured to deploy from `claude/epic-brahmagupta-g1y16m`
+    — a branch that stopped being updated after 2026-07-13 and was
+    **never aware `happy-newton-6o3hr4`/`-ltdkx9`/`-018a9x` (this actively
+    maintained line, current through 07-17) existed at all.** A first
+    attempted fix pushed new 07-19 content onto `epic-brahmagupta-g1y16m`
+    without checking for a more-advanced sibling branch first — which
+    would have permanently entrenched the wrong (less complete, 4-days-stale)
+    branch as canonical. Comparing file-by-file confirmed
+    `claude/happy-newton-018a9x` is a strict superset of
+    `epic-brahmagupta-g1y16m` (identical content for every overlapping
+    date/file, plus three additional real days: 07-15, 07-16, 07-17)
+    and is the true latest state.
+  - **Fix applied:** adopted `claude/happy-newton-018a9x` as the base,
+    added a genuinely new Day 10 (family vocab + mi/tu/su possessives),
+    Hexagram 10 (履 Lǚ), Greenland, and Skibidi Toilet (carried over from
+    the otherwise-discarded `happy-newton-wevard` attempt, since it
+    wasn't a duplicate), and **force-pushed this combined history to
+    `claude/epic-brahmagupta-g1y16m`** (the confirmed live Pages source
+    branch) so the live site actually reflects the true, most-complete
+    state. This is a force-push (not a fast-forward) because
+    `epic-brahmagupta-g1y16m`'s and `happy-newton-018a9x`'s histories
+    never shared a common tip after 2026-07-13 — nothing is lost,
+    though, since every one of `epic-brahmagupta-g1y16m`'s own unique
+    commits duplicated content already present (in improved form) on
+    `happy-newton-018a9x`, and all the old branches/commits remain
+    individually reachable by name if ever needed.
+  - **2026-07-18 has no recoverable content at all** (unlike 07-14) —
+    both `d0ctxa`'s Spanish/hexagram AND its country/meme picks were
+    full duplicates — so, per the established precedent, it is not being
+    retroactively fabricated. `index.html` shows a dashed-out row for
+    that date with a pointer to this note.
+  - **This is now the SEVENTH confirmed occurrence of the exact same
+    branch-divergence bug** (07-09 through 07-19, missing only 07-08).
+    A session cannot fix its own targeting — **this needs the user to
+    check the claude.ai/Cowork Routine's trigger configuration directly**
+    (persistent-session / branch-targeting settings) and, ideally, also
+    verify in GitHub repo Settings → Pages that the source branch matches
+    whichever branch is actually being kept up to date (check
+    `GET /repos/.../deployments?environment=github-pages` for the ground
+    truth, not the branch a given session happens to land on, and not
+    the repo's `default_branch` field, which is unrelated to Pages).
+    Until the trigger itself resumes one persistent branch, every future
+    run should, before doing anything else: (1) list all `claude/*`
+    branches, (2) diff their `briefings/`/`spanish-lessons/`/`ROUTINE_LOG.md`
+    trees to find the one with the longest real (non-duplicate) run, and
+    (3) confirm via the deployments API which branch Pages actually
+    serves, updating that exact branch (merging in the longest-real-run
+    branch first if they've diverged, as done here) rather than assuming
+    the branch the session happens to start on is authoritative.
