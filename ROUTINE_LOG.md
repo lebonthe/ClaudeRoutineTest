@@ -56,6 +56,30 @@ hexagrams are never repeated).
      the push-notification/email body so the user always has one durable
      entry point regardless of which session branch did the work.
 
+- **Branch fragmentation warning (found 2026-07-20):** Many past runs
+  branched from a stale point (commit `a2e056f`, Spanish Day 2 / Hexagram
+  2) instead of from the default/Pages branch tip, so the repo now has
+  numerous divergent `claude/*` branches that each independently
+  "continued" from Day 2 (e.g. runs dated 07-11, 07-13, 07-14, 07-16,
+  07-18 all say "Spanish Day 2" in their commit messages) — these were
+  never merged into the default branch and are NOT part of the true
+  timeline. Separately, a different, more-advanced lineage
+  (`claude/epic-brahmagupta-g1y16m` / `claude/happy-newton-018a9x`)
+  progressed correctly through Spanish Day 1–10 and Hexagrams 1–9 across
+  dates 07-08 through 07-19, but it was *also* never merged into the
+  default branch (`claude/gracious-ramanujan-4wyzgc`), so it never became
+  the source of truth either. Per this routine's own rule ("use the
+  index/default-branch state as source of truth"), the 2026-07-20 run
+  treated the default branch's actual state (Day 2 / Hexagram 2 / Mongolia
+  / Skibidi Toilet, as of 07-19) as authoritative and continued from there
+  (Day 3 / Hexagram 3 / Vatican City / Gangnam Style) — NOT from the
+  more-advanced abandoned lineage. If a future run wants to reconcile the
+  richer abandoned content (Days 3–10, Hexagrams 3–9, Iceland, Doge, etc.)
+  into the real timeline, it must be done deliberately (e.g. cherry-pick
+  the unique lesson/briefing files and renumber them to follow on from
+  whatever the default branch's tip actually is at that time), not by
+  silently fast-forwarding to a branch that skips days no one merged.
+
 ## Spanish Lesson Template (required format, set 2026-07-09)
 
 Every Spanish lesson must follow this exact structure (written in
@@ -92,6 +116,7 @@ the repo so a permanent link can be shared.
 | 2026-07-08 | 1 | Greetings & introducing yourself (brief format, superseded) | "Hola", "¿Cómo te llamas?", "Me llamo...", basic vowel pronunciation | — |
 | 2026-07-09 | 1 (upgraded) | 問候與自我介紹 — full template version | ¡Hola!, ¿Cómo te llamas? / Me llamo (reflexive verb llamarse), Mucho gusto, inverted ¡ ¿ | spanish-lessons/day-01.html |
 | 2026-07-19 | 2 | 你好嗎? — ser vs. estar 入門 | ¿Cómo estás?, estar conjugation (estoy/estás/está), ser vs. estar distinction, gendered adjective endings (cansado/cansada) | spanish-lessons/day-02.html |
+| 2026-07-20 | 3 | 你從哪裡來? — ser 與國籍 | ¿De dónde eres?, ser conjugation (soy/eres/es), ser de + place vs. estar en + place, gendered nationality adjectives (taiwanés/taiwanesa) | spanish-lessons/day-03.html |
 
 ## I Ching Hexagrams Featured
 
@@ -99,6 +124,7 @@ the repo so a permanent link can be shared.
 |------|-----------|-------------------------------------|
 | 2026-07-08 | 1 | 乾 (Qián) — The Creative |
 | 2026-07-19 | 2 | 坤 (Kūn) — The Receptive |
+| 2026-07-20 | 3 | 屯 (Zhūn) — Difficulty at the Beginning |
 
 ## Countries / Regions Featured
 
@@ -107,9 +133,11 @@ the repo so a permanent link can be shared.
 | Date | Country / Region | File |
 |------|-------------------|------|
 | 2026-07-19 | Mongolia | briefings/2026-07-19.html |
+| 2026-07-20 | Vatican City | briefings/2026-07-20.html |
 
 ## Internet Memes Featured
 
 | Date | Meme | File |
 |------|------|------|
 | 2026-07-19 | Skibidi Toilet | briefings/2026-07-19.html |
+| 2026-07-20 | Gangnam Style | briefings/2026-07-20.html |
