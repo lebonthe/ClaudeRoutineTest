@@ -29,6 +29,32 @@ hexagrams are never repeated).
   error). Do not keep retrying it. Fall back to this log file plus
   `git ls-tree`/`git log` on the working branch (and its GitHub-side
   counterpart) as the source of truth for the latest date and progress.
+- **Index page = GitHub Pages entry point (required 2026-07-19):**
+  `https://lebonthe.github.io/ClaudeRoutineTest/` serves `index.html` from
+  the repository's **default branch**, which is a *fixed* branch — check
+  it with `curl -sS https://api.github.com/repos/lebonthe/ClaudeRoutineTest
+  | python3 -c "import json,sys;print(json.load(sys.stdin)['default_branch'])"`
+  (this API path works even though the `.../pages` endpoint itself is
+  blocked by the proxy). As of 2026-07-19 the default/Pages branch is
+  `claude/gracious-ramanujan-4wyzgc` — it is NOT the same as whatever
+  session-specific `claude/<name>` branch this run's instructions
+  designate for development. Every run must, after committing the day's
+  files to its own designated branch:
+  1. Add a new row to the top of the table in root `index.html` (newest
+     first) linking to that day's `briefings/YYYY-MM-DD.html` and
+     `spanish-lessons/day-XX.html`, with a one-line highlights summary.
+  2. Get the current default-branch name (repeat the `curl` above — it
+     may change if a future session renames/updates it) and fast-forward
+     it to include this run's commits, e.g.:
+     `git push origin <my-designated-branch>:<default-branch-name>`
+     (safe as a fast-forward as long as the default branch's tip is an
+     ancestor of the designated branch's tip — verify with
+     `git merge-base --is-ancestor <default-tip> <my-tip>` first; if it
+     is NOT an ancestor, do not force-push — merge instead and ask the
+     user if unsure).
+  3. Include the link `https://lebonthe.github.io/ClaudeRoutineTest/` in
+     the push-notification/email body so the user always has one durable
+     entry point regardless of which session branch did the work.
 
 ## Spanish Lesson Template (required format, set 2026-07-09)
 
