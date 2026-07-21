@@ -101,6 +101,7 @@ the repo so a permanent link can be shared.
 | 2026-07-16 | 8 | 月份(los meses del año) | enero–diciembre, ¿En qué mes estamos? / Estamos en... (estar vs. ser recap), cumpleaños | spanish-lessons/day-08.html |
 | 2026-07-17 | 9 | 報時(¿Qué hora es?) | Es la una / Son las... (singular vs. plural for telling time), y cuarto / y media / menos cuarto, ¿A qué hora...? + Es a las... | spanish-lessons/day-09.html |
 | 2026-07-19 | 10 | 家人與所有格(mi/tu/su) | Family vocabulary (madre, padre, hermano/a...), possessive adjectives mi/tu/su → mis/tus/sus (agree with the noun owned, not the owner) | spanish-lessons/day-10.html |
+| 2026-07-20 | 11 | 規則 -AR 動詞現在式 | Present-tense conjugation of regular -ar verbs (hablar, trabajar, estudiar): stem + -o/-as/-a | spanish-lessons/day-11.html |
 
 Note: a duplicate "Day 2" lesson (ser/¿De dónde eres?, i.e. the same topic
 as Day 5) was independently produced on 2026-07-14 on an orphaned branch
@@ -122,6 +123,7 @@ continues from Day 6.
 | 2026-07-16 | 8 | 比 (Bǐ) — Holding Together |
 | 2026-07-17 | 9 | 小畜 (Xiǎo Chù) — The Taming Power of the Small |
 | 2026-07-19 | 10 | 履 (Lǚ) — Treading |
+| 2026-07-20 | 11 | 泰 (Tài) — Peace |
 
 Note: a duplicate Hexagram 2 (坤 Kūn) was also independently produced on
 2026-07-14 on the same orphaned branch, for the same reason. Hexagram 7
@@ -136,6 +138,7 @@ above correctly continues from Hexagram 6.
 | 2026-07-16 | Mongolia (蒙古) |
 | 2026-07-17 | Iceland (冰島) |
 | 2026-07-19 | Greenland (格陵蘭) |
+| 2026-07-20 | Vatican City (梵蒂岡) |
 
 ## Internet Meme Spotlights Featured
 
@@ -146,6 +149,7 @@ above correctly continues from Hexagram 6.
 | 2026-07-16 | Gangnam Style (江南 Style, South Korea) |
 | 2026-07-17 | Doge (狗狗迷因) |
 | 2026-07-19 | Skibidi Toilet (滑稽馬桶) |
+| 2026-07-20 | "Ohio" / "Only in Ohio" |
 
 ## Run Notes
 
@@ -336,3 +340,26 @@ above correctly continues from Hexagram 6.
     serves, updating that exact branch (merging in the longest-real-run
     branch first if they've diverged, as done here) rather than assuming
     the branch the session happens to start on is authoritative.
+- **2026-07-20 — Routine instructions updated with an explicit git
+  workflow, and today's entry (Day 11 / Hexagram 11 / Vatican City /
+  "Ohio") added following it.** The user is updating the Routine's
+  prompt (pasted back manually into the claude.ai/Cowork trigger) to
+  require, every day: (1) re-verify the persistent portal branch via the
+  `deployments?environment=github-pages` API (not `default_branch`),
+  (2) branch off that branch's current tip as `claude/daily-YYYY-MM-DD`,
+  (3) do the day's work on that branch, (4) fast-forward-merge it back
+  into the persistent portal branch locally, (5) push the persistent
+  branch (never just the daily branch) so Pages actually updates, and
+  (6) keep the daily branch afterward rather than deleting it. This run
+  followed that exact procedure by hand: verified `claude/epic-brahmagupta-g1y16m`
+  was still the live Pages branch (deployment `1c368f4` confirmed
+  success), branched `claude/daily-2026-07-20` from its tip, added
+  today's content, merged back, and pushed
+  `claude/daily-2026-07-20:claude/epic-brahmagupta-g1y16m` as a
+  fast-forward (no force-push needed this time, since the daily branch
+  was a direct descendant). **This does not fix the underlying
+  session/branch-forking bug on its own** — that still requires the
+  user's Routine-trigger fix — but it gives every future run (even one
+  that forks fresh, as has happened 7 times now) an explicit, low-effort
+  recovery procedure that converges back onto one persistent branch
+  instead of silently drifting.
