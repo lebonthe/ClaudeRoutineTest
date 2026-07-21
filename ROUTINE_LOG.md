@@ -102,6 +102,7 @@ the repo so a permanent link can be shared.
 | 2026-07-17 | 9 | 報時(¿Qué hora es?) | Es la una / Son las... (singular vs. plural for telling time), y cuarto / y media / menos cuarto, ¿A qué hora...? + Es a las... | spanish-lessons/day-09.html |
 | 2026-07-19 | 10 | 家人與所有格(mi/tu/su) | Family vocabulary (madre, padre, hermano/a...), possessive adjectives mi/tu/su → mis/tus/sus (agree with the noun owned, not the owner) | spanish-lessons/day-10.html |
 | 2026-07-20 | 11 | 規則 -AR 動詞現在式 | Present-tense conjugation of regular -ar verbs (hablar, trabajar, estudiar): stem + -o/-as/-a | spanish-lessons/day-11.html |
+| 2026-07-21 | 12 | 規則 -ER / -IR 動詞現在式 | Present-tense conjugation of regular -er/-ir verbs (comer, beber, vivir, escribir): stem + -o/-es/-e (identical for yo/tú/él across both families) | spanish-lessons/day-12.html |
 
 Note: a duplicate "Day 2" lesson (ser/¿De dónde eres?, i.e. the same topic
 as Day 5) was independently produced on 2026-07-14 on an orphaned branch
@@ -124,6 +125,7 @@ continues from Day 6.
 | 2026-07-17 | 9 | 小畜 (Xiǎo Chù) — The Taming Power of the Small |
 | 2026-07-19 | 10 | 履 (Lǚ) — Treading |
 | 2026-07-20 | 11 | 泰 (Tài) — Peace |
+| 2026-07-21 | 12 | 否 (Pǐ) — Standstill |
 
 Note: a duplicate Hexagram 2 (坤 Kūn) was also independently produced on
 2026-07-14 on the same orphaned branch, for the same reason. Hexagram 7
@@ -139,6 +141,7 @@ above correctly continues from Hexagram 6.
 | 2026-07-17 | Iceland (冰島) |
 | 2026-07-19 | Greenland (格陵蘭) |
 | 2026-07-20 | Vatican City (梵蒂岡) |
+| 2026-07-21 | Brunei (汶萊) |
 
 ## Internet Meme Spotlights Featured
 
@@ -150,6 +153,7 @@ above correctly continues from Hexagram 6.
 | 2026-07-17 | Doge (狗狗迷因) |
 | 2026-07-19 | Skibidi Toilet (滑稽馬桶) |
 | 2026-07-20 | "Ohio" / "Only in Ohio" |
+| 2026-07-21 | "This Is Fine" (dog in burning room) |
 
 ## Run Notes
 
@@ -363,3 +367,30 @@ above correctly continues from Hexagram 6.
   that forks fresh, as has happened 7 times now) an explicit, low-effort
   recovery procedure that converges back onto one persistent branch
   instead of silently drifting.
+- **2026-07-21 — bug recurred an eighth time (this run's local checkout
+  started on yet another brand-new branch, `claude/great-cray-cx8fq0`,
+  itself forked from the stale `claude/gracious-ramanujan-4wyzgc` Day-1-only
+  base) — but the new git-workflow procedure from 2026-07-20 caught and
+  corrected it cleanly before any work was done.** Following the routine's
+  updated instructions to the letter: (1) listed all `claude/*` branches via
+  the GitHub MCP tools, (2) called `GET /repos/.../deployments?environment=github-pages`
+  and confirmed the most recent successful deployment (2026-07-21T06:22:43Z)
+  points at `claude/epic-brahmagupta-g1y16m` (sha `5adcbb9`), (3) diffed
+  `briefings/`, `spanish-lessons/`, and `ROUTINE_LOG.md` across branches via
+  the GitHub API and confirmed `epic-brahmagupta-g1y16m` is still the
+  longest/most-complete, non-diverged history (through 07-20, Day 11,
+  Hexagram 11 — no sibling branch had gone further), (4) only then fetched
+  that branch locally and branched `claude/daily-2026-07-21` from its tip
+  (`git checkout -B claude/daily-2026-07-21 origin/claude/epic-brahmagupta-g1y16m`),
+  discarding the stale local starting point entirely rather than working
+  from it. Added Spanish Day 12 (-er/-ir verbs), Hexagram 12 (否 Pǐ,
+  Standstill — the King Wen Sequence's direct reversal of yesterday's
+  Hexagram 11), Brunei, and the "This Is Fine" meme, then fast-forward
+  merged `claude/daily-2026-07-21` into `claude/epic-brahmagupta-g1y16m`
+  and pushed. **The underlying trigger/session bug is still unresolved**
+  (this is the eighth occurrence, 07-09 through 07-21 missing only 07-08
+  and — with no recoverable content — 07-18) and still needs the user to
+  fix the Routine's persistent-session/branch-targeting configuration
+  directly; however, the recovery procedure itself is now working exactly
+  as designed and converges on the correct branch every time without any
+  content loss or duplication.
