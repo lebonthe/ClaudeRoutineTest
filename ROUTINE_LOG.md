@@ -103,6 +103,7 @@ the repo so a permanent link can be shared.
 | 2026-07-19 | 10 | 家人與所有格(mi/tu/su) | Family vocabulary (madre, padre, hermano/a...), possessive adjectives mi/tu/su → mis/tus/sus (agree with the noun owned, not the owner) | spanish-lessons/day-10.html |
 | 2026-07-20 | 11 | 規則 -AR 動詞現在式 | Present-tense conjugation of regular -ar verbs (hablar, trabajar, estudiar): stem + -o/-as/-a | spanish-lessons/day-11.html |
 | 2026-07-21 | 12 | 規則 -ER / -IR 動詞現在式 | Present-tense conjugation of regular -er/-ir verbs (comer, beber, vivir, escribir): stem + -o/-es/-e (identical for yo/tú/él across both families) | spanish-lessons/day-12.html |
+| 2026-07-22 | 13 | Ir a + 原形動詞(近未來式) | Near-future tense: irregular verb ir (voy/vas/va) + a + infinitive, e.g. voy a viajar | spanish-lessons/day-13.html |
 
 Note: a duplicate "Day 2" lesson (ser/¿De dónde eres?, i.e. the same topic
 as Day 5) was independently produced on 2026-07-14 on an orphaned branch
@@ -126,6 +127,7 @@ continues from Day 6.
 | 2026-07-19 | 10 | 履 (Lǚ) — Treading |
 | 2026-07-20 | 11 | 泰 (Tài) — Peace |
 | 2026-07-21 | 12 | 否 (Pǐ) — Standstill |
+| 2026-07-22 | 13 | 同人 (Tóng Rén) — Fellowship with Men |
 
 Note: a duplicate Hexagram 2 (坤 Kūn) was also independently produced on
 2026-07-14 on the same orphaned branch, for the same reason. Hexagram 7
@@ -142,6 +144,7 @@ above correctly continues from Hexagram 6.
 | 2026-07-19 | Greenland (格陵蘭) |
 | 2026-07-20 | Vatican City (梵蒂岡) |
 | 2026-07-21 | Brunei (汶萊) |
+| 2026-07-22 | Fiji (斐濟) |
 
 ## Internet Meme Spotlights Featured
 
@@ -154,6 +157,7 @@ above correctly continues from Hexagram 6.
 | 2026-07-19 | Skibidi Toilet (滑稽馬桶) |
 | 2026-07-20 | "Ohio" / "Only in Ohio" |
 | 2026-07-21 | "This Is Fine" (dog in burning room) |
+| 2026-07-22 | "Lying Flat" (躺平, Tǎng Píng, China) |
 
 ## Run Notes
 
@@ -394,3 +398,31 @@ above correctly continues from Hexagram 6.
   directly; however, the recovery procedure itself is now working exactly
   as designed and converges on the correct branch every time without any
   content loss or duplication.
+- **2026-07-22 — bug recurred a ninth time (this run's local checkout
+  started on yet another brand-new branch, `claude/great-cray-5cbil1`);
+  the established recovery procedure again caught and corrected it before
+  any work was done.** Following the routine's git workflow to the letter:
+  (1) listed all `claude/*` branches via the GitHub MCP tools (15 branches
+  found), (2) called `GET /repos/.../deployments?environment=github-pages`
+  and confirmed the most recent successful deployment (2026-07-21T21:46:03Z)
+  points at `claude/epic-brahmagupta-g1y16m` (sha `395bc3a`), (3) diffed
+  `briefings/` across all 15 branches via the GitHub API — every sibling
+  branch (the `epic-brahmagupta-{b9qdr5,is0gmu,mgut69,nn87ee}` and
+  `happy-newton-{6o3hr4,018a9x,d0ctxa,ksqg8o,ltdkx9,qhq5rv,wevard}` lines)
+  tops out at 07-17 or earlier, confirming `epic-brahmagupta-g1y16m` (through
+  07-21, Day 12, Hexagram 12) is still the longest/most-complete,
+  non-diverged history and needed no reconciliation, (4) only then fetched
+  that branch locally and branched `claude/daily-2026-07-22` from its tip
+  (`git checkout -B claude/daily-2026-07-22 origin/claude/epic-brahmagupta-g1y16m`),
+  discarding the stale local starting point entirely. Added Spanish Day 13
+  (ir a + infinitivo, near-future tense), Hexagram 13 (同人 Tóng Rén,
+  Fellowship with Men — the King Wen Sequence's answer to yesterday's
+  Hexagram 12 standstill), Fiji, and the "Lying Flat" (躺平) meme, then
+  fast-forward merged `claude/daily-2026-07-22` into
+  `claude/epic-brahmagupta-g1y16m` and pushed. **The underlying
+  trigger/session bug is still unresolved** (this is the ninth occurrence,
+  07-09 through 07-22 missing only 07-08 and — with no recoverable
+  content — 07-18); the recovery procedure continues to converge on the
+  correct branch every time with no content loss or duplication, but a
+  human still needs to fix the Routine's persistent-session/branch-targeting
+  configuration to stop it from recurring daily.
