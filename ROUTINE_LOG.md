@@ -104,6 +104,7 @@ the repo so a permanent link can be shared.
 | 2026-07-20 | 11 | 規則 -AR 動詞現在式 | Present-tense conjugation of regular -ar verbs (hablar, trabajar, estudiar): stem + -o/-as/-a | spanish-lessons/day-11.html |
 | 2026-07-21 | 12 | 規則 -ER / -IR 動詞現在式 | Present-tense conjugation of regular -er/-ir verbs (comer, beber, vivir, escribir): stem + -o/-es/-e (identical for yo/tú/él across both families) | spanish-lessons/day-12.html |
 | 2026-07-22 | 13 | Ir a + 原形動詞(近未來式) | Near-future tense: irregular verb ir (voy/vas/va) + a + infinitive, e.g. voy a viajar | spanish-lessons/day-13.html |
+| 2026-07-23 | 14 | Estar + 現在分詞(現在進行式) | Present progressive: estar (estoy/estás/está) + gerund (-ando/-iendo), e.g. estoy estudiando; irregular gerunds dormir→durmiendo, leer→leyendo, decir→diciendo | spanish-lessons/day-14.html |
 
 Note: a duplicate "Day 2" lesson (ser/¿De dónde eres?, i.e. the same topic
 as Day 5) was independently produced on 2026-07-14 on an orphaned branch
@@ -128,6 +129,7 @@ continues from Day 6.
 | 2026-07-20 | 11 | 泰 (Tài) — Peace |
 | 2026-07-21 | 12 | 否 (Pǐ) — Standstill |
 | 2026-07-22 | 13 | 同人 (Tóng Rén) — Fellowship with Men |
+| 2026-07-23 | 14 | 大有 (Dà Yǒu) — Possession in Great Measure |
 
 Note: a duplicate Hexagram 2 (坤 Kūn) was also independently produced on
 2026-07-14 on the same orphaned branch, for the same reason. Hexagram 7
@@ -145,6 +147,7 @@ above correctly continues from Hexagram 6.
 | 2026-07-20 | Vatican City (梵蒂岡) |
 | 2026-07-21 | Brunei (汶萊) |
 | 2026-07-22 | Fiji (斐濟) |
+| 2026-07-23 | Andorra (安道爾) |
 
 ## Internet Meme Spotlights Featured
 
@@ -158,6 +161,7 @@ above correctly continues from Hexagram 6.
 | 2026-07-20 | "Ohio" / "Only in Ohio" |
 | 2026-07-21 | "This Is Fine" (dog in burning room) |
 | 2026-07-22 | "Lying Flat" (躺平, Tǎng Píng, China) |
+| 2026-07-23 | "Versailles Literature" (凡爾賽文學, Fán'ěrsài Wénxué, China) |
 
 ## Run Notes
 
@@ -426,3 +430,38 @@ above correctly continues from Hexagram 6.
   correct branch every time with no content loss or duplication, but a
   human still needs to fix the Routine's persistent-session/branch-targeting
   configuration to stop it from recurring daily.
+- **2026-07-23 — bug recurred a tenth time (this run's local checkout
+  started on yet another brand-new/stale branch, `claude/great-cray-41g8pv`,
+  frozen at 2026-07-20 content with only Spanish Day 3 / Hexagram 3 —
+  itself a descendant of the long-stale `claude/gracious-ramanujan-4wyzgc`
+  Day-1-ish base); the established recovery procedure again caught and
+  corrected it before any work was done.** Following the routine's git
+  workflow to the letter: (1) listed all `claude/*` branches via the
+  GitHub MCP tools (16 branches found), (2) listed recent workflow runs
+  via the Actions API and confirmed the most recent successful "pages
+  build and deployment" run (2026-07-22T21:46:29Z) points at
+  `claude/epic-brahmagupta-g1y16m` (sha `ac7e833`, matching
+  `claude/daily-2026-07-22`'s tip exactly), (3) diffed `briefings/`,
+  `spanish-lessons/`, and `ROUTINE_LOG.md` across all sibling branches —
+  every one topped out at 07-20 or earlier (the `happy-newton-d0ctxa`
+  branch's lone 2026-07-18 briefing was re-checked and confirmed, again,
+  to duplicate Day 2/Hexagram 2/Bhutan/Doge with nothing new, so it
+  remains correctly excluded per precedent) — confirming
+  `epic-brahmagupta-g1y16m` (through 07-22, Day 13, Hexagram 13) is still
+  the longest/most-complete, non-diverged history and needed no
+  reconciliation, (4) only then branched `claude/daily-2026-07-23` from
+  its tip (`git checkout -B claude/daily-2026-07-23
+  origin/claude/epic-brahmagupta-g1y16m`), discarding the stale local
+  starting point entirely. Added Spanish Day 14 (estar + gerundio,
+  present progressive), Hexagram 14 (大有 Dà Yǒu, Possession in Great
+  Measure — the King Wen Sequence's direct inversion of yesterday's
+  Hexagram 13 Fellowship), Andorra, and the "Versailles Literature"
+  (凡爾賽文學) meme, then fast-forward merged `claude/daily-2026-07-23`
+  into `claude/epic-brahmagupta-g1y16m` and pushed. **The underlying
+  trigger/session bug is still unresolved** (this is the tenth
+  occurrence, 07-09 through 07-23 missing only 07-08 and — with no
+  recoverable content — 07-18); the recovery procedure continues to
+  converge on the correct branch every time with no content loss or
+  duplication, but a human still needs to fix the Routine's
+  persistent-session/branch-targeting configuration to stop it from
+  recurring daily.
