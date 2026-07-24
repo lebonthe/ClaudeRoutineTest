@@ -72,7 +72,7 @@ revert to the old brief format.
 Lesson files are saved under `spanish-lessons/day-XX.html` and pushed to
 the repo so a permanent link can be shared.
 
-## Main Briefing Sections (fixed, 7 total per day)
+## Main Briefing Sections (fixed, 8 total per day)
 
 1. US / Asia / Taiwan stock market news (figures, gains/losses, source links)
 2. AI / iOS / Android / Flutter development news
@@ -93,6 +93,17 @@ the repo so a permanent link can be shared.
    relevant, artistic style and techniques, cultural/historical
    significance, influence and legacy, and current status or where it can
    be experienced today — never repeated (added 2026-07-24)
+8. Film-appreciation / criticism method (added 2026-07-24) — a daily lesson
+   on HOW to watch films: film-analysis and critic's viewing methods, and
+   how to deconstruct a director's craft (auteur analysis, mise-en-scène,
+   cinematography/lighting, editing/montage, sound & score, blocking,
+   colour, framing, symbolism, narrative structure, etc.). Teach ONE method
+   or analytical lens per day, illustrated with a concrete real film scene
+   as a worked example. This is a progressive skill track (like the Spanish
+   lessons — build up the toolkit over time); do NOT repeat a method/lens
+   already taught. Distinct from Section 7: Section 7 introduces a subject
+   (a film/figure/work); Section 8 teaches a transferable way of watching
+   and analysing.
 
 ## Spanish Lessons Taught
 
@@ -183,6 +194,21 @@ and never repeat a subject already listed.
 | Date | Subject |
 |------|---------|
 | — | (none yet — first entry begins with the next daily briefing) |
+
+## Film-Appreciation / Criticism Method Lessons
+
+New Section 8, added 2026-07-24. One film-analysis method / critic's
+viewing lens per day (auteur/director deconstruction, mise-en-scène,
+cinematography, editing, sound, colour, framing, symbolism, narrative
+structure, etc.), each illustrated with a concrete real film scene as a
+worked example. This is a progressive skill track (like the Spanish
+lessons) — build up the analytical toolkit over time and never repeat a
+method/lens already taught. Before choosing today's method, check this
+table and pick one not yet covered.
+
+| Date | Method / Lens taught | Example scene used |
+|------|----------------------|--------------------|
+| — | (none yet — first lesson begins with the next daily briefing) | — |
 
 ## Run Notes
 
@@ -503,3 +529,22 @@ and never repeat a subject already listed.
   update). Future daily runs must now (a) include Section 7 and (b) log
   each film/arts subject in the new table and never repeat one already
   listed there.
+- **2026-07-24 (same day, follow-up) — Routine expanded again to EIGHT
+  fixed sections; Section 8 (film-appreciation / criticism method) and a
+  `電影/表演藝術` column on the portal `index.html` added.** Per the user's
+  request the Routine prompt now includes a daily lesson on HOW to watch
+  films — film-analysis / critic's viewing methods and director
+  deconstruction (auteur analysis, mise-en-scène, editing, sound, etc.),
+  one transferable method/lens per day illustrated with a concrete real
+  film scene, taught as a progressive, never-repeat skill track (distinct
+  from Section 7's subject spotlight). This run: bumped the sections list
+  from 7 to 8, added a "Film-Appreciation / Criticism Method Lessons"
+  progress/tracking table (empty; first lesson begins with the next daily
+  briefing), and added a new `電影/表演藝術` (Section 7) column to
+  `index.html` (all existing rows marked "—" since Section 7 postdates
+  them). Branched `claude/routine-add-section8-2026-07-24` off the portal
+  tip, fast-forward-merged back into `claude/epic-brahmagupta-g1y16m`, and
+  pushed the portal branch. Config-only change; no daily-briefing content
+  generated. Future daily runs must now produce all EIGHT sections, log
+  Section 8's method + example scene in its table (never repeating a
+  method already taught), and fill the new `電影/表演藝術` index column.
