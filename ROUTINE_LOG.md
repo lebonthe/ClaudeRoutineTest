@@ -548,3 +548,5 @@ table and pick one not yet covered.
   generated. Future daily runs must now produce all EIGHT sections, log
   Section 8's method + example scene in its table (never repeating a
   method already taught), and fill the new `電影/表演藝術` index column.
+  (Follow-up, same day: a `看片方法` (Section 8) column was also added to
+  `index.html`, existing rows marked "—"; daily runs must fill it too.)
