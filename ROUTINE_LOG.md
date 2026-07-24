@@ -124,6 +124,7 @@ the repo so a permanent link can be shared.
 | 2026-07-21 | 12 | 規則 -ER / -IR 動詞現在式 | Present-tense conjugation of regular -er/-ir verbs (comer, beber, vivir, escribir): stem + -o/-es/-e (identical for yo/tú/él across both families) | spanish-lessons/day-12.html |
 | 2026-07-22 | 13 | Ir a + 原形動詞(近未來式) | Near-future tense: irregular verb ir (voy/vas/va) + a + infinitive, e.g. voy a viajar | spanish-lessons/day-13.html |
 | 2026-07-23 | 14 | Estar + 現在分詞(現在進行式) | Present progressive: estar (estoy/estás/está) + gerund (-ando/-iendo), e.g. estoy estudiando; irregular gerunds dormir→durmiendo, leer→leyendo, decir→diciendo | spanish-lessons/day-14.html |
+| 2026-07-24 | 15 | Gustar 動詞與間接受詞代名詞 | The "backwards" verb gustar: indirect object pronouns (me/te/le/nos/les) + gusta (singular liked thing) / gustan (plural liked things) — the verb agrees with what's liked, not who likes it | spanish-lessons/day-15.html |
 
 Note: a duplicate "Day 2" lesson (ser/¿De dónde eres?, i.e. the same topic
 as Day 5) was independently produced on 2026-07-14 on an orphaned branch
@@ -149,6 +150,7 @@ continues from Day 6.
 | 2026-07-21 | 12 | 否 (Pǐ) — Standstill |
 | 2026-07-22 | 13 | 同人 (Tóng Rén) — Fellowship with Men |
 | 2026-07-23 | 14 | 大有 (Dà Yǒu) — Possession in Great Measure |
+| 2026-07-24 | 15 | 謙 (Qiān) — Modesty |
 
 Note: a duplicate Hexagram 2 (坤 Kūn) was also independently produced on
 2026-07-14 on the same orphaned branch, for the same reason. Hexagram 7
@@ -167,6 +169,7 @@ above correctly continues from Hexagram 6.
 | 2026-07-21 | Brunei (汶萊) |
 | 2026-07-22 | Fiji (斐濟) |
 | 2026-07-23 | Andorra (安道爾) |
+| 2026-07-24 | Nepal (尼泊爾) |
 
 ## Internet Meme Spotlights Featured
 
@@ -181,6 +184,7 @@ above correctly continues from Hexagram 6.
 | 2026-07-21 | "This Is Fine" (dog in burning room) |
 | 2026-07-22 | "Lying Flat" (躺平, Tǎng Píng, China) |
 | 2026-07-23 | "Versailles Literature" (凡爾賽文學, Fán'ěrsài Wénxué, China) |
+| 2026-07-24 | "Distracted Boyfriend" (分心男友) |
 
 ## Film / Performing Arts Spotlights Featured
 
@@ -193,7 +197,7 @@ and never repeat a subject already listed.
 
 | Date | Subject |
 |------|---------|
-| — | (none yet — first entry begins with the next daily briefing) |
+| 2026-07-24 | Citizen Kane (1941, dir. Orson Welles) |
 
 ## Film-Appreciation / Criticism Method Lessons
 
@@ -208,7 +212,7 @@ table and pick one not yet covered.
 
 | Date | Method / Lens taught | Example scene used |
 |------|----------------------|--------------------|
-| — | (none yet — first lesson begins with the next daily briefing) | — |
+| 2026-07-24 | Mise-en-scène (frame composition, blocking, deep focus) | Citizen Kane (1941, dir. Orson Welles) — the deep-focus "snow globe" negotiation scene, where young Charles plays in the background through the cabin window while his parents and Mr. Thatcher decide his fate in the foreground |
 
 ## Run Notes
 
@@ -550,3 +554,42 @@ table and pick one not yet covered.
   method already taught), and fill the new `電影/表演藝術` index column.
   (Follow-up, same day: a `看片方法` (Section 8) column was also added to
   `index.html`, existing rows marked "—"; daily runs must fill it too.)
+- **2026-07-24 (daily run) — bug recurred an eleventh time (this run's
+  local checkout started on a brand-new branch, `claude/bold-goldberg-tvacij`,
+  itself forked from the long-stale `claude/gracious-ramanujan-4wyzgc`
+  Day-1-only base); the established recovery procedure again caught and
+  corrected it before any work was done.** Following the routine's git
+  workflow to the letter: (1) listed all `claude/*` branches via the
+  GitHub MCP tools (20 branches found, including the same-day
+  `claude/routine-add-section7-2026-07-24` and
+  `claude/routine-add-section8-2026-07-24` config-change branches noted
+  above), (2) called `GET /repos/.../deployments?environment=github-pages`
+  directly (not the repo's `default_branch` field) and confirmed the most
+  recent successful deployment (2026-07-24T03:27:01Z) points at
+  `claude/epic-brahmagupta-g1y16m` (sha `452c24c`), (3) fetched
+  `ROUTINE_LOG.md`, `briefings/`, and `spanish-lessons/` from that branch
+  via the GitHub API and confirmed it already contains the SEVEN/EIGHT-section
+  config updates from earlier today plus the full daily history through
+  2026-07-23 (Day 14, Hexagram 14, Andorra, Versailles Literature) with
+  Sections 7/8 tracking tables still empty (no daily content yet used
+  either slot) — so no reconciliation from any sibling branch was needed,
+  only today's actual daily content, (4) only then fetched that branch
+  locally and branched `claude/daily-2026-07-24` from its tip
+  (`git checkout -B claude/daily-2026-07-24 origin/claude/epic-brahmagupta-g1y16m`),
+  discarding the stale local starting point entirely. Added Spanish Day 15
+  (gustar + indirect object pronouns), Hexagram 15 (謙 Qiān, Modesty — the
+  King Wen Sequence's answer to yesterday's Hexagram 14 Great Possession,
+  and traditionally the one hexagram whose six lines are all favorable),
+  Nepal, the "Distracted Boyfriend" meme, and — for the first time —
+  Section 7 (Citizen Kane, 1941) and Section 8 (mise-en-scène, worked
+  through Citizen Kane's deep-focus "snow globe" scene, deliberately
+  chosen to pair with Section 7's subject on this inaugural day for both
+  new sections). Fast-forward merged `claude/daily-2026-07-24` into
+  `claude/epic-brahmagupta-g1y16m` and pushed. **The underlying
+  trigger/session bug is still unresolved** (this is the eleventh
+  occurrence of a fresh/stale starting branch, 07-09 through 07-24
+  missing only 07-08 and — with no recoverable content — 07-18); the
+  recovery procedure continues to converge on the correct branch every
+  time with no content loss or duplication, but a human still needs to
+  fix the Routine's persistent-session/branch-targeting configuration to
+  stop it from recurring daily.
