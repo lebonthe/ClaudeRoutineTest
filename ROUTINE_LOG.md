@@ -72,7 +72,7 @@ revert to the old brief format.
 Lesson files are saved under `spanish-lessons/day-XX.html` and pushed to
 the repo so a permanent link can be shared.
 
-## Main Briefing Sections (fixed, 6 total per day)
+## Main Briefing Sections (fixed, 7 total per day)
 
 1. US / Asia / Taiwan stock market news (figures, gains/losses, source links)
 2. AI / iOS / Android / Flutter development news
@@ -85,6 +85,14 @@ the repo so a permanent link can be shared.
    repeated
 6. Internet meme spotlight (name, origin/history, how it went viral,
    meaning/usage, variations, current status) — never repeated
+7. Film / Performing-arts spotlight (a landmark film, director, actor,
+   cinematic technique/movement, OR a work/figure/form from the performing
+   arts — theatre, opera, dance, musical, traditional performance such as
+   Peking opera / Bunraku, etc.), with a detailed explanation: name, key
+   figures/creators, era/background, plot or content overview where
+   relevant, artistic style and techniques, cultural/historical
+   significance, influence and legacy, and current status or where it can
+   be experienced today — never repeated (added 2026-07-24)
 
 ## Spanish Lessons Taught
 
@@ -162,6 +170,19 @@ above correctly continues from Hexagram 6.
 | 2026-07-21 | "This Is Fine" (dog in burning room) |
 | 2026-07-22 | "Lying Flat" (躺平, Tǎng Píng, China) |
 | 2026-07-23 | "Versailles Literature" (凡爾賽文學, Fán'ěrsài Wénxué, China) |
+
+## Film / Performing Arts Spotlights Featured
+
+New Section 7, added 2026-07-24. One film- or performing-arts subject per
+day, with a detailed explanation, never repeated. Covers cinema (landmark
+films, directors, actors, techniques/movements) OR the performing arts
+(theatre, opera, dance, musical, traditional performance such as Peking
+opera / Bunraku, etc.). Before choosing today's subject, check this table
+and never repeat a subject already listed.
+
+| Date | Subject |
+|------|---------|
+| — | (none yet — first entry begins with the next daily briefing) |
 
 ## Run Notes
 
@@ -465,3 +486,20 @@ above correctly continues from Hexagram 6.
   duplication, but a human still needs to fix the Routine's
   persistent-session/branch-targeting configuration to stop it from
   recurring daily.
+- **2026-07-24 — Routine expanded to SEVEN fixed sections; Section 7
+  (film / performing-arts spotlight) and its never-repeat tracking table
+  added.** The user updated the Routine prompt to add a daily film /
+  performing-arts knowledge item with a detailed explanation, and asked
+  for the same never-repeat tracking mechanism the country (Section 5)
+  and meme (Section 6) spotlights use. This run branched
+  `claude/routine-add-section7-2026-07-24` off the confirmed live portal
+  branch's tip (`claude/epic-brahmagupta-g1y16m`, deployment source, tip
+  `cf56326` / through 07-23), updated the "Main Briefing Sections" list
+  from 6 to 7 entries, and added a new "Film / Performing Arts Spotlights
+  Featured" tracking table (empty — the first subject begins with the
+  next daily briefing). No daily-briefing content was generated in this
+  run; it is a config/prompt-evolution change only, landed on the portal
+  branch per the established precedent (cf. the 2026-07-20 git-workflow
+  update). Future daily runs must now (a) include Section 7 and (b) log
+  each film/arts subject in the new table and never repeat one already
+  listed there.
