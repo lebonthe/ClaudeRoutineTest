@@ -125,6 +125,7 @@ the repo so a permanent link can be shared.
 | 2026-07-22 | 13 | Ir a + 原形動詞(近未來式) | Near-future tense: irregular verb ir (voy/vas/va) + a + infinitive, e.g. voy a viajar | spanish-lessons/day-13.html |
 | 2026-07-23 | 14 | Estar + 現在分詞(現在進行式) | Present progressive: estar (estoy/estás/está) + gerund (-ando/-iendo), e.g. estoy estudiando; irregular gerunds dormir→durmiendo, leer→leyendo, decir→diciendo | spanish-lessons/day-14.html |
 | 2026-07-24 | 15 | Gustar 動詞與間接受詞代名詞 | The "backwards" verb gustar: indirect object pronouns (me/te/le/nos/les) + gusta (singular liked thing) / gustan (plural liked things) — the verb agrees with what's liked, not who likes it | spanish-lessons/day-15.html |
+| 2026-07-25 | 16 | 規則動詞簡單過去式(Pretérito Indefinido) | Regular preterite endings: -ar verbs take -é/-aste/-ó/-amos/-aron; -er/-ir verbs share -í/-iste/-ió/-imos/-ieron (identical across both families, unlike the present tense) | spanish-lessons/day-16.html |
 
 Note: a duplicate "Day 2" lesson (ser/¿De dónde eres?, i.e. the same topic
 as Day 5) was independently produced on 2026-07-14 on an orphaned branch
@@ -151,6 +152,7 @@ continues from Day 6.
 | 2026-07-22 | 13 | 同人 (Tóng Rén) — Fellowship with Men |
 | 2026-07-23 | 14 | 大有 (Dà Yǒu) — Possession in Great Measure |
 | 2026-07-24 | 15 | 謙 (Qiān) — Modesty |
+| 2026-07-25 | 16 | 豫 (Yù) — Enthusiasm |
 
 Note: a duplicate Hexagram 2 (坤 Kūn) was also independently produced on
 2026-07-14 on the same orphaned branch, for the same reason. Hexagram 7
@@ -170,6 +172,7 @@ above correctly continues from Hexagram 6.
 | 2026-07-22 | Fiji (斐濟) |
 | 2026-07-23 | Andorra (安道爾) |
 | 2026-07-24 | Nepal (尼泊爾) |
+| 2026-07-25 | Somaliland (索馬利蘭) |
 
 ## Internet Meme Spotlights Featured
 
@@ -185,6 +188,7 @@ above correctly continues from Hexagram 6.
 | 2026-07-22 | "Lying Flat" (躺平, Tǎng Píng, China) |
 | 2026-07-23 | "Versailles Literature" (凡爾賽文學, Fán'ěrsài Wénxué, China) |
 | 2026-07-24 | "Distracted Boyfriend" (分心男友) |
+| 2026-07-25 | Pepe the Frog (佩佩蛙) |
 
 ## Film / Performing Arts Spotlights Featured
 
@@ -198,6 +202,7 @@ and never repeat a subject already listed.
 | Date | Subject |
 |------|---------|
 | 2026-07-24 | Citizen Kane (1941, dir. Orson Welles) |
+| 2026-07-25 | Peking Opera (京劇) |
 
 ## Film-Appreciation / Criticism Method Lessons
 
@@ -213,6 +218,7 @@ table and pick one not yet covered.
 | Date | Method / Lens taught | Example scene used |
 |------|----------------------|--------------------|
 | 2026-07-24 | Mise-en-scène (frame composition, blocking, deep focus) | Citizen Kane (1941, dir. Orson Welles) — the deep-focus "snow globe" negotiation scene, where young Charles plays in the background through the cabin window while his parents and Mr. Thatcher decide his fate in the foreground |
+| 2026-07-25 | Editing & Montage (Soviet montage theory, Kuleshov Effect, cutting rhythm) | Battleship Potemkin (1925, dir. Sergei Eisenstein) — the Odessa Steps sequence, crosscutting marching soldiers, terrified civilian faces, and the runaway baby carriage at an accelerating rate to build panic and produce "intellectual montage" meaning through juxtaposition |
 
 ## Run Notes
 
@@ -593,3 +599,37 @@ table and pick one not yet covered.
   time with no content loss or duplication, but a human still needs to
   fix the Routine's persistent-session/branch-targeting configuration to
   stop it from recurring daily.
+- **2026-07-25 — clean run, portal branch confirmed stable, no
+  reconciliation needed.** This session's local checkout started on
+  `claude/bold-goldberg-lk5i4n`, a branch with no prior daily content —
+  so, per the routine's mandatory pre-check, this run did not trust that
+  starting point. It instead: (1) listed all `claude/*` branches via the
+  GitHub MCP tools (21 branches found), (2) queried
+  `GET /repos/.../deployments?environment=github-pages` directly (not the
+  repo's `default_branch` field) and confirmed the most recent successful
+  deployment (2026-07-24T21:49:08Z) points at
+  `claude/epic-brahmagupta-g1y16m` (sha `2536a7b`), (3) ran a `compare`
+  check between every sibling `claude/*` branch and that portal tip —
+  every one came back `behind` or `diverged`, with none strictly ahead
+  (spot-checked the diverged commits on `gracious-ramanujan-4wyzgc` and
+  `happy-newton-wevard`; both contained only old 07-19-era duplicate
+  material already accounted for), confirming `epic-brahmagupta-g1y16m`
+  (through 07-24, Day 15, Hexagram 15, plus Sections 7/8's inaugural
+  entries) genuinely is the longest/most-complete history and needed no
+  reconciliation. Only then branched `claude/daily-2026-07-25` from its
+  tip, discarding the stale local starting point entirely. Added Spanish
+  Day 16 (regular-verb simple past / pretérito indefinido), Hexagram 16
+  (豫 Yù, Enthusiasm — the King Wen Sequence's natural follow-on from
+  yesterday's Hexagram 15 Modesty), Somaliland (the first Section 5 entry
+  to be a de facto/unrecognized state rather than a UN member country,
+  chosen deliberately for variety), Pepe the Frog (first Section 6 entry
+  with a genuinely contested, multi-faceted legacy), Peking Opera (京劇,
+  the first Section 7 entry drawn from the performing arts rather than
+  cinema), and Editing &amp; Montage as Section 8's second film-analysis
+  lesson (worked through Battleship Potemkin's Odessa Steps sequence).
+  Fast-forward merged `claude/daily-2026-07-25` into
+  `claude/epic-brahmagupta-g1y16m` and pushed. Whether today's starting
+  branch reflects a fresh recurrence of the long-running divergence bug
+  is ambiguous (that branch had no daily content either way to compare
+  against), but regardless, the mandatory verify-before-work procedure
+  caught it and no content was lost or duplicated.
