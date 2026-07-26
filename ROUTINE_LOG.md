@@ -126,6 +126,7 @@ the repo so a permanent link can be shared.
 | 2026-07-23 | 14 | Estar + 現在分詞(現在進行式) | Present progressive: estar (estoy/estás/está) + gerund (-ando/-iendo), e.g. estoy estudiando; irregular gerunds dormir→durmiendo, leer→leyendo, decir→diciendo | spanish-lessons/day-14.html |
 | 2026-07-24 | 15 | Gustar 動詞與間接受詞代名詞 | The "backwards" verb gustar: indirect object pronouns (me/te/le/nos/les) + gusta (singular liked thing) / gustan (plural liked things) — the verb agrees with what's liked, not who likes it | spanish-lessons/day-15.html |
 | 2026-07-25 | 16 | 規則動詞簡單過去式(Pretérito Indefinido) | Regular preterite endings: -ar verbs take -é/-aste/-ó/-amos/-aron; -er/-ir verbs share -í/-iste/-ió/-imos/-ieron (identical across both families, unlike the present tense) | spanish-lessons/day-16.html |
+| 2026-07-26 | 17 | 不規則過去式 ir/ser/hacer | ir and ser share one identical irregular preterite conjugation (fui/fuiste/fue/fuimos/fueron), disambiguated by context; hacer has stem change hac-→hic- with spelling-rule exception hizo (not "hico") in the third person | spanish-lessons/day-17.html |
 
 Note: a duplicate "Day 2" lesson (ser/¿De dónde eres?, i.e. the same topic
 as Day 5) was independently produced on 2026-07-14 on an orphaned branch
@@ -153,6 +154,7 @@ continues from Day 6.
 | 2026-07-23 | 14 | 大有 (Dà Yǒu) — Possession in Great Measure |
 | 2026-07-24 | 15 | 謙 (Qiān) — Modesty |
 | 2026-07-25 | 16 | 豫 (Yù) — Enthusiasm |
+| 2026-07-26 | 17 | 隨 (Suí) — Following |
 
 Note: a duplicate Hexagram 2 (坤 Kūn) was also independently produced on
 2026-07-14 on the same orphaned branch, for the same reason. Hexagram 7
@@ -173,6 +175,7 @@ above correctly continues from Hexagram 6.
 | 2026-07-23 | Andorra (安道爾) |
 | 2026-07-24 | Nepal (尼泊爾) |
 | 2026-07-25 | Somaliland (索馬利蘭) |
+| 2026-07-26 | Indonesia (印尼) |
 
 ## Internet Meme Spotlights Featured
 
@@ -189,6 +192,7 @@ above correctly continues from Hexagram 6.
 | 2026-07-23 | "Versailles Literature" (凡爾賽文學, Fán'ěrsài Wénxué, China) |
 | 2026-07-24 | "Distracted Boyfriend" (分心男友) |
 | 2026-07-25 | Pepe the Frog (佩佩蛙) |
+| 2026-07-26 | Woman Yelling at a Cat (對貓咆哮的女人) |
 
 ## Film / Performing Arts Spotlights Featured
 
@@ -203,6 +207,7 @@ and never repeat a subject already listed.
 |------|---------|
 | 2026-07-24 | Citizen Kane (1941, dir. Orson Welles) |
 | 2026-07-25 | Peking Opera (京劇) |
+| 2026-07-26 | Kabuki (歌舞伎) |
 
 ## Film-Appreciation / Criticism Method Lessons
 
@@ -219,6 +224,7 @@ table and pick one not yet covered.
 |------|----------------------|--------------------|
 | 2026-07-24 | Mise-en-scène (frame composition, blocking, deep focus) | Citizen Kane (1941, dir. Orson Welles) — the deep-focus "snow globe" negotiation scene, where young Charles plays in the background through the cabin window while his parents and Mr. Thatcher decide his fate in the foreground |
 | 2026-07-25 | Editing & Montage (Soviet montage theory, Kuleshov Effect, cutting rhythm) | Battleship Potemkin (1925, dir. Sergei Eisenstein) — the Odessa Steps sequence, crosscutting marching soldiers, terrified civilian faces, and the runaway baby carriage at an accelerating rate to build panic and produce "intellectual montage" meaning through juxtaposition |
+| 2026-07-26 | Cinematography & Lighting (light quality/direction, color palette, camera movement) | Blade Runner 2049 (2017, dir. Denis Villeneuve, cinematography by Roger Deakins) — the irradiated Las Vegas sequence, shot through custom Tiffen filters and Lee gels to bathe every surface in the same sickly orange-amber haze, deliberately withholding clarity on the giant statue silhouettes to match K's disorientation entering the dead city |
 
 ## Run Notes
 
@@ -633,3 +639,47 @@ table and pick one not yet covered.
   is ambiguous (that branch had no daily content either way to compare
   against), but regardless, the mandatory verify-before-work procedure
   caught it and no content was lost or duplicated.
+- **2026-07-26 — bug recurred a twelfth time (this run's local checkout
+  started on `claude/bold-goldberg-jmzm38`, frozen at 2026-07-20-era
+  content with only Spanish Day 3 / Hexagram 3 — itself a descendant of
+  the long-stale `claude/gracious-ramanujan-4wyzgc` base); the established
+  recovery procedure again caught and corrected it before any work was
+  done.** A direct `GET /repos/.../deployments?environment=github-pages`
+  call from this session returned HTTP 403 via `WebFetch` (the same
+  network restriction noted in several earlier runs), so this run used the
+  documented fallback instead: (1) listed all `claude/*` branches via the
+  GitHub MCP tools (22 branches found), (2) fetched `ROUTINE_LOG.md`,
+  `briefings/`, `spanish-lessons/`, and `index.html` from
+  `claude/daily-2026-07-25` (its tip sha `320a5f3` matches
+  `claude/epic-brahmagupta-g1y16m`'s branch-list sha exactly, confirming
+  the daily branch had already been fast-forward-merged into the portal
+  branch as designed) and confirmed it contains the full history through
+  2026-07-25 (Day 16, Hexagram 16, Somaliland, Pepe the Frog, Peking
+  Opera, Editing & Montage) with no gaps, (3) spot-checked every other
+  `claude/epic-brahmagupta-*` and `claude/happy-newton-*` sibling branch's
+  single most recent commit and confirmed every one tops out at 2026-07-17
+  or earlier (all long-dead, already-accounted-for lines) — so
+  `claude/epic-brahmagupta-g1y16m` needed no reconciliation from any
+  sibling branch. Only then branched `claude/daily-2026-07-26` from its
+  tip (`git checkout -B claude/daily-2026-07-26
+  origin/claude/epic-brahmagupta-g1y16m`), discarding the stale local
+  starting point entirely. Added Spanish Day 17 (irregular preterite
+  ir/ser/hacer), Hexagram 17 (隨 Suí, Following — the King Wen Sequence's
+  natural follow-on from yesterday's Hexagram 16 Enthusiasm, per the
+  Xugua commentary "豫必有隨"), Indonesia (the first Section 5 entry
+  chosen deliberately for scale contrast against the run of small
+  states/microstates featured recently), Woman Yelling at a Cat (first
+  Section 6 entry sourced from English-language reaction-image/Twitter
+  meme culture rather than a single-image macro), Kabuki (歌舞伎, the
+  second Section 7 entry drawn from the performing arts, this time
+  Japanese rather than Chinese), and Cinematography & Lighting as Section
+  8's third film-analysis lesson (worked through Blade Runner 2049's
+  Las Vegas sequence, cinematography by Roger Deakins). Fast-forward
+  merged `claude/daily-2026-07-26` into `claude/epic-brahmagupta-g1y16m`
+  and pushed. **The underlying trigger/session bug is still unresolved**
+  (this is the twelfth occurrence of a fresh/stale starting branch,
+  07-09 through 07-26 missing only 07-08 and — with no recoverable
+  content — 07-18); the recovery procedure continues to converge on the
+  correct branch every time with no content loss or duplication, but a
+  human still needs to fix the Routine's persistent-session/branch-targeting
+  configuration to stop it from recurring daily.
