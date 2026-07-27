@@ -127,6 +127,7 @@ the repo so a permanent link can be shared.
 | 2026-07-24 | 15 | Gustar 動詞與間接受詞代名詞 | The "backwards" verb gustar: indirect object pronouns (me/te/le/nos/les) + gusta (singular liked thing) / gustan (plural liked things) — the verb agrees with what's liked, not who likes it | spanish-lessons/day-15.html |
 | 2026-07-25 | 16 | 規則動詞簡單過去式(Pretérito Indefinido) | Regular preterite endings: -ar verbs take -é/-aste/-ó/-amos/-aron; -er/-ir verbs share -í/-iste/-ió/-imos/-ieron (identical across both families, unlike the present tense) | spanish-lessons/day-16.html |
 | 2026-07-26 | 17 | 不規則過去式 ir/ser/hacer | ir and ser share one identical irregular preterite conjugation (fui/fuiste/fue/fuimos/fueron), disambiguated by context; hacer has stem change hac-→hic- with spelling-rule exception hizo (not "hico") in the third person | spanish-lessons/day-17.html |
+| 2026-07-27 | 18 | 不規則過去式 u-字根動詞(tener/estar/poder) | The "u-stem" irregular preterite family: tener→tuv-, estar→estuv-, poder→pud-, all sharing endings -e/-iste/-o/-imos/-ieron with no written accents (unlike regular preterites); poder's preterite carries a special "succeeded/failed at" nuance (pude vs. no pude) distinct from the imperfect podía | spanish-lessons/day-18.html |
 
 Note: a duplicate "Day 2" lesson (ser/¿De dónde eres?, i.e. the same topic
 as Day 5) was independently produced on 2026-07-14 on an orphaned branch
@@ -155,6 +156,7 @@ continues from Day 6.
 | 2026-07-24 | 15 | 謙 (Qiān) — Modesty |
 | 2026-07-25 | 16 | 豫 (Yù) — Enthusiasm |
 | 2026-07-26 | 17 | 隨 (Suí) — Following |
+| 2026-07-27 | 18 | 蠱 (Gǔ) — Work on What Has Been Spoiled |
 
 Note: a duplicate Hexagram 2 (坤 Kūn) was also independently produced on
 2026-07-14 on the same orphaned branch, for the same reason. Hexagram 7
@@ -176,6 +178,7 @@ above correctly continues from Hexagram 6.
 | 2026-07-24 | Nepal (尼泊爾) |
 | 2026-07-25 | Somaliland (索馬利蘭) |
 | 2026-07-26 | Indonesia (印尼) |
+| 2026-07-27 | Kazakhstan (哈薩克) |
 
 ## Internet Meme Spotlights Featured
 
@@ -193,6 +196,7 @@ above correctly continues from Hexagram 6.
 | 2026-07-24 | "Distracted Boyfriend" (分心男友) |
 | 2026-07-25 | Pepe the Frog (佩佩蛙) |
 | 2026-07-26 | Woman Yelling at a Cat (對貓咆哮的女人) |
+| 2026-07-27 | Harlem Shake (哈林搖) |
 
 ## Film / Performing Arts Spotlights Featured
 
@@ -208,6 +212,7 @@ and never repeat a subject already listed.
 | 2026-07-24 | Citizen Kane (1941, dir. Orson Welles) |
 | 2026-07-25 | Peking Opera (京劇) |
 | 2026-07-26 | Kabuki (歌舞伎) |
+| 2026-07-27 | Seven Samurai (七武士, 1954, dir. Akira Kurosawa) |
 
 ## Film-Appreciation / Criticism Method Lessons
 
@@ -225,6 +230,7 @@ table and pick one not yet covered.
 | 2026-07-24 | Mise-en-scène (frame composition, blocking, deep focus) | Citizen Kane (1941, dir. Orson Welles) — the deep-focus "snow globe" negotiation scene, where young Charles plays in the background through the cabin window while his parents and Mr. Thatcher decide his fate in the foreground |
 | 2026-07-25 | Editing & Montage (Soviet montage theory, Kuleshov Effect, cutting rhythm) | Battleship Potemkin (1925, dir. Sergei Eisenstein) — the Odessa Steps sequence, crosscutting marching soldiers, terrified civilian faces, and the runaway baby carriage at an accelerating rate to build panic and produce "intellectual montage" meaning through juxtaposition |
 | 2026-07-26 | Cinematography & Lighting (light quality/direction, color palette, camera movement) | Blade Runner 2049 (2017, dir. Denis Villeneuve, cinematography by Roger Deakins) — the irradiated Las Vegas sequence, shot through custom Tiffen filters and Lee gels to bathe every surface in the same sickly orange-amber haze, deliberately withholding clarity on the giant statue silhouettes to match K's disorientation entering the dead city |
+| 2026-07-27 | Sound Design & Score (diegetic vs. non-diegetic sound, score as emotional cue, silence, mix priorities) | Psycho (1960, dir. Alfred Hitchcock, score by Bernard Herrmann) — the shower scene, where a shrieking all-strings ostinato timed to the knife's thrusts supplies the visceral violence the fragmented, near-bloodless editing never explicitly shows; Hitchcock originally wanted the scene silent but credited the cue with roughly a third of the film's overall effect |
 
 ## Run Notes
 
@@ -679,6 +685,45 @@ table and pick one not yet covered.
   and pushed. **The underlying trigger/session bug is still unresolved**
   (this is the twelfth occurrence of a fresh/stale starting branch,
   07-09 through 07-26 missing only 07-08 and — with no recoverable
+  content — 07-18); the recovery procedure continues to converge on the
+  correct branch every time with no content loss or duplication, but a
+  human still needs to fix the Routine's persistent-session/branch-targeting
+  configuration to stop it from recurring daily.
+- **2026-07-27 — bug recurred a thirteenth time (this run's local checkout
+  started on `claude/bold-goldberg-6dryev`, frozen at 2026-07-20-era
+  content with only Spanish Day 3 / Hexagram 3 — itself a descendant of
+  the long-stale `claude/gracious-ramanujan-4wyzgc` base); the established
+  recovery procedure again caught and corrected it before any work was
+  done.** Following the routine's git workflow to the letter: (1) listed
+  all `claude/*` branches via the GitHub MCP tools (23 branches found),
+  (2) queried the Actions API for the `pages-build-deployment` workflow's
+  recent runs and confirmed the most recent successful run
+  (2026-07-26T21:49:34Z) has `head_branch: claude/epic-brahmagupta-g1y16m`,
+  matching that branch's tip sha (`40fa395a`) exactly, (3) fetched
+  `ROUTINE_LOG.md`, `briefings/`, and `spanish-lessons/` from that branch
+  via the GitHub API and confirmed it contains the full, non-duplicate
+  history through 2026-07-26 (Day 17, Hexagram 17, Indonesia, Woman
+  Yelling at a Cat, Kabuki, Cinematography & Lighting) — no reconciliation
+  from any sibling branch was needed. Only then fetched that branch
+  locally and branched `claude/daily-2026-07-27` from its tip
+  (`git checkout -B claude/daily-2026-07-27 origin/claude/epic-brahmagupta-g1y16m`),
+  discarding the stale local starting point entirely. Added Spanish Day 18
+  (u-stem irregular preterites tener/estar/poder), Hexagram 18 (蠱 Gǔ,
+  Work on What Has Been Spoiled — the King Wen Sequence's answer to
+  yesterday's Hexagram 17 Following, per the Xugua commentary "以喜隨人者
+  必有事,故受之以蠱"), Kazakhstan (the first Section 5 entry that is the
+  world's largest landlocked country, chosen for scale contrast against
+  the recent run of small states/microstates), Harlem Shake (first
+  Section 6 entry from the pre-Vine/TikTok flash-viral-video era of
+  meme history rather than an image macro), Seven Samurai (1954, dir.
+  Akira Kurosawa — first Section 7 entry drawn from a landmark narrative
+  film rather than a performing-arts tradition since Citizen Kane), and
+  Sound Design & Score as Section 8's fourth film-analysis lesson (worked
+  through Psycho's shower-scene score by Bernard Herrmann). Fast-forward
+  merged `claude/daily-2026-07-27` into `claude/epic-brahmagupta-g1y16m`
+  and pushed. **The underlying trigger/session bug is still unresolved**
+  (this is the thirteenth occurrence of a fresh/stale starting branch,
+  07-09 through 07-27 missing only 07-08 and — with no recoverable
   content — 07-18); the recovery procedure continues to converge on the
   correct branch every time with no content loss or duplication, but a
   human still needs to fix the Routine's persistent-session/branch-targeting
