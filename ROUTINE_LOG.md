@@ -128,6 +128,7 @@ the repo so a permanent link can be shared.
 | 2026-07-25 | 16 | 規則動詞簡單過去式(Pretérito Indefinido) | Regular preterite endings: -ar verbs take -é/-aste/-ó/-amos/-aron; -er/-ir verbs share -í/-iste/-ió/-imos/-ieron (identical across both families, unlike the present tense) | spanish-lessons/day-16.html |
 | 2026-07-26 | 17 | 不規則過去式 ir/ser/hacer | ir and ser share one identical irregular preterite conjugation (fui/fuiste/fue/fuimos/fueron), disambiguated by context; hacer has stem change hac-→hic- with spelling-rule exception hizo (not "hico") in the third person | spanish-lessons/day-17.html |
 | 2026-07-27 | 18 | 不規則過去式 u-字根動詞(tener/estar/poder) | The "u-stem" irregular preterite family: tener→tuv-, estar→estuv-, poder→pud-, all sharing endings -e/-iste/-o/-imos/-ieron with no written accents (unlike regular preterites); poder's preterite carries a special "succeeded/failed at" nuance (pude vs. no pude) distinct from the imperfect podía | spanish-lessons/day-18.html |
+| 2026-07-28 | 19 | 不規則過去式 j-字根動詞(decir/traer/conducir) | The "j-stem" irregular preterite family: decir→dij-, traer→traj-, conducir (and all -ducir verbs)→-duj-, sharing endings -e/-iste/-o/-imos with the u-stem family, but with the sole true exception to the -ieron ending: the stem's "j" swallows the "i," giving -eron (dijeron/trajeron/condujeron, not dijieron) | spanish-lessons/day-19.html |
 
 Note: a duplicate "Day 2" lesson (ser/¿De dónde eres?, i.e. the same topic
 as Day 5) was independently produced on 2026-07-14 on an orphaned branch
@@ -157,6 +158,7 @@ continues from Day 6.
 | 2026-07-25 | 16 | 豫 (Yù) — Enthusiasm |
 | 2026-07-26 | 17 | 隨 (Suí) — Following |
 | 2026-07-27 | 18 | 蠱 (Gǔ) — Work on What Has Been Spoiled |
+| 2026-07-28 | 19 | 臨 (Lín) — Approach |
 
 Note: a duplicate Hexagram 2 (坤 Kūn) was also independently produced on
 2026-07-14 on the same orphaned branch, for the same reason. Hexagram 7
@@ -179,6 +181,7 @@ above correctly continues from Hexagram 6.
 | 2026-07-25 | Somaliland (索馬利蘭) |
 | 2026-07-26 | Indonesia (印尼) |
 | 2026-07-27 | Kazakhstan (哈薩克) |
+| 2026-07-28 | Singapore (新加坡) |
 
 ## Internet Meme Spotlights Featured
 
@@ -197,6 +200,7 @@ above correctly continues from Hexagram 6.
 | 2026-07-25 | Pepe the Frog (佩佩蛙) |
 | 2026-07-26 | Woman Yelling at a Cat (對貓咆哮的女人) |
 | 2026-07-27 | Harlem Shake (哈林搖) |
+| 2026-07-28 | Bernie Sanders' Mittens (桑德斯的毛線手套) |
 
 ## Film / Performing Arts Spotlights Featured
 
@@ -213,6 +217,7 @@ and never repeat a subject already listed.
 | 2026-07-25 | Peking Opera (京劇) |
 | 2026-07-26 | Kabuki (歌舞伎) |
 | 2026-07-27 | Seven Samurai (七武士, 1954, dir. Akira Kurosawa) |
+| 2026-07-28 | Bunraku (文樂) |
 
 ## Film-Appreciation / Criticism Method Lessons
 
@@ -231,6 +236,7 @@ table and pick one not yet covered.
 | 2026-07-25 | Editing & Montage (Soviet montage theory, Kuleshov Effect, cutting rhythm) | Battleship Potemkin (1925, dir. Sergei Eisenstein) — the Odessa Steps sequence, crosscutting marching soldiers, terrified civilian faces, and the runaway baby carriage at an accelerating rate to build panic and produce "intellectual montage" meaning through juxtaposition |
 | 2026-07-26 | Cinematography & Lighting (light quality/direction, color palette, camera movement) | Blade Runner 2049 (2017, dir. Denis Villeneuve, cinematography by Roger Deakins) — the irradiated Las Vegas sequence, shot through custom Tiffen filters and Lee gels to bathe every surface in the same sickly orange-amber haze, deliberately withholding clarity on the giant statue silhouettes to match K's disorientation entering the dead city |
 | 2026-07-27 | Sound Design & Score (diegetic vs. non-diegetic sound, score as emotional cue, silence, mix priorities) | Psycho (1960, dir. Alfred Hitchcock, score by Bernard Herrmann) — the shower scene, where a shrieking all-strings ostinato timed to the knife's thrusts supplies the visceral violence the fragmented, near-bloodless editing never explicitly shows; Hitchcock originally wanted the scene silent but credited the cue with roughly a third of the film's overall effect |
+| 2026-07-28 | Colour (dominant palette as narrative device, colour as spotlight, palette shifts across acts, colour as long-distance visual callback) | Schindler's List (1993, dir. Steven Spielberg, cinematography by Janusz Kamiński) — the girl in the red coat, the sole sustained splash of colour in an otherwise black-and-white film, drawing attention amid the Kraków ghetto liquidation and later reappearing in a pile of clothing to silently confirm her death, marking the film's identified turning point for Oskar Schindler |
 
 ## Run Notes
 
@@ -728,3 +734,46 @@ table and pick one not yet covered.
   correct branch every time with no content loss or duplication, but a
   human still needs to fix the Routine's persistent-session/branch-targeting
   configuration to stop it from recurring daily.
+- **2026-07-28 — bug recurred a fourteenth time (this run's local checkout
+  started on `claude/bold-goldberg-6buwxy`, frozen at 2026-07-20-era
+  content with only 3 briefings and Spanish Day 3 / Hexagram 3 — itself a
+  descendant of the long-stale `claude/gracious-ramanujan-4wyzgc` base);
+  the established recovery procedure again caught and corrected it before
+  any work was done.** Following the routine's git workflow to the letter:
+  (1) listed all `claude/*` branches via the GitHub MCP tools (24 branches
+  found), (2) queried `GET /repos/.../deployments?environment=github-pages`
+  directly (not the repo's `default_branch` field) via a direct `curl`
+  using the session's `GH_TOKEN` (successful this time — no 403) and
+  confirmed the most recent successful deployment (2026-07-27T21:50:04Z)
+  points at `claude/epic-brahmagupta-g1y16m` (sha `84fd516`), (3) fetched
+  every sibling `claude/*` branch locally and compared `briefings/` and
+  `spanish-lessons/` file counts plus each branch's last-commit date —
+  `claude/daily-2026-07-27` matched `epic-brahmagupta-g1y16m`'s tip sha
+  exactly (19 briefings, Day 18/Hexagram 18, through 2026-07-27) and every
+  other sibling topped out at 2026-07-20 or earlier, confirming
+  `epic-brahmagupta-g1y16m` needed no reconciliation from any sibling
+  branch. Only then branched `claude/daily-2026-07-28` from its tip
+  (`git checkout -B claude/daily-2026-07-28
+  origin/claude/epic-brahmagupta-g1y16m`), discarding the stale local
+  starting point entirely. Added Spanish Day 19 (j-stem irregular
+  preterites decir/traer/conducir — the sole exception to the -ieron
+  ending, since a j-stem swallows the "i" to give -eron), Hexagram 19
+  (臨 Lín, Approach — the King Wen Sequence's natural follow-on from
+  yesterday's Hexagram 18 Gǔ, per the Xugua commentary "蠱者事也,有事而後
+  可大,故受之以臨"), Singapore (the first Section 5 entry to be a
+  city-state built on financial/trade-hub economics rather than natural
+  resources), Bernie Sanders' Mittens (first Section 6 entry sourced from
+  a real-world political/news event rather than dance, image-macro, or
+  reaction-video culture), Bunraku (文樂, the third Section 7 entry drawn
+  from the performing arts, Japanese puppet theatre this time rather than
+  Kabuki or a narrative film), and Colour as Section 8's fifth
+  film-analysis lesson (worked through Schindler's List's girl in the red
+  coat). Fast-forward merged `claude/daily-2026-07-28` into
+  `claude/epic-brahmagupta-g1y16m` and pushed. **The underlying
+  trigger/session bug is still unresolved** (this is the fourteenth
+  occurrence of a fresh/stale starting branch, 07-09 through 07-28 missing
+  only 07-08 and — with no recoverable content — 07-18); the recovery
+  procedure continues to converge on the correct branch every time with no
+  content loss or duplication, but a human still needs to fix the
+  Routine's persistent-session/branch-targeting configuration to stop it
+  from recurring daily.
