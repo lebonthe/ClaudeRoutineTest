@@ -131,6 +131,7 @@ the repo so a permanent link can be shared.
 | 2026-07-28 | 19 | 不規則過去式 j-字根動詞(decir/traer/conducir) | The "j-stem" irregular preterite family: decir→dij-, traer→traj-, conducir (and all -ducir verbs)→-duj-, sharing endings -e/-iste/-o/-imos with the u-stem family, but with the sole true exception to the -ieron ending: the stem's "j" swallows the "i," giving -eron (dijeron/trajeron/condujeron, not dijieron) | spanish-lessons/day-19.html |
 | 2026-07-29 | 20 | 過去未完成式入門(Pretérito Imperfecto) | Regular imperfect endings: -ar verbs take -aba/-abas/-aba/-ábamos/-aban; -er/-ir verbs share -ía/-ías/-ía/-íamos/-ían; only three irregular verbs in the whole tense (ser→era, ir→iba, ver→veía); contrasted with the preterite (completed single event) vs. imperfect (ongoing/habitual/background state) | spanish-lessons/day-20.html |
 | 2026-07-30 | 21 | 現在完成式入門(Pretérito Perfecto Compuesto) | Spanish's first compound tense: auxiliary haber (he/has/ha/hemos/han) + past participle (-ado/-ido, plus irregulars like hecho/dicho/escrito/visto/puesto/vuelto); used for past actions still tied to the present (hoy, esta semana, alguna vez, todavía no), contrasted with the closed-off simple past (ayer) | spanish-lessons/day-21.html |
+| 2026-07-31 | 22 | 過去完成式入門(Pretérito Pluscuamperfecto) | Second compound tense: haber's imperfect forms (había/habías/había/habíamos/habían) + the same past participles taught on Day 21; marks an action completed before another, more recent past-tense reference point ("the past of the past"), directly parallel to English "had done" | spanish-lessons/day-22.html |
 
 Note: a duplicate "Day 2" lesson (ser/¿De dónde eres?, i.e. the same topic
 as Day 5) was independently produced on 2026-07-14 on an orphaned branch
@@ -163,6 +164,7 @@ continues from Day 6.
 | 2026-07-28 | 19 | 臨 (Lín) — Approach |
 | 2026-07-29 | 20 | 觀 (Guān) — Contemplation |
 | 2026-07-30 | 21 | 噬嗑 (Shì Kè) — Biting Through |
+| 2026-07-31 | 22 | 賁 (Bì) — Grace |
 
 Note: a duplicate Hexagram 2 (坤 Kūn) was also independently produced on
 2026-07-14 on the same orphaned branch, for the same reason. Hexagram 7
@@ -188,6 +190,7 @@ above correctly continues from Hexagram 6.
 | 2026-07-28 | Singapore (新加坡) |
 | 2026-07-29 | Sri Lanka (斯里蘭卡) |
 | 2026-07-30 | Bosnia and Herzegovina (波士尼亞與赫塞哥維納) |
+| 2026-07-31 | Nigeria (奈及利亞) |
 
 ## Internet Meme Spotlights Featured
 
@@ -209,6 +212,7 @@ above correctly continues from Hexagram 6.
 | 2026-07-28 | Bernie Sanders' Mittens (桑德斯的毛線手套) |
 | 2026-07-29 | 母湯 (Mǔ Tāng, Taiwan) |
 | 2026-07-30 | Hide the Pain Harold (忍痛哈羅德) |
+| 2026-07-31 | Grumpy Cat (生氣貓) |
 
 ## Film / Performing Arts Spotlights Featured
 
@@ -228,6 +232,7 @@ and never repeat a subject already listed.
 | 2026-07-28 | Bunraku (文樂) |
 | 2026-07-29 | Nosferatu (1922, dir. F.W. Murnau) |
 | 2026-07-30 | The Godfather (1972, dir. Francis Ford Coppola) |
+| 2026-07-31 | Flamenco (弗拉明戈) |
 
 ## Film-Appreciation / Criticism Method Lessons
 
@@ -249,6 +254,7 @@ table and pick one not yet covered.
 | 2026-07-28 | Colour (dominant palette as narrative device, colour as spotlight, palette shifts across acts, colour as long-distance visual callback) | Schindler's List (1993, dir. Steven Spielberg, cinematography by Janusz Kamiński) — the girl in the red coat, the sole sustained splash of colour in an otherwise black-and-white film, drawing attention amid the Kraków ghetto liquidation and later reappearing in a pile of clothing to silently confirm her death, marking the film's identified turning point for Oskar Schindler |
 | 2026-07-29 | Narrative Structure (non-linear/achronological storytelling, framing devices, dramatic irony through resequencing) | Pulp Fiction (1994, dir. Quentin Tarantino) — the diner scene that opens and closes the film: because the timeline is scrambled, the internal-chronology-last diner robbery is shown first and last, letting Vincent Vega appear alive in the closing scene despite dying mid-film, and structurally placing Jules's redemptive choice above the story's "actual" chronological ending |
 | 2026-07-30 | Blocking & Staging (vertical position and depth as power, physical distance as intimacy/threat, stillness vs. movement as center of gravity) | The Godfather (1972, dir. Francis Ford Coppola) — the opening office scene, where the camera slowly dollies back from a tight close-up on Bonasera to reveal Vito Corleone seated centrally and still behind his desk with his sons staged around him in a symmetrical wedge; Bonasera's escalating physical approach toward Vito's chair against Vito's near-total stillness stages the scene's entire power imbalance without a line of dialogue stating it |
+| 2026-07-31 | Framing & Composition (symmetry vs. asymmetry, one-point perspective, negative space, breaks in established composition as narrative signals) | The Shining (1980, dir. Stanley Kubrick) — Danny's tricycle rides through the Overlook Hotel's corridors, tracked in perfectly centered one-point perspective toward a single vanishing point, with the rigid symmetry visually encoding the hotel's inhuman order until the shot's composition is escalated (not simply broken) into the uncanny, doll-like mirrored symmetry of the Grady twins appearing dead-center in the frame |
 
 ## Run Notes
 
@@ -873,3 +879,60 @@ table and pick one not yet covered.
   content loss or duplication, but a human still needs to fix the
   Routine's persistent-session/branch-targeting configuration to stop it
   from recurring daily.
+- **2026-07-31 — bug recurred a seventeenth time (this run's local checkout
+  started on `claude/bold-goldberg-k5mr9l`, whose tip was `8eddce0`, the same
+  stale Day-3/Hexagram-3-era commit inherited from the long-dead
+  `claude/gracious-ramanujan-4wyzgc` line); the established recovery
+  procedure again caught and corrected it before any work was done.**
+  Following the routine's git workflow to the letter: (1) listed all `claude/*`
+  branches via the GitHub MCP tools (28 branches found), (2) queried
+  `GET /repos/.../deployments?environment=github-pages` directly via `curl`
+  using the session's `GH_TOKEN` (successful, no 403) and confirmed the most
+  recent successful deployment (2026-07-30T21:50:29Z) points at
+  `claude/epic-brahmagupta-g1y16m` (sha `4ed6b1a`), (3) fetched every branch
+  locally, diffed `briefings/`, `spanish-lessons/`, and `ROUTINE_LOG.md` tips
+  across all sibling `claude/daily-*`, `claude/epic-brahmagupta-*`, and
+  `claude/happy-newton-*` branches, and confirmed `claude/daily-2026-07-30`'s
+  tip sha matched `epic-brahmagupta-g1y16m` exactly (22 briefings through
+  2026-07-30, Day 21/Hexagram 21) while every other sibling topped out at
+  2026-07-20 or earlier — so `epic-brahmagupta-g1y16m` needed no
+  reconciliation from any sibling branch. Only then branched
+  `claude/daily-2026-07-31` from its tip (`git checkout -B
+  claude/daily-2026-07-31 origin/claude/epic-brahmagupta-g1y16m`), discarding
+  the stale local starting point entirely. Added Spanish Day 22 (pretérito
+  pluscuamperfecto — the second compound tense, haber's imperfect forms plus
+  the same past participles from Day 21, marking "the past of the past"
+  relative to a separate, more recent past-tense reference point), Hexagram
+  22 (賁 Bì, Grace — the King Wen Sequence's natural follow-on from
+  yesterday's Hexagram 21 Shì Kè, per the Xugua commentary "物不可以苟合而
+  已,故受之以賁;賁者飾也," and thematically its direct counterpoint: Shì Kè
+  is raw, unadorned justice, Bì is form and adornment applied only to minor
+  matters), Nigeria (the first Section 5 entry to be a large, populous
+  country rather than a small state or microstate, chosen deliberately for
+  scale contrast against the long recent run of small/de-facto states),
+  Grumpy Cat (first Section 6 entry from the classic 2012-2014 reaction-cat/
+  image-macro era, and the first with a concrete commercial-litigation
+  precedent around meme-image rights), Flamenco (first Section 7 entry drawn
+  from music/dance performing arts rather than theatre, puppetry, or
+  narrative film — chosen deliberately to tie thematically into the ongoing
+  Spanish-lessons track), and Framing & Composition as Section 8's eighth
+  film-analysis lesson (worked through The Shining's tricycle corridor
+  scenes, Kubrick's one-point-perspective tracking shots broken not by
+  destroying symmetry but by escalating it into the uncanny mirrored
+  symmetry of the Grady twins). Market/dev-news sections used live
+  `WebSearch` results (US close Thursday 07-30: Dow -2.2% to 51,594.14, S&amp;P
+  -1.5% to 7,316.15, Nasdaq -1.7% to 24,442.94; Asia 07-31: Nikkei +4.03%,
+  Hang Seng +0.10%, Shanghai +0.72%; Taiwan: TAIEX -0.26% at 39,933.30,
+  still digesting Thursday's 1,700-point intraday swing; dev news: Gemini
+  3.6 Flash, Android/AI Studio native Kotlin support, Gemini in Docs/Vids,
+  iOS 26.6/iOS 27 outlook, Flutter 3.44/Impeller-on-Android progress) —
+  network egress for `WebSearch` worked fine in this session, unlike the
+  403s some earlier runs hit. Fast-forward merged `claude/daily-2026-07-31`
+  into `claude/epic-brahmagupta-g1y16m` and pushed. **The underlying
+  trigger/session bug is still unresolved** (this is the seventeenth
+  occurrence of a fresh/stale starting branch, 07-09 through 07-31 missing
+  only 07-08 and — with no recoverable content — 07-18); the recovery
+  procedure continues to converge on the correct branch every time with no
+  content loss or duplication, but a human still needs to fix the Routine's
+  persistent-session/branch-targeting configuration to stop it from
+  recurring daily.
