@@ -133,6 +133,7 @@ the repo so a permanent link can be shared.
 | 2026-07-30 | 21 | 現在完成式入門(Pretérito Perfecto Compuesto) | Spanish's first compound tense: auxiliary haber (he/has/ha/hemos/han) + past participle (-ado/-ido, plus irregulars like hecho/dicho/escrito/visto/puesto/vuelto); used for past actions still tied to the present (hoy, esta semana, alguna vez, todavía no), contrasted with the closed-off simple past (ayer) | spanish-lessons/day-21.html |
 | 2026-07-31 | 22 | 過去完成式入門(Pretérito Pluscuamperfecto) | Second compound tense: haber's imperfect forms (había/habías/había/habíamos/habían) + the same past participles taught on Day 21; marks an action completed before another, more recent past-tense reference point ("the past of the past"), directly parallel to English "had done" | spanish-lessons/day-22.html |
 | 2026-08-01 | 23 | 未來簡單式入門(Futuro Simple) | First future tense: regular verbs add one shared ending set (-é/-ás/-á/-emos/-án) directly onto the full infinitive (not a shortened stem) across all three verb families; 12 common verbs use an irregular stem (e-dropping: podr-/sabr-/querr-/habr-; d-insertion: tendr-/pondr-/saldr-/vendr-; shortened: har-/dir-) but keep the identical endings; also usable for present-tense probability/conjecture ("¿Qué hora será?") | spanish-lessons/day-23.html |
+| 2026-08-02 | 24 | 條件式簡單式入門(Condicional Simple) | The "twin" of Day 23's future tense: regular verbs take the identical full-infinitive formation but with endings -ía/-ías/-ía/-íamos/-ían; reuses the exact same 12 irregular stems taught for the future tense (podr-/sabr-/querr-/habr-/tendr-/pondr-/saldr-/vendr-/har-/dir-); four core uses — hypothetical "would," polite requests (Me gustaría..., ¿Podrías...?), reported "future" inside past-tense speech (dijo que vendría), and conjecture about the past (¿Qué hora sería?) | spanish-lessons/day-24.html |
 
 Note: a duplicate "Day 2" lesson (ser/¿De dónde eres?, i.e. the same topic
 as Day 5) was independently produced on 2026-07-14 on an orphaned branch
@@ -167,6 +168,7 @@ continues from Day 6.
 | 2026-07-30 | 21 | 噬嗑 (Shì Kè) — Biting Through |
 | 2026-07-31 | 22 | 賁 (Bì) — Grace |
 | 2026-08-01 | 23 | 剝 (Bō) — Splitting Apart |
+| 2026-08-02 | 24 | 復 (Fù) — Return |
 
 Note: a duplicate Hexagram 2 (坤 Kūn) was also independently produced on
 2026-07-14 on the same orphaned branch, for the same reason. Hexagram 7
@@ -194,6 +196,7 @@ above correctly continues from Hexagram 6.
 | 2026-07-30 | Bosnia and Herzegovina (波士尼亞與赫塞哥維納) |
 | 2026-07-31 | Nigeria (奈及利亞) |
 | 2026-08-01 | Vietnam (越南) |
+| 2026-08-02 | Chile (智利) |
 
 ## Internet Meme Spotlights Featured
 
@@ -217,6 +220,7 @@ above correctly continues from Hexagram 6.
 | 2026-07-30 | Hide the Pain Harold (忍痛哈羅德) |
 | 2026-07-31 | Grumpy Cat (生氣貓) |
 | 2026-08-01 | Nyan Cat (彩虹貓) |
+| 2026-08-02 | Trollface (酸民臉) |
 
 ## Film / Performing Arts Spotlights Featured
 
@@ -238,6 +242,7 @@ and never repeat a subject already listed.
 | 2026-07-30 | The Godfather (1972, dir. Francis Ford Coppola) |
 | 2026-07-31 | Flamenco (弗拉明戈) |
 | 2026-08-01 | 2001: A Space Odyssey (1968, dir. Stanley Kubrick) |
+| 2026-08-02 | Noh Theatre (能) |
 
 ## Film-Appreciation / Criticism Method Lessons
 
@@ -261,6 +266,7 @@ table and pick one not yet covered.
 | 2026-07-30 | Blocking & Staging (vertical position and depth as power, physical distance as intimacy/threat, stillness vs. movement as center of gravity) | The Godfather (1972, dir. Francis Ford Coppola) — the opening office scene, where the camera slowly dollies back from a tight close-up on Bonasera to reveal Vito Corleone seated centrally and still behind his desk with his sons staged around him in a symmetrical wedge; Bonasera's escalating physical approach toward Vito's chair against Vito's near-total stillness stages the scene's entire power imbalance without a line of dialogue stating it |
 | 2026-07-31 | Framing & Composition (symmetry vs. asymmetry, one-point perspective, negative space, breaks in established composition as narrative signals) | The Shining (1980, dir. Stanley Kubrick) — Danny's tricycle rides through the Overlook Hotel's corridors, tracked in perfectly centered one-point perspective toward a single vanishing point, with the rigid symmetry visually encoding the hotel's inhuman order until the shot's composition is escalated (not simply broken) into the uncanny, doll-like mirrored symmetry of the Grady twins appearing dead-center in the frame |
 | 2026-08-01 | Symbolism & Visual Metaphor (a recurring visual object/gesture standing in for an unstated abstract idea — must recur, be diegetically grounded, and have its final appearance reframe everything prior) | 2001: A Space Odyssey (1968, dir. Stanley Kubrick) — the monolith, an identical black slab reused across three scenes spanning millions of years (prehistoric apes, buried on the Moon, at Bowman's deathbed), whose unchanging form transfers the dread/awe built in its first appearance instantly onto each later one, with its final appearance retroactively reframing the earlier two as stages of one evolutionary leap |
+| 2026-08-02 | Auteur Theory / Director's Signature Analysis (reading a recurring visual/thematic fingerprint across a director's whole filmography, not a single scene — must be consistent across unrelated films, distinctive enough to identify blind, and tied to a worldview rather than a mere technical tic) | Wes Anderson's filmography, focused through The Grand Budapest Hotel (2014) — centered symmetrical framing, flat "dollhouse" blocking, 90-degree whip-pans, handcrafted miniature production design, nested chapter-book narration, and a deadpan ensemble delivery style recur identically across Bottle Rocket, Rushmore, The Royal Tenenbaums, and Moonrise Kingdom, proving the traits are an authorial signature rather than a single film's stylistic choice |
 
 ## Run Notes
 
@@ -991,6 +997,60 @@ table and pick one not yet covered.
   `claude/epic-brahmagupta-g1y16m` and pushed. **The underlying
   trigger/session bug is still unresolved** (this is the eighteenth
   occurrence of a fresh/stale starting branch, 07-09 through 08-01 missing
+  only 07-08 and — with no recoverable content — 07-18); the recovery
+  procedure continues to converge on the correct branch every time with no
+  content loss or duplication, but a human still needs to fix the Routine's
+  persistent-session/branch-targeting configuration to stop it from
+  recurring daily.
+- **2026-08-02 — bug recurred a nineteenth time (this run's local checkout
+  started on `claude/bold-goldberg-5i9bu5`, whose only local sibling branch
+  was the long-stale `claude/gracious-ramanujan-4wyzgc` Day-3/2026-07-20-era
+  base); the established recovery procedure again caught and corrected it
+  before any work was done.** Following the routine's git workflow to the
+  letter: (1) listed all `claude/*` branches via the GitHub MCP tools (29
+  branches found), (2) listed recent workflow runs for the
+  "pages-build-deployment" workflow via the Actions API and confirmed the
+  most recent successful run (2026-08-01T21:50:18Z) points at
+  `claude/epic-brahmagupta-g1y16m` (sha `4ffe7c8`), (3) fetched
+  `claude/epic-brahmagupta-g1y16m` and `claude/daily-2026-08-01` locally via
+  `git fetch` and confirmed their tips are byte-identical (`git diff --stat`
+  empty), containing the full history through 2026-08-01 (Day 23, Hexagram
+  23, Vietnam, Nyan Cat, 2001: A Space Odyssey, Symbolism & Visual
+  Metaphor) — so no reconciliation from any sibling branch was needed, only
+  today's actual daily content. Only then branched `claude/daily-2026-08-02`
+  from that tip (`git checkout -B claude/daily-2026-08-02
+  origin/claude/epic-brahmagupta-g1y16m`), discarding the stale local
+  starting point (which was frozen at Day 3 / Hexagram 3 / 2026-07-20
+  content) entirely. Added Spanish Day 24 (condicional simple — the
+  "twin" of Day 23's future tense, reusing the identical 12 irregular
+  stems with a different ending set), Hexagram 24 (復 Fù, Return — the
+  King Wen Sequence's natural follow-on from yesterday's Hexagram 23 Bō,
+  per the Xugua commentary "物不可以終盡剝,窮上反下,故受之以復," the single
+  yang line finally regenerating at the bottom after being fully consumed
+  at the top), Chile (the first Section 5 entry chosen specifically for
+  its extreme north-south/east-west shape ratio, a scale contrast against
+  every prior entry), Trollface (first Section 6 entry from the founding
+  2008-2012 rage-comics era of meme history, predating Pepe the Frog and
+  Grumpy Cat), Noh Theatre (能, the third major East Asian traditional
+  performing-art form featured after Peking Opera and Kabuki/Bunraku, and
+  the first Section 7 entry to foreground the aesthetic concept of yūgen),
+  and Auteur Theory / Director's Signature Analysis as Section 8's tenth
+  film-analysis lesson (worked through Wes Anderson's recurring visual
+  signature across his filmography, centered on The Grand Budapest Hotel).
+  Market/dev-news sections used live `WebSearch` results; since today (a
+  Sunday) had no new trading session, Section 1 explicitly notes that US,
+  Asia, and Taiwan closes are unchanged from yesterday's briefing (last
+  session Friday 07-31) rather than re-reporting stale figures as new, and
+  adds a weekend Bitcoin price note (~US$63,000-63,200) as the one
+  genuinely fresh, 24/7 market data point; dev news covered iOS 27's
+  generative "Siri AI," macOS 27 "Golden Gate"'s new Liquid Glass
+  transparency slider, Android/Gemini's floating-bubble multitasking and
+  new "Gemini 3.5 Flash Cyber" security model, the reported Gemini 3.5 Pro
+  schedule slip, and Flutter Vikings' in-person August 2026 return.
+  Fast-forward merged `claude/daily-2026-08-02` into
+  `claude/epic-brahmagupta-g1y16m` and pushed. **The underlying
+  trigger/session bug is still unresolved** (this is the nineteenth
+  occurrence of a fresh/stale starting branch, 07-09 through 08-02 missing
   only 07-08 and — with no recoverable content — 07-18); the recovery
   procedure continues to converge on the correct branch every time with no
   content loss or duplication, but a human still needs to fix the Routine's
