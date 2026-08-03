@@ -134,6 +134,7 @@ the repo so a permanent link can be shared.
 | 2026-07-31 | 22 | 過去完成式入門(Pretérito Pluscuamperfecto) | Second compound tense: haber's imperfect forms (había/habías/había/habíamos/habían) + the same past participles taught on Day 21; marks an action completed before another, more recent past-tense reference point ("the past of the past"), directly parallel to English "had done" | spanish-lessons/day-22.html |
 | 2026-08-01 | 23 | 未來簡單式入門(Futuro Simple) | First future tense: regular verbs add one shared ending set (-é/-ás/-á/-emos/-án) directly onto the full infinitive (not a shortened stem) across all three verb families; 12 common verbs use an irregular stem (e-dropping: podr-/sabr-/querr-/habr-; d-insertion: tendr-/pondr-/saldr-/vendr-; shortened: har-/dir-) but keep the identical endings; also usable for present-tense probability/conjecture ("¿Qué hora será?") | spanish-lessons/day-23.html |
 | 2026-08-02 | 24 | 條件式簡單式入門(Condicional Simple) | The "twin" of Day 23's future tense: regular verbs take the identical full-infinitive formation but with endings -ía/-ías/-ía/-íamos/-ían; reuses the exact same 12 irregular stems taught for the future tense (podr-/sabr-/querr-/habr-/tendr-/pondr-/saldr-/vendr-/har-/dir-); four core uses — hypothetical "would," polite requests (Me gustaría..., ¿Podrías...?), reported "future" inside past-tense speech (dijo que vendría), and conjecture about the past (¿Qué hora sería?) | spanish-lessons/day-24.html |
+| 2026-08-03 | 25 | 祈使語氣肯定命令式入門(El Imperativo Afirmativo) | First shift from tense to mood: regular tú commands borrow the él/ella present-tense form (habla/come/escribe) with zero new conjugation; regular usted commands use the "opposite vowel" pattern (-ar→-e: hable; -er/-ir→-a: coma/escriba), the same pattern later reused by the present subjunctive; eight irregular tú commands must be memorized as a set: di/haz/ve/pon/sal/sé/ten/ven (decir/hacer/ir/poner/salir/ser/tener/venir) | spanish-lessons/day-25.html |
 
 Note: a duplicate "Day 2" lesson (ser/¿De dónde eres?, i.e. the same topic
 as Day 5) was independently produced on 2026-07-14 on an orphaned branch
@@ -169,6 +170,7 @@ continues from Day 6.
 | 2026-07-31 | 22 | 賁 (Bì) — Grace |
 | 2026-08-01 | 23 | 剝 (Bō) — Splitting Apart |
 | 2026-08-02 | 24 | 復 (Fù) — Return |
+| 2026-08-03 | 25 | 无妄 (Wú Wàng) — Innocence / The Unexpected |
 
 Note: a duplicate Hexagram 2 (坤 Kūn) was also independently produced on
 2026-07-14 on the same orphaned branch, for the same reason. Hexagram 7
@@ -197,6 +199,7 @@ above correctly continues from Hexagram 6.
 | 2026-07-31 | Nigeria (奈及利亞) |
 | 2026-08-01 | Vietnam (越南) |
 | 2026-08-02 | Chile (智利) |
+| 2026-08-03 | Kurdistan (庫德斯坦) |
 
 ## Internet Meme Spotlights Featured
 
@@ -221,6 +224,7 @@ above correctly continues from Hexagram 6.
 | 2026-07-31 | Grumpy Cat (生氣貓) |
 | 2026-08-01 | Nyan Cat (彩虹貓) |
 | 2026-08-02 | Trollface (酸民臉) |
+| 2026-08-03 | Success Kid (成功寶寶) |
 
 ## Film / Performing Arts Spotlights Featured
 
@@ -243,6 +247,7 @@ and never repeat a subject already listed.
 | 2026-07-31 | Flamenco (弗拉明戈) |
 | 2026-08-01 | 2001: A Space Odyssey (1968, dir. Stanley Kubrick) |
 | 2026-08-02 | Noh Theatre (能) |
+| 2026-08-03 | Kathakali (卡達卡利, India) |
 
 ## Film-Appreciation / Criticism Method Lessons
 
@@ -267,6 +272,7 @@ table and pick one not yet covered.
 | 2026-07-31 | Framing & Composition (symmetry vs. asymmetry, one-point perspective, negative space, breaks in established composition as narrative signals) | The Shining (1980, dir. Stanley Kubrick) — Danny's tricycle rides through the Overlook Hotel's corridors, tracked in perfectly centered one-point perspective toward a single vanishing point, with the rigid symmetry visually encoding the hotel's inhuman order until the shot's composition is escalated (not simply broken) into the uncanny, doll-like mirrored symmetry of the Grady twins appearing dead-center in the frame |
 | 2026-08-01 | Symbolism & Visual Metaphor (a recurring visual object/gesture standing in for an unstated abstract idea — must recur, be diegetically grounded, and have its final appearance reframe everything prior) | 2001: A Space Odyssey (1968, dir. Stanley Kubrick) — the monolith, an identical black slab reused across three scenes spanning millions of years (prehistoric apes, buried on the Moon, at Bowman's deathbed), whose unchanging form transfers the dread/awe built in its first appearance instantly onto each later one, with its final appearance retroactively reframing the earlier two as stages of one evolutionary leap |
 | 2026-08-02 | Auteur Theory / Director's Signature Analysis (reading a recurring visual/thematic fingerprint across a director's whole filmography, not a single scene — must be consistent across unrelated films, distinctive enough to identify blind, and tied to a worldview rather than a mere technical tic) | Wes Anderson's filmography, focused through The Grand Budapest Hotel (2014) — centered symmetrical framing, flat "dollhouse" blocking, 90-degree whip-pans, handcrafted miniature production design, nested chapter-book narration, and a deadpan ensemble delivery style recur identically across Bottle Rocket, Rushmore, The Royal Tenenbaums, and Moonrise Kingdom, proving the traits are an authorial signature rather than a single film's stylistic choice |
+| 2026-08-03 | The Long Take / Plan-Séquence & Camera Choreography (an unbroken shot sustained across a scene, forcing the camera to do editing's job through reframing and blocking; look for how movement replaces cuts, how tightly choreography must be timed with no cut to hide errors, and the immersive/verisimilitude effect of never granting a cutaway) | Children of Men (2006, dir. Alfonso Cuarón, cinematography by Emmanuel Lubezki) — the car ambush sequence, a rig-mounted camera rotating a full 360 degrees inside/around the vehicle in unbroken real time as an attack unfolds, keeping the ambush's geography continuously legible and denying the audience any editorial relief the trapped characters don't get |
 
 ## Run Notes
 
@@ -1051,6 +1057,67 @@ table and pick one not yet covered.
   `claude/epic-brahmagupta-g1y16m` and pushed. **The underlying
   trigger/session bug is still unresolved** (this is the nineteenth
   occurrence of a fresh/stale starting branch, 07-09 through 08-02 missing
+  only 07-08 and — with no recoverable content — 07-18); the recovery
+  procedure continues to converge on the correct branch every time with no
+  content loss or duplication, but a human still needs to fix the Routine's
+  persistent-session/branch-targeting configuration to stop it from
+  recurring daily.
+- **2026-08-03 — bug recurred a twentieth time (this run's local checkout
+  started on `claude/bold-goldberg-probsm`, whose only local sibling was
+  `claude/gracious-ramanujan-4wyzgc` — both frozen at the same stale
+  2026-07-20/Day-3/Hexagram-3 commit, `8eddce0`); the established recovery
+  procedure again caught and corrected it before any work was done.**
+  Following the routine's git workflow to the letter: (1) listed all
+  `claude/*` branches via the GitHub MCP tools (30 branches found), (2)
+  listed recent workflow runs for the "pages-build-deployment" workflow via
+  the Actions API and confirmed the most recent successful run
+  (2026-08-02T21:51:34Z) points at `claude/epic-brahmagupta-g1y16m` (sha
+  `4b3a1b8`), (3) fetched all `claude/*` branches locally and compared
+  briefing/spanish-lesson file counts and latest-commit timestamps across
+  every one of them — `claude/epic-brahmagupta-g1y16m` (identical tip to
+  `claude/daily-2026-08-02`) had by far the deepest, most recent history
+  (25 briefing files, 24 Spanish lessons, through 2026-08-02/Day 24/
+  Hexagram 24/Chile/Trollface/Noh Theatre/Auteur Theory) while every other
+  sibling branch topped out at 2026-07-20 or earlier — so no reconciliation
+  from any sibling branch was needed, only today's actual daily content.
+  Only then branched `claude/daily-2026-08-03` from that tip (`git checkout
+  -b claude/daily-2026-08-03 origin/claude/epic-brahmagupta-g1y16m`),
+  discarding the stale local starting point entirely. Added Spanish Day 25
+  (el imperativo afirmativo — the first shift from tense to mood in this
+  course: regular tú commands borrow the él/ella present-tense form with
+  zero new conjugation, regular usted commands use the "opposite vowel"
+  pattern that the present subjunctive will later reuse, and eight
+  irregular tú commands — di/haz/ve/pon/sal/sé/ten/ven — are memorized as a
+  set), Hexagram 25 (无妄 Wú Wàng, Innocence/The Unexpected — the King Wen
+  Sequence's natural follow-on from yesterday's Hexagram 24 Fù, per the
+  Xugua commentary "復則不妄矣,故受之以无妄," notable for embedding a rare
+  conditional warning — good fortune requires genuine correctness, not
+  merely good intentions — inside an otherwise auspicious reading),
+  Kurdistan (the first Section 5 entry to be a stateless nation/region
+  spanning four sovereign states rather than a sovereign state itself,
+  chosen deliberately for that contrast after nineteen straight sovereign-
+  state/microstate entries), Success Kid (first Section 6 entry from the
+  2010-2012 "advice animal"/rage-comics era with a genuine real-world
+  fundraising story attached to its later history), Kathakali (first
+  Section 7 entry from South Asian performing arts, distinct from the
+  East Asian traditional forms — Peking Opera, Kabuki, Bunraku, Noh —
+  covered so far), and The Long Take / Plan-Séquence & Camera Choreography
+  as Section 8's eleventh film-analysis lesson (worked through Children of
+  Men's real-time car-ambush single take, deliberately paired as the
+  structural opposite of Lesson 2's editing/montage lens). Market/dev-news
+  sections used live `WebSearch` results (US Monday 08-03 open: Dow +1.32%
+  to a record 53,178.41, S&amp;P +1.48% to 7,600.50, Nasdaq +2.1% to
+  25,913.90 on Big Tech optimism and US-Iran de-escalation; Asia mixed:
+  Nikkei -0.94%, Hang Seng +0.48%, Shanghai -0.59% on a global AI-stock
+  selloff hitting Chinese semiconductor names; Taiwan: TAIEX +0.62% to a
+  fresh 43,386.41; dev news: iOS 27's Siri AI confirmed built on Google
+  Gemini under a new Apple-Google partnership, with rival chatbots able to
+  plug into Siri directly, plus Flutter 3.44's agentic tooling and
+  embedded-systems rollout continuing) — network egress for `WebSearch`
+  worked fine in this session. Fast-forward merged `claude/daily-2026-08-03`
+  into `claude/epic-brahmagupta-g1y16m` and pushed. **The underlying
+  trigger/session bug is still unresolved** (this is the twentieth
+  occurrence of a fresh/stale starting branch, 07-09 through 08-03 missing
   only 07-08 and — with no recoverable content — 07-18); the recovery
   procedure continues to converge on the correct branch every time with no
   content loss or duplication, but a human still needs to fix the Routine's
