@@ -135,6 +135,7 @@ the repo so a permanent link can be shared.
 | 2026-08-01 | 23 | 未來簡單式入門(Futuro Simple) | First future tense: regular verbs add one shared ending set (-é/-ás/-á/-emos/-án) directly onto the full infinitive (not a shortened stem) across all three verb families; 12 common verbs use an irregular stem (e-dropping: podr-/sabr-/querr-/habr-; d-insertion: tendr-/pondr-/saldr-/vendr-; shortened: har-/dir-) but keep the identical endings; also usable for present-tense probability/conjecture ("¿Qué hora será?") | spanish-lessons/day-23.html |
 | 2026-08-02 | 24 | 條件式簡單式入門(Condicional Simple) | The "twin" of Day 23's future tense: regular verbs take the identical full-infinitive formation but with endings -ía/-ías/-ía/-íamos/-ían; reuses the exact same 12 irregular stems taught for the future tense (podr-/sabr-/querr-/habr-/tendr-/pondr-/saldr-/vendr-/har-/dir-); four core uses — hypothetical "would," polite requests (Me gustaría..., ¿Podrías...?), reported "future" inside past-tense speech (dijo que vendría), and conjecture about the past (¿Qué hora sería?) | spanish-lessons/day-24.html |
 | 2026-08-03 | 25 | 祈使語氣肯定命令式入門(El Imperativo Afirmativo) | First shift from tense to mood: regular tú commands borrow the él/ella present-tense form (habla/come/escribe) with zero new conjugation; regular usted commands use the "opposite vowel" pattern (-ar→-e: hable; -er/-ir→-a: coma/escriba), the same pattern later reused by the present subjunctive; eight irregular tú commands must be memorized as a set: di/haz/ve/pon/sal/sé/ten/ven (decir/hacer/ir/poner/salir/ser/tener/venir) | spanish-lessons/day-25.html |
+| 2026-08-04 | 26 | 祈使語氣否定命令式(El Imperativo Negativo) | Unlike affirmative commands, ALL negative commands (tú and usted alike) borrow the present subjunctive form; regular usted negative commands look identical to affirmative usted commands (no hable/coma/escriba), but regular tú negative commands are brand-new forms that must NOT reuse the affirmative tú command (no hables/comas/escribas, not "no habla/come/escribe"); the eight affirmative-irregular tú commands (di/haz/ve/pon/sal/sé/ten/ven) are replaced by subjunctive forms built from the irregular yo-stem (no digas/hagas/pongas/salgas/tengas/vengas), with ir/ser as the two true exceptions (no vayas/seas); object/reflexive pronouns also flip from after the verb (affirmative) to before it (negative) | spanish-lessons/day-26.html |
 
 Note: a duplicate "Day 2" lesson (ser/¿De dónde eres?, i.e. the same topic
 as Day 5) was independently produced on 2026-07-14 on an orphaned branch
@@ -171,6 +172,7 @@ continues from Day 6.
 | 2026-08-01 | 23 | 剝 (Bō) — Splitting Apart |
 | 2026-08-02 | 24 | 復 (Fù) — Return |
 | 2026-08-03 | 25 | 无妄 (Wú Wàng) — Innocence / The Unexpected |
+| 2026-08-04 | 26 | 大畜 (Dà Chù) — The Taming Power of the Great |
 
 Note: a duplicate Hexagram 2 (坤 Kūn) was also independently produced on
 2026-07-14 on the same orphaned branch, for the same reason. Hexagram 7
@@ -200,6 +202,7 @@ above correctly continues from Hexagram 6.
 | 2026-08-01 | Vietnam (越南) |
 | 2026-08-02 | Chile (智利) |
 | 2026-08-03 | Kurdistan (庫德斯坦) |
+| 2026-08-04 | Ethiopia (衣索比亞) |
 
 ## Internet Meme Spotlights Featured
 
@@ -225,6 +228,7 @@ above correctly continues from Hexagram 6.
 | 2026-08-01 | Nyan Cat (彩虹貓) |
 | 2026-08-02 | Trollface (酸民臉) |
 | 2026-08-03 | Success Kid (成功寶寶) |
+| 2026-08-04 | Stonks |
 
 ## Film / Performing Arts Spotlights Featured
 
@@ -248,6 +252,7 @@ and never repeat a subject already listed.
 | 2026-08-01 | 2001: A Space Odyssey (1968, dir. Stanley Kubrick) |
 | 2026-08-02 | Noh Theatre (能) |
 | 2026-08-03 | Kathakali (卡達卡利, India) |
+| 2026-08-04 | Butoh (舞踏, Japan) |
 
 ## Film-Appreciation / Criticism Method Lessons
 
@@ -273,6 +278,7 @@ table and pick one not yet covered.
 | 2026-08-01 | Symbolism & Visual Metaphor (a recurring visual object/gesture standing in for an unstated abstract idea — must recur, be diegetically grounded, and have its final appearance reframe everything prior) | 2001: A Space Odyssey (1968, dir. Stanley Kubrick) — the monolith, an identical black slab reused across three scenes spanning millions of years (prehistoric apes, buried on the Moon, at Bowman's deathbed), whose unchanging form transfers the dread/awe built in its first appearance instantly onto each later one, with its final appearance retroactively reframing the earlier two as stages of one evolutionary leap |
 | 2026-08-02 | Auteur Theory / Director's Signature Analysis (reading a recurring visual/thematic fingerprint across a director's whole filmography, not a single scene — must be consistent across unrelated films, distinctive enough to identify blind, and tied to a worldview rather than a mere technical tic) | Wes Anderson's filmography, focused through The Grand Budapest Hotel (2014) — centered symmetrical framing, flat "dollhouse" blocking, 90-degree whip-pans, handcrafted miniature production design, nested chapter-book narration, and a deadpan ensemble delivery style recur identically across Bottle Rocket, Rushmore, The Royal Tenenbaums, and Moonrise Kingdom, proving the traits are an authorial signature rather than a single film's stylistic choice |
 | 2026-08-03 | The Long Take / Plan-Séquence & Camera Choreography (an unbroken shot sustained across a scene, forcing the camera to do editing's job through reframing and blocking; look for how movement replaces cuts, how tightly choreography must be timed with no cut to hide errors, and the immersive/verisimilitude effect of never granting a cutaway) | Children of Men (2006, dir. Alfonso Cuarón, cinematography by Emmanuel Lubezki) — the car ambush sequence, a rig-mounted camera rotating a full 360 degrees inside/around the vehicle in unbroken real time as an attack unfolds, keeping the ambush's geography continuously legible and denying the audience any editorial relief the trapped characters don't get |
+| 2026-08-04 | Performance / Acting Analysis (naturalism vs. stylization, internal vs. external technique, micro-behavior in wordless moments, vocal control and its breakdown, physical transformation, and how camera distance scales a performance) | There Will Be Blood (2007, dir. Paul Thomas Anderson) — the bowling-alley finale, where Daniel Day-Lewis's Daniel Plainview moves from controlled, mocking menace ("I drink your milkshake") to genuine unraveling rage, tracked through vocal disintegration and escalating physical aggression across extended, minimally-cut takes that force the performance itself to carry the scene |
 
 ## Run Notes
 
@@ -1123,3 +1129,76 @@ table and pick one not yet covered.
   content loss or duplication, but a human still needs to fix the Routine's
   persistent-session/branch-targeting configuration to stop it from
   recurring daily.
+- **2026-08-04 — bug recurred a twenty-first time (this run's local
+  checkout started on `claude/bold-goldberg-xcvioy`, whose only local
+  sibling was the same long-stale `claude/gracious-ramanujan-4wyzgc`
+  Day-3/2026-07-20-era base seen on several prior days); the established
+  recovery procedure again caught and corrected it before any work was
+  done.** Followed the routine's git workflow to the letter: (1) listed
+  all `claude/*` branches via the GitHub MCP tools (30 branches found),
+  (2) queried the GitHub deployments API directly
+  (`GET /repos/.../deployments?environment=github-pages`, via `curl` since
+  no dedicated MCP tool exposes this endpoint) and confirmed the most
+  recent successful deployment status (2026-08-03T21:50:24Z) points at
+  `claude/epic-brahmagupta-g1y16m` (sha `5988023`), (3) fetched that branch
+  and `claude/daily-2026-08-03` locally and confirmed their tips are
+  byte-identical (`git diff --stat` empty), containing the full history
+  through 2026-08-03 (Day 25, Hexagram 25, Kurdistan, Success Kid,
+  Kathakali, The Long Take) — and cross-checked commit timestamps on every
+  other `claude/*` branch (epic-brahmagupta-b9qdr5/is0gmu/mgut69/nn87ee,
+  gracious-ramanujan-4wyzgc, all happy-newton-* branches, and the three
+  routine-*-2026-07-24 branches) to confirm none had content newer than
+  2026-07-24 — so no reconciliation from any sibling branch was needed,
+  only today's actual daily content. Only then branched
+  `claude/daily-2026-08-04` from that tip (`git checkout -B
+  claude/daily-2026-08-04 origin/claude/epic-brahmagupta-g1y16m`),
+  discarding the stale local starting point entirely. Added Spanish Day 26
+  (el imperativo negativo — the negative-command mirror of yesterday's
+  affirmative commands: unlike affirmative tú commands, which borrow the
+  present-indicative él/ella form, ALL negative commands, tú and usted
+  alike, borrow the present subjunctive, meaning regular tú negative
+  commands are entirely new forms that must not reuse yesterday's
+  affirmative tú forms, and object/reflexive pronouns flip from
+  after-the-verb to before-the-verb), Hexagram 26 (大畜 Dà Chù, The Taming
+  Power of the Great — the King Wen Sequence's natural follow-on from
+  yesterday's Hexagram 25 Wú Wàng, per the Xugua commentary "无妄然後可畜,
+  故受之以大畜," continuing yesterday's logic that genuine, uncalculating
+  correctness is the necessary precondition for a great, sustainable store
+  of strength or virtue), Ethiopia (the first Section 5 entry chosen for
+  being one of only two African countries never colonized, alongside its
+  contrast as a large, populous nation after several recent small/stateless
+  entries), Stonks (first Section 6 entry from the 2019 "so-bad-it's-funny"
+  stock-photo/finance-meme era, chosen deliberately to pair with today's
+  stock-market section), Butoh (first Section 7 entry to be a modern,
+  post-WWII avant-garde performing-art form rather than a centuries-old
+  traditional one, explicitly framed as a rupture from the Noh/Kabuki/
+  Bunraku traditions covered on prior days), and Performance / Acting
+  Analysis as Section 8's twelfth film-analysis lesson (worked through
+  Daniel Day-Lewis's vocal and physical escalation in There Will Be
+  Blood's bowling-alley finale, deliberately cross-referencing Lesson 11's
+  long-take technique since Anderson holds the shot to let the performance
+  itself carry the scene). Market/dev-news sections used live `WebSearch`
+  results plus a direct `curl` to both the GitHub deployments API and the
+  Taiwan Stock Exchange for source-checking (US Tuesday 08-04: Dow +1.71%
+  to a first-ever close above 54,000 at 54,085.88, S&amp;P +1.79% to a
+  record ~7,736.52, Nasdaq +2.59% to 26,584.99 on strong SpaceX/AMD
+  earnings and Strait of Hormuz optimism; Asia comparatively quiet: Nikkei
+  +0.32%, Shanghai +0.33%, Hang Seng -0.60%; Taiwan: TAIEX swung over
+  1,000 points intraday but closed nearly flat at 43,360.66 (-0.06%) as a
+  memory-chip shortage rally in Nanya Technology/Winbond offset a 2.11%
+  drop in TSMC; dev news: TechCrunch's "fixed but anticlimactic" take on
+  iOS 27's Siri AI reception, Gemini's full-screen frosted-glass UI
+  redesign and Gemini 3.6 Flash release, Google's August 12 "Made by
+  Google"/Pixel 11 event, and continued Flutter on-device-AI/LG webOS
+  coverage) — network egress for `WebSearch` and direct `curl` calls to
+  both api.github.com and www.twse.com.tw worked fine in this session
+  (the TWSE JSON endpoint itself returned no data for this date, so
+  Taiwan figures were sourced from `WebSearch` instead). Fast-forward
+  merged `claude/daily-2026-08-04` into `claude/epic-brahmagupta-g1y16m`
+  and pushed. **The underlying trigger/session bug is still unresolved**
+  (this is the twenty-first occurrence of a fresh/stale starting branch,
+  07-09 through 08-04 missing only 07-08 and — with no recoverable
+  content — 07-18); the recovery procedure continues to converge on the
+  correct branch every time with no content loss or duplication, but a
+  human still needs to fix the Routine's persistent-session/branch-
+  targeting configuration to stop it from recurring daily.
