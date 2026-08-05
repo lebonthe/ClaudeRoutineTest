@@ -136,6 +136,7 @@ the repo so a permanent link can be shared.
 | 2026-08-02 | 24 | 條件式簡單式入門(Condicional Simple) | The "twin" of Day 23's future tense: regular verbs take the identical full-infinitive formation but with endings -ía/-ías/-ía/-íamos/-ían; reuses the exact same 12 irregular stems taught for the future tense (podr-/sabr-/querr-/habr-/tendr-/pondr-/saldr-/vendr-/har-/dir-); four core uses — hypothetical "would," polite requests (Me gustaría..., ¿Podrías...?), reported "future" inside past-tense speech (dijo que vendría), and conjecture about the past (¿Qué hora sería?) | spanish-lessons/day-24.html |
 | 2026-08-03 | 25 | 祈使語氣肯定命令式入門(El Imperativo Afirmativo) | First shift from tense to mood: regular tú commands borrow the él/ella present-tense form (habla/come/escribe) with zero new conjugation; regular usted commands use the "opposite vowel" pattern (-ar→-e: hable; -er/-ir→-a: coma/escriba), the same pattern later reused by the present subjunctive; eight irregular tú commands must be memorized as a set: di/haz/ve/pon/sal/sé/ten/ven (decir/hacer/ir/poner/salir/ser/tener/venir) | spanish-lessons/day-25.html |
 | 2026-08-04 | 26 | 祈使語氣否定命令式(El Imperativo Negativo) | Unlike affirmative commands, ALL negative commands (tú and usted alike) borrow the present subjunctive form; regular usted negative commands look identical to affirmative usted commands (no hable/coma/escriba), but regular tú negative commands are brand-new forms that must NOT reuse the affirmative tú command (no hables/comas/escribas, not "no habla/come/escribe"); the eight affirmative-irregular tú commands (di/haz/ve/pon/sal/sé/ten/ven) are replaced by subjunctive forms built from the irregular yo-stem (no digas/hagas/pongas/salgas/tengas/vengas), with ir/ser as the two true exceptions (no vayas/seas); object/reflexive pronouns also flip from after the verb (affirmative) to before it (negative) | spanish-lessons/day-26.html |
+| 2026-08-05 | 27 | 虛擬式現在式入門(El Presente de Subjuntivo) | The mood underlying Days 25-26's commands, formally named and generalized: regular verbs take the same "opposite vowel" endings already seen in commands (-ar→-e/-es/-e/-emos/-en; -er/-ir→-a/-as/-a/-amos/-an), with yo and él/ella always identical (unlike the indicative); any indicative irregular yo-stem (tengo, hago) carries through every subjunctive person; first use taught: querer/esperar que + subjunctive to express a wish about a *different* subject's action, contrasted with querer + infinitive when wisher and doer are the same person | spanish-lessons/day-27.html |
 
 Note: a duplicate "Day 2" lesson (ser/¿De dónde eres?, i.e. the same topic
 as Day 5) was independently produced on 2026-07-14 on an orphaned branch
@@ -173,6 +174,7 @@ continues from Day 6.
 | 2026-08-02 | 24 | 復 (Fù) — Return |
 | 2026-08-03 | 25 | 无妄 (Wú Wàng) — Innocence / The Unexpected |
 | 2026-08-04 | 26 | 大畜 (Dà Chù) — The Taming Power of the Great |
+| 2026-08-05 | 27 | 頤 (Yí) — Nourishment / The Corners of the Mouth |
 
 Note: a duplicate Hexagram 2 (坤 Kūn) was also independently produced on
 2026-07-14 on the same orphaned branch, for the same reason. Hexagram 7
@@ -203,6 +205,7 @@ above correctly continues from Hexagram 6.
 | 2026-08-02 | Chile (智利) |
 | 2026-08-03 | Kurdistan (庫德斯坦) |
 | 2026-08-04 | Ethiopia (衣索比亞) |
+| 2026-08-05 | Armenia (亞美尼亞) |
 
 ## Internet Meme Spotlights Featured
 
@@ -229,6 +232,7 @@ above correctly continues from Hexagram 6.
 | 2026-08-02 | Trollface (酸民臉) |
 | 2026-08-03 | Success Kid (成功寶寶) |
 | 2026-08-04 | Stonks |
+| 2026-08-05 | "Karen" |
 
 ## Film / Performing Arts Spotlights Featured
 
@@ -253,6 +257,7 @@ and never repeat a subject already listed.
 | 2026-08-02 | Noh Theatre (能) |
 | 2026-08-03 | Kathakali (卡達卡利, India) |
 | 2026-08-04 | Butoh (舞踏, Japan) |
+| 2026-08-05 | The Battle of Algiers (大戰阿爾及爾, 1966, dir. Gillo Pontecorvo) |
 
 ## Film-Appreciation / Criticism Method Lessons
 
@@ -279,6 +284,7 @@ table and pick one not yet covered.
 | 2026-08-02 | Auteur Theory / Director's Signature Analysis (reading a recurring visual/thematic fingerprint across a director's whole filmography, not a single scene — must be consistent across unrelated films, distinctive enough to identify blind, and tied to a worldview rather than a mere technical tic) | Wes Anderson's filmography, focused through The Grand Budapest Hotel (2014) — centered symmetrical framing, flat "dollhouse" blocking, 90-degree whip-pans, handcrafted miniature production design, nested chapter-book narration, and a deadpan ensemble delivery style recur identically across Bottle Rocket, Rushmore, The Royal Tenenbaums, and Moonrise Kingdom, proving the traits are an authorial signature rather than a single film's stylistic choice |
 | 2026-08-03 | The Long Take / Plan-Séquence & Camera Choreography (an unbroken shot sustained across a scene, forcing the camera to do editing's job through reframing and blocking; look for how movement replaces cuts, how tightly choreography must be timed with no cut to hide errors, and the immersive/verisimilitude effect of never granting a cutaway) | Children of Men (2006, dir. Alfonso Cuarón, cinematography by Emmanuel Lubezki) — the car ambush sequence, a rig-mounted camera rotating a full 360 degrees inside/around the vehicle in unbroken real time as an attack unfolds, keeping the ambush's geography continuously legible and denying the audience any editorial relief the trapped characters don't get |
 | 2026-08-04 | Performance / Acting Analysis (naturalism vs. stylization, internal vs. external technique, micro-behavior in wordless moments, vocal control and its breakdown, physical transformation, and how camera distance scales a performance) | There Will Be Blood (2007, dir. Paul Thomas Anderson) — the bowling-alley finale, where Daniel Day-Lewis's Daniel Plainview moves from controlled, mocking menace ("I drink your milkshake") to genuine unraveling rage, tracked through vocal disintegration and escalating physical aggression across extended, minimally-cut takes that force the performance itself to carry the scene |
+| 2026-08-05 | Genre & Convention Analysis (reading a film against the accumulated iconography/tropes of its whole genre — does it satisfy, subvert, or hybridize genre expectations, and what ideology rides along with the convention itself) | Unforgiven (1992, dir. Clint Eastwood) — the final showdown at Skinny's saloon, which quotes every iconographic beat of the classical Western gunfight (aging gunslinger, walk into the saloon, drawn pistol) but stages it at night in rain and lamplight with a graceless, morally ugly kill rather than a cleansing catharsis, using the audience's genre literacy to indict the Western's traditional "righteous violence" mythology |
 
 ## Run Notes
 
@@ -1202,3 +1208,81 @@ table and pick one not yet covered.
   correct branch every time with no content loss or duplication, but a
   human still needs to fix the Routine's persistent-session/branch-
   targeting configuration to stop it from recurring daily.
+- **2026-08-05 — bug recurred a twenty-second time (this run's local
+  checkout started on `claude/bold-goldberg-4d212g`, whose only local
+  sibling was `claude/gracious-ramanujan-4wyzgc` — both frozen at the same
+  stale 2026-07-20/Day-3/Hexagram-3 commit, `8eddce0`); the established
+  recovery procedure again caught and corrected it before any work was
+  done.** Followed the routine's git workflow to the letter: (1) listed all
+  `claude/*` branches via the GitHub MCP tools (31 branches found), (2)
+  queried `GET /repos/.../deployments?environment=github-pages` directly
+  (not the repo's `default_branch` field) via a direct `curl` using the
+  session's `GITHUB_TOKEN` (successful, no 403) and confirmed the most
+  recent successful deployment (2026-08-04T21:52:38Z) points at
+  `claude/epic-brahmagupta-g1y16m` (sha `fb51251`), matching
+  `claude/daily-2026-08-04`'s tip exactly, (3) fetched every sibling
+  `claude/*` branch's most recent commit timestamp and confirmed all
+  `epic-brahmagupta-*`, `happy-newton-*`, and `gracious-ramanujan-4wyzgc`
+  branches topped out at 2026-07-20 or earlier — so `epic-brahmagupta-g1y16m`
+  (through 08-04, Day 26, Hexagram 26) needed no reconciliation from any
+  sibling branch, only today's actual daily content. Only then branched
+  `claude/daily-2026-08-05` from that tip (`git checkout -B
+  claude/daily-2026-08-05 origin/claude/epic-brahmagupta-g1y16m`), discarding
+  the stale local starting point entirely. Added Spanish Day 27 (el presente
+  de subjuntivo — the mood underlying Days 25-26's commands, now formally
+  named and generalized: regular verbs share the same "opposite vowel"
+  endings already seen in commands, yo and él/ella are always identical
+  unlike the indicative, and the first taught use is querer/esperar que +
+  subjunctive to wish something onto a *different* subject, contrasted with
+  querer + infinitive when wisher and doer are the same person), Hexagram 27
+  (頤 Yí, Nourishment — the King Wen Sequence's natural follow-on from
+  yesterday's Hexagram 26 Dà Chù, per the Xugua commentary "物畜然後可養,
+  故受之以頤,頤者養也," continuing yesterday's logic that a great store of
+  accumulated strength only retains its value if it is continually
+  nourished and put to use), Armenia (the first Section 5 entry chosen for
+  being the first nation to adopt Christianity as a state religion, and for
+  a diaspora more than double its resident population), "Karen" (first
+  Section 6 entry drawn from a real-name-turned-stereotype rather than an
+  image, video, or catchphrase format), The Battle of Algiers (1966, dir.
+  Gillo Pontecorvo) as a landmark political/war-cinema Section 7 entry
+  chosen to rebalance after three consecutive performing-arts picks
+  (Noh/Kathakali/Butoh), and Genre & Convention Analysis as Section 8's
+  thirteenth film-analysis lesson (worked through Unforgiven's showdown at
+  Skinny's saloon, deliberately chosen as a companion to Lesson 10's auteur
+  theory since both read a film against a larger body of work rather than
+  in isolation). Market/dev-news sections used live `WebSearch` results
+  (US Wednesday 08-05: Dow +0.49% to a third-straight record close of
+  54,349.00 on Amgen/Goldman Sachs/Nvidia strength, S&P 500 also closed at
+  a fresh record on continued AI-earnings optimism (Palantir +29.5%,
+  Caterpillar +5.6%, Philadelphia Semiconductor Index +6.6%), Nasdaq
+  slipped 0.45% to 26,465.69 as SpaceX (-12.5%) and AMD (-7%+) both sold off
+  despite Q2 earnings beats after SpaceX said it would source AI chips
+  exclusively from Nvidia; Asia: Nikkei +3.66% to 66,300.44, Kospi +3.8% to
+  6,598.26, Shanghai +1.47%, Hang Seng +0.24%, on a broad AI/semiconductor
+  rally; Taiwan: TAIEX +2.88% to 44,611.6 reclaiming 44,000, TSMC +3.66% to
+  NT$2,405; dev news: confirmation of the Apple-Google Gemini foundation
+  behind iOS 27's Siri AI with third-party chatbots pluggable in, Google's
+  I/O 2026 Android Studio/Gemini/Firebase/Play/Flutter workflow and the
+  discontinued standalone Gemini-in-AI-Studio mobile app, and Flutter 3.27's
+  Cupertino/Impeller updates) — note that early web-search summaries
+  repeatedly and incorrectly echoed 2026-08-04's US closing figures
+  (Dow 54,085.88 / S&P 7,736.52 / Nasdaq 26,584.99) when asked for
+  "August 5" data; this run cross-checked multiple independent articles
+  specifically dated/headlined August 5 (ts2.tech, CNBC, Axios, NBC News,
+  spokesman.com/detroitnews.com) before accepting the Dow's 54,349.00
+  (+0.49%) and Nasdaq's 26,465.69 (-0.45%) figures as correct for this date;
+  a precise S&P 500 closing print for 08-05 could not be pinned down with
+  confidence across sources (search results kept regressing to 08-04's
+  7,736.52), so the S&P section reports its record-high status and the
+  earnings/AI narrative driving it without asserting a specific index
+  level — a future run with access to a reliable, unambiguously-dated
+  historical-data source should prefer citing an exact figure over this
+  workaround. Fast-forward merged `claude/daily-2026-08-05` into
+  `claude/epic-brahmagupta-g1y16m` and pushed. **The underlying
+  trigger/session bug is still unresolved** (this is the twenty-second
+  occurrence of a fresh/stale starting branch, 07-09 through 08-05 missing
+  only 07-08 and — with no recoverable content — 07-18); the recovery
+  procedure continues to converge on the correct branch every time with no
+  content loss or duplication, but a human still needs to fix the Routine's
+  persistent-session/branch-targeting configuration to stop it from
+  recurring daily.
