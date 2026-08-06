@@ -137,6 +137,7 @@ the repo so a permanent link can be shared.
 | 2026-08-03 | 25 | 祈使語氣肯定命令式入門(El Imperativo Afirmativo) | First shift from tense to mood: regular tú commands borrow the él/ella present-tense form (habla/come/escribe) with zero new conjugation; regular usted commands use the "opposite vowel" pattern (-ar→-e: hable; -er/-ir→-a: coma/escriba), the same pattern later reused by the present subjunctive; eight irregular tú commands must be memorized as a set: di/haz/ve/pon/sal/sé/ten/ven (decir/hacer/ir/poner/salir/ser/tener/venir) | spanish-lessons/day-25.html |
 | 2026-08-04 | 26 | 祈使語氣否定命令式(El Imperativo Negativo) | Unlike affirmative commands, ALL negative commands (tú and usted alike) borrow the present subjunctive form; regular usted negative commands look identical to affirmative usted commands (no hable/coma/escriba), but regular tú negative commands are brand-new forms that must NOT reuse the affirmative tú command (no hables/comas/escribas, not "no habla/come/escribe"); the eight affirmative-irregular tú commands (di/haz/ve/pon/sal/sé/ten/ven) are replaced by subjunctive forms built from the irregular yo-stem (no digas/hagas/pongas/salgas/tengas/vengas), with ir/ser as the two true exceptions (no vayas/seas); object/reflexive pronouns also flip from after the verb (affirmative) to before it (negative) | spanish-lessons/day-26.html |
 | 2026-08-05 | 27 | 虛擬式現在式入門(El Presente de Subjuntivo) | The mood underlying Days 25-26's commands, formally named and generalized: regular verbs take the same "opposite vowel" endings already seen in commands (-ar→-e/-es/-e/-emos/-en; -er/-ir→-a/-as/-a/-amos/-an), with yo and él/ella always identical (unlike the indicative); any indicative irregular yo-stem (tengo, hago) carries through every subjunctive person; first use taught: querer/esperar que + subjunctive to express a wish about a *different* subject's action, contrasted with querer + infinitive when wisher and doer are the same person | spanish-lessons/day-27.html |
+| 2026-08-06 | 28 | 虛擬式現在式:懷疑、否定與非人稱表達(El Subjuntivo con Duda, Negación y Expresiones Impersonales) | Second major subjunctive trigger family: creer que + indicative when affirmative but no creer que + subjunctive when negated (same flip for es/no es cierto-verdad que); dudar que takes the subjunctive in both affirmative and negative form since doubt itself is inherently uncertain; impersonal es posible/probable que + subjunctive; colloquial exception flagged: a lo mejor ("maybe") conventionally takes the *indicative* despite meaning almost the same as es posible que | spanish-lessons/day-28.html |
 
 Note: a duplicate "Day 2" lesson (ser/¿De dónde eres?, i.e. the same topic
 as Day 5) was independently produced on 2026-07-14 on an orphaned branch
@@ -175,6 +176,7 @@ continues from Day 6.
 | 2026-08-03 | 25 | 无妄 (Wú Wàng) — Innocence / The Unexpected |
 | 2026-08-04 | 26 | 大畜 (Dà Chù) — The Taming Power of the Great |
 | 2026-08-05 | 27 | 頤 (Yí) — Nourishment / The Corners of the Mouth |
+| 2026-08-06 | 28 | 大過 (Dà Guò) — Preponderance of the Great / Great Exceeding |
 
 Note: a duplicate Hexagram 2 (坤 Kūn) was also independently produced on
 2026-07-14 on the same orphaned branch, for the same reason. Hexagram 7
@@ -206,6 +208,7 @@ above correctly continues from Hexagram 6.
 | 2026-08-03 | Kurdistan (庫德斯坦) |
 | 2026-08-04 | Ethiopia (衣索比亞) |
 | 2026-08-05 | Armenia (亞美尼亞) |
+| 2026-08-06 | Bolivia (玻利維亞) |
 
 ## Internet Meme Spotlights Featured
 
@@ -233,6 +236,7 @@ above correctly continues from Hexagram 6.
 | 2026-08-03 | Success Kid (成功寶寶) |
 | 2026-08-04 | Stonks |
 | 2026-08-05 | "Karen" |
+| 2026-08-06 | 傻眼貓咪 (Blank/Stunned Cat, Taiwan) |
 
 ## Film / Performing Arts Spotlights Featured
 
@@ -258,6 +262,7 @@ and never repeat a subject already listed.
 | 2026-08-03 | Kathakali (卡達卡利, India) |
 | 2026-08-04 | Butoh (舞踏, Japan) |
 | 2026-08-05 | The Battle of Algiers (大戰阿爾及爾, 1966, dir. Gillo Pontecorvo) |
+| 2026-08-06 | Swan Lake (天鵝湖, ballet, 1877/1895; music by Tchaikovsky, choreography by Petipa & Ivanov) |
 
 ## Film-Appreciation / Criticism Method Lessons
 
@@ -285,6 +290,7 @@ table and pick one not yet covered.
 | 2026-08-03 | The Long Take / Plan-Séquence & Camera Choreography (an unbroken shot sustained across a scene, forcing the camera to do editing's job through reframing and blocking; look for how movement replaces cuts, how tightly choreography must be timed with no cut to hide errors, and the immersive/verisimilitude effect of never granting a cutaway) | Children of Men (2006, dir. Alfonso Cuarón, cinematography by Emmanuel Lubezki) — the car ambush sequence, a rig-mounted camera rotating a full 360 degrees inside/around the vehicle in unbroken real time as an attack unfolds, keeping the ambush's geography continuously legible and denying the audience any editorial relief the trapped characters don't get |
 | 2026-08-04 | Performance / Acting Analysis (naturalism vs. stylization, internal vs. external technique, micro-behavior in wordless moments, vocal control and its breakdown, physical transformation, and how camera distance scales a performance) | There Will Be Blood (2007, dir. Paul Thomas Anderson) — the bowling-alley finale, where Daniel Day-Lewis's Daniel Plainview moves from controlled, mocking menace ("I drink your milkshake") to genuine unraveling rage, tracked through vocal disintegration and escalating physical aggression across extended, minimally-cut takes that force the performance itself to carry the scene |
 | 2026-08-05 | Genre & Convention Analysis (reading a film against the accumulated iconography/tropes of its whole genre — does it satisfy, subvert, or hybridize genre expectations, and what ideology rides along with the convention itself) | Unforgiven (1992, dir. Clint Eastwood) — the final showdown at Skinny's saloon, which quotes every iconographic beat of the classical Western gunfight (aging gunslinger, walk into the saloon, drawn pistol) but stages it at night in rain and lamplight with a graceless, morally ugly kill rather than a cleansing catharsis, using the audience's genre literacy to indict the Western's traditional "righteous violence" mythology |
+| 2026-08-06 | The Gaze / Spectatorship Theory (Laura Mulvey's "male gaze": whose eyes the camera borrows, whether the plot's engine is the act of looking itself, whether the audience's gaze is aligned with or exposed apart from a character's, and whose point-of-view is withheld) | Vertigo (1958, dir. Alfred Hitchcock) — the hotel-room transformation scene, an unbroken 360-degree pan around Scottie and Judy's kiss under green neon light, staged entirely around Scottie's obsessive look with no comparable POV given to Judy, dissolving mid-turn into the earlier scene of Madeleine's death to visually enact his desire to merge the woman in front of him with his memory |
 
 ## Run Notes
 
@@ -1281,6 +1287,96 @@ table and pick one not yet covered.
   `claude/epic-brahmagupta-g1y16m` and pushed. **The underlying
   trigger/session bug is still unresolved** (this is the twenty-second
   occurrence of a fresh/stale starting branch, 07-09 through 08-05 missing
+  only 07-08 and — with no recoverable content — 07-18); the recovery
+  procedure continues to converge on the correct branch every time with no
+  content loss or duplication, but a human still needs to fix the Routine's
+  persistent-session/branch-targeting configuration to stop it from
+  recurring daily.
+- **2026-08-06 — bug recurred a twenty-third time (this run's local
+  checkout started on `claude/bold-goldberg-614272`, whose only local
+  sibling was the same long-stale `claude/gracious-ramanujan-4wyzgc`
+  branch seen on nearly every prior occurrence); the established recovery
+  procedure again caught and corrected it before any work was done.**
+  Followed the routine's git workflow to the letter: (1) listed all
+  `claude/*` branches via the GitHub MCP tools (32 branches found), (2)
+  queried `GET /repos/.../deployments?environment=github-pages` directly
+  (not the repo's `default_branch` field) via a direct `curl` using the
+  session's `GH_TOKEN`/`GITHUB_TOKEN` (successful, no 403) and confirmed
+  the most recent successful deployment (2026-08-05T21:54:47Z) points at
+  `claude/epic-brahmagupta-g1y16m` (sha `ec432b3`), (3) fetched that
+  branch and `claude/daily-2026-08-05` and confirmed their tips are
+  byte-identical commits — so `epic-brahmagupta-g1y16m` (through 08-05,
+  Day 27, Hexagram 27) needed no reconciliation from any sibling branch,
+  only today's actual daily content. Only then branched
+  `claude/daily-2026-08-06` from that tip (`git checkout -B
+  claude/daily-2026-08-06 origin/claude/epic-brahmagupta-g1y16m`),
+  discarding the stale local starting point entirely. Added Spanish Day 28
+  (el subjuntivo con duda/negación/expresiones impersonales — a second
+  major subjunctive-trigger family beyond yesterday's wish-verbs: the
+  creer que/no creer que indicative-vs-subjunctive flip, dudar que taking
+  the subjunctive in both polarities, es/no es cierto que's parallel flip,
+  impersonal es posible/probable que, and the colloquial trap that "a lo
+  mejor" — despite meaning almost the same as es posible que — takes the
+  indicative by native-speaker convention rather than the subjunctive the
+  pattern would predict), Hexagram 28 (大過 Dà Guò, Preponderance of the
+  Great — the King Wen Sequence's natural follow-on from yesterday's
+  Hexagram 27 Yí, per the Xugua commentary "頤者,養也。不養則不可動,故受
+  之以大過," continuing yesterday's logic that nourishment eventually
+  produces the strength to act, and that such action sometimes must
+  exceed ordinary measure to meet an extraordinary situation — visually
+  reinforced by the hexagram's own top-heavy shape, four yang lines
+  packed between two weak yin ends, echoing the Judgment's "棟橈," a
+  ridgepole sagging under its own concentrated strength), Bolivia (the
+  first Section 5 entry chosen for having two capitals, one of the
+  world's largest lithium reserves, and a documented history of frequent
+  changes of government, continuing to rotate across small/landlocked/
+  historically distinctive states rather than repeating a region),
+  傻眼貓咪/"Blank, Stunned Cat" (first Section 6 entry whose viral trigger
+  was a real 2017 Taiwanese drug-bust news story rather than a joke,
+  image, or video format, and the first Section 6 subject that is a
+  spoken/typed catchphrase rather than an image macro), Swan Lake (first
+  Section 7 entry from Western classical ballet rather than a film or an
+  Asian traditional performing art, chosen deliberately to diversify after
+  seven consecutive East/South-Asian traditional-performing-art or
+  landmark-film picks), and The Gaze / Spectatorship Theory as Section 8's
+  fourteenth film-analysis lesson (worked through Vertigo's green-neon
+  hotel-room transformation scene, chosen because it is the single
+  sequence most cited in Laura Mulvey's own gaze-theory scholarship, and
+  deliberately paired as a psychological/ideological counterpart to
+  Lesson 11's long-take lesson since both readings turn on what a single
+  sustained camera movement is actually doing). Market/dev-news sections
+  used live `WebSearch` results (US Wednesday 08-05: Dow -0.85% (-464.02)
+  to 53,885.00, S&amp;P 500 -0.18% to 7,709.96, Nasdaq -0.06% to 26,348.35,
+  ending the Dow's five-session record-close streak on Strait-of-Hormuz-
+  linked oil-price swings; Asia: Nikkei +3.66% to 66,300.44, TOPIX +2.13%
+  to 4,046.17, Shanghai +1.47%, Hang Seng +0.24%; Taiwan: TAIEX +2.88% to
+  44,611.6 reclaiming 44,000 on ~NT$1.14T turnover with a third-largest-
+  ever single-day foreign net buy of NT$90.308B, TSMC +3.66% to NT$2,405;
+  dev news: iOS 26.6 as one of the last point releases before iOS 27,
+  the new "Apple Upgrade" Klarna-backed leasing program, continued
+  Siri AI/Gemini-foundation-model follow-up coverage, Android 17's August
+  Pixel security update patching CVE-2026-0163, and Flutter 3.44's
+  AI-forward release with GenUI SDK and Flutter AI Toolkit v1.0) — note a
+  data-quality flag for a future run: this run's fresh `WebSearch` results
+  for "August 5" closing figures (Dow -0.85% to 53,885.00, explicitly tied
+  to a CNBC headline about ending a "5-day win streak") directly
+  contradict the *previous* day's logged entry above, which recorded
+  "US Wednesday 08-05: Dow +0.49% to a third-straight record close of
+  54,349.00" — the two cannot both be the actual 08-05 close for the same
+  index. This run judged the -0.85%/53,885.00 figure more reliable because
+  multiple independently-dated 08-05 articles (CNBC, Yahoo Finance,
+  Washington Post, TheStreet) converged on it and its "streak-ending"
+  narrative is internally consistent with three prior days' logged record
+  closes, whereas the 08-05 entry's own text already flagged unresolved
+  uncertainty sourcing that day's numbers; this is now the second
+  consecutive day this log has had to flag exactly this kind of
+  same-date US-market-figure inconsistency in `WebSearch` results — a
+  future run with a reliable, unambiguously-dated historical-data source
+  should prefer it outright over synthesized search-engine summaries for
+  this section. Fast-forward merged `claude/daily-2026-08-06` into
+  `claude/epic-brahmagupta-g1y16m` and pushed. **The underlying
+  trigger/session bug is still unresolved** (this is the twenty-third
+  occurrence of a fresh/stale starting branch, 07-09 through 08-06 missing
   only 07-08 and — with no recoverable content — 07-18); the recovery
   procedure continues to converge on the correct branch every time with no
   content loss or duplication, but a human still needs to fix the Routine's
