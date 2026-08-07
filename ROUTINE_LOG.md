@@ -138,6 +138,7 @@ the repo so a permanent link can be shared.
 | 2026-08-04 | 26 | 祈使語氣否定命令式(El Imperativo Negativo) | Unlike affirmative commands, ALL negative commands (tú and usted alike) borrow the present subjunctive form; regular usted negative commands look identical to affirmative usted commands (no hable/coma/escriba), but regular tú negative commands are brand-new forms that must NOT reuse the affirmative tú command (no hables/comas/escribas, not "no habla/come/escribe"); the eight affirmative-irregular tú commands (di/haz/ve/pon/sal/sé/ten/ven) are replaced by subjunctive forms built from the irregular yo-stem (no digas/hagas/pongas/salgas/tengas/vengas), with ir/ser as the two true exceptions (no vayas/seas); object/reflexive pronouns also flip from after the verb (affirmative) to before it (negative) | spanish-lessons/day-26.html |
 | 2026-08-05 | 27 | 虛擬式現在式入門(El Presente de Subjuntivo) | The mood underlying Days 25-26's commands, formally named and generalized: regular verbs take the same "opposite vowel" endings already seen in commands (-ar→-e/-es/-e/-emos/-en; -er/-ir→-a/-as/-a/-amos/-an), with yo and él/ella always identical (unlike the indicative); any indicative irregular yo-stem (tengo, hago) carries through every subjunctive person; first use taught: querer/esperar que + subjunctive to express a wish about a *different* subject's action, contrasted with querer + infinitive when wisher and doer are the same person | spanish-lessons/day-27.html |
 | 2026-08-06 | 28 | 虛擬式現在式:懷疑、否定與非人稱表達(El Subjuntivo con Duda, Negación y Expresiones Impersonales) | Second major subjunctive trigger family: creer que + indicative when affirmative but no creer que + subjunctive when negated (same flip for es/no es cierto-verdad que); dudar que takes the subjunctive in both affirmative and negative form since doubt itself is inherently uncertain; impersonal es posible/probable que + subjunctive; colloquial exception flagged: a lo mejor ("maybe") conventionally takes the *indicative* despite meaning almost the same as es posible que | spanish-lessons/day-28.html |
+| 2026-08-07 | 29 | 虛擬式現在式:情感表達(El Subjuntivo con Expresiones de Emoción) | Third major subjunctive trigger family (emotion), which works on different logic than Day 28's doubt: alegrarse de que, sentir que, sorprender, es una lástima que, and temer que all take the subjunctive even when the embedded clause is a fact the speaker is fully certain of, because the subjunctive here marks emotional commentary/reaction rather than new asserted information; sorprender/encantar/molestar reuse Day 15's "backwards" gustar-pattern grammar; introduced the WEIRDO mnemonic (Wishes/Emotions/Impersonal/Recommendations/Doubt/Ojalá) to frame Days 27-29 within the larger subjunctive-trigger taxonomy | spanish-lessons/day-29.html |
 
 Note: a duplicate "Day 2" lesson (ser/¿De dónde eres?, i.e. the same topic
 as Day 5) was independently produced on 2026-07-14 on an orphaned branch
@@ -177,6 +178,7 @@ continues from Day 6.
 | 2026-08-04 | 26 | 大畜 (Dà Chù) — The Taming Power of the Great |
 | 2026-08-05 | 27 | 頤 (Yí) — Nourishment / The Corners of the Mouth |
 | 2026-08-06 | 28 | 大過 (Dà Guò) — Preponderance of the Great / Great Exceeding |
+| 2026-08-07 | 29 | 坎 (Kǎn) — The Abysmal / Water |
 
 Note: a duplicate Hexagram 2 (坤 Kūn) was also independently produced on
 2026-07-14 on the same orphaned branch, for the same reason. Hexagram 7
@@ -209,6 +211,7 @@ above correctly continues from Hexagram 6.
 | 2026-08-04 | Ethiopia (衣索比亞) |
 | 2026-08-05 | Armenia (亞美尼亞) |
 | 2026-08-06 | Bolivia (玻利維亞) |
+| 2026-08-07 | Jordan (約旦) |
 
 ## Internet Meme Spotlights Featured
 
@@ -237,6 +240,7 @@ above correctly continues from Hexagram 6.
 | 2026-08-04 | Stonks |
 | 2026-08-05 | "Karen" |
 | 2026-08-06 | 傻眼貓咪 (Blank/Stunned Cat, Taiwan) |
+| 2026-08-07 | 藍瘦香菇 (Lán Shòu Xiāng Gū, mainland China) |
 
 ## Film / Performing Arts Spotlights Featured
 
@@ -263,6 +267,7 @@ and never repeat a subject already listed.
 | 2026-08-04 | Butoh (舞踏, Japan) |
 | 2026-08-05 | The Battle of Algiers (大戰阿爾及爾, 1966, dir. Gillo Pontecorvo) |
 | 2026-08-06 | Swan Lake (天鵝湖, ballet, 1877/1895; music by Tchaikovsky, choreography by Petipa & Ivanov) |
+| 2026-08-07 | Metropolis (大都會, 1927, dir. Fritz Lang) |
 
 ## Film-Appreciation / Criticism Method Lessons
 
@@ -291,6 +296,7 @@ table and pick one not yet covered.
 | 2026-08-04 | Performance / Acting Analysis (naturalism vs. stylization, internal vs. external technique, micro-behavior in wordless moments, vocal control and its breakdown, physical transformation, and how camera distance scales a performance) | There Will Be Blood (2007, dir. Paul Thomas Anderson) — the bowling-alley finale, where Daniel Day-Lewis's Daniel Plainview moves from controlled, mocking menace ("I drink your milkshake") to genuine unraveling rage, tracked through vocal disintegration and escalating physical aggression across extended, minimally-cut takes that force the performance itself to carry the scene |
 | 2026-08-05 | Genre & Convention Analysis (reading a film against the accumulated iconography/tropes of its whole genre — does it satisfy, subvert, or hybridize genre expectations, and what ideology rides along with the convention itself) | Unforgiven (1992, dir. Clint Eastwood) — the final showdown at Skinny's saloon, which quotes every iconographic beat of the classical Western gunfight (aging gunslinger, walk into the saloon, drawn pistol) but stages it at night in rain and lamplight with a graceless, morally ugly kill rather than a cleansing catharsis, using the audience's genre literacy to indict the Western's traditional "righteous violence" mythology |
 | 2026-08-06 | The Gaze / Spectatorship Theory (Laura Mulvey's "male gaze": whose eyes the camera borrows, whether the plot's engine is the act of looking itself, whether the audience's gaze is aligned with or exposed apart from a character's, and whose point-of-view is withheld) | Vertigo (1958, dir. Alfred Hitchcock) — the hotel-room transformation scene, an unbroken 360-degree pan around Scottie and Judy's kiss under green neon light, staged entirely around Scottie's obsessive look with no comparable POV given to Judy, dissolving mid-turn into the earlier scene of Madeleine's death to visually enact his desire to merge the woman in front of him with his memory |
+| 2026-08-07 | Camera Movement (naming pan/tilt/dolly-tracking/crane/Steadicam/zoom precisely, then asking whether a movement is motivated or unmotivated, whether it reveals new space or is purely expressive, and whether it's meant to be invisible continuity-style or foregrounded as an authorial gesture — distinct from Day 3's light/colour-focused cinematography lesson and Day 8's static-frame composition lesson) | Goodfellas (1990, dir. Martin Scorsese) — the unbroken ~3-minute Steadicam tracking shot following Henry and Karen through the Copacabana's back kitchen entrance into the main showroom, where the physically motivated (they're really walking that route) yet purely expressive glide delivers the seductive "having pull" fantasy of mob life directly through unbroken movement before any dialogue states it |
 
 ## Run Notes
 
@@ -1380,5 +1386,83 @@ table and pick one not yet covered.
   only 07-08 and — with no recoverable content — 07-18); the recovery
   procedure continues to converge on the correct branch every time with no
   content loss or duplication, but a human still needs to fix the Routine's
+  persistent-session/branch-targeting configuration to stop it from
+  recurring daily.
+- **2026-08-07 — branch-divergence bug recurred again (twenty-fourth
+  occurrence); recovered per the documented procedure, zero content
+  loss.** This session started on `claude/bold-goldberg-dsdpp7`, a branch
+  containing no daily-briefing history at all (confirming the bug is
+  still live). Followed the recovery procedure: (1) listed all `claude/*`
+  branches via the GitHub API, (2) confirmed via
+  `GET /repos/lebonthe/ClaudeRoutineTest/deployments?environment=github-pages`
+  that the most recent successful deployment (2026-08-06T21:55:29Z)
+  points at `claude/epic-brahmagupta-g1y16m` (sha `3db67f0`), matching
+  `claude/daily-2026-08-06`'s tip exactly, and (3) confirmed via
+  `index.html` on that branch that its table runs continuously through
+  2026-08-06 (Day 28, Hexagram 28) with no gaps needing reconciliation
+  from any sibling branch. Branched `claude/daily-2026-08-07` directly
+  from `origin/claude/epic-brahmagupta-g1y16m`, discarding the stale
+  local starting point entirely. Added Spanish Day 29 (el subjuntivo con
+  expresiones de emoción — the third major subjunctive-trigger family,
+  distinguished from Day 28's doubt-trigger logic because emotion
+  triggers like alegrarse de que/sentir que/sorprender/es una lástima
+  que/temer que require the subjunctive even when the embedded fact is
+  something the speaker is completely certain of, since the subjunctive
+  here marks emotional commentary rather than asserted new information;
+  introduced the WEIRDO mnemonic to frame Days 27-29 within the full
+  subjunctive-trigger taxonomy), Hexagram 29 (坎 Kǎn, The Abysmal/Water —
+  the King Wen Sequence's natural follow-on from Hexagram 28 per the
+  Xugua commentary "物不可以終過,故受之以坎," reasoning that something
+  stretched to "great exceeding" cannot sustain that extremity forever
+  and collapses into danger; its doubled-trigram "pit within a pit"
+  structure visually reinforces the Image commentary's teaching that
+  recurring danger calls for cultivated, habitual sincerity rather than a
+  single heroic act), Jordan (chosen to diversify Section 5 into the
+  Levant/Middle East for the first time, and for its distinctive
+  Hashemite-dynasty history, near-total water scarcity, and one of the
+  world's highest refugee-to-population ratios), 藍瘦香菇/"Lán Shòu Xiāng
+  Gū" (first Section 6 entry sourced from mainland Chinese internet
+  culture specifically, chosen because it was already named in
+  yesterday's 傻眼貓咪 entry as a direct lineage predecessor, and because
+  its origin — a genuine Guangxi-accent mishearing rather than a
+  deliberate joke, image, or video format — parallels 傻眼貓咪's own
+  unusual real-world origin story), Metropolis (chosen over Vertigo for
+  Section 7 specifically to avoid redundancy with Vertigo's extensive
+  Section 8 write-up just one day earlier on 2026-08-06; deliberately
+  diversifies Section 7 into German Expressionist silent-era sci-fi after
+  six consecutive entries split between Western sound-era classics and
+  Asian traditional performing arts), and Camera Movement as Section 8's
+  fifteenth film-analysis lesson (worked through Goodfellas' unbroken
+  Copacabana Steadicam tracking shot, chosen as a lens explicitly
+  distinguished from Day 3's light-focused cinematography lesson and Day
+  8's static-frame composition lesson, and its dolly-zoom sub-concept
+  deliberately left as a one-line cross-reference to Vertigo rather than
+  a full re-treatment, to avoid recycling yesterday's example film).
+  Market/dev-news sections again used live `WebSearch` results, and again
+  hit the same recurring same-date-figure inconsistency flagged on
+  2026-08-05 and 2026-08-06: independently-phrased queries for "August 6
+  close" returned two different, mutually exclusive sets of numbers (Dow
+  +263.24 to 54,349.12 vs. Dow -464.02 to 53,885.00 — the latter figure
+  is actually 2026-08-05's already-logged close, recycled under an "Aug 6"
+  headline by at least one source), and Taiwan's August 7 TAIEX close was
+  reported as both -214.9 points/44,396.7 and -170.79 points/44,225.91 by
+  different wire services. This run used the figure most consistently
+  repeated across independently-worded queries for the specific date in
+  question and flagged the discrepancy inline in the briefing itself
+  rather than silently picking one; a future run with a reliable,
+  unambiguously-dated historical-data source (rather than synthesized
+  search-engine summaries) should still resolve this properly. Direct
+  `WebFetch`/`curl` access to individual news sites (Yahoo Finance,
+  Washington Post, Focus Taiwan, STL.News) was blocked outright by the
+  network egress proxy in this session — only the `WebSearch` tool's own
+  synthesized summaries were reachable, which is the proximate cause of
+  the recurring date-mislabeling problem, since there was no way to
+  cross-check a snippet against its actual source article. Fast-forward
+  merged `claude/daily-2026-08-07` into `claude/epic-brahmagupta-g1y16m`
+  and pushed. **The underlying trigger/session bug is still unresolved**
+  (twenty-fourth occurrence, 07-09 through 08-07 missing only 07-08 and —
+  with no recoverable content — 07-18); the recovery procedure continues
+  to converge on the correct branch every time with no content loss or
+  duplication, but a human still needs to fix the Routine's
   persistent-session/branch-targeting configuration to stop it from
   recurring daily.
