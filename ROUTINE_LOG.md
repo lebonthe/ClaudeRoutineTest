@@ -139,6 +139,7 @@ the repo so a permanent link can be shared.
 | 2026-08-05 | 27 | 虛擬式現在式入門(El Presente de Subjuntivo) | The mood underlying Days 25-26's commands, formally named and generalized: regular verbs take the same "opposite vowel" endings already seen in commands (-ar→-e/-es/-e/-emos/-en; -er/-ir→-a/-as/-a/-amos/-an), with yo and él/ella always identical (unlike the indicative); any indicative irregular yo-stem (tengo, hago) carries through every subjunctive person; first use taught: querer/esperar que + subjunctive to express a wish about a *different* subject's action, contrasted with querer + infinitive when wisher and doer are the same person | spanish-lessons/day-27.html |
 | 2026-08-06 | 28 | 虛擬式現在式:懷疑、否定與非人稱表達(El Subjuntivo con Duda, Negación y Expresiones Impersonales) | Second major subjunctive trigger family: creer que + indicative when affirmative but no creer que + subjunctive when negated (same flip for es/no es cierto-verdad que); dudar que takes the subjunctive in both affirmative and negative form since doubt itself is inherently uncertain; impersonal es posible/probable que + subjunctive; colloquial exception flagged: a lo mejor ("maybe") conventionally takes the *indicative* despite meaning almost the same as es posible que | spanish-lessons/day-28.html |
 | 2026-08-07 | 29 | 虛擬式現在式:情感表達(El Subjuntivo con Expresiones de Emoción) | Third major subjunctive trigger family (emotion), which works on different logic than Day 28's doubt: alegrarse de que, sentir que, sorprender, es una lástima que, and temer que all take the subjunctive even when the embedded clause is a fact the speaker is fully certain of, because the subjunctive here marks emotional commentary/reaction rather than new asserted information; sorprender/encantar/molestar reuse Day 15's "backwards" gustar-pattern grammar; introduced the WEIRDO mnemonic (Wishes/Emotions/Impersonal/Recommendations/Doubt/Ojalá) to frame Days 27-29 within the larger subjunctive-trigger taxonomy | spanish-lessons/day-29.html |
+| 2026-08-08 | 30 | 虛擬式現在式:建議、請求與必要性表達(El Subjuntivo con Recomendaciones, Peticiones y Necesidad) | Fourth major subjunctive trigger family (recommendations/requests, plus impersonal necessity): recomendar/sugerir/pedir/exigir que share Day 27's two-subject structure but mark active influence over another's behavior rather than a mere wish; es necesario/importante que extends Day 28's impersonal-expression category from possibility to necessity; sharpest trap is decir que, which takes the indicative when reporting a fact (Le digo que viene) but the subjunctive when giving an order (Le digo que venga), since it then functions as pedir; WEIRDO mnemonic now covers five of six categories (W/E/I/R/D), leaving only Ojalá for a future lesson | spanish-lessons/day-30.html |
 
 Note: a duplicate "Day 2" lesson (ser/¿De dónde eres?, i.e. the same topic
 as Day 5) was independently produced on 2026-07-14 on an orphaned branch
@@ -179,6 +180,7 @@ continues from Day 6.
 | 2026-08-05 | 27 | 頤 (Yí) — Nourishment / The Corners of the Mouth |
 | 2026-08-06 | 28 | 大過 (Dà Guò) — Preponderance of the Great / Great Exceeding |
 | 2026-08-07 | 29 | 坎 (Kǎn) — The Abysmal / Water |
+| 2026-08-08 | 30 | 離 (Lí) — The Clinging / Fire |
 
 Note: a duplicate Hexagram 2 (坤 Kūn) was also independently produced on
 2026-07-14 on the same orphaned branch, for the same reason. Hexagram 7
@@ -212,6 +214,7 @@ above correctly continues from Hexagram 6.
 | 2026-08-05 | Armenia (亞美尼亞) |
 | 2026-08-06 | Bolivia (玻利維亞) |
 | 2026-08-07 | Jordan (約旦) |
+| 2026-08-08 | Papua New Guinea (巴布亞紐幾內亞) |
 
 ## Internet Meme Spotlights Featured
 
@@ -241,6 +244,7 @@ above correctly continues from Hexagram 6.
 | 2026-08-05 | "Karen" |
 | 2026-08-06 | 傻眼貓咪 (Blank/Stunned Cat, Taiwan) |
 | 2026-08-07 | 藍瘦香菇 (Lán Shòu Xiāng Gū, mainland China) |
+| 2026-08-08 | Harambe |
 
 ## Film / Performing Arts Spotlights Featured
 
@@ -268,6 +272,7 @@ and never repeat a subject already listed.
 | 2026-08-05 | The Battle of Algiers (大戰阿爾及爾, 1966, dir. Gillo Pontecorvo) |
 | 2026-08-06 | Swan Lake (天鵝湖, ballet, 1877/1895; music by Tchaikovsky, choreography by Petipa & Ivanov) |
 | 2026-08-07 | Metropolis (大都會, 1927, dir. Fritz Lang) |
+| 2026-08-08 | In the Mood for Love (花樣年華, 2000, dir. Wong Kar-wai) |
 
 ## Film-Appreciation / Criticism Method Lessons
 
@@ -297,6 +302,7 @@ table and pick one not yet covered.
 | 2026-08-05 | Genre & Convention Analysis (reading a film against the accumulated iconography/tropes of its whole genre — does it satisfy, subvert, or hybridize genre expectations, and what ideology rides along with the convention itself) | Unforgiven (1992, dir. Clint Eastwood) — the final showdown at Skinny's saloon, which quotes every iconographic beat of the classical Western gunfight (aging gunslinger, walk into the saloon, drawn pistol) but stages it at night in rain and lamplight with a graceless, morally ugly kill rather than a cleansing catharsis, using the audience's genre literacy to indict the Western's traditional "righteous violence" mythology |
 | 2026-08-06 | The Gaze / Spectatorship Theory (Laura Mulvey's "male gaze": whose eyes the camera borrows, whether the plot's engine is the act of looking itself, whether the audience's gaze is aligned with or exposed apart from a character's, and whose point-of-view is withheld) | Vertigo (1958, dir. Alfred Hitchcock) — the hotel-room transformation scene, an unbroken 360-degree pan around Scottie and Judy's kiss under green neon light, staged entirely around Scottie's obsessive look with no comparable POV given to Judy, dissolving mid-turn into the earlier scene of Madeleine's death to visually enact his desire to merge the woman in front of him with his memory |
 | 2026-08-07 | Camera Movement (naming pan/tilt/dolly-tracking/crane/Steadicam/zoom precisely, then asking whether a movement is motivated or unmotivated, whether it reveals new space or is purely expressive, and whether it's meant to be invisible continuity-style or foregrounded as an authorial gesture — distinct from Day 3's light/colour-focused cinematography lesson and Day 8's static-frame composition lesson) | Goodfellas (1990, dir. Martin Scorsese) — the unbroken ~3-minute Steadicam tracking shot following Henry and Karen through the Copacabana's back kitchen entrance into the main showroom, where the physically motivated (they're really walking that route) yet purely expressive glide delivers the seductive "having pull" fantasy of mob life directly through unbroken movement before any dialogue states it |
+| 2026-08-08 | Depth of Field & Focus (deep focus vs. shallow focus vs. rack focus; what is kept legible vs. deliberately obscured, whether a focus shift is a reveal or an emotional pivot, and whether the frame's depth of field matches how much control/clarity the scene grants its characters — distinct from Day 3's light/colour-focused cinematography lesson) | E.T. the Extra-Terrestrial (1982, dir. Steven Spielberg, cinematography by Allen Daviau) — the toolshed reveal, where a rack focus pulls sharpness away from heavily blurred foreground cornstalks onto E.T.'s previously illegible silhouette, delivering the reveal through focus alone (no cut, no camera movement) and keeping the audience locked into Elliott's exact gradual, childlike rate of discovery |
 
 ## Run Notes
 
@@ -1461,6 +1467,81 @@ table and pick one not yet covered.
   merged `claude/daily-2026-08-07` into `claude/epic-brahmagupta-g1y16m`
   and pushed. **The underlying trigger/session bug is still unresolved**
   (twenty-fourth occurrence, 07-09 through 08-07 missing only 07-08 and —
+  with no recoverable content — 07-18); the recovery procedure continues
+  to converge on the correct branch every time with no content loss or
+  duplication, but a human still needs to fix the Routine's
+  persistent-session/branch-targeting configuration to stop it from
+  recurring daily.
+- **2026-08-08 — branch-divergence bug recurred again (twenty-fifth
+  occurrence); recovered per the documented procedure, zero content
+  loss.** This session's designated starting branch,
+  `claude/bold-goldberg-rqnfs9`, did not exist at all on the remote (404
+  on lookup) — confirming the routine is still not resuming one
+  persistent session/branch across days. Followed the recovery procedure
+  before writing anything: (1) listed all `claude/*` branches via the
+  GitHub API, (2) confirmed via GitHub Actions' `pages-build-deployment`
+  workflow runs (used in place of the deployments API, which returned no
+  direct tool) that the most recent successful Pages deployment
+  (2026-08-07T21:53:14Z) points at `claude/epic-brahmagupta-g1y16m`
+  (sha `7b2f251`), matching `claude/daily-2026-08-07`'s tip exactly, and
+  (3) confirmed via `index.html` and this log on that branch that the
+  table runs continuously through 2026-08-07 (Day 29, Hexagram 29) with
+  no gaps needing reconciliation from any sibling branch — all `claude/
+  daily-YYYY-MM-DD` branches from 07-20 through 08-07 were present and
+  each matched the portal's own history at that date, so no divergent
+  branch was further ahead and no reconciliation merge was needed this
+  time, only the routine catch-up read. Branched `claude/daily-2026-08-08`
+  directly from `origin/claude/epic-brahmagupta-g1y16m`, ignoring the
+  nonexistent designated branch entirely. Added Spanish Day 30 (el
+  subjuntivo con recomendaciones, peticiones y necesidad — the fourth
+  major subjunctive-trigger family, extending Day 27's wish-verb logic
+  into active attempts to influence someone else's behavior via
+  recomendar/sugerir/pedir/exigir que, plus extending Day 28's impersonal
+  expressions from possibility into necessity via es necesario/importante
+  que; centerpiece grammar trap is decir que's dual mood depending on
+  whether it reports a fact or gives an order — WEIRDO now covers five of
+  six categories, leaving only Ojalá), Hexagram 30 (離 Lí, The Clinging/
+  Fire — the King Wen Sequence's natural follow-on from Hexagram 29 per
+  the Xugua commentary "陷必有所麗,故受之以離," reasoning that falling
+  into a pit requires clinging to something to escape it, and notable as
+  the second of only two "doubled single trigram" hexagrams in the Upper
+  Canon besides Hexagram 29 itself — together with Hexagrams 1 and 2, one
+  of just four such "pure" hexagrams in the full 64; also flagged that
+  Hexagram 30 closes the Upper Canon (上經, hexagrams 1-30) on a
+  deliberate water/fire elemental balance before the Lower Canon opens at
+  Hexagram 31 with the shift to human-relationship themes), Papua New
+  Guinea (chosen for Section 5 as the most linguistically diverse country
+  on Earth — over 840 living languages — and for its scale-by-comparison
+  story of being ~13x Taiwan's land area while still being colonized in
+  two halves by two different European powers), Harambe (first Section 6
+  entry sourced from English-language/Western internet culture in several
+  days, chosen as a case study in a real tragedy being absorbed and
+  flattened into ironic meme material, distinct from the doubt/negation-
+  triggered dialect-accident memes of the two preceding days), In the
+  Mood for Love (chosen for Section 7 to diversify into Hong Kong/
+  Wong Kar-wai arthouse cinema, a national/directorial tradition not yet
+  covered in this series), and Depth of Field & Focus as Section 8's
+  sixteenth film-analysis lesson (worked through E.T.'s toolshed rack-
+  focus reveal, chosen as a lens explicitly distinguished from Day 3's
+  light/colour-focused cinematography lesson and Day 1's passing,
+  unnamed use of deep focus in the Citizen Kane example). Market/dev-news
+  sections used live `WebSearch` results for the most recent trading
+  session (Friday, August 7, since US/Asia/Taiwan markets are closed over
+  the weekend for this Saturday, August 8 briefing): US S&P 500 +0.62% to
+  a record 7,757.64, Nasdaq +1.3% to 26,690.62, Dow +151.83 (+0.28%) to
+  54,036.93 on a surprise July jobs-loss report easing rate-hike fears;
+  Asia mixed (Nikkei -0.12% to 65,606.71, Hang Seng +0.54% to 25,668.03,
+  Shanghai Composite +1.02% to ~3,940.04); Taiwan's TAIEX down, with two
+  still-unreconciled figures in circulation (-170.79pts/44,225.91 vs.
+  -214.9pts/44,396.7 — the same discrepancy already flagged in the
+  08-07 entry above, now confirmed to persist a day later with the same
+  two figures still both in circulation), TSMC bucking the index at
+  NT$2,370 (+5); dev news noted as continuation coverage of already-
+  announced iOS 27/Android 17/Flutter releases rather than a new product
+  event specific to this date. Fast-forward merged
+  `claude/daily-2026-08-08` into `claude/epic-brahmagupta-g1y16m` and
+  pushed. **The underlying trigger/session bug is still unresolved**
+  (twenty-fifth occurrence, 07-09 through 08-08 missing only 07-08 and —
   with no recoverable content — 07-18); the recovery procedure continues
   to converge on the correct branch every time with no content loss or
   duplication, but a human still needs to fix the Routine's
