@@ -1472,6 +1472,87 @@ table and pick one not yet covered.
   duplication, but a human still needs to fix the Routine's
   persistent-session/branch-targeting configuration to stop it from
   recurring daily.
+- **2026-08-09 — branch-divergence bug recurred again (twenty-sixth
+  occurrence); recovered per the documented procedure, zero content
+  loss.** This session's designated starting branch,
+  `claude/bold-goldberg-eczwiq`, did not exist at all on the remote (a
+  `git ls-remote` lookup returned nothing) — confirming the routine is
+  still not resuming one persistent session/branch across days. Followed
+  the recovery procedure before writing anything: (1) listed all
+  `claude/*` branches via the GitHub API's `list_branches` tool — 35
+  branches total, including all `claude/daily-YYYY-MM-DD` branches from
+  07-20 through 08-08 plus a scatter of stale `claude/epic-brahmagupta-*`,
+  `claude/happy-newton-*`, and `claude/gracious-ramanujan-*` branches;
+  (2) queried `GET /repos/.../deployments?environment=github-pages`
+  directly via `curl` (this endpoint worked fine this time, unlike prior
+  days' notes about it returning no direct tool — a plain authenticated
+  REST call through the sandboxed proxy sufficed) and confirmed the most
+  recent successful deployment (`state: success`, 2026-08-08T22:00:20Z)
+  points at `claude/epic-brahmagupta-g1y16m` (sha `4376b25`), matching
+  `claude/daily-2026-08-08`'s tip exactly; (3) fetched every
+  `claude/epic-brahmagupta-*`, `claude/happy-newton-*`, and
+  `claude/gracious-ramanujan-*` branch and compared `briefings/` and
+  `spanish-lessons/` file counts against the portal — all of them topped
+  out at 10 briefings or fewer (long-abandoned forks from mid-July),
+  while the portal branch itself carries 31 briefings and 30 Spanish
+  lessons with a continuous, gap-free table through 2026-08-08 (Day 30,
+  Hexagram 30) — so no sibling branch was further ahead and no
+  reconciliation merge was needed, only the routine catch-up read.
+  Branched `claude/daily-2026-08-09` directly from
+  `origin/claude/epic-brahmagupta-g1y16m`, ignoring the nonexistent
+  designated branch entirely. Added Spanish Day 31 (Ojalá que +
+  subjuntivo — the sixth and final WEIRDO trigger category, completing
+  the acronym; centerpiece is Ojalá's own grammatical oddity as a fixed,
+  non-conjugating exclamation borrowed from Arabic "law shā' allāh" rather
+  than a true verb, plus a forward-pointer to the not-yet-taught
+  imperfect subjunctive's ability to flip the same word from a hopeful
+  future wish into a contrary-to-fact regret), Hexagram 31 (咸 Xián,
+  Influence/Wooing — the opening hexagram of the Lower Canon (下經,
+  hexagrams 31-64), chosen per the Xugua commentary's famous cosmological
+  chain of reasoning ("有天地然後有萬物...") that grounds all human social
+  and political order in the male-female relationship, marking the
+  book's thematic pivot from cosmic/natural forces in the Upper Canon to
+  human relationships in the Lower Canon), Timor-Leste (chosen for
+  Section 5 as the first new sovereign state of the 21st century, with a
+  scale-by-comparison story of being roughly 40% of Taiwan's land area,
+  and for the historical throughline of Ramos-Horta and Xanana Gusmão —
+  the two most prominent architects of its 1975/1999-2002 independence
+  struggle — still co-leading the country as president and prime
+  minister decades later), Salt Bae (a 2017 Turkish-chef viral video
+  chosen for Section 6 to diversify away from the recent run of
+  doubt/negation-dialect and tragedy-turned-irony memes into a
+  showmanship/flex-gesture meme with its own wealth-satire evolution),
+  Commedia dell'arte (chosen for Section 7 to add a Western
+  improvisational theatre tradition, balancing the run's recent heavy
+  concentration on Asian traditional performing arts (Noh, Kabuki,
+  Bunraku, Peking Opera, Kathakali, Butoh) and two films in a row), and
+  Continuity Editing & the 180-Degree Rule / Shot-Reverse-Shot as
+  Section 8's seventeenth film-analysis lesson (worked through The
+  Silence of the Lambs' near-camera-eyeline interrogation scenes,
+  chosen as a lens explicitly distinguished from Day 2's broader
+  editing-for-meaning/montage lesson by focusing specifically on
+  spatial-continuity mechanics). Market/dev-news sections used live
+  `WebSearch` results: since August 9 is a Sunday, US/Asia/Taiwan markets
+  remained closed and carried over Friday, August 7's session exactly as
+  reported in the 08-08 entry (including the still-unreconciled TAIEX
+  figures, -170.79pts/44,225.91 vs. -214.9pts/44,396.7), so this entry's
+  main incremental value was a "week ahead" preview: US July CPI (Wed
+  Aug 12) and PPI (Thu Aug 13) plus retail sales, with the Israel-Iran
+  conflict's disruption of Hormuz/Bab el-Mandeb shipping flagged as an
+  upside risk to those inflation prints, and Taiwanese brokerages
+  recommending a buy-on-dips approach with the TAIEX holding its
+  ~44,000-point support level ahead of the same US data; dev news again
+  noted as continuation coverage of already-announced iOS 27/Android
+  17/Flutter releases, with the Sunday date flagged as a likely reason
+  for even lighter dev-news flow than usual. Fast-forward merged
+  `claude/daily-2026-08-09` into `claude/epic-brahmagupta-g1y16m` and
+  pushed. **The underlying trigger/session bug is still unresolved**
+  (twenty-sixth occurrence, 07-09 through 08-09 missing only 07-08 and —
+  with no recoverable content — 07-18); the recovery procedure continues
+  to converge on the correct branch every time with no content loss or
+  duplication, but a human still needs to fix the Routine's
+  persistent-session/branch-targeting configuration to stop it from
+  recurring daily.
 - **2026-08-08 — branch-divergence bug recurred again (twenty-fifth
   occurrence); recovered per the documented procedure, zero content
   loss.** This session's designated starting branch,
