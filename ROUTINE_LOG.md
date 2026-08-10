@@ -140,6 +140,8 @@ the repo so a permanent link can be shared.
 | 2026-08-06 | 28 | 虛擬式現在式:懷疑、否定與非人稱表達(El Subjuntivo con Duda, Negación y Expresiones Impersonales) | Second major subjunctive trigger family: creer que + indicative when affirmative but no creer que + subjunctive when negated (same flip for es/no es cierto-verdad que); dudar que takes the subjunctive in both affirmative and negative form since doubt itself is inherently uncertain; impersonal es posible/probable que + subjunctive; colloquial exception flagged: a lo mejor ("maybe") conventionally takes the *indicative* despite meaning almost the same as es posible que | spanish-lessons/day-28.html |
 | 2026-08-07 | 29 | 虛擬式現在式:情感表達(El Subjuntivo con Expresiones de Emoción) | Third major subjunctive trigger family (emotion), which works on different logic than Day 28's doubt: alegrarse de que, sentir que, sorprender, es una lástima que, and temer que all take the subjunctive even when the embedded clause is a fact the speaker is fully certain of, because the subjunctive here marks emotional commentary/reaction rather than new asserted information; sorprender/encantar/molestar reuse Day 15's "backwards" gustar-pattern grammar; introduced the WEIRDO mnemonic (Wishes/Emotions/Impersonal/Recommendations/Doubt/Ojalá) to frame Days 27-29 within the larger subjunctive-trigger taxonomy | spanish-lessons/day-29.html |
 | 2026-08-08 | 30 | 虛擬式現在式:建議、請求與必要性表達(El Subjuntivo con Recomendaciones, Peticiones y Necesidad) | Fourth major subjunctive trigger family (recommendations/requests, plus impersonal necessity): recomendar/sugerir/pedir/exigir que share Day 27's two-subject structure but mark active influence over another's behavior rather than a mere wish; es necesario/importante que extends Day 28's impersonal-expression category from possibility to necessity; sharpest trap is decir que, which takes the indicative when reporting a fact (Le digo que viene) but the subjunctive when giving an order (Le digo que venga), since it then functions as pedir; WEIRDO mnemonic now covers five of six categories (W/E/I/R/D), leaving only Ojalá for a future lesson | spanish-lessons/day-30.html |
+| 2026-08-09 | 31 | 虛擬式現在式:Ojalá(但願、希望) | Completes the WEIRDO mnemonic's sixth and final letter: Ojalá (from Arabic "law shā' allāh" via ~800 years of Moorish presence in Iberia) is a fixed, non-conjugating exclamation (unlike every other WEIRDO trigger) always followed by the subjunctive, usable for wishes about oneself, others, or uncontrollable events (weather); que is optional; flagged (not yet taught) that swapping in the imperfect subjunctive lets the same word pivot from a hopeful future wish (Ojalá llueva) to a wistful counterfactual one (Ojalá lloviera) | spanish-lessons/day-31.html |
+| 2026-08-10 | 32 | 虛擬式現在式:時間副詞子句(El Subjuntivo en Cláusulas Adverbiales de Tiempo) | First major subjunctive trigger category outside WEIRDO: cuando/en cuanto/tan pronto como/hasta que take the subjunctive when the clause describes a still-pending future action but the indicative when describing a habitual or already-completed one; antes de que is the sole exception, always taking the subjunctive in every tense since "before X" inherently frames X as not-yet-real; this category marks objective time-relative-to-speech rather than WEIRDO's subjective attitude | spanish-lessons/day-32.html |
 
 Note: a duplicate "Day 2" lesson (ser/¿De dónde eres?, i.e. the same topic
 as Day 5) was independently produced on 2026-07-14 on an orphaned branch
@@ -181,6 +183,8 @@ continues from Day 6.
 | 2026-08-06 | 28 | 大過 (Dà Guò) — Preponderance of the Great / Great Exceeding |
 | 2026-08-07 | 29 | 坎 (Kǎn) — The Abysmal / Water |
 | 2026-08-08 | 30 | 離 (Lí) — The Clinging / Fire |
+| 2026-08-09 | 31 | 咸 (Xián) — Influence / Wooing / Feeling |
+| 2026-08-10 | 32 | 恆 (Héng) — Duration / Perseverance |
 
 Note: a duplicate Hexagram 2 (坤 Kūn) was also independently produced on
 2026-07-14 on the same orphaned branch, for the same reason. Hexagram 7
@@ -215,6 +219,8 @@ above correctly continues from Hexagram 6.
 | 2026-08-06 | Bolivia (玻利維亞) |
 | 2026-08-07 | Jordan (約旦) |
 | 2026-08-08 | Papua New Guinea (巴布亞紐幾內亞) |
+| 2026-08-09 | Timor-Leste (東帝汶) |
+| 2026-08-10 | Madagascar (馬達加斯加) |
 
 ## Internet Meme Spotlights Featured
 
@@ -245,6 +251,8 @@ above correctly continues from Hexagram 6.
 | 2026-08-06 | 傻眼貓咪 (Blank/Stunned Cat, Taiwan) |
 | 2026-08-07 | 藍瘦香菇 (Lán Shòu Xiāng Gū, mainland China) |
 | 2026-08-08 | Harambe |
+| 2026-08-09 | Salt Bae |
+| 2026-08-10 | "Kermit Sipping Tea" / "But That's None of My Business" |
 
 ## Film / Performing Arts Spotlights Featured
 
@@ -273,6 +281,8 @@ and never repeat a subject already listed.
 | 2026-08-06 | Swan Lake (天鵝湖, ballet, 1877/1895; music by Tchaikovsky, choreography by Petipa & Ivanov) |
 | 2026-08-07 | Metropolis (大都會, 1927, dir. Fritz Lang) |
 | 2026-08-08 | In the Mood for Love (花樣年華, 2000, dir. Wong Kar-wai) |
+| 2026-08-09 | Commedia dell'arte (藝術喜劇, Italy) |
+| 2026-08-10 | Wayang Kulit (皮影戲, Indonesia) |
 
 ## Film-Appreciation / Criticism Method Lessons
 
@@ -303,6 +313,8 @@ table and pick one not yet covered.
 | 2026-08-06 | The Gaze / Spectatorship Theory (Laura Mulvey's "male gaze": whose eyes the camera borrows, whether the plot's engine is the act of looking itself, whether the audience's gaze is aligned with or exposed apart from a character's, and whose point-of-view is withheld) | Vertigo (1958, dir. Alfred Hitchcock) — the hotel-room transformation scene, an unbroken 360-degree pan around Scottie and Judy's kiss under green neon light, staged entirely around Scottie's obsessive look with no comparable POV given to Judy, dissolving mid-turn into the earlier scene of Madeleine's death to visually enact his desire to merge the woman in front of him with his memory |
 | 2026-08-07 | Camera Movement (naming pan/tilt/dolly-tracking/crane/Steadicam/zoom precisely, then asking whether a movement is motivated or unmotivated, whether it reveals new space or is purely expressive, and whether it's meant to be invisible continuity-style or foregrounded as an authorial gesture — distinct from Day 3's light/colour-focused cinematography lesson and Day 8's static-frame composition lesson) | Goodfellas (1990, dir. Martin Scorsese) — the unbroken ~3-minute Steadicam tracking shot following Henry and Karen through the Copacabana's back kitchen entrance into the main showroom, where the physically motivated (they're really walking that route) yet purely expressive glide delivers the seductive "having pull" fantasy of mob life directly through unbroken movement before any dialogue states it |
 | 2026-08-08 | Depth of Field & Focus (deep focus vs. shallow focus vs. rack focus; what is kept legible vs. deliberately obscured, whether a focus shift is a reveal or an emotional pivot, and whether the frame's depth of field matches how much control/clarity the scene grants its characters — distinct from Day 3's light/colour-focused cinematography lesson) | E.T. the Extra-Terrestrial (1982, dir. Steven Spielberg, cinematography by Allen Daviau) — the toolshed reveal, where a rack focus pulls sharpness away from heavily blurred foreground cornstalks onto E.T.'s previously illegible silhouette, delivering the reveal through focus alone (no cut, no camera movement) and keeping the audience locked into Elliott's exact gradual, childlike rate of discovery |
+| 2026-08-09 | Continuity Editing & the 180-Degree Rule (Shot/Reverse Shot) (the imaginary axis of action, keeping screen direction consistent across cuts, eyeline matches, and whether the convention is followed invisibly or deliberately bent for unease — distinct from Day 2's broader editing-for-meaning/montage lesson) | The Silence of the Lambs (1991, dir. Jonathan Demme, cinematography by Tak Fujimoto) — the Hannibal Lecter interrogation scenes, where reverse shots align both actors' eyelines almost directly with the lens rather than the usual offset over-the-shoulder angle, keeping the 180-degree axis intact while making the convention itself the source of discomfort |
+| 2026-08-10 | Aspect Ratio & Screen Format as a Storytelling Device (frame shape/width-to-height ratio as connotation before a shot is even composed; boxier ratios for intimacy/confinement vs. wider ratios for scale; the advanced case of a deliberate mid-film ratio change marking a shift in time period — distinct from Day 8's within-frame composition lesson) | The Grand Budapest Hotel (2014, dir. Wes Anderson, cinematography by Robert Yeoman) — three nested time layers each get their own aspect ratio (1.85:1 for the 1985/1968 frame story, 2.35:1 anamorphic for a 1960s middle layer, and boxy 1.37:1 Academy ratio for the 1932 core narrative), letting the frame's shape alone signal which time period the audience is in and reinforcing Anderson's centered symmetrical compositions |
 
 ## Run Notes
 
@@ -1626,5 +1638,92 @@ table and pick one not yet covered.
   with no recoverable content — 07-18); the recovery procedure continues
   to converge on the correct branch every time with no content loss or
   duplication, but a human still needs to fix the Routine's
+  persistent-session/branch-targeting configuration to stop it from
+  recurring daily.
+- **2026-08-10 — branch-divergence bug recurred again (twenty-seventh
+  occurrence); recovered per the documented procedure, zero content
+  loss, plus one prior-day gap discovered and repaired.** This session's
+  designated starting branch, `claude/bold-goldberg-dlhd29`, existed only
+  as a local, untracked branch in the working tree — `git fetch
+  origin claude/bold-goldberg-dlhd29` returned "couldn't find remote ref,"
+  confirming it had never actually been pushed and had no real progress
+  on it (the same pattern as every prior occurrence). Followed the
+  recovery procedure before writing anything: (1) listed all `claude/*`
+  branches via the GitHub API (`list_branches`), (2) since the
+  deployments API returned 403 when fetched directly, used GitHub
+  Actions' `pages-build-deployment` workflow runs instead (same
+  substitute used on 08-08 and 08-09) and confirmed the most recent
+  successful Pages deployment (2026-08-09T21:50:58Z) points at
+  `claude/epic-brahmagupta-g1y16m` (sha `d4f48b9`), matching
+  `claude/daily-2026-08-09`'s tip exactly, and (3) spot-checked the other
+  stale `claude/epic-brahmagupta-*` sibling branches (`is0gmu`, `mgut69`,
+  `nn87ee`, `b9qdr5`) via `list_commits` and confirmed each is frozen at
+  Day 2 content from mid-July — none were further ahead, so no
+  reconciliation merge was needed, only the routine catch-up read. While
+  doing that catch-up read, discovered that the 2026-08-09 run's commit
+  had appended its Run Notes entry but never added its own rows to the
+  six tracking tables above (Spanish Lessons Taught, I Ching Hexagrams
+  Featured, Country/Region Spotlights, Internet Meme Spotlights, Film/
+  Performing Arts Spotlights, Film-Appreciation Method Lessons) — the
+  tables jumped straight from 08-08 to today with 08-09 missing entirely.
+  Backfilled all six tables with the missing 2026-08-09 row (Spanish Day
+  31/Ojalá, Hexagram 31 咸, Timor-Leste, Salt Bae, Commedia dell'arte,
+  film-method lesson 17) before adding today's own rows, so no future run
+  mistakes 08-09's content for already-duplicated when it wasn't tracked.
+  Branched `claude/daily-2026-08-10` directly from
+  `origin/claude/epic-brahmagupta-g1y16m`, ignoring the untracked local
+  branch entirely. Added Spanish Day 32 (el subjuntivo en cláusulas
+  adverbiales de tiempo — cuando/en cuanto/tan pronto como/hasta que
+  switching between subjunctive and indicative depending on whether the
+  clause describes a still-pending future action or an already-real
+  habitual/past one, plus antes de que as the one member of the group
+  that always takes the subjunctive regardless of tense; chosen as the
+  first major subjunctive-trigger category taught outside the now-
+  complete WEIRDO framework, since WEIRDO marks subjective attitude while
+  this marks objective time-relative-to-speech), Hexagram 32 (恆 Héng,
+  Duration/Perseverance — the Xugua commentary's direct pairing with
+  Hexagram 31, "夫婦之道不可以不久也,故受之以恆," reasoning that a
+  married couple's bond must endure long, so Xián's courtship is followed
+  by Héng's duration; also flagged as one of only a few hexagram pairs in
+  the 64 whose meanings are explicitly built on each other rather than
+  standing alone, alongside the final pair 63-64), Madagascar (chosen for
+  Section 5 for its unique-among-Africa Austronesian settlement history
+  and language, plus a scale-by-comparison story of ~16.2x Taiwan's land
+  area and ~90% endemic wildlife from splitting off the continent ~160
+  million years ago), "Kermit Sipping Tea" / "But That's None of My
+  Business" (chosen for Section 6 to diversify into a gossip/shade-
+  themed reaction-image meme, distinct from the recent run of showmanship
+  (Salt Bae) and tragedy-turned-irony (Harambe) memes, with the added
+  narrative hook of its "spill the tea" slang outliving the meme itself
+  in mainstream English), and Wayang Kulit (chosen for Section 7 to add
+  Indonesian shadow-puppet theatre, diversifying the performing-arts pool
+  with a tradition built around two simultaneous audience perspectives —
+  shadow side vs. object side — not seen in any prior entry), and Aspect
+  Ratio & Screen Format as Section 8's eighteenth film-analysis lesson
+  (worked through The Grand Budapest Hotel's three nested aspect ratios
+  marking three time periods, chosen as a lens distinguished from Day
+  8's within-frame framing/composition lesson by focusing on the frame's
+  own shape rather than what's arranged inside it). Market/dev-news
+  sections used live `WebSearch` results for Monday, August 10's own
+  session (the first non-carryover trading day in three briefings): US
+  S&P 500 -0.06% to 7,753.11, Nasdaq -0.32% to 26,605.36, Dow -60.95pts
+  (-0.11%) to 53,975.98 on rising oil prices (Strait of Hormuz shipping
+  concerns) and Intel's $15B stock-offering-driven -4% drop; Asia broadly
+  higher (Nikkei +2.08% to 66,970.22, Hang Seng +1.05% to 25,937.49,
+  Shanghai Composite +0.67% to 3,966.59); Taiwan's TAIEX up sharply, with
+  a minor unreconciled figure (+702pts per one source's headline vs.
+  +703pts/44,929/+1.59% per the fuller report, treated as a rounding
+  discrepancy rather than flagged as a data-quality gap this time), TSMC
+  +NT$10 to NT$2,380; dev news included a live, dated AI-industry item
+  (OpenAI's 31-page motion to dismiss Apple's trade-secrets lawsuit) in
+  addition to the usual iOS 27/Android 17/Flutter continuation coverage,
+  plus TSMC's reported 45% year-on-year July sales jump tying directly
+  into today's Taiwan market strength. Fast-forward merged
+  `claude/daily-2026-08-10` into `claude/epic-brahmagupta-g1y16m` and
+  pushed. **The underlying trigger/session bug is still unresolved**
+  (twenty-seventh occurrence, 07-09 through 08-10 missing only 07-08 and
+  — with no recoverable content — 07-18); the recovery procedure
+  continues to converge on the correct branch every time with no content
+  loss or duplication, but a human still needs to fix the Routine's
   persistent-session/branch-targeting configuration to stop it from
   recurring daily.
