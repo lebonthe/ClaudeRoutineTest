@@ -142,6 +142,7 @@ the repo so a permanent link can be shared.
 | 2026-08-08 | 30 | 虛擬式現在式:建議、請求與必要性表達(El Subjuntivo con Recomendaciones, Peticiones y Necesidad) | Fourth major subjunctive trigger family (recommendations/requests, plus impersonal necessity): recomendar/sugerir/pedir/exigir que share Day 27's two-subject structure but mark active influence over another's behavior rather than a mere wish; es necesario/importante que extends Day 28's impersonal-expression category from possibility to necessity; sharpest trap is decir que, which takes the indicative when reporting a fact (Le digo que viene) but the subjunctive when giving an order (Le digo que venga), since it then functions as pedir; WEIRDO mnemonic now covers five of six categories (W/E/I/R/D), leaving only Ojalá for a future lesson | spanish-lessons/day-30.html |
 | 2026-08-09 | 31 | 虛擬式現在式:Ojalá(但願、希望) | Completes the WEIRDO mnemonic's sixth and final letter: Ojalá (from Arabic "law shā' allāh" via ~800 years of Moorish presence in Iberia) is a fixed, non-conjugating exclamation (unlike every other WEIRDO trigger) always followed by the subjunctive, usable for wishes about oneself, others, or uncontrollable events (weather); que is optional; flagged (not yet taught) that swapping in the imperfect subjunctive lets the same word pivot from a hopeful future wish (Ojalá llueva) to a wistful counterfactual one (Ojalá lloviera) | spanish-lessons/day-31.html |
 | 2026-08-10 | 32 | 虛擬式現在式:時間副詞子句(El Subjuntivo en Cláusulas Adverbiales de Tiempo) | First major subjunctive trigger category outside WEIRDO: cuando/en cuanto/tan pronto como/hasta que take the subjunctive when the clause describes a still-pending future action but the indicative when describing a habitual or already-completed one; antes de que is the sole exception, always taking the subjunctive in every tense since "before X" inherently frames X as not-yet-real; this category marks objective time-relative-to-speech rather than WEIRDO's subjective attitude | spanish-lessons/day-32.html |
+| 2026-08-11 | 33 | 虛擬式現在式:形容詞子句(El Subjuntivo en Cláusulas Adjetivas / Relativas) | Second major subjunctive trigger category outside WEIRDO, independent from Day 32's time clauses: adjective/relative clauses take the subjunctive when the antecedent (the noun described) is indefinite, hypothetical, or explicitly nonexistent (busco un apartamento que tenga..., no conozco a nadie que hable...), but the indicative when the antecedent is a specific, known-to-exist thing or person (vivo en un apartamento que tiene...); a third independent axis for choosing subjunctive vs. indicative, alongside WEIRDO's subjective attitude and Day 32's objective time-relative-to-speech | spanish-lessons/day-33.html |
 
 Note: a duplicate "Day 2" lesson (ser/¿De dónde eres?, i.e. the same topic
 as Day 5) was independently produced on 2026-07-14 on an orphaned branch
@@ -185,6 +186,7 @@ continues from Day 6.
 | 2026-08-08 | 30 | 離 (Lí) — The Clinging / Fire |
 | 2026-08-09 | 31 | 咸 (Xián) — Influence / Wooing / Feeling |
 | 2026-08-10 | 32 | 恆 (Héng) — Duration / Perseverance |
+| 2026-08-11 | 33 | 遯 (Dùn) — Retreat |
 
 Note: a duplicate Hexagram 2 (坤 Kūn) was also independently produced on
 2026-07-14 on the same orphaned branch, for the same reason. Hexagram 7
@@ -221,6 +223,7 @@ above correctly continues from Hexagram 6.
 | 2026-08-08 | Papua New Guinea (巴布亞紐幾內亞) |
 | 2026-08-09 | Timor-Leste (東帝汶) |
 | 2026-08-10 | Madagascar (馬達加斯加) |
+| 2026-08-11 | Kiribati (吉里巴斯) |
 
 ## Internet Meme Spotlights Featured
 
@@ -253,6 +256,7 @@ above correctly continues from Hexagram 6.
 | 2026-08-08 | Harambe |
 | 2026-08-09 | Salt Bae |
 | 2026-08-10 | "Kermit Sipping Tea" / "But That's None of My Business" |
+| 2026-08-11 | Coffin Dance / Dancing Pallbearers ("Astronomia" meme) |
 
 ## Film / Performing Arts Spotlights Featured
 
@@ -283,6 +287,7 @@ and never repeat a subject already listed.
 | 2026-08-08 | In the Mood for Love (花樣年華, 2000, dir. Wong Kar-wai) |
 | 2026-08-09 | Commedia dell'arte (藝術喜劇, Italy) |
 | 2026-08-10 | Wayang Kulit (皮影戲, Indonesia) |
+| 2026-08-11 | Tokyo Story (東京物語, 1953, dir. Yasujiro Ozu) |
 
 ## Film-Appreciation / Criticism Method Lessons
 
@@ -315,6 +320,7 @@ table and pick one not yet covered.
 | 2026-08-08 | Depth of Field & Focus (deep focus vs. shallow focus vs. rack focus; what is kept legible vs. deliberately obscured, whether a focus shift is a reveal or an emotional pivot, and whether the frame's depth of field matches how much control/clarity the scene grants its characters — distinct from Day 3's light/colour-focused cinematography lesson) | E.T. the Extra-Terrestrial (1982, dir. Steven Spielberg, cinematography by Allen Daviau) — the toolshed reveal, where a rack focus pulls sharpness away from heavily blurred foreground cornstalks onto E.T.'s previously illegible silhouette, delivering the reveal through focus alone (no cut, no camera movement) and keeping the audience locked into Elliott's exact gradual, childlike rate of discovery |
 | 2026-08-09 | Continuity Editing & the 180-Degree Rule (Shot/Reverse Shot) (the imaginary axis of action, keeping screen direction consistent across cuts, eyeline matches, and whether the convention is followed invisibly or deliberately bent for unease — distinct from Day 2's broader editing-for-meaning/montage lesson) | The Silence of the Lambs (1991, dir. Jonathan Demme, cinematography by Tak Fujimoto) — the Hannibal Lecter interrogation scenes, where reverse shots align both actors' eyelines almost directly with the lens rather than the usual offset over-the-shoulder angle, keeping the 180-degree axis intact while making the convention itself the source of discomfort |
 | 2026-08-10 | Aspect Ratio & Screen Format as a Storytelling Device (frame shape/width-to-height ratio as connotation before a shot is even composed; boxier ratios for intimacy/confinement vs. wider ratios for scale; the advanced case of a deliberate mid-film ratio change marking a shift in time period — distinct from Day 8's within-frame composition lesson) | The Grand Budapest Hotel (2014, dir. Wes Anderson, cinematography by Robert Yeoman) — three nested time layers each get their own aspect ratio (1.85:1 for the 1985/1968 frame story, 2.35:1 anamorphic for a 1960s middle layer, and boxy 1.37:1 Academy ratio for the 1932 core narrative), letting the frame's shape alone signal which time period the audience is in and reinforcing Anderson's centered symmetrical compositions |
+| 2026-08-11 | Match Cut & Graphic Match (joining two shots via a shared graphic shape or motion vector across the cut, foregrounding the edit itself as a deliberate visual rhyme rather than hiding it — distinct from Day 2's Kuleshov/montage-juxtaposition lesson and Day 9's continuity-editing lesson) | Lawrence of Arabia (1962, dir. David Lean, cinematography by Freddie Young) — the match cut from Lawrence blowing out a lit match to a blazing desert sunrise, the shared flame-shape scaling instantly from matchstick to sun to convey his mythic transformation without a line of dialogue |
 
 ## Run Notes
 
@@ -1727,3 +1733,76 @@ table and pick one not yet covered.
   loss or duplication, but a human still needs to fix the Routine's
   persistent-session/branch-targeting configuration to stop it from
   recurring daily.
+- **2026-08-11 — branch-divergence bug recurred yet again (twenty-eighth
+  occurrence); recovered per the documented procedure, zero content
+  loss.** This session's designated starting branch,
+  `claude/bold-goldberg-iixnt0`, existed and was pushed to `origin`, but
+  its tip (`8eddce0`) was frozen at 2026-07-20/Day 3 content — exactly
+  the "stale branch, e.g. just Day 1" signal this log's instructions warn
+  about — confirming the underlying session/branch-targeting bug is still
+  present. Also, mid-session, this session's own worker process was
+  restarted by the platform before any files had been written or
+  committed; the research already gathered (branch list, Pages deployment
+  lookup, market/dev-news web searches, and the day's content plan) was
+  simply redone/continued from the conversation history with no data
+  loss, so this is noted here only as a separate technical incident, not
+  a cause of — or a repeat of — the branch-divergence bug itself. Followed
+  the recovery procedure before writing anything: (1) listed all
+  `claude/*` branches via the GitHub API (`list_branches`), (2) used
+  `GET /repos/.../deployments?environment=github-pages` directly via
+  `curl` with the session's `$GH_TOKEN` (this worked cleanly this time,
+  no 403) and confirmed the most recent successful Pages deployment
+  (2026-08-10T21:57:09Z) points at `claude/epic-brahmagupta-g1y16m` (sha
+  `c0b256c`), matching `claude/daily-2026-08-10`'s tip exactly, and (3)
+  spot-checked the other stale `claude/epic-brahmagupta-*` and
+  `claude/happy-newton-*` sibling branches, confirming each is frozen at
+  Day 2-3 content from mid-July — none were further ahead, so no
+  reconciliation merge was needed, only the routine catch-up read.
+  Branched `claude/daily-2026-08-11` directly from
+  `origin/claude/epic-brahmagupta-g1y16m`, ignoring the stale designated
+  branch entirely. Added Spanish Day 33 (el subjuntivo en cláusulas
+  adjetivas/relativas — a second major subjunctive-trigger category
+  independent of both WEIRDO and Day 32's time clauses, turning on
+  whether the antecedent noun a relative clause describes is a specific,
+  known-to-exist thing [indicative] or an indefinite/hypothetical/
+  explicitly nonexistent one [subjunctive, including no hay nadie que.../
+  no conozco a nadie que...]), Hexagram 33 (遯 Dùn, Retreat — the Xugua
+  commentary's direct follow-on from Hexagram 32, "物不可以久居其所,故受
+  之以遯," reasoning that things cannot dwell forever in one place, so
+  Héng's duration is followed by the wisdom of a timely, dignified
+  withdrawal; read via the Tuan as two encroaching yin lines rising from
+  the bottom against four yang lines above, a warning to retreat before
+  being overwhelmed rather than a failure of resolve), Kiribati (chosen
+  for Section 5 for its extreme land-vs-EEZ scale story — roughly 1/45th
+  of Taiwan's land area paired with one of the largest exclusive economic
+  zones on Earth — and as one of the most climate-vulnerable nations
+  given its ~2m average elevation), Coffin Dance / Dancing Pallbearers
+  (chosen for Section 6 to diversify into a Ghanaian-sourced viral-video
+  meme distinct from the recent run of static reaction-image memes, with
+  a rare real-world-benefit-to-originator outcome for Benjamin Aidoo's
+  troupe), Tokyo Story (chosen for Section 7 to add Yasujiro Ozu and the
+  tatami-shot/pillow-shot Japanese contemplative-cinema tradition, not yet
+  covered in this series), and Match Cut & Graphic Match as Section 8's
+  nineteenth film-analysis lesson (worked through Lawrence of Arabia's
+  match-to-sunrise cut, chosen as a lens distinguished from Day 2's
+  broader Kuleshov/montage-juxtaposition lesson by focusing on a single,
+  foregrounded graphic-rhyme edit rather than a sequence-wide juxtaposition
+  effect). Market/dev-news sections used live `WebSearch` results for
+  Tuesday, August 11's own session: US S&P 500 -0.32% to 7,728.20, Nasdaq
+  -0.60% to 26,445.45, Dow -184.13pts (-0.34%) to 53,791.85, led down by
+  Alphabet (-3.4~3.6%) on DeepMind leadership turnover, a sharply raised
+  AI capex forecast plus a $25B debt offering, and a new French-publisher
+  antitrust complaint; Asia mixed-to-lower (Hang Seng -1.10% to 25,652.82,
+  Shanghai -0.82% to 3,934.09, Nikkei roughly flat near 66,970); Taiwan's
+  TAIEX bucked the regional pullback, +192pts (+0.43%) to 45,121, TSMC
+  +NT$15 to NT$2,395; dev news centered on SpaceX's AI division nearing
+  close of its ~$60B all-stock Cursor acquisition, a live, dated item
+  found via WebSearch, alongside continuation coverage of iOS 27/Android
+  17/Flutter. Fast-forward merged `claude/daily-2026-08-11` into
+  `claude/epic-brahmagupta-g1y16m` and pushed. **The underlying
+  trigger/session bug is still unresolved** (twenty-eighth occurrence,
+  07-09 through 08-11 missing only 07-08 and — with no recoverable
+  content — 07-18); the recovery procedure continues to converge on the
+  correct branch every time with no content loss or duplication, but a
+  human still needs to fix the Routine's persistent-session/branch-
+  targeting configuration to stop it from recurring daily.
