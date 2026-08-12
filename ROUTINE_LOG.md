@@ -143,6 +143,7 @@ the repo so a permanent link can be shared.
 | 2026-08-09 | 31 | 虛擬式現在式:Ojalá(但願、希望) | Completes the WEIRDO mnemonic's sixth and final letter: Ojalá (from Arabic "law shā' allāh" via ~800 years of Moorish presence in Iberia) is a fixed, non-conjugating exclamation (unlike every other WEIRDO trigger) always followed by the subjunctive, usable for wishes about oneself, others, or uncontrollable events (weather); que is optional; flagged (not yet taught) that swapping in the imperfect subjunctive lets the same word pivot from a hopeful future wish (Ojalá llueva) to a wistful counterfactual one (Ojalá lloviera) | spanish-lessons/day-31.html |
 | 2026-08-10 | 32 | 虛擬式現在式:時間副詞子句(El Subjuntivo en Cláusulas Adverbiales de Tiempo) | First major subjunctive trigger category outside WEIRDO: cuando/en cuanto/tan pronto como/hasta que take the subjunctive when the clause describes a still-pending future action but the indicative when describing a habitual or already-completed one; antes de que is the sole exception, always taking the subjunctive in every tense since "before X" inherently frames X as not-yet-real; this category marks objective time-relative-to-speech rather than WEIRDO's subjective attitude | spanish-lessons/day-32.html |
 | 2026-08-11 | 33 | 虛擬式現在式:形容詞子句(El Subjuntivo en Cláusulas Adjetivas / Relativas) | Second major subjunctive trigger category outside WEIRDO, independent from Day 32's time clauses: adjective/relative clauses take the subjunctive when the antecedent (the noun described) is indefinite, hypothetical, or explicitly nonexistent (busco un apartamento que tenga..., no conozco a nadie que hable...), but the indicative when the antecedent is a specific, known-to-exist thing or person (vivo en un apartamento que tiene...); a third independent axis for choosing subjunctive vs. indicative, alongside WEIRDO's subjective attitude and Day 32's objective time-relative-to-speech | spanish-lessons/day-33.html |
+| 2026-08-12 | 34 | 虛擬式現在式:目的與讓步副詞子句(El Subjuntivo en Cláusulas Adverbiales de Propósito y Concesión) | Third major subjunctive trigger category outside WEIRDO: para que + subjunctive marks purpose only when the purpose clause's subject differs from the main clause's (same-subject purpose uses para + infinitive instead); aunque is the single connector able to take either mood, subjunctive when the conceded fact is still hypothetical/unconfirmed (aunque llueva) vs. indicative when the speaker already knows it to be true (aunque llueve) — the sharpest "trap" in the whole subjunctive system; a menos que/con tal de que/sin que behave like Day 32's antes de que, taking only the subjunctive in every case with no indicative alternative | spanish-lessons/day-34.html |
 
 Note: a duplicate "Day 2" lesson (ser/¿De dónde eres?, i.e. the same topic
 as Day 5) was independently produced on 2026-07-14 on an orphaned branch
@@ -187,6 +188,7 @@ continues from Day 6.
 | 2026-08-09 | 31 | 咸 (Xián) — Influence / Wooing / Feeling |
 | 2026-08-10 | 32 | 恆 (Héng) — Duration / Perseverance |
 | 2026-08-11 | 33 | 遯 (Dùn) — Retreat |
+| 2026-08-12 | 34 | 大壯 (Dà Zhuàng) — The Power of the Great |
 
 Note: a duplicate Hexagram 2 (坤 Kūn) was also independently produced on
 2026-07-14 on the same orphaned branch, for the same reason. Hexagram 7
@@ -224,6 +226,7 @@ above correctly continues from Hexagram 6.
 | 2026-08-09 | Timor-Leste (東帝汶) |
 | 2026-08-10 | Madagascar (馬達加斯加) |
 | 2026-08-11 | Kiribati (吉里巴斯) |
+| 2026-08-12 | Lesotho (賴索托) |
 
 ## Internet Meme Spotlights Featured
 
@@ -257,6 +260,7 @@ above correctly continues from Hexagram 6.
 | 2026-08-09 | Salt Bae |
 | 2026-08-10 | "Kermit Sipping Tea" / "But That's None of My Business" |
 | 2026-08-11 | Coffin Dance / Dancing Pallbearers ("Astronomia" meme) |
+| 2026-08-12 | Bad Luck Brian |
 
 ## Film / Performing Arts Spotlights Featured
 
@@ -288,6 +292,7 @@ and never repeat a subject already listed.
 | 2026-08-09 | Commedia dell'arte (藝術喜劇, Italy) |
 | 2026-08-10 | Wayang Kulit (皮影戲, Indonesia) |
 | 2026-08-11 | Tokyo Story (東京物語, 1953, dir. Yasujiro Ozu) |
+| 2026-08-12 | Rashomon (羅生門, 1950, dir. Akira Kurosawa) |
 
 ## Film-Appreciation / Criticism Method Lessons
 
@@ -321,6 +326,7 @@ table and pick one not yet covered.
 | 2026-08-09 | Continuity Editing & the 180-Degree Rule (Shot/Reverse Shot) (the imaginary axis of action, keeping screen direction consistent across cuts, eyeline matches, and whether the convention is followed invisibly or deliberately bent for unease — distinct from Day 2's broader editing-for-meaning/montage lesson) | The Silence of the Lambs (1991, dir. Jonathan Demme, cinematography by Tak Fujimoto) — the Hannibal Lecter interrogation scenes, where reverse shots align both actors' eyelines almost directly with the lens rather than the usual offset over-the-shoulder angle, keeping the 180-degree axis intact while making the convention itself the source of discomfort |
 | 2026-08-10 | Aspect Ratio & Screen Format as a Storytelling Device (frame shape/width-to-height ratio as connotation before a shot is even composed; boxier ratios for intimacy/confinement vs. wider ratios for scale; the advanced case of a deliberate mid-film ratio change marking a shift in time period — distinct from Day 8's within-frame composition lesson) | The Grand Budapest Hotel (2014, dir. Wes Anderson, cinematography by Robert Yeoman) — three nested time layers each get their own aspect ratio (1.85:1 for the 1985/1968 frame story, 2.35:1 anamorphic for a 1960s middle layer, and boxy 1.37:1 Academy ratio for the 1932 core narrative), letting the frame's shape alone signal which time period the audience is in and reinforcing Anderson's centered symmetrical compositions |
 | 2026-08-11 | Match Cut & Graphic Match (joining two shots via a shared graphic shape or motion vector across the cut, foregrounding the edit itself as a deliberate visual rhyme rather than hiding it — distinct from Day 2's Kuleshov/montage-juxtaposition lesson and Day 9's continuity-editing lesson) | Lawrence of Arabia (1962, dir. David Lean, cinematography by Freddie Young) — the match cut from Lawrence blowing out a lit match to a blazing desert sunrise, the shared flame-shape scaling instantly from matchstick to sun to convey his mythic transformation without a line of dialogue |
+| 2026-08-12 | Costume Design & Wardrobe as Characterization/Worldbuilding (whether a costume evolves to index a character's internal change, whether costume is used as worldbuilding shorthand for an invented culture's social structure/technology/history, and whether a deliberate anachronism or exaggeration functions as authorial commentary — distinct from Day 3's cinematography/colour-grading lesson and Day 10's aspect-ratio lesson) | Black Panther (2018, dir. Ryan Coogler, costume design by Ruth Carter) — Wakanda's five tribes are costumed by fusing real African textile traditions (Basotho blanket patterns for the Border Tribe, Maasai beadwork, Tuareg garments, Dogon-inspired royal silhouettes) with vibranium-tech materials, communicating the fictional nation's political structure and Afrofuturist synthesis of tradition and technology through wardrobe alone |
 
 ## Run Notes
 
@@ -1806,3 +1812,85 @@ table and pick one not yet covered.
   correct branch every time with no content loss or duplication, but a
   human still needs to fix the Routine's persistent-session/branch-
   targeting configuration to stop it from recurring daily.
+- **2026-08-12 — branch-divergence bug recurred yet again (twenty-ninth
+  occurrence); recovered per the documented procedure, zero content
+  loss.** This session's designated starting branch,
+  `claude/bold-goldberg-37rhno`, was frozen at 2026-07-20/Day 3 content
+  (commit `8eddce0`, identical tip to the long-stale
+  `claude/gracious-ramanujan-4wyzgc` and `claude/happy-newton-ksqg8o`
+  branches) — again exactly the "stale branch, e.g. just Day 1/3" signal
+  this log warns about. Followed the recovery procedure before writing
+  anything: (1) listed all `claude/*` branches via the GitHub MCP
+  `list_branches` tool (39 branches found), (2) fetched
+  `GET /repos/.../deployments?environment=github-pages` directly via
+  `curl` (WebFetch to the same URL returned 403, consistent with the
+  network-restriction pattern noted in earlier entries) and confirmed the
+  most recent successful Pages deployment (2026-08-11T21:51:15Z, state
+  `success`) points at `claude/epic-brahmagupta-g1y16m` (sha `dbe471f`),
+  matching `claude/daily-2026-08-11`'s tip exactly, and (3) compared
+  briefings/spanish-lessons file counts across all 39 branches — every
+  sibling `claude/epic-brahmagupta-*` and `claude/happy-newton-*` branch
+  remained frozen at 2-10 files from mid-July, confirming
+  `claude/epic-brahmagupta-g1y16m` (34 briefings, 33 lessons) was the
+  most complete and needed no reconciliation merge. Branched
+  `claude/daily-2026-08-12` directly from
+  `origin/claude/epic-brahmagupta-g1y16m`, ignoring the stale designated
+  branch entirely. Added Spanish Day 34 (el subjuntivo en cláusulas
+  adverbiales de propósito y concesión — a third major subjunctive-
+  trigger category independent of WEIRDO and Days 32-33, covering para
+  que's always-subjunctive-but-different-subject-required purpose
+  clauses, aunque's dual-mood fork between hypothetical and known-fact
+  concession, and the always-subjunctive a menos que/con tal de que/sin
+  que family), Hexagram 34 (大壯 Dà Zhuàng, The Power of the Great — the
+  Xugua commentary's direct follow-on from Hexagram 33, "物不可以終遯,故
+  受之以大壯," reasoning that retreat cannot last forever, so Dùn's
+  withdrawal is followed by yang's resurgence; read via the Tuan as four
+  yang lines massed at the base pushing upward against two yin lines
+  above, the mirror image of yesterday's hexagram, with the Image
+  commentary's warning that raw strength must stay yoked to propriety
+  rather than curdling into recklessness), Lesotho (chosen for Section 5
+  for its enclave-nation scale story — one of only three countries on
+  Earth entirely surrounded by a single other nation, and the only
+  country whose entire territory sits above 1,000m elevation), Bad Luck
+  Brian (chosen for Section 6 to add the foundational 2012 Reddit
+  "advice animal"/image-macro genre, not yet represented in this series
+  despite Success Kid, Trollface, and Pepe the Frog all being covered),
+  Rashomon (chosen for Section 7 to add Kurosawa's second entry — after
+  Seven Samurai — and the source of the now-universal "Rashomon effect"
+  term, tying directly into Day 15's narrative-structure lesson), and
+  Costume Design & Wardrobe as Section 8's twentieth film-analysis lesson
+  (worked through Black Panther's Wakandan tribal costuming, chosen as a
+  lens distinguished from Day 3's cinematography/colour lesson and Day
+  10's aspect-ratio lesson by focusing on what is worn rather than how
+  it's lit or framed; noted the Basotho-blanket costuming detail as a
+  deliberate cross-reference back to today's Lesotho spotlight).
+  Market/dev-news sections used a background research agent's `WebSearch`
+  results: US markets had not posted a new close since yesterday's report
+  (Wednesday's session was still open at the time of writing), so Tuesday
+  August 11's already-reported figures were carried forward and
+  explicitly flagged as unchanged (Dow -184.13pts/-0.34% to 53,791.85,
+  S&P -0.32% to 7,728.20, Nasdaq -0.60% to 26,445.45), plus one fresh
+  same-session item (Intel -4% on a $15B→$20B stock-offering upsize,
+  Riot Platforms +21% on a reported $9B Anthropic cloud deal); Asia was
+  similarly carried forward (Hang Seng -1.10% to 25,652.82, Shanghai
+  -0.82% to 3,934.09, Nikkei closed Aug 11 for Mountain Day, last close
+  +2.08% to 66,970.22) with one genuinely new data point added, South
+  Korea's KOSPI (+0.73% to 6,345.53 on record chip exports) — the first
+  time KOSPI has been reported in this series; Taiwan's TAIEX was the
+  day's one truly fresh session, +397.35pts (+0.88%) to 45,518.07, a
+  third straight day of gains, TSMC +NT$20 to NT$2,415. Dev news covered
+  Apple's anticipated Sept 9 iPhone 18 Pro/foldable event, macOS Tahoe
+  26.6.1/26.6.2 security patches, Anthropic's AI-text watermark and
+  Theseus data-center JV, OpenAI's two-tier Daybreak cybersecurity
+  models, Nvidia's reported $500B bank financing alliance, and the EU's
+  binding DMA ruling ordering Google to open Android system access to
+  rival AI assistants by 2027-2028 — all live, dated items distinct from
+  yesterday's Cursor-acquisition/DeepMind-reshuffle coverage. Fast-forward
+  merged `claude/daily-2026-08-12` into `claude/epic-brahmagupta-g1y16m`
+  and pushed. **The underlying trigger/session bug is still unresolved**
+  (twenty-ninth occurrence, 07-09 through 08-12 missing only 07-08 and —
+  with no recoverable content — 07-18); the recovery procedure continues
+  to converge on the correct branch every time with no content loss or
+  duplication, but a human still needs to fix the Routine's
+  persistent-session/branch-targeting configuration to stop it from
+  recurring daily.
