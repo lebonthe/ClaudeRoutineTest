@@ -144,6 +144,7 @@ the repo so a permanent link can be shared.
 | 2026-08-10 | 32 | 虛擬式現在式:時間副詞子句(El Subjuntivo en Cláusulas Adverbiales de Tiempo) | First major subjunctive trigger category outside WEIRDO: cuando/en cuanto/tan pronto como/hasta que take the subjunctive when the clause describes a still-pending future action but the indicative when describing a habitual or already-completed one; antes de que is the sole exception, always taking the subjunctive in every tense since "before X" inherently frames X as not-yet-real; this category marks objective time-relative-to-speech rather than WEIRDO's subjective attitude | spanish-lessons/day-32.html |
 | 2026-08-11 | 33 | 虛擬式現在式:形容詞子句(El Subjuntivo en Cláusulas Adjetivas / Relativas) | Second major subjunctive trigger category outside WEIRDO, independent from Day 32's time clauses: adjective/relative clauses take the subjunctive when the antecedent (the noun described) is indefinite, hypothetical, or explicitly nonexistent (busco un apartamento que tenga..., no conozco a nadie que hable...), but the indicative when the antecedent is a specific, known-to-exist thing or person (vivo en un apartamento que tiene...); a third independent axis for choosing subjunctive vs. indicative, alongside WEIRDO's subjective attitude and Day 32's objective time-relative-to-speech | spanish-lessons/day-33.html |
 | 2026-08-12 | 34 | 虛擬式現在式:目的與讓步副詞子句(El Subjuntivo en Cláusulas Adverbiales de Propósito y Concesión) | Third major subjunctive trigger category outside WEIRDO: para que + subjunctive marks purpose only when the purpose clause's subject differs from the main clause's (same-subject purpose uses para + infinitive instead); aunque is the single connector able to take either mood, subjunctive when the conceded fact is still hypothetical/unconfirmed (aunque llueva) vs. indicative when the speaker already knows it to be true (aunque llueve) — the sharpest "trap" in the whole subjunctive system; a menos que/con tal de que/sin que behave like Day 32's antes de que, taking only the subjunctive in every case with no indicative alternative | spanish-lessons/day-34.html |
+| 2026-08-13 | 35 | 虛擬式過去未完了式入門(El Pretérito Imperfecto de Subjuntivo) | Delivers the tense Day 31 flagged but didn't teach: formed by taking any verb's preterite "ellos" form (Days 16-19), dropping -ron, and adding -ra/-ras/-ra/-ramos/-ran (an equivalent -se family also exists) — inherits preterite irregularities rather than introducing new ones (tuvieron→tuviera, dijeron→dijera, fueron→fuera); three uses taught: Ojalá + imperfect subjunctive for wistful/contrary-to-fact present wishes (Ojalá lloviera, vs. Day 31's hopeful Ojalá llueva), a first preview of "Si + imperfect subjunctive, + conditional" contrary-to-present-fact conditionals, and sequence-of-tenses (a past-tense WEIRDO trigger pulls its subjunctive clause back to the imperfect subjunctive: quería que estudiáramos) | spanish-lessons/day-35.html |
 
 Note: a duplicate "Day 2" lesson (ser/¿De dónde eres?, i.e. the same topic
 as Day 5) was independently produced on 2026-07-14 on an orphaned branch
@@ -189,6 +190,7 @@ continues from Day 6.
 | 2026-08-10 | 32 | 恆 (Héng) — Duration / Perseverance |
 | 2026-08-11 | 33 | 遯 (Dùn) — Retreat |
 | 2026-08-12 | 34 | 大壯 (Dà Zhuàng) — The Power of the Great |
+| 2026-08-13 | 35 | 晉 (Jìn) — Progress |
 
 Note: a duplicate Hexagram 2 (坤 Kūn) was also independently produced on
 2026-07-14 on the same orphaned branch, for the same reason. Hexagram 7
@@ -227,6 +229,7 @@ above correctly continues from Hexagram 6.
 | 2026-08-10 | Madagascar (馬達加斯加) |
 | 2026-08-11 | Kiribati (吉里巴斯) |
 | 2026-08-12 | Lesotho (賴索托) |
+| 2026-08-13 | Eswatini (史瓦帝尼) |
 
 ## Internet Meme Spotlights Featured
 
@@ -261,6 +264,7 @@ above correctly continues from Hexagram 6.
 | 2026-08-10 | "Kermit Sipping Tea" / "But That's None of My Business" |
 | 2026-08-11 | Coffin Dance / Dancing Pallbearers ("Astronomia" meme) |
 | 2026-08-12 | Bad Luck Brian |
+| 2026-08-13 | Damn Daniel |
 
 ## Film / Performing Arts Spotlights Featured
 
@@ -293,6 +297,7 @@ and never repeat a subject already listed.
 | 2026-08-10 | Wayang Kulit (皮影戲, Indonesia) |
 | 2026-08-11 | Tokyo Story (東京物語, 1953, dir. Yasujiro Ozu) |
 | 2026-08-12 | Rashomon (羅生門, 1950, dir. Akira Kurosawa) |
+| 2026-08-13 | Waiting for Godot (等待果陀, 1953, by Samuel Beckett) |
 
 ## Film-Appreciation / Criticism Method Lessons
 
@@ -327,6 +332,7 @@ table and pick one not yet covered.
 | 2026-08-10 | Aspect Ratio & Screen Format as a Storytelling Device (frame shape/width-to-height ratio as connotation before a shot is even composed; boxier ratios for intimacy/confinement vs. wider ratios for scale; the advanced case of a deliberate mid-film ratio change marking a shift in time period — distinct from Day 8's within-frame composition lesson) | The Grand Budapest Hotel (2014, dir. Wes Anderson, cinematography by Robert Yeoman) — three nested time layers each get their own aspect ratio (1.85:1 for the 1985/1968 frame story, 2.35:1 anamorphic for a 1960s middle layer, and boxy 1.37:1 Academy ratio for the 1932 core narrative), letting the frame's shape alone signal which time period the audience is in and reinforcing Anderson's centered symmetrical compositions |
 | 2026-08-11 | Match Cut & Graphic Match (joining two shots via a shared graphic shape or motion vector across the cut, foregrounding the edit itself as a deliberate visual rhyme rather than hiding it — distinct from Day 2's Kuleshov/montage-juxtaposition lesson and Day 9's continuity-editing lesson) | Lawrence of Arabia (1962, dir. David Lean, cinematography by Freddie Young) — the match cut from Lawrence blowing out a lit match to a blazing desert sunrise, the shared flame-shape scaling instantly from matchstick to sun to convey his mythic transformation without a line of dialogue |
 | 2026-08-12 | Costume Design & Wardrobe as Characterization/Worldbuilding (whether a costume evolves to index a character's internal change, whether costume is used as worldbuilding shorthand for an invented culture's social structure/technology/history, and whether a deliberate anachronism or exaggeration functions as authorial commentary — distinct from Day 3's cinematography/colour-grading lesson and Day 10's aspect-ratio lesson) | Black Panther (2018, dir. Ryan Coogler, costume design by Ruth Carter) — Wakanda's five tribes are costumed by fusing real African textile traditions (Basotho blanket patterns for the Border Tribe, Maasai beadwork, Tuareg garments, Dogon-inspired royal silhouettes) with vibranium-tech materials, communicating the fictional nation's political structure and Afrofuturist synthesis of tradition and technology through wardrobe alone |
+| 2026-08-13 | Shot Scale / Size (close-up vs. wide/establishing shot as a distinct axis from focus, aspect ratio, or in-frame composition — contrast between scales builds tension through cutting rhythm alone, withholding or granting a close-up controls emotional distance, and an establishing shot's presence or deliberate absence controls spatial orientation) | The Good, the Bad and the Ugly (1966, dir. Sergio Leone, cinematography by Tonino Delli Colli) — the Sad Hill Cemetery three-way standoff, intercutting extreme close-ups of the gunslingers' eyes and holstered hands with wide establishing shots of the circular arena, escalating purely through shot-scale rhythm timed to Ennio Morricone's score |
 
 ## Run Notes
 
@@ -1889,6 +1895,76 @@ table and pick one not yet covered.
   merged `claude/daily-2026-08-12` into `claude/epic-brahmagupta-g1y16m`
   and pushed. **The underlying trigger/session bug is still unresolved**
   (twenty-ninth occurrence, 07-09 through 08-12 missing only 07-08 and —
+  with no recoverable content — 07-18); the recovery procedure continues
+  to converge on the correct branch every time with no content loss or
+  duplication, but a human still needs to fix the Routine's
+  persistent-session/branch-targeting configuration to stop it from
+  recurring daily.
+
+- **2026-08-13 — branch-divergence bug recurred yet again (thirtieth
+  occurrence), same recovery procedure, no content loss.** This session's
+  starting checkout, `claude/bold-goldberg-gkkzst`, was frozen at
+  2026-07-20/Day 3 content — again exactly the "stale branch, e.g. just
+  Day 1/3" signal this log warns about. Followed the recovery procedure
+  before writing anything: (1) listed all `claude/*` branches via the
+  GitHub MCP `list_branches` tool (41 branches found), (2) used the
+  GitHub MCP Actions tools to find the repo's single `pages-build-deployment`
+  workflow and list its most recent completed runs, confirming the last
+  30 successful Pages deployments (through 2026-08-12T21:53:55Z) all
+  built from `claude/epic-brahmagupta-g1y16m`, and (3) compared
+  briefings/spanish-lessons file counts and commit counts across all
+  `claude/epic-brahmagupta-*` and other candidate branches — every
+  sibling branch remained frozen at 2-10 files/8 commits from mid-July,
+  while `claude/epic-brahmagupta-g1y16m` (35 briefings, 34 lessons, 42
+  commits, tip identical to `claude/daily-2026-08-12`) was confirmed the
+  most complete, needing no reconciliation merge. Branched
+  `claude/daily-2026-08-13` directly from
+  `origin/claude/epic-brahmagupta-g1y16m`, ignoring the stale designated
+  branch entirely. Added Spanish Day 35 (the imperfect subjunctive,
+  Pretérito Imperfecto de Subjuntivo — the tense Day 31 flagged but had
+  not yet taught, formed from any verb's preterite "ellos" form minus
+  -ron plus -ra/-ras/-ra/-ramos/-ran, inheriting Days 16-19's preterite
+  irregularities rather than introducing new ones, covering Ojalá +
+  imperfect subjunctive for contrary-to-fact present wishes, a first
+  preview of Si + imperfect-subjunctive conditionals, and sequence-of-
+  tenses with past-tense WEIRDO triggers), Hexagram 35 (晉 Jìn, Progress
+  — the Xugua commentary's direct follow-on from Hexagram 34, "物不可以
+  終壯,故受之以晉," reasoning that strength cannot swell forever so it
+  must turn into steady advance; read via the Tuan as Lí/Fire-and-light
+  rising above Kūn/Earth, the sunrise image of expanding illumination
+  earning recognition rather than seizing it by force), Eswatini (chosen
+  for Section 5 as sub-Saharan Africa's last absolute monarchy, sized
+  almost exactly to Kuwait and about half of Taiwan), Damn Daniel
+  (chosen for Section 6 to add a second foundational Vine-era 2016 meme
+  to the series, distinct in mechanism from image-macro memes like Bad
+  Luck Brian since it originates from a narrated video clip and
+  catchphrase rather than a captioned still image), Waiting for Godot
+  (chosen for Section 7 to add the founding text of Theatre of the
+  Absurd, the series' first Beckett/Absurdist-theatre entry and only its
+  second stage play after Swan Lake and the traditional Asian forms
+  already covered), and Shot Scale/Size as Section 8's twenty-first
+  film-analysis lesson (worked through the Good, the Bad and the Ugly's
+  graveyard standoff, chosen as a lens distinguished from Day 8's depth-
+  of-field lesson, Day 10's aspect-ratio lesson, and Day 17's framing/
+  composition lesson by focusing specifically on camera-to-subject
+  distance). Market/dev-news sections used a `WebSearch` tool directly:
+  US markets' most recent close was Wednesday Aug 12, a record session
+  (S&P 500 +0.3% to a new closing high of 7,748.50, Nasdaq +0.5% to
+  26,588.49, Dow -21.58pts/-0.04% to 53,770.27) on cooler July CPI data;
+  Asia was a fresh Thursday Aug 13 session, mixed (Nikkei +1.16% to
+  68,308.59, Hang Seng -0.17% to 25,396.51, Shanghai -0.50% to 3,926.96);
+  Taiwan's TAIEX also posted a fresh Aug 13 session, breaking 46,000 for
+  the first time (+503.41pts/+1.11% to 46,021.48, TSMC +0.83%, MediaTek
+  +5.23%, Delta +5.31%, Foxconn -2.96%). Dev news covered continued
+  anticipation of Apple's September iPhone 18 Pro/foldable event and iOS
+  27's fifth beta, Anthropic's reported pre-IPO investor talks, Gemini
+  crossing 1 billion MAU, OpenAI's Daybreak models landing on Amazon
+  Bedrock, Android 17's incoming Developer Verification requirement, and
+  Flutter's GenUI SDK reaching alpha on pub.dev — all live, dated items
+  distinct from yesterday's coverage. Fast-forward merged
+  `claude/daily-2026-08-13` into `claude/epic-brahmagupta-g1y16m` and
+  pushed. **The underlying trigger/session bug is still unresolved**
+  (thirtieth occurrence, 07-09 through 08-13 missing only 07-08 and —
   with no recoverable content — 07-18); the recovery procedure continues
   to converge on the correct branch every time with no content loss or
   duplication, but a human still needs to fix the Routine's
