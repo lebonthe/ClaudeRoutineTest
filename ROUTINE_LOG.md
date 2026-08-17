@@ -147,6 +147,7 @@ the repo so a permanent link can be shared.
 | 2026-08-13 | 35 | 虛擬式過去未完了式入門(El Pretérito Imperfecto de Subjuntivo) | Delivers the tense Day 31 flagged but didn't teach: formed by taking any verb's preterite "ellos" form (Days 16-19), dropping -ron, and adding -ra/-ras/-ra/-ramos/-ran (an equivalent -se family also exists) — inherits preterite irregularities rather than introducing new ones (tuvieron→tuviera, dijeron→dijera, fueron→fuera); three uses taught: Ojalá + imperfect subjunctive for wistful/contrary-to-fact present wishes (Ojalá lloviera, vs. Day 31's hopeful Ojalá llueva), a first preview of "Si + imperfect subjunctive, + conditional" contrary-to-present-fact conditionals, and sequence-of-tenses (a past-tense WEIRDO trigger pulls its subjunctive clause back to the imperfect subjunctive: quería que estudiáramos) | spanish-lessons/day-35.html |
 | 2026-08-14 | 36 | 與現在事實相反的條件句(Oraciones Condicionales — Si + Imperfecto de Subjuntivo + Condicional) | Formalizes the pattern Day 35 only previewed: Type 2 (contrary-to-present-fact) conditional sentences fix each clause's tense in one direction only — the si-clause always takes Day 35's imperfect subjunctive (si tuviera, never si tendría or si tenga) and the result clause always takes Day 24's conditional simple (aprendería, never aprendiera); clause order is reversible with a comma only when the si-clause comes first; contrasted with the "real/likely" Type 1 conditional (si + present indicative + present/future/imperative) reserved for a future lesson | spanish-lessons/day-36.html |
 | 2026-08-15 | 37 | 與現在事實/未來相符的條件句(Oraciones Condicionales — Si + Presente de Indicativo + Presente/Futuro/Imperativo) | Delivers the "real/likely" Type 1 conditional Day 36 flagged: the si-clause always takes the present indicative (si tienes, never si tengas or si tuvieras) while the result clause can take the present indicative (general rule), future simple (Day 23, one-time promise), or imperative (Day 25/26, direct advice); completes the two-conditional-type contrast with Day 36 (present indicative + 3 possible moods vs. imperfect subjunctive + conditional simple only) and warns against blending the two systems' tenses | spanish-lessons/day-37.html |
+| 2026-08-17 | 38 | 與過去事實相反的條件句(Oraciones Condicionales — Si + Pluscuamperfecto de Subjuntivo + Condicional Compuesto) | Completes the three-type conditional trilogy begun on Days 36-37: the "contrary-to-past-fact" Type 3 conditional promotes both of Type 2's simple tenses one level into haber-based compound tenses — the si-clause takes the pluperfect subjunctive (hubiera/hubieras/hubiera/hubiéramos/hubieran, Day 35's imperfect-subjunctive stem applied to haber, + Day 21's past participle) and the result clause takes the conditional perfect (habría/habrías/habría/habríamos/habrían, Day 24's conditional-simple stem applied to haber, + the same participle); used to imagine a different outcome for an already-finished, unchangeable past event, distinct from Type 2's present-tense hypothetical and Type 1's open future | spanish-lessons/day-38.html |
 
 Note: a duplicate "Day 2" lesson (ser/¿De dónde eres?, i.e. the same topic
 as Day 5) was independently produced on 2026-07-14 on an orphaned branch
@@ -195,6 +196,7 @@ continues from Day 6.
 | 2026-08-13 | 35 | 晉 (Jìn) — Progress |
 | 2026-08-14 | 36 | 明夷 (Míng Yí) — Darkening of the Light |
 | 2026-08-15 | 37 | 家人 (Jiā Rén) — The Family (The Clan) |
+| 2026-08-17 | 38 | 睽 (Kuí) — Opposition |
 
 Note: a duplicate Hexagram 2 (坤 Kūn) was also independently produced on
 2026-07-14 on the same orphaned branch, for the same reason. Hexagram 7
@@ -236,6 +238,7 @@ above correctly continues from Hexagram 6.
 | 2026-08-13 | Eswatini (史瓦帝尼) |
 | 2026-08-14 | Liechtenstein (列支敦斯登) |
 | 2026-08-15 | Qatar (卡達) |
+| 2026-08-17 | Nauru (諾魯) |
 
 ## Internet Meme Spotlights Featured
 
@@ -273,6 +276,7 @@ above correctly continues from Hexagram 6.
 | 2026-08-13 | Damn Daniel |
 | 2026-08-14 | Surprised Pikachu (驚訝皮卡丘) |
 | 2026-08-15 | Drakeposting / Drake Hotline Bling Meme |
+| 2026-08-17 | LOLcats / "I Can Has Cheezburger?" |
 
 ## Film / Performing Arts Spotlights Featured
 
@@ -308,6 +312,7 @@ and never repeat a subject already listed.
 | 2026-08-13 | Waiting for Godot (等待果陀, 1953, by Samuel Beckett) |
 | 2026-08-14 | Taiwanese Opera / Gezaixi (歌仔戲, Koa-á-hì, Taiwan) |
 | 2026-08-15 | Kunqu Opera (崑曲, Kūnqǔ) |
+| 2026-08-17 | Apocalypse Now (現代啟示錄, 1979, dir. Francis Ford Coppola) |
 
 ## Film-Appreciation / Criticism Method Lessons
 
@@ -345,6 +350,7 @@ table and pick one not yet covered.
 | 2026-08-13 | Shot Scale / Size (close-up vs. wide/establishing shot as a distinct axis from focus, aspect ratio, or in-frame composition — contrast between scales builds tension through cutting rhythm alone, withholding or granting a close-up controls emotional distance, and an establishing shot's presence or deliberate absence controls spatial orientation) | The Good, the Bad and the Ugly (1966, dir. Sergio Leone, cinematography by Tonino Delli Colli) — the Sad Hill Cemetery three-way standoff, intercutting extreme close-ups of the gunslingers' eyes and holstered hands with wide establishing shots of the circular arena, escalating purely through shot-scale rhythm timed to Ennio Morricone's score |
 | 2026-08-14 | Production Design & Art Direction (world-building through sets, architecture, and props — distinct from Day 12's costume lesson, Day 3's cinematography/colour lesson, and Day 1's broader mise-en-scène umbrella; look for verticality/scale as power hierarchy, cultural bricolage building an invented world from blended real-world reference points, and texture/decay as unspoken backstory) | Blade Runner (1982, dir. Ridley Scott, production design by Lawrence G. Paull, concept design by Syd Mead) — the opening flying-car descent into Los Angeles, contrasting the towering, Mayan-revival Tyrell Corporation pyramid bathed in isolated light against the street-level bricolage of mixed-script neon, steam vents, and rain-soaked crowds, establishing the film's entire class-stratified dystopia through vertical production-design contrast alone |
 | 2026-08-15 | Adaptation Analysis (comparing a film to its literary/other source material via point-of-view translation, deliberate omissions/additions, and altered endings, rather than judging "fidelity" to plot events — a different lens from any prior lesson) | Jaws (1975, dir. Steven Spielberg), adapted from Peter Benchley's 1974 novel — Spielberg cut the novel's Ellen/Hooper affair and mafia-debt subplots to narrow the story into pure survival-horror; the malfunctioning mechanical shark forced a withhold-and-suggest visual strategy (POV shots, barrels, fin cutaways, Williams's two-note motif) now considered more effective than showing the creature; and the novel's anticlimactic drowning death was replaced with the film's explosive scuba-tank kill shot, trading "realism" for cinematic genre payoff |
+| 2026-08-17 | Title Sequence as Thesis Statement (a main title sequence as a compressed short film establishing tone/genre/psychology before any story dialogue — check whether typography/material texture carries meaning, whether the imagery is diegetic or symbolic, how music relates to the images, and whether the sequence stands alone as a self-contained short — distinct from all 23 prior lessons, none of which addressed the title sequence itself as an object of analysis) | Se7en (1995, dir. David Fincher), title design by Kyle Cooper — extreme-close-up, hand-scratched Kodalith footage of the killer's hands assembling obsessive notebooks, intercut with a hooded silhouette and scored to a discordant industrial remix of Nine Inch Nails' "Closer," a sequence so unusually effective that test audiences reportedly applauded when it ended, credited with reviving Hollywood's interest in title design as a serious art form |
 
 ## Run Notes
 
@@ -2149,3 +2155,96 @@ table and pick one not yet covered.
   correct branch every time with no content loss or duplication, but a
   human still needs to fix the Routine's persistent-session/branch-
   targeting configuration to stop it from recurring daily.
+
+- **2026-08-17 — branch-divergence bug recurred yet again (thirty-third
+  occurrence), same recovery procedure, no content loss; also: 2026-08-16
+  appears to have been skipped entirely (no run, no branch, no content —
+  a distinct failure mode from the usual divergence bug).** This
+  session's starting checkout, `claude/bold-goldberg-35sru2`, was frozen
+  at 2026-07-20/Day 3 content — again exactly the "stale branch, e.g.
+  just Day 1/3" signal this log warns about. Followed the recovery
+  procedure before writing anything: (1) listed all `claude/*` branches
+  via the GitHub MCP `list_branches` tool (44 branches found, newest
+  daily branch being `claude/daily-2026-08-15`, confirming no branch was
+  ever created for 2026-08-16), (2) unlike the 2026-08-15 session, this
+  session's environment had a usable `GITHUB_TOKEN` and `curl` available
+  directly in the sandbox, so `GET /repos/.../deployments?environment=
+  github-pages` could be called directly rather than falling back to the
+  Actions-workflow-history proxy — its most recent entry (deployment id
+  5925034440, created 2026-08-15T21:54:15Z) had `ref:
+  claude/epic-brahmagupta-g1y16m`, confirmed via `GET
+  /deployments/{id}/statuses` to have reached `state: success` at
+  2026-08-15T21:54:31Z with `environment_url:
+  https://lebonthe.github.io/ClaudeRoutineTest/` — directly confirming
+  this branch as the deployed portal branch, (3) cross-checked by
+  fetching `ROUTINE_LOG.md` and the branch's commit log directly from
+  `claude/epic-brahmagupta-g1y16m` (confirming content through
+  2026-08-15/Day 37/Hexagram 37 with no gaps), and confirmed
+  `origin/claude/daily-2026-08-15` and `origin/claude/epic-brahmagupta-g1y16m`
+  share an identical tip SHA (`1d30e815e89fd1d264fc195bd7a94b0e0e151803`),
+  meaning no reconciliation merge was needed — the portal branch was
+  already fully up to date, just missing a day. Branched
+  `claude/daily-2026-08-17` directly from `origin/claude/epic-
+  brahmagupta-g1y16m`, ignoring the stale designated branch entirely.
+  Did not attempt to fabricate a backdated 2026-08-16 entry for the
+  missed day, since this run has no way to know what "yesterday's" real
+  news would have been at the time — content resumes cleanly from Day
+  37/Hexagram 37 straight to Day 38/Hexagram 38 for 2026-08-17, and no
+  row was added to `index.html` for 08-16 (unlike 07-18, which did
+  produce real, if fully duplicate, content and so got an explicit "—"
+  row — 08-16 produced nothing at all, so it is simply absent rather
+  than shown as a placeholder row). Added Spanish Day 38 (the
+  "contrary-to-past-fact" Type 3 conditional — si + pluscuamperfecto de
+  subjuntivo + condicional compuesto — completing the three-type "Si"
+  conditional trilogy begun on Days 36-37 by promoting both of Type 2's
+  simple tenses one level into Day 21/22's haber-based compound-tense
+  machinery), Hexagram 38 (睽 Kuí, Opposition — the Xugua commentary's
+  direct pivot off Hexagram 37, "家道窮必乖,故受之以睽," reasoning that
+  a family's way carried to its limit must produce estrangement; read
+  via the Tuan's trigram-motion and Bagua-family imagery of Lí the middle
+  daughter and Duì the youngest daughter sharing one house yet moving in
+  different directions, and via the Image commentary's closing "同而異"
+  — unity that still permits difference — forming a direct thematic
+  mirror/pair with yesterday's Jiā Rén), Nauru (chosen for Section 5 as
+  the world's smallest island nation, sized at roughly 0.06% of Taiwan's
+  area, with a notable boom-bust-recovery economic history and a
+  diplomatic-recognition history that has swung between Taipei and
+  Beijing multiple times, most recently switching to Beijing in January
+  2024), LOLcats/"I Can Has Cheezburger?" (chosen for Section 6 as the
+  foundational 2007-era captioned-photo/"image macro" format, distinct
+  in mechanism from the reaction-image, comparison-panel, and dance-video
+  memes already covered, and widely credited as a direct ancestor of the
+  broader image-macro meme format), Apocalypse Now (chosen for Section 7
+  as a landmark film not yet covered, returning to cinema after several
+  consecutive performing-arts entries), and Title Sequence as Thesis
+  Statement as Section 8's twenty-fourth film-analysis lesson (worked
+  through Se7en's Kyle Cooper-designed opening titles, chosen as a lens
+  distinguished from all 23 prior lessons by treating the title sequence
+  itself, rather than any scene from the film's body, as the unit of
+  analysis). Market/dev-news sections used the `WebSearch` tool directly:
+  the most recent US close was Monday Aug 17 (S&P 500 -0.52% to 7,745.06,
+  Nasdaq -0.32% to 26,644.91, Dow -0.51%/-272.63pts to 53,459.78, driven
+  by an oil-price spike toward $90/barrel Brent and a multi-decade-high
+  30-year Treasury yield after a US-Iran memorandum of understanding
+  expired); Asia's Monday session was mostly positive despite the same
+  overhang (Nikkei +0.74% to 69,220.25, Hang Seng +1.34% to 25,453.23,
+  Shanghai +1.41% to 3,982.65; KOSPI closed for a substitute public
+  holiday tied to Aug 15's Liberation Day falling on a Saturday); TAIEX
+  closed +0.10% at 45,857.27 after briefly topping 46,000 intraday on
+  AI-supply-chain buying. Dev news covered iOS 27's shift to a weekly
+  beta cadence (beta 6 released today), the iPhone 18 Pro event
+  continuing to firm up around Sept 9 with new rumored specifics (2nm
+  A20 chip, C2 modem with satellite web browsing, under-display Face ID,
+  "Dark Cherry" color), macOS 27's newly-spotted system-wide Siri AI
+  text-editing tools in beta, Google's Aug 12 Pixel 11 launch and August
+  Android 17 security update, and explicitly noted no major new Flutter
+  release since 3.38 rather than repeating old coverage as fresh. Fast-
+  forward merged `claude/daily-2026-08-17` into
+  `claude/epic-brahmagupta-g1y16m` and pushed. **The underlying
+  trigger/session bug is still unresolved** (thirty-third occurrence of
+  branch divergence, plus a first-observed instance of a fully missed
+  run day on 08-16); the recovery procedure continues to converge on the
+  correct branch every time with no content loss or duplication, but a
+  human still needs to fix the Routine's persistent-session/branch-
+  targeting configuration (and, separately, whatever caused 08-16's run
+  to never fire at all) to stop these issues from recurring.
