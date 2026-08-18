@@ -148,6 +148,7 @@ the repo so a permanent link can be shared.
 | 2026-08-14 | 36 | 與現在事實相反的條件句(Oraciones Condicionales — Si + Imperfecto de Subjuntivo + Condicional) | Formalizes the pattern Day 35 only previewed: Type 2 (contrary-to-present-fact) conditional sentences fix each clause's tense in one direction only — the si-clause always takes Day 35's imperfect subjunctive (si tuviera, never si tendría or si tenga) and the result clause always takes Day 24's conditional simple (aprendería, never aprendiera); clause order is reversible with a comma only when the si-clause comes first; contrasted with the "real/likely" Type 1 conditional (si + present indicative + present/future/imperative) reserved for a future lesson | spanish-lessons/day-36.html |
 | 2026-08-15 | 37 | 與現在事實/未來相符的條件句(Oraciones Condicionales — Si + Presente de Indicativo + Presente/Futuro/Imperativo) | Delivers the "real/likely" Type 1 conditional Day 36 flagged: the si-clause always takes the present indicative (si tienes, never si tengas or si tuvieras) while the result clause can take the present indicative (general rule), future simple (Day 23, one-time promise), or imperative (Day 25/26, direct advice); completes the two-conditional-type contrast with Day 36 (present indicative + 3 possible moods vs. imperfect subjunctive + conditional simple only) and warns against blending the two systems' tenses | spanish-lessons/day-37.html |
 | 2026-08-17 | 38 | 與過去事實相反的條件句(Oraciones Condicionales — Si + Pluscuamperfecto de Subjuntivo + Condicional Compuesto) | Completes the three-type conditional trilogy begun on Days 36-37: the "contrary-to-past-fact" Type 3 conditional promotes both of Type 2's simple tenses one level into haber-based compound tenses — the si-clause takes the pluperfect subjunctive (hubiera/hubieras/hubiera/hubiéramos/hubieran, Day 35's imperfect-subjunctive stem applied to haber, + Day 21's past participle) and the result clause takes the conditional perfect (habría/habrías/habría/habríamos/habrían, Day 24's conditional-simple stem applied to haber, + the same participle); used to imagine a different outcome for an already-finished, unchangeable past event, distinct from Type 2's present-tense hypothetical and Type 1's open future | spanish-lessons/day-38.html |
+| 2026-08-18 | 39 | 未來完成式(Futuro Perfecto / Futuro Compuesto) | Completes the "haber + past participle" compound-tense square begun on Days 21-22 and continued on Day 38: formed from haber's own future-simple stem (habr-, one of Day 23's twelve irregular future stems) + Day 21's past participle (habré/habrás/habrá/habremos/habrán + participio); marks either a future-anterior action already completed by a given future reference point (often with para + time or a Day-32 cuando + present-subjunctive clause) or a conjecture about something already completed (¿Habrá llegado ya?), extending the conjecture pattern from Day 23's future simple (present conjecture) and Day 24's conditional simple (past conjecture) one step further | spanish-lessons/day-39.html |
 
 Note: a duplicate "Day 2" lesson (ser/¿De dónde eres?, i.e. the same topic
 as Day 5) was independently produced on 2026-07-14 on an orphaned branch
@@ -197,6 +198,7 @@ continues from Day 6.
 | 2026-08-14 | 36 | 明夷 (Míng Yí) — Darkening of the Light |
 | 2026-08-15 | 37 | 家人 (Jiā Rén) — The Family (The Clan) |
 | 2026-08-17 | 38 | 睽 (Kuí) — Opposition |
+| 2026-08-18 | 39 | 蹇 (Jiǎn) — Obstruction |
 
 Note: a duplicate Hexagram 2 (坤 Kūn) was also independently produced on
 2026-07-14 on the same orphaned branch, for the same reason. Hexagram 7
@@ -239,6 +241,7 @@ above correctly continues from Hexagram 6.
 | 2026-08-14 | Liechtenstein (列支敦斯登) |
 | 2026-08-15 | Qatar (卡達) |
 | 2026-08-17 | Nauru (諾魯) |
+| 2026-08-18 | Bangladesh (孟加拉) |
 
 ## Internet Meme Spotlights Featured
 
@@ -277,6 +280,7 @@ above correctly continues from Hexagram 6.
 | 2026-08-14 | Surprised Pikachu (驚訝皮卡丘) |
 | 2026-08-15 | Drakeposting / Drake Hotline Bling Meme |
 | 2026-08-17 | LOLcats / "I Can Has Cheezburger?" |
+| 2026-08-18 | Charlie Bit My Finger |
 
 ## Film / Performing Arts Spotlights Featured
 
@@ -313,6 +317,7 @@ and never repeat a subject already listed.
 | 2026-08-14 | Taiwanese Opera / Gezaixi (歌仔戲, Koa-á-hì, Taiwan) |
 | 2026-08-15 | Kunqu Opera (崑曲, Kūnqǔ) |
 | 2026-08-17 | Apocalypse Now (現代啟示錄, 1979, dir. Francis Ford Coppola) |
+| 2026-08-18 | The Seventh Seal (第七封印, 1957, dir. Ingmar Bergman) |
 
 ## Film-Appreciation / Criticism Method Lessons
 
@@ -351,6 +356,7 @@ table and pick one not yet covered.
 | 2026-08-14 | Production Design & Art Direction (world-building through sets, architecture, and props — distinct from Day 12's costume lesson, Day 3's cinematography/colour lesson, and Day 1's broader mise-en-scène umbrella; look for verticality/scale as power hierarchy, cultural bricolage building an invented world from blended real-world reference points, and texture/decay as unspoken backstory) | Blade Runner (1982, dir. Ridley Scott, production design by Lawrence G. Paull, concept design by Syd Mead) — the opening flying-car descent into Los Angeles, contrasting the towering, Mayan-revival Tyrell Corporation pyramid bathed in isolated light against the street-level bricolage of mixed-script neon, steam vents, and rain-soaked crowds, establishing the film's entire class-stratified dystopia through vertical production-design contrast alone |
 | 2026-08-15 | Adaptation Analysis (comparing a film to its literary/other source material via point-of-view translation, deliberate omissions/additions, and altered endings, rather than judging "fidelity" to plot events — a different lens from any prior lesson) | Jaws (1975, dir. Steven Spielberg), adapted from Peter Benchley's 1974 novel — Spielberg cut the novel's Ellen/Hooper affair and mafia-debt subplots to narrow the story into pure survival-horror; the malfunctioning mechanical shark forced a withhold-and-suggest visual strategy (POV shots, barrels, fin cutaways, Williams's two-note motif) now considered more effective than showing the creature; and the novel's anticlimactic drowning death was replaced with the film's explosive scuba-tank kill shot, trading "realism" for cinematic genre payoff |
 | 2026-08-17 | Title Sequence as Thesis Statement (a main title sequence as a compressed short film establishing tone/genre/psychology before any story dialogue — check whether typography/material texture carries meaning, whether the imagery is diegetic or symbolic, how music relates to the images, and whether the sequence stands alone as a self-contained short — distinct from all 23 prior lessons, none of which addressed the title sequence itself as an object of analysis) | Se7en (1995, dir. David Fincher), title design by Kyle Cooper — extreme-close-up, hand-scratched Kodalith footage of the killer's hands assembling obsessive notebooks, intercut with a hooded silhouette and scored to a discordant industrial remix of Nine Inch Nails' "Closer," a sequence so unusually effective that test audiences reportedly applauded when it ended, credited with reviving Hollywood's interest in title design as a serious art form |
+| 2026-08-18 | Cross-Cutting / Parallel Editing for Simultaneity (intercutting between two or more genuinely-simultaneous lines of action in different places — distinct from Day 2's Soviet-montage juxtaposition of unrelated shots and Day 6's achronological narrative restructuring; look for whether the alternating rhythm accelerates, whether the effect is ironic contrast or converging suspense, and whether continuous music/sound binds the separate locations into one event) | The Godfather (1972, dir. Francis Ford Coppola) — the baptism sequence, intercutting Michael Corleone's solemn Latin renunciation of Satan as godfather with the simultaneous, coordinated assassination of the Five Families' bosses, Nino Rota's unbroken church-organ score binding sacred ritual and profane violence into one event and delivering the scene's central irony through editing structure alone |
 
 ## Run Notes
 
@@ -2248,3 +2254,80 @@ table and pick one not yet covered.
   human still needs to fix the Routine's persistent-session/branch-
   targeting configuration (and, separately, whatever caused 08-16's run
   to never fire at all) to stop these issues from recurring.
+- **2026-08-18 — recovery procedure run again; portal branch found already
+  fully up to date, no reconciliation needed.** This session began on an
+  unrelated feature branch (`claude/bold-goldberg-901cy3`) with no daily
+  routine content at all, which is exactly the kind of stale/wrong
+  starting point the recovery procedure exists to catch — so steps 1-3
+  were run before writing anything. (1) `mcp__github__list_branches`
+  listed all 44 `claude/*` branches. (2) `GET
+  /repos/lebonthe/ClaudeRoutineTest/deployments?environment=github-pages`
+  was called directly via `curl`; its most recent entry (deployment id
+  5952020736, created 2026-08-17T21:53:26Z) had `ref:
+  claude/epic-brahmagupta-g1y16m`, confirmed via `GET
+  /deployments/{id}/statuses` to have reached `state: success` at
+  2026-08-17T21:53:41Z — confirming that branch as the deployed portal
+  branch (not the repo's unrelated `default_branch` setting). (3) Rather
+  than trusting a single `ROUTINE_LOG.md` fetch, all 44 branches' local
+  clones were compared directly (via `git fetch --all` + `git ls-tree`/
+  `git cat-file -s` counts of `briefings/`, `spanish-lessons/`, and
+  `ROUTINE_LOG.md` size) to confirm which branch actually had the
+  longest, most complete, non-duplicate history. Every `claude/daily-*`
+  branch showed a strictly increasing content count with each date, and
+  `claude/epic-brahmagupta-g1y16m` matched `claude/daily-2026-08-17`
+  commit-for-commit (identical tip SHA `dc4f94fd5834b9da977e252219a526488569c3cd`,
+  39 briefing files, 38 Spanish lessons, identical `ROUTINE_LOG.md` size)
+  — i.e. the portal branch was already fully current through Day
+  38/Hexagram 38 (2026-08-17) with no gap and no orphaned-branch content
+  to reconcile. No `default_branch` field was consulted or relied upon
+  at any point. A new branch, `claude/daily-2026-08-18`, was created
+  directly off `claude/epic-brahmagupta-g1y16m`'s tip for today's work.
+  Added Spanish Day 39 (Futuro Perfecto — the future-tense stem of
+  haber applied to Day 21's past-participle machinery, completing the
+  four-way "haber + participle" compound-tense square alongside Days
+  21/22/38), Hexagram 39 (蹇 Jiǎn, Obstruction — the Xugua commentary's
+  direct pivot off Hexagram 38, "乖必有難,故受之以蹇," reasoning that
+  estrangement matured into friction must in turn produce a hard
+  obstacle; read via the Tuan's trigram-position imagery of danger
+  〔Kǎn〕sitting above and blocking the way, and the Image commentary's
+  "君子以反身修德" — turning inward to cultivate virtue rather than
+  forcing a path — forming a direct causal sequel to yesterday's Kuí),
+  Bangladesh (chosen for Section 5 as a large, densely populated South
+  Asian nation offering a deliberate contrast to the long recent run of
+  small island/microstates, and as a live example of a major, still-
+  unfolding political transition — the Feb 2026 election of PM Tarique
+  Rahman ending the "two begums" era), Charlie Bit My Finger (chosen for
+  Section 6 as an early, unstaged home-video viral case distinct in
+  mechanism from LOLcats' captioned-image format, Drakeposting's
+  comparison-panel format, and every dance/reaction-video meme already
+  covered, with its own distinct second life as an internet-culture case
+  study via the family's 2021 NFT sale), The Seventh Seal (chosen for
+  Section 7 as a landmark arthouse film not yet covered, distinct from
+  every prior Bergman-adjacent or chess-imagery reference used only as a
+  Section 8 example), and Cross-Cutting/Parallel Editing for
+  Simultaneity as Section 8's twenty-fifth film-analysis lesson (worked
+  through The Godfather's baptism/quintuple-assassination sequence,
+  chosen as a lens distinct from Day 2's Soviet montage and Day 6's
+  non-linear narrative structure since it turns specifically on
+  alternating between genuinely simultaneous action rather than
+  juxtaposing unrelated shots or scrambling chronology). Market/dev-news
+  sections used the `WebSearch` tool directly: no new US close had
+  posted since Monday Aug 17 (Tuesday's US session had not yet closed at
+  briefing time), so the US section explicitly carried forward Monday's
+  already-reported figures rather than fabricating a new close; Asia's
+  Tuesday session saw the Nikkei drop 2.54% to 67,460.73 on profit-taking
+  while the Hang Seng (+0.07% to 25,471.15) and Shanghai Composite
+  (+0.19% to 3,990.30) were roughly flat; TAIEX fell 1.20% (-548.59pts)
+  to 45,308.68 ahead of the August futures settlement date. Dev news
+  noted the still-converging Sept 9 iPhone 18 Pro event with a foldable
+  now expected alongside the Pro/Pro Max, continued weekly iOS 27 betas,
+  no new Apple Intelligence/AI-industry/Android news beyond what was
+  already reported the prior day, and Flutter's stable channel still at
+  3.44.7 with Impeller-as-default/Material-Cupertino-package-split noted
+  as an upcoming (not yet shipped) roadmap item. Fast-forward merged
+  `claude/daily-2026-08-18` into `claude/epic-brahmagupta-g1y16m` and
+  pushed. No branch-divergence or missed-run-day issue occurred this
+  time — logged here per the instruction to note the outcome either way;
+  the recovery/verification procedure itself remains necessary every
+  single day regardless of outcome, since the session's starting branch
+  cannot be trusted in advance.
