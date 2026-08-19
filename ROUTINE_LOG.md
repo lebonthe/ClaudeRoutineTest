@@ -149,6 +149,7 @@ the repo so a permanent link can be shared.
 | 2026-08-15 | 37 | 與現在事實/未來相符的條件句(Oraciones Condicionales — Si + Presente de Indicativo + Presente/Futuro/Imperativo) | Delivers the "real/likely" Type 1 conditional Day 36 flagged: the si-clause always takes the present indicative (si tienes, never si tengas or si tuvieras) while the result clause can take the present indicative (general rule), future simple (Day 23, one-time promise), or imperative (Day 25/26, direct advice); completes the two-conditional-type contrast with Day 36 (present indicative + 3 possible moods vs. imperfect subjunctive + conditional simple only) and warns against blending the two systems' tenses | spanish-lessons/day-37.html |
 | 2026-08-17 | 38 | 與過去事實相反的條件句(Oraciones Condicionales — Si + Pluscuamperfecto de Subjuntivo + Condicional Compuesto) | Completes the three-type conditional trilogy begun on Days 36-37: the "contrary-to-past-fact" Type 3 conditional promotes both of Type 2's simple tenses one level into haber-based compound tenses — the si-clause takes the pluperfect subjunctive (hubiera/hubieras/hubiera/hubiéramos/hubieran, Day 35's imperfect-subjunctive stem applied to haber, + Day 21's past participle) and the result clause takes the conditional perfect (habría/habrías/habría/habríamos/habrían, Day 24's conditional-simple stem applied to haber, + the same participle); used to imagine a different outcome for an already-finished, unchangeable past event, distinct from Type 2's present-tense hypothetical and Type 1's open future | spanish-lessons/day-38.html |
 | 2026-08-18 | 39 | 未來完成式(Futuro Perfecto / Futuro Compuesto) | Completes the "haber + past participle" compound-tense square begun on Days 21-22 and continued on Day 38: formed from haber's own future-simple stem (habr-, one of Day 23's twelve irregular future stems) + Day 21's past participle (habré/habrás/habrá/habremos/habrán + participio); marks either a future-anterior action already completed by a given future reference point (often with para + time or a Day-32 cuando + present-subjunctive clause) or a conjecture about something already completed (¿Habrá llegado ya?), extending the conjecture pattern from Day 23's future simple (present conjecture) and Day 24's conditional simple (past conjecture) one step further | spanish-lessons/day-39.html |
+| 2026-08-19 | 40 | 虛擬式現在完成式(El Pretérito Perfecto de Subjuntivo) | Gives the subjunctive mood its own compound-tense partner, mirroring Day 39's indicative/conditional square: formed from haber's present-subjunctive stem (haya/hayas/haya/hayamos/hayáis/hayan) + Day 21's past participle; takes exactly the same WEIRDO trigger vocabulary taught across Days 27-34, but marks an action already completed relative to the present (Espero que hayas dormido bien) rather than one happening now or later (Espero que duermas bien); pairs with Day 27's presente de subjuntivo the same way Day 35's imperfecto de subjuntivo pairs with the pluscuamperfecto de subjuntivo already used inside Day 38's contrary-to-past-fact "si" clauses | spanish-lessons/day-40.html |
 
 Note: a duplicate "Day 2" lesson (ser/¿De dónde eres?, i.e. the same topic
 as Day 5) was independently produced on 2026-07-14 on an orphaned branch
@@ -199,6 +200,7 @@ continues from Day 6.
 | 2026-08-15 | 37 | 家人 (Jiā Rén) — The Family (The Clan) |
 | 2026-08-17 | 38 | 睽 (Kuí) — Opposition |
 | 2026-08-18 | 39 | 蹇 (Jiǎn) — Obstruction |
+| 2026-08-19 | 40 | 解 (Xiè) — Deliverance |
 
 Note: a duplicate Hexagram 2 (坤 Kūn) was also independently produced on
 2026-07-14 on the same orphaned branch, for the same reason. Hexagram 7
@@ -242,6 +244,7 @@ above correctly continues from Hexagram 6.
 | 2026-08-15 | Qatar (卡達) |
 | 2026-08-17 | Nauru (諾魯) |
 | 2026-08-18 | Bangladesh (孟加拉) |
+| 2026-08-19 | Kenya (肯亞) |
 
 ## Internet Meme Spotlights Featured
 
@@ -281,6 +284,7 @@ above correctly continues from Hexagram 6.
 | 2026-08-15 | Drakeposting / Drake Hotline Bling Meme |
 | 2026-08-17 | LOLcats / "I Can Has Cheezburger?" |
 | 2026-08-18 | Charlie Bit My Finger |
+| 2026-08-19 | Left Shark |
 
 ## Film / Performing Arts Spotlights Featured
 
@@ -318,6 +322,7 @@ and never repeat a subject already listed.
 | 2026-08-15 | Kunqu Opera (崑曲, Kūnqǔ) |
 | 2026-08-17 | Apocalypse Now (現代啟示錄, 1979, dir. Francis Ford Coppola) |
 | 2026-08-18 | The Seventh Seal (第七封印, 1957, dir. Ingmar Bergman) |
+| 2026-08-19 | Bharatanatyam (婆羅多舞, India) |
 
 ## Film-Appreciation / Criticism Method Lessons
 
@@ -357,6 +362,7 @@ table and pick one not yet covered.
 | 2026-08-15 | Adaptation Analysis (comparing a film to its literary/other source material via point-of-view translation, deliberate omissions/additions, and altered endings, rather than judging "fidelity" to plot events — a different lens from any prior lesson) | Jaws (1975, dir. Steven Spielberg), adapted from Peter Benchley's 1974 novel — Spielberg cut the novel's Ellen/Hooper affair and mafia-debt subplots to narrow the story into pure survival-horror; the malfunctioning mechanical shark forced a withhold-and-suggest visual strategy (POV shots, barrels, fin cutaways, Williams's two-note motif) now considered more effective than showing the creature; and the novel's anticlimactic drowning death was replaced with the film's explosive scuba-tank kill shot, trading "realism" for cinematic genre payoff |
 | 2026-08-17 | Title Sequence as Thesis Statement (a main title sequence as a compressed short film establishing tone/genre/psychology before any story dialogue — check whether typography/material texture carries meaning, whether the imagery is diegetic or symbolic, how music relates to the images, and whether the sequence stands alone as a self-contained short — distinct from all 23 prior lessons, none of which addressed the title sequence itself as an object of analysis) | Se7en (1995, dir. David Fincher), title design by Kyle Cooper — extreme-close-up, hand-scratched Kodalith footage of the killer's hands assembling obsessive notebooks, intercut with a hooded silhouette and scored to a discordant industrial remix of Nine Inch Nails' "Closer," a sequence so unusually effective that test audiences reportedly applauded when it ended, credited with reviving Hollywood's interest in title design as a serious art form |
 | 2026-08-18 | Cross-Cutting / Parallel Editing for Simultaneity (intercutting between two or more genuinely-simultaneous lines of action in different places — distinct from Day 2's Soviet-montage juxtaposition of unrelated shots and Day 6's achronological narrative restructuring; look for whether the alternating rhythm accelerates, whether the effect is ironic contrast or converging suspense, and whether continuous music/sound binds the separate locations into one event) | The Godfather (1972, dir. Francis Ford Coppola) — the baptism sequence, intercutting Michael Corleone's solemn Latin renunciation of Satan as godfather with the simultaneous, coordinated assassination of the Five Families' bosses, Nino Rota's unbroken church-organ score binding sacred ritual and profane violence into one event and delivering the scene's central irony through editing structure alone |
+| 2026-08-19 | The Subjective / POV Camera (a shot placed at a character's own eyeline so the audience sees exactly what that character sees — distinct from Day 6's Gaze Theory, a structural/ideological lens about who is permitted to look, and Day 15's Camera Movement, which addresses physical travel rather than eyeline placement; look for framing/editing cues marking a shot as subjective, whose eyes they are, whether the POV is sustained unbroken or interrupted by objective cutaways, and what identity/motive the device withholds until it breaks) | Halloween (1978, dir. John Carpenter) — the four-minute unbroken Steadicam opening tracking shot from young Michael Myers's subjective POV, peering through a window, circling the house, retrieving a knife, and lifting a clown mask over the shot's own "eyes" moments before the murder, implicating the audience in the killer's perspective well before the final beat reveals a child beneath the mask |
 
 ## Run Notes
 
@@ -2326,6 +2332,78 @@ table and pick one not yet covered.
   3.44.7 with Impeller-as-default/Material-Cupertino-package-split noted
   as an upcoming (not yet shipped) roadmap item. Fast-forward merged
   `claude/daily-2026-08-18` into `claude/epic-brahmagupta-g1y16m` and
+  pushed. No branch-divergence or missed-run-day issue occurred this
+  time — logged here per the instruction to note the outcome either way;
+  the recovery/verification procedure itself remains necessary every
+  single day regardless of outcome, since the session's starting branch
+  cannot be trusted in advance.
+- **2026-08-19 — recovery procedure run again; portal branch found
+  already fully up to date, no reconciliation needed.** This session
+  began on `claude/bold-goldberg-vv8873`, a feature branch carrying only
+  the pre-existing Day 1-10 history (through 2026-07-19) — exactly the
+  kind of stale starting point the recovery procedure exists to catch,
+  so steps 1-3 were run in full before writing anything new. (1)
+  `mcp__github__list_branches` listed all 46 `claude/*` branches in the
+  repo. (2) Rather than trusting the repository's unrelated
+  `default_branch` setting, `mcp__github__actions_list` was used to find
+  the repo's single `pages-build-deployment` workflow, then to list its
+  completed runs; the most recent successful run (Aug 18, 21:50:18 UTC)
+  had `head_branch: claude/epic-brahmagupta-g1y16m`, confirming that
+  branch as the deployed Pages portal branch. (3) All 46 branches were
+  fetched locally (`git fetch` with a full refspec) and compared via
+  `git rev-list --count` and `git ls-tree` counts of `briefings/` and
+  `spanish-lessons/`: `claude/epic-brahmagupta-g1y16m` had the most
+  commits (47) and the most content (40 briefings, 39 Spanish lessons)
+  of any branch, and its tip SHA matched `claude/daily-2026-08-18`
+  exactly (commit-for-commit identical) — confirming the portal branch
+  was already fully current through Day 39/Hexagram 39 (2026-08-18)
+  with no gap and nothing to reconcile from any other branch. A new
+  branch, `claude/daily-2026-08-19`, was created directly off
+  `claude/epic-brahmagupta-g1y16m`'s tip for today's work. Added Spanish
+  Day 40 (Pretérito Perfecto de Subjuntivo — haya + past participle,
+  giving the subjunctive mood its own compound-tense partner to mirror
+  Day 39's indicative/conditional square), Hexagram 40 (解 Xiè,
+  Deliverance — the Xugua commentary's direct pivot off Hexagram 39,
+  "物不可以終難,故受之以解", read as the natural release once movement
+  [Zhèn, Thunder] finally breaks free of the danger [Kǎn, Water] that
+  Hexagram 39's stillness could only wait out), Kenya (chosen for
+  Section 5 as a large, well-known East African nation offering scale
+  contrast after several recent small/microstates, with a live current
+  economy/technology angle via M-Pesa and Nairobi's "Silicon Savannah"),
+  Left Shark (chosen for Section 6 as a mechanistically distinct
+  viral case — a live-broadcast "second-screen" meme born in real time
+  during Super Bowl XLIX, unlike any prior captioned-image, home-video,
+  or dance-video meme already covered, with its own IP/trademark-dispute
+  afterlife), Bharatanatyam (chosen for Section 7 as a classical Indian
+  performing-art form not yet covered, distinct from every prior dance
+  form already used — Swan Lake ballet, Butoh, Flamenco, Commedia
+  dell'arte), and the Subjective/POV Camera as Section 8's twenty-sixth
+  film-analysis lesson (worked through Halloween's unbroken four-minute
+  opening Steadicam shot, chosen as a lens distinct from Day 6's Gaze
+  Theory — a structural/ideological question of who is permitted to
+  look — and Day 15's Camera Movement — physical camera travel — since
+  it turns specifically on the narrational claim that an image *is* a
+  specific character's own eyesight). Market/dev-news sections used the
+  `WebSearch` tool directly: US markets' most recent close (Tuesday Aug
+  18, since Wednesday's session had not yet closed at briefing time) saw
+  the S&P 500 -0.69% to 7,691.76, Nasdaq -1.33% to 26,289.71 (tech/chip
+  stocks leading declines), and Dow -0.22% to 53,343.40, on renewed
+  tech-sector selling and a 30-year Treasury yield near a two-decade
+  high; Asia's Wednesday session saw a sharp North Asian chip-stock
+  selloff serious enough to trigger an automatic program-selling halt on
+  South Korea's KOSPI (down roughly 5.8%), while Japan's Nikkei fell a
+  second straight day (-3.16% to 65,326.42) and the Hang Seng (+0.09% to
+  25,495.07) and Shanghai Composite (-2.40% to 3,894.42) were comparatively
+  calm; TAIEX fell 1.30% (-589.33pts) to 44,719.35 tracking the overnight
+  US/regional chip-sector losses. Dev news noted the still-converging
+  Sept 9 iPhone 18 Pro/Ultra (foldable) event, the fourth public betas of
+  iOS/macOS/iPadOS/tvOS 27 released Aug 18, Anthropic's Claude Fable 5
+  joining Claude Opus 5 in the product lineup with no new AI leaderboard
+  leader since Zhipu's GLM-5.3 (Aug 14), Android 17 QPR1 Beta 9 and the
+  August security patch for Pixel devices, and explicitly no new Flutter
+  stable release beyond the previously reported 3.44.7 rather than
+  repeating old Google I/O 2026 coverage as fresh. Fast-forward merged
+  `claude/daily-2026-08-19` into `claude/epic-brahmagupta-g1y16m` and
   pushed. No branch-divergence or missed-run-day issue occurred this
   time — logged here per the instruction to note the outcome either way;
   the recovery/verification procedure itself remains necessary every
