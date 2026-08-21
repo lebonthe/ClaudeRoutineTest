@@ -151,6 +151,7 @@ the repo so a permanent link can be shared.
 | 2026-08-18 | 39 | 未來完成式(Futuro Perfecto / Futuro Compuesto) | Completes the "haber + past participle" compound-tense square begun on Days 21-22 and continued on Day 38: formed from haber's own future-simple stem (habr-, one of Day 23's twelve irregular future stems) + Day 21's past participle (habré/habrás/habrá/habremos/habrán + participio); marks either a future-anterior action already completed by a given future reference point (often with para + time or a Day-32 cuando + present-subjunctive clause) or a conjecture about something already completed (¿Habrá llegado ya?), extending the conjecture pattern from Day 23's future simple (present conjecture) and Day 24's conditional simple (past conjecture) one step further | spanish-lessons/day-39.html |
 | 2026-08-19 | 40 | 虛擬式現在完成式(El Pretérito Perfecto de Subjuntivo) | Gives the subjunctive mood its own compound-tense partner, mirroring Day 39's indicative/conditional square: formed from haber's present-subjunctive stem (haya/hayas/haya/hayamos/hayáis/hayan) + Day 21's past participle; takes exactly the same WEIRDO trigger vocabulary taught across Days 27-34, but marks an action already completed relative to the present (Espero que hayas dormido bien) rather than one happening now or later (Espero que duermas bien); pairs with Day 27's presente de subjuntivo the same way Day 35's imperfecto de subjuntivo pairs with the pluscuamperfecto de subjuntivo already used inside Day 38's contrary-to-past-fact "si" clauses | spanish-lessons/day-40.html |
 | 2026-08-20 | 41 | Como si + Imperfecto/Pluscuamperfecto de Subjuntivo(彷彿……一樣) | A new fixed trigger phrase, distinct from any clause-type category taught so far: como si ("as if") always takes the subjunctive, never the indicative, since it inherently compares reality to something admittedly untrue; it reuses two already-taught tenses depending on timing rather than introducing new conjugation — Day 35's imperfect subjunctive (fuera, conociera) for a same-time unreal comparison, or Day 38's pluperfect subjunctive (hubiera pasado) for a comparison about something supposedly already finished | spanish-lessons/day-41.html |
+| 2026-08-21 | 42 | 比較句與最高級(Comparativos y Superlativos) | Deliberately steps outside verb conjugation into a new grammar area: unequal comparison más/menos + adjective + que, equal comparison tan + adjective + como, and the superlative el/la/los/las + más/menos + adjective + de (never en); irregular comparatives bueno/malo→mejor/peor and age-sense grande/pequeño→mayor/menor must be memorized rather than built with más/menos, while size-sense grande/pequeño keep the regular más grande/más pequeño form | spanish-lessons/day-42.html |
 
 Note: a duplicate "Day 2" lesson (ser/¿De dónde eres?, i.e. the same topic
 as Day 5) was independently produced on 2026-07-14 on an orphaned branch
@@ -203,6 +204,7 @@ continues from Day 6.
 | 2026-08-18 | 39 | 蹇 (Jiǎn) — Obstruction |
 | 2026-08-19 | 40 | 解 (Xiè) — Deliverance |
 | 2026-08-20 | 41 | 損 (Sǔn) — Decrease |
+| 2026-08-21 | 42 | 益 (Yì) — Increase |
 
 Note: a duplicate Hexagram 2 (坤 Kūn) was also independently produced on
 2026-07-14 on the same orphaned branch, for the same reason. Hexagram 7
@@ -248,6 +250,7 @@ above correctly continues from Hexagram 6.
 | 2026-08-18 | Bangladesh (孟加拉) |
 | 2026-08-19 | Kenya (肯亞) |
 | 2026-08-20 | South Sudan (南蘇丹) |
+| 2026-08-21 | Rwanda (盧安達) |
 
 ## Internet Meme Spotlights Featured
 
@@ -289,6 +292,7 @@ above correctly continues from Hexagram 6.
 | 2026-08-18 | Charlie Bit My Finger |
 | 2026-08-19 | Left Shark |
 | 2026-08-20 | All Your Base Are Belong to Us |
+| 2026-08-21 | "Ain't Nobody Got Time for That" (Sweet Brown) |
 
 ## Film / Performing Arts Spotlights Featured
 
@@ -328,6 +332,7 @@ and never repeat a subject already listed.
 | 2026-08-18 | The Seventh Seal (第七封印, 1957, dir. Ingmar Bergman) |
 | 2026-08-19 | Bharatanatyam (婆羅多舞, India) |
 | 2026-08-20 | 8½ (Otto e mezzo, 1963, dir. Federico Fellini) |
+| 2026-08-21 | Bicycle Thieves (Ladri di biciclette, 1948, dir. Vittorio De Sica) |
 
 ## Film-Appreciation / Criticism Method Lessons
 
@@ -369,6 +374,7 @@ table and pick one not yet covered.
 | 2026-08-18 | Cross-Cutting / Parallel Editing for Simultaneity (intercutting between two or more genuinely-simultaneous lines of action in different places — distinct from Day 2's Soviet-montage juxtaposition of unrelated shots and Day 6's achronological narrative restructuring; look for whether the alternating rhythm accelerates, whether the effect is ironic contrast or converging suspense, and whether continuous music/sound binds the separate locations into one event) | The Godfather (1972, dir. Francis Ford Coppola) — the baptism sequence, intercutting Michael Corleone's solemn Latin renunciation of Satan as godfather with the simultaneous, coordinated assassination of the Five Families' bosses, Nino Rota's unbroken church-organ score binding sacred ritual and profane violence into one event and delivering the scene's central irony through editing structure alone |
 | 2026-08-19 | The Subjective / POV Camera (a shot placed at a character's own eyeline so the audience sees exactly what that character sees — distinct from Day 6's Gaze Theory, a structural/ideological lens about who is permitted to look, and Day 15's Camera Movement, which addresses physical travel rather than eyeline placement; look for framing/editing cues marking a shot as subjective, whose eyes they are, whether the POV is sustained unbroken or interrupted by objective cutaways, and what identity/motive the device withholds until it breaks) | Halloween (1978, dir. John Carpenter) — the four-minute unbroken Steadicam opening tracking shot from young Michael Myers's subjective POV, peering through a window, circling the house, retrieving a knife, and lifting a clown mask over the shot's own "eyes" moments before the murder, implicating the audience in the killer's perspective well before the final beat reveals a child beneath the mask |
 | 2026-08-20 | Foreshadowing & Chekhov's Gun (a narrative/visual detail deliberately planted early — with just enough weight to register but not enough to telegraph its payoff — that returns to carry significance the audience could not have fully grasped on first appearance; distinct from Day 6's Narrative Structure, which addresses overall plot shape/sequencing, and Day 17's Title Sequence lesson, a compressed thesis delivered before the story begins; check whether the plant honors or deliberately violates the strict "every gun must fire" principle, whether it is visual or verbal, and how recognizing it on a rewatch reframes its first appearance) | Parasite (2019, dir. Bong Joon-ho) — the ornamental "scholar's rock" (수석, suseok) gifted to the Kim family early as a token of prosperity, carried instinctively by Ki-woo out of the rising sewage floodwater, and finally turned into an actual weapon in the violent climax, retroactively reframing the family's earlier aspirational hope in the object as always having carried the seed of harm |
+| 2026-08-21 | Voice-Over Narration & Narrator Reliability (whose voice is narrating and from what vantage point in time; whether narration is redundant with, additive to, or actively contradicts the image track; distinct from Day 6's Narrative Structure, which addresses plot sequencing regardless of narration, and Day 4's Sound Design lesson, which covers score/diegetic sound broadly rather than a speaking narrator specifically; check whether the narrator is internal or external to the story, whether image and narration ever visibly conflict, and whether the film eventually reveals the narration itself to have been unreliable) | Fight Club (1999, dir. David Fincher) — the unnamed Narrator's confident, continuous voice-over throughout, revealed in the third act to be the account of a dissociative alter-ego (Tyler Durden) he has literally been narrating himself into and out of, retroactively exposing subliminal single-frame Tyler flashes planted throughout the "normal" early scenes that the narration never once mentioned |
 
 ## Run Notes
 
@@ -390,6 +396,64 @@ this file's Run Notes section grows past roughly 8-10 daily entries
 (~45-50KB), move the oldest entries out into a new
 `ROUTINE_LOG_ARCHIVE_N.md` file (next sequential number) to keep this file
 safely small, and update this notice accordingly.
+
+- **2026-08-21 — recurring branch-divergence bug confirmed again;
+  recovery procedure run in full before writing anything new.** This
+  session began on `claude/bold-goldberg-6g3zcu`, a brand-new branch with
+  zero prior routine history (no `briefings/`, no `spanish-lessons/`, no
+  `ROUTINE_LOG.md` beyond whatever the repo's default branch carries) —
+  an even more extreme case of the stale-starting-point problem this
+  procedure exists to catch, since this branch had no salvageable
+  content at all rather than merely old content. Steps 1-3 were run in
+  full: (1) `mcp__github__list_branches` listed all 47 `claude/*`
+  branches in the repo. (2) Rather than trusting the repository's
+  unrelated `default_branch` setting, the GitHub REST API
+  (`GET /repos/lebonthe/ClaudeRoutineTest/deployments?environment=github-pages`,
+  fetched via `curl` since no dedicated deployments MCP tool was
+  available) was queried directly; the most recent entries were all
+  `state: success` with `ref: claude/epic-brahmagupta-g1y16m`, confirming
+  that branch as the deployed Pages portal branch — corroborated by
+  `mcp__github__list_commits` on that branch, whose tip was a merge
+  commit for `claude/daily-2026-08-20` (Day 41/Hexagram 41/South
+  Sudan/AYBABTU/8½/Chekhov's Gun) dated 2026-08-21T00:14:41Z. (3) The
+  portal branch's `ROUTINE_LOG.md` (plus its three archive files),
+  `briefings/` (41 files, 2026-07-08 through 2026-08-20, missing only
+  07-18 and 08-16 as already documented as skipped runs), and
+  `spanish-lessons/` (day-01 through day-41) were confirmed complete and
+  consistent with each other — no other `claude/*` branch had newer or
+  additional content to reconcile. `git fetch origin
+  claude/epic-brahmagupta-g1y16m` followed by `git checkout -b
+  claude/daily-2026-08-21 origin/claude/epic-brahmagupta-g1y16m` created
+  today's working branch directly off the portal tip, discarding the
+  empty starting branch's lineage entirely rather than building on it.
+  Added Spanish Day 42 (Comparativos y Superlativos — the first lesson
+  in over a week to step outside verb conjugation into a new grammar
+  area: más/menos...que, tan...como, and the el/la más...de superlative,
+  plus the bueno/malo/grande/pequeño irregular comparatives), Hexagram 42
+  (益 Yì, Increase — the Xugua commentary's direct pivot off Hexagram
+  41's decrease, "損而不已必益,故受之以益", read as the exact mirror
+  of 41's "decrease below, increase above": here the upper trigram gives
+  way to enrich the lower, completing a two-hexagram teaching that
+  decrease and increase are phases of one continuous exchange), Rwanda
+  (chosen for Section 5 as a small-territory, high-density East African
+  nation with a globally discussed post-genocide reconciliation and
+  growth story, offering a contrast to recent picks), "Ain't Nobody Got
+  Time for That" / Sweet Brown (a foundational early-2010s "viral local
+  news interview" meme not yet covered), Bicycle Thieves (1948, dir.
+  Vittorio De Sica) for Section 7 (deliberately paired with the prior
+  day's 8½ spotlight, since Fellini's film dramatizes Italian cinema's
+  later turn away from the Neorealism that Bicycle Thieves defines), and
+  Voice-Over Narration & Narrator Reliability as the 28th film-analysis
+  method for Section 8 (worked example: Fight Club's unreliable
+  Narrator). Stock market and dev-news sections used `WebSearch` for
+  current data (Aug 20 US/Asia/Taiwan closes, the John Ternus
+  CEO-succession story, Flutter 3.44's Swift Package Manager /
+  Material-Cupertino-decoupling changes); direct `WebFetch` of
+  finance.yahoo.com was confirmed still blocked by this session's egress
+  proxy (`EGRESS_BLOCKED`), consistent with prior days' notes, so the
+  Taiwan close figure is sourced from a real-time quote page's
+  previous-close field rather than a same-day closing report and is
+  flagged as such in the briefing.
 
 - **2026-08-19 — recovery procedure run again; portal branch found
   already fully up to date, no reconciliation needed.** This session
