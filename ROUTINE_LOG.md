@@ -152,6 +152,7 @@ the repo so a permanent link can be shared.
 | 2026-08-19 | 40 | 虛擬式現在完成式(El Pretérito Perfecto de Subjuntivo) | Gives the subjunctive mood its own compound-tense partner, mirroring Day 39's indicative/conditional square: formed from haber's present-subjunctive stem (haya/hayas/haya/hayamos/hayáis/hayan) + Day 21's past participle; takes exactly the same WEIRDO trigger vocabulary taught across Days 27-34, but marks an action already completed relative to the present (Espero que hayas dormido bien) rather than one happening now or later (Espero que duermas bien); pairs with Day 27's presente de subjuntivo the same way Day 35's imperfecto de subjuntivo pairs with the pluscuamperfecto de subjuntivo already used inside Day 38's contrary-to-past-fact "si" clauses | spanish-lessons/day-40.html |
 | 2026-08-20 | 41 | Como si + Imperfecto/Pluscuamperfecto de Subjuntivo(彷彿……一樣) | A new fixed trigger phrase, distinct from any clause-type category taught so far: como si ("as if") always takes the subjunctive, never the indicative, since it inherently compares reality to something admittedly untrue; it reuses two already-taught tenses depending on timing rather than introducing new conjugation — Day 35's imperfect subjunctive (fuera, conociera) for a same-time unreal comparison, or Day 38's pluperfect subjunctive (hubiera pasado) for a comparison about something supposedly already finished | spanish-lessons/day-41.html |
 | 2026-08-21 | 42 | 比較句與最高級(Comparativos y Superlativos) | Deliberately steps outside verb conjugation into a new grammar area: unequal comparison más/menos + adjective + que, equal comparison tan + adjective + como, and the superlative el/la/los/las + más/menos + adjective + de (never en); irregular comparatives bueno/malo→mejor/peor and age-sense grande/pequeño→mayor/menor must be memorized rather than built with más/menos, while size-sense grande/pequeño keep the regular más grande/más pequeño form | spanish-lessons/day-42.html |
+| 2026-08-22 | 43 | 絕對最高級(El Superlativo Absoluto: -ísimo) | Continues Day 42's comparison/ranking area with its complement: the absolute superlative suffix -ísimo/-ísima intensifies an adjective ("extremely X") with no comparison group at all, distinct from Day 42's relative superlative (el/la más...de, which ranks within a named group); formed by dropping the final vowel and adding -ísimo/-ísima, with three spelling adjustments to preserve consonant sound (-co/-ca→-quísimo, -go/-ga→-guísimo, -z→-císimo); contrasted in register with plain muy + adjective (more neutral/everyday than the more emphatic, colloquial -ísimo, and the two are not normally stacked) | spanish-lessons/day-43.html |
 
 Note: a duplicate "Day 2" lesson (ser/¿De dónde eres?, i.e. the same topic
 as Day 5) was independently produced on 2026-07-14 on an orphaned branch
@@ -205,6 +206,7 @@ continues from Day 6.
 | 2026-08-19 | 40 | 解 (Xiè) — Deliverance |
 | 2026-08-20 | 41 | 損 (Sǔn) — Decrease |
 | 2026-08-21 | 42 | 益 (Yì) — Increase |
+| 2026-08-22 | 43 | 夬 (Guài) — Breakthrough (Resoluteness) |
 
 Note: a duplicate Hexagram 2 (坤 Kūn) was also independently produced on
 2026-07-14 on the same orphaned branch, for the same reason. Hexagram 7
@@ -251,6 +253,7 @@ above correctly continues from Hexagram 6.
 | 2026-08-19 | Kenya (肯亞) |
 | 2026-08-20 | South Sudan (南蘇丹) |
 | 2026-08-21 | Rwanda (盧安達) |
+| 2026-08-22 | Djibouti (吉布地) |
 
 ## Internet Meme Spotlights Featured
 
@@ -293,6 +296,7 @@ above correctly continues from Hexagram 6.
 | 2026-08-19 | Left Shark |
 | 2026-08-20 | All Your Base Are Belong to Us |
 | 2026-08-21 | "Ain't Nobody Got Time for That" (Sweet Brown) |
+| 2026-08-22 | Ugandan Knuckles ("Do You Know Da Wae?") |
 
 ## Film / Performing Arts Spotlights Featured
 
@@ -333,6 +337,7 @@ and never repeat a subject already listed.
 | 2026-08-19 | Bharatanatyam (婆羅多舞, India) |
 | 2026-08-20 | 8½ (Otto e mezzo, 1963, dir. Federico Fellini) |
 | 2026-08-21 | Bicycle Thieves (Ladri di biciclette, 1948, dir. Vittorio De Sica) |
+| 2026-08-22 | Argentine Tango (探戈) |
 
 ## Film-Appreciation / Criticism Method Lessons
 
@@ -375,6 +380,7 @@ table and pick one not yet covered.
 | 2026-08-19 | The Subjective / POV Camera (a shot placed at a character's own eyeline so the audience sees exactly what that character sees — distinct from Day 6's Gaze Theory, a structural/ideological lens about who is permitted to look, and Day 15's Camera Movement, which addresses physical travel rather than eyeline placement; look for framing/editing cues marking a shot as subjective, whose eyes they are, whether the POV is sustained unbroken or interrupted by objective cutaways, and what identity/motive the device withholds until it breaks) | Halloween (1978, dir. John Carpenter) — the four-minute unbroken Steadicam opening tracking shot from young Michael Myers's subjective POV, peering through a window, circling the house, retrieving a knife, and lifting a clown mask over the shot's own "eyes" moments before the murder, implicating the audience in the killer's perspective well before the final beat reveals a child beneath the mask |
 | 2026-08-20 | Foreshadowing & Chekhov's Gun (a narrative/visual detail deliberately planted early — with just enough weight to register but not enough to telegraph its payoff — that returns to carry significance the audience could not have fully grasped on first appearance; distinct from Day 6's Narrative Structure, which addresses overall plot shape/sequencing, and Day 17's Title Sequence lesson, a compressed thesis delivered before the story begins; check whether the plant honors or deliberately violates the strict "every gun must fire" principle, whether it is visual or verbal, and how recognizing it on a rewatch reframes its first appearance) | Parasite (2019, dir. Bong Joon-ho) — the ornamental "scholar's rock" (수석, suseok) gifted to the Kim family early as a token of prosperity, carried instinctively by Ki-woo out of the rising sewage floodwater, and finally turned into an actual weapon in the violent climax, retroactively reframing the family's earlier aspirational hope in the object as always having carried the seed of harm |
 | 2026-08-21 | Voice-Over Narration & Narrator Reliability (whose voice is narrating and from what vantage point in time; whether narration is redundant with, additive to, or actively contradicts the image track; distinct from Day 6's Narrative Structure, which addresses plot sequencing regardless of narration, and Day 4's Sound Design lesson, which covers score/diegetic sound broadly rather than a speaking narrator specifically; check whether the narrator is internal or external to the story, whether image and narration ever visibly conflict, and whether the film eventually reveals the narration itself to have been unreliable) | Fight Club (1999, dir. David Fincher) — the unnamed Narrator's confident, continuous voice-over throughout, revealed in the third act to be the account of a dissociative alter-ego (Tyler Durden) he has literally been narrating himself into and out of, retroactively exposing subliminal single-frame Tyler flashes planted throughout the "normal" early scenes that the narration never once mentioned |
+| 2026-08-22 | Lens Choice & Focal Length: Wide-Angle vs. Telephoto Compression (how a lens's focal length alone shapes perceived spatial distance before any editing/lighting choice — wide-angle exaggerates foreground-background distance while telephoto flattens/compresses it; distinct from Day 8's Depth of Field & Focus (sharp vs. blurred, not spatial compression), Day 3's Cinematography & Lighting (light/color, not lens geometry), and Day 15's Camera Movement (physical camera travel, not a fixed lens's optical property); check what focal length is evidently in use, whether the resulting distortion is emotionally/narratively motivated, and whether a lens-choice shift mid-film marks a deliberate psychological or narrative turn) | The Graduate (1967, dir. Mike Nichols, cinematography by Robert Surtees) — the famous extreme-telephoto shot of Benjamin Braddock sprinting toward camera, whose severe compression flattens his forward progress so completely that despite a full sprint he appears to barely close any distance, conveying his exhausting, futile race against time through pure optics with no trick editing |
 
 ## Run Notes
 
@@ -396,6 +402,66 @@ this file's Run Notes section grows past roughly 8-10 daily entries
 (~45-50KB), move the oldest entries out into a new
 `ROUTINE_LOG_ARCHIVE_N.md` file (next sequential number) to keep this file
 safely small, and update this notice accordingly.
+
+- **2026-08-22 — recovery procedure run in full again before writing
+  anything new; portal branch confirmed already fully current through
+  Day 42.** This session's designated branch (`claude/bold-goldberg-6kgftq`)
+  was checked and found to hold only stale content frozen at 2026-07-20/
+  Day 3 — the same recurring branch-divergence bug documented on nearly
+  every prior run. Steps 1-3 were run before any content was written:
+  (1) `mcp__github__list_branches` listed all `claude/*` branches in the
+  repo (48 total, including several `claude/daily-YYYY-MM-DD` branches
+  through 2026-08-21 and the long-lived `claude/epic-brahmagupta-*`
+  branches). (2) Per the standing instruction to never trust the
+  repository's unrelated `default_branch` setting, and since a direct
+  `WebFetch` of the GitHub REST deployments endpoint again returned
+  HTTP 403 (consistent with prior days' notes that this session's
+  network egress blocks unauthenticated `api.github.com` calls),
+  `mcp__github__actions_list` (method `list_workflow_runs`) was used
+  instead to inspect the repo's `pages build and deployment` workflow
+  history directly; all of the most recent 26 runs (back through
+  2026-07-24) had `conclusion: success` with `head_branch:
+  claude/epic-brahmagupta-g1y16m`, confirming that branch as the actual
+  deployed GitHub Pages portal branch. (3) That branch's `ROUTINE_LOG.md`
+  (plus its three archive files), `index.html`, `briefings/` (through
+  2026-08-21.html), and `spanish-lessons/` (through day-42.html) were
+  fetched via `mcp__github__get_file_contents` and confirmed complete,
+  internally consistent, and already fully up to date through Day 42/
+  Hexagram 42/Rwanda/"Ain't Nobody Got Time for That"/Bicycle Thieves/
+  Voice-Over Narration — no gap and nothing to reconcile from any other
+  branch. `git fetch origin claude/epic-brahmagupta-g1y16m` followed by
+  `git checkout -b claude/daily-2026-08-22
+  origin/claude/epic-brahmagupta-g1y16m` created today's working branch
+  directly off the confirmed portal tip, discarding the stale designated
+  branch's lineage entirely. Added Spanish Day 43 (El Superlativo
+  Absoluto, -ísimo — the absolute superlative, deliberately paired with
+  Day 42's relative superlative as its natural complement within the
+  same new "comparison and ranking" grammar area opened yesterday),
+  Hexagram 43 (夬 Guài, Breakthrough/Resoluteness — the Xugua
+  commentary's direct pivot off Hexagram 42's "益而不已必決,故受之以
+  夬", read together with 42 as the completion of a two-hexagram
+  teaching that a nearly total moral/political victory must still be
+  carried out openly and without complacent reliance on force alone),
+  Djibouti (chosen for Section 5 as a small-territory Horn-of-Africa
+  state whose entire economy and geopolitical significance rest on a
+  single strategic strait rather than resources, offering a contrast to
+  recent African picks), Ugandan Knuckles / "Do You Know Da Wae?"
+  (chosen for Section 6 as a 2018 VRChat-native avatar meme not yet
+  covered, documented neutrally including the real-world moderation/
+  racial-insensitivity controversy it drew), Argentine Tango (chosen for
+  Section 7 to diversify away from the recent run of straight film
+  picks back toward a living performing-arts tradition, distinct from
+  all previously covered dance forms), and Lens Choice & Focal Length
+  (Wide-Angle vs. Telephoto Compression) as the 29th film-analysis
+  method for Section 8 (worked example: the telephoto-compressed
+  running shot in The Graduate). Stock market sections used `WebSearch`
+  for current data; since 2026-08-22 is a Saturday, all three market
+  sections report the most recent available close (Friday, Aug 21) and
+  say so explicitly rather than implying same-day trading; direct
+  `WebFetch` of the GitHub deployments API was confirmed blocked
+  (`403`) as in prior runs, consistent with this session's network
+  egress restrictions, so the Actions-workflow-history method was used
+  for portal-branch confirmation instead.
 
 - **2026-08-21 — recurring branch-divergence bug confirmed again;
   recovery procedure run in full before writing anything new.** This
