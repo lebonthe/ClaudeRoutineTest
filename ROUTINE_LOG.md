@@ -153,6 +153,7 @@ the repo so a permanent link can be shared.
 | 2026-08-20 | 41 | Como si + Imperfecto/Pluscuamperfecto de Subjuntivo(彷彿……一樣) | A new fixed trigger phrase, distinct from any clause-type category taught so far: como si ("as if") always takes the subjunctive, never the indicative, since it inherently compares reality to something admittedly untrue; it reuses two already-taught tenses depending on timing rather than introducing new conjugation — Day 35's imperfect subjunctive (fuera, conociera) for a same-time unreal comparison, or Day 38's pluperfect subjunctive (hubiera pasado) for a comparison about something supposedly already finished | spanish-lessons/day-41.html |
 | 2026-08-21 | 42 | 比較句與最高級(Comparativos y Superlativos) | Deliberately steps outside verb conjugation into a new grammar area: unequal comparison más/menos + adjective + que, equal comparison tan + adjective + como, and the superlative el/la/los/las + más/menos + adjective + de (never en); irregular comparatives bueno/malo→mejor/peor and age-sense grande/pequeño→mayor/menor must be memorized rather than built with más/menos, while size-sense grande/pequeño keep the regular más grande/más pequeño form | spanish-lessons/day-42.html |
 | 2026-08-22 | 43 | 絕對最高級(El Superlativo Absoluto: -ísimo) | Continues Day 42's comparison/ranking area with its complement: the absolute superlative suffix -ísimo/-ísima intensifies an adjective ("extremely X") with no comparison group at all, distinct from Day 42's relative superlative (el/la más...de, which ranks within a named group); formed by dropping the final vowel and adding -ísimo/-ísima, with three spelling adjustments to preserve consonant sound (-co/-ca→-quísimo, -go/-ga→-guísimo, -z→-císimo); contrasted in register with plain muy + adjective (more neutral/everyday than the more emphatic, colloquial -ísimo, and the two are not normally stacked) | spanish-lessons/day-43.html |
+| 2026-08-23 | 44 | 直接受詞代名詞(Los Pronombres de Objeto Directo: lo/la/los/las) | Steps outside the tense/mood track to fill a foundational gap: direct object pronouns lo/la/los/las replace a noun directly receiving a verb's action, agreeing in gender/number with the replaced noun rather than the speaker (el libro→lo, la llave→la, los libros→los, las llaves→las); placed before a conjugated verb (Lo tengo) or, with an infinitive/gerund (Day 13's ir a, Day 14's present progressive), either before the verb group or attached to the infinitive/gerund's end (Voy a comprarlas, Estoy comprándolas — the latter requiring an accent to preserve stress); directly contrasted with Day 15's indirect object pronouns, which share me/te/nos but diverge in the third person (indirect le/les ignores gender; direct lo/la/los/las must match it, even for people, unlike the regional Spain-only leísmo variant) | spanish-lessons/day-44.html |
 
 Note: a duplicate "Day 2" lesson (ser/¿De dónde eres?, i.e. the same topic
 as Day 5) was independently produced on 2026-07-14 on an orphaned branch
@@ -207,6 +208,7 @@ continues from Day 6.
 | 2026-08-20 | 41 | 損 (Sǔn) — Decrease |
 | 2026-08-21 | 42 | 益 (Yì) — Increase |
 | 2026-08-22 | 43 | 夬 (Guài) — Breakthrough (Resoluteness) |
+| 2026-08-23 | 44 | 姤 (Gòu) — Coming to Meet |
 
 Note: a duplicate Hexagram 2 (坤 Kūn) was also independently produced on
 2026-07-14 on the same orphaned branch, for the same reason. Hexagram 7
@@ -254,6 +256,7 @@ above correctly continues from Hexagram 6.
 | 2026-08-20 | South Sudan (南蘇丹) |
 | 2026-08-21 | Rwanda (盧安達) |
 | 2026-08-22 | Djibouti (吉布地) |
+| 2026-08-23 | Suriname (蘇利南) |
 
 ## Internet Meme Spotlights Featured
 
@@ -297,6 +300,7 @@ above correctly continues from Hexagram 6.
 | 2026-08-20 | All Your Base Are Belong to Us |
 | 2026-08-21 | "Ain't Nobody Got Time for That" (Sweet Brown) |
 | 2026-08-22 | Ugandan Knuckles ("Do You Know Da Wae?") |
+| 2026-08-23 | "Is This a Pigeon?" |
 
 ## Film / Performing Arts Spotlights Featured
 
@@ -338,6 +342,7 @@ and never repeat a subject already listed.
 | 2026-08-20 | 8½ (Otto e mezzo, 1963, dir. Federico Fellini) |
 | 2026-08-21 | Bicycle Thieves (Ladri di biciclette, 1948, dir. Vittorio De Sica) |
 | 2026-08-22 | Argentine Tango (探戈) |
+| 2026-08-23 | Do the Right Thing (為所應為, 1989, dir. Spike Lee) |
 
 ## Film-Appreciation / Criticism Method Lessons
 
@@ -381,6 +386,7 @@ table and pick one not yet covered.
 | 2026-08-20 | Foreshadowing & Chekhov's Gun (a narrative/visual detail deliberately planted early — with just enough weight to register but not enough to telegraph its payoff — that returns to carry significance the audience could not have fully grasped on first appearance; distinct from Day 6's Narrative Structure, which addresses overall plot shape/sequencing, and Day 17's Title Sequence lesson, a compressed thesis delivered before the story begins; check whether the plant honors or deliberately violates the strict "every gun must fire" principle, whether it is visual or verbal, and how recognizing it on a rewatch reframes its first appearance) | Parasite (2019, dir. Bong Joon-ho) — the ornamental "scholar's rock" (수석, suseok) gifted to the Kim family early as a token of prosperity, carried instinctively by Ki-woo out of the rising sewage floodwater, and finally turned into an actual weapon in the violent climax, retroactively reframing the family's earlier aspirational hope in the object as always having carried the seed of harm |
 | 2026-08-21 | Voice-Over Narration & Narrator Reliability (whose voice is narrating and from what vantage point in time; whether narration is redundant with, additive to, or actively contradicts the image track; distinct from Day 6's Narrative Structure, which addresses plot sequencing regardless of narration, and Day 4's Sound Design lesson, which covers score/diegetic sound broadly rather than a speaking narrator specifically; check whether the narrator is internal or external to the story, whether image and narration ever visibly conflict, and whether the film eventually reveals the narration itself to have been unreliable) | Fight Club (1999, dir. David Fincher) — the unnamed Narrator's confident, continuous voice-over throughout, revealed in the third act to be the account of a dissociative alter-ego (Tyler Durden) he has literally been narrating himself into and out of, retroactively exposing subliminal single-frame Tyler flashes planted throughout the "normal" early scenes that the narration never once mentioned |
 | 2026-08-22 | Lens Choice & Focal Length: Wide-Angle vs. Telephoto Compression (how a lens's focal length alone shapes perceived spatial distance before any editing/lighting choice — wide-angle exaggerates foreground-background distance while telephoto flattens/compresses it; distinct from Day 8's Depth of Field & Focus (sharp vs. blurred, not spatial compression), Day 3's Cinematography & Lighting (light/color, not lens geometry), and Day 15's Camera Movement (physical camera travel, not a fixed lens's optical property); check what focal length is evidently in use, whether the resulting distortion is emotionally/narratively motivated, and whether a lens-choice shift mid-film marks a deliberate psychological or narrative turn) | The Graduate (1967, dir. Mike Nichols, cinematography by Robert Surtees) — the famous extreme-telephoto shot of Benjamin Braddock sprinting toward camera, whose severe compression flattens his forward progress so completely that despite a full sprint he appears to barely close any distance, conveying his exhausting, futile race against time through pure optics with no trick editing |
+| 2026-08-23 | Sound Bridge (J-Cut & L-Cut) (audio deliberately overlapping a picture cut — arriving early as a J-cut or lingering late as an L-cut — to make a transition feel causally/emotionally continuous rather than abrupt; distinct from Day 4's broader Sound Design & Score, Day 2's Editing & Montage juxtaposition, and Day 11's purely visual Match Cut; check whether the overlapping sound is diegetic or non-diegetic, whether it's a J-cut building anticipation or an L-cut letting an emotional beat carry forward, and whether the bridge serves narrative economy or ironic contrast) | Apocalypse Now (1979, dir. Francis Ford Coppola) — the opening sequence, where helicopter-rotor sound begins over the burning jungle and continues unbroken as the picture cuts to Willard alone in his Saigon hotel room, fusing the war outside with the war in his head before the famous match cut to the ceiling fan whose blades visually echo the rotor sound that never stopped |
 
 ## Run Notes
 
@@ -402,6 +408,55 @@ this file's Run Notes section grows past roughly 8-10 daily entries
 (~45-50KB), move the oldest entries out into a new
 `ROUTINE_LOG_ARCHIVE_N.md` file (next sequential number) to keep this file
 safely small, and update this notice accordingly.
+
+- **2026-08-23 — recovery procedure run in full before writing anything
+  new; portal branch confirmed already fully current through Day 43.**
+  This session's designated branch (`claude/bold-goldberg-3dia8q`) held
+  no daily-briefing content at all (a fresh/near-empty branch), so the
+  standing recovery procedure was followed in full rather than trusting
+  the starting branch: (1) `mcp__github__list_branches` listed all
+  `claude/*` branches in the repo (50 total). (2) Per the standing
+  instruction to never rely on the repo's unrelated `default_branch`
+  setting, `mcp__github__actions_list` (method `list_workflow_runs`) was
+  used to inspect the `pages-build-deployment` Actions workflow history
+  directly; the most recent successful run (run #41, 2026-08-22) had
+  `head_branch: claude/epic-brahmagupta-g1y16m` at the same commit SHA
+  already listed for that branch in step 1, confirming it as the actual
+  GitHub Pages-deployed portal branch. (3) That branch's `ROUTINE_LOG.md`
+  (all six tracking tables), `index.html`, `briefings/` (through
+  2026-08-22.html), and `spanish-lessons/` (through day-43.html) were
+  fetched via `mcp__github__get_file_contents` and confirmed complete,
+  internally consistent, and already fully up to date through Day 43/
+  Hexagram 43/Djibouti/Ugandan Knuckles/Argentine Tango/Lens Choice &
+  Focal Length — no gap and nothing to reconcile from any other branch.
+  `git fetch origin claude/epic-brahmagupta-g1y16m` followed by
+  `git checkout -b claude/daily-2026-08-23 origin/claude/epic-brahmagupta-g1y16m`
+  confirmed the same tip locally before any file was written. Today's
+  content: Spanish Day 44 (direct object pronouns lo/la/los/las, the
+  first fully new grammar area since Day 42's comparatives — deliberately
+  chosen to fill the previously-untaught direct-object-pronoun gap,
+  contrasted directly against Day 15's indirect object pronouns),
+  Hexagram 44 (姤 Gòu, "Coming to Meet," continuing directly from
+  yesterday's 夬 Guài per the Xugua commentary), Suriname (chosen partly
+  for its South-America-scale comparison value and Dutch-colonial/
+  Treaty-of-Breda history), "Is This a Pigeon?" (a durable Asian-anime-
+  derived reaction-image template not yet covered), Do the Right Thing
+  (1989, dir. Spike Lee, a landmark US film not yet used in Section 7
+  despite Do the Right Thing's *sequences* never having appeared in any
+  Section 8 example), and Sound Bridge / J-Cut & L-Cut as the 30th
+  film-analysis method (illustrated via Apocalypse Now's opening, a film
+  already used as a Section 7 subject on 2026-08-17 but not yet used as
+  a Section 8 worked example, consistent with the existing pattern of
+  reusing a film across different analytical lenses on different days,
+  e.g. The Godfather for both Blocking & Staging and Cross-Cutting).
+  Live US/Asia/Taiwan market data reflects Friday 2026-08-21's close, the
+  most recent trading session available since both Aug 22 and Aug 23 are
+  weekend non-trading days; dev-news section notes no material updates
+  since the prior briefing where applicable. After adding today's row,
+  git-merged `claude/daily-2026-08-23` fast-forward into
+  `claude/epic-brahmagupta-g1y16m` and pushed the portal branch directly
+  (this is what actually updates GitHub Pages); the daily branch was also
+  pushed and kept, per the no-destructive-action default.
 
 - **2026-08-22 — recovery procedure run in full again before writing
   anything new; portal branch confirmed already fully current through
