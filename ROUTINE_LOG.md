@@ -154,6 +154,7 @@ the repo so a permanent link can be shared.
 | 2026-08-21 | 42 | 比較句與最高級(Comparativos y Superlativos) | Deliberately steps outside verb conjugation into a new grammar area: unequal comparison más/menos + adjective + que, equal comparison tan + adjective + como, and the superlative el/la/los/las + más/menos + adjective + de (never en); irregular comparatives bueno/malo→mejor/peor and age-sense grande/pequeño→mayor/menor must be memorized rather than built with más/menos, while size-sense grande/pequeño keep the regular más grande/más pequeño form | spanish-lessons/day-42.html |
 | 2026-08-22 | 43 | 絕對最高級(El Superlativo Absoluto: -ísimo) | Continues Day 42's comparison/ranking area with its complement: the absolute superlative suffix -ísimo/-ísima intensifies an adjective ("extremely X") with no comparison group at all, distinct from Day 42's relative superlative (el/la más...de, which ranks within a named group); formed by dropping the final vowel and adding -ísimo/-ísima, with three spelling adjustments to preserve consonant sound (-co/-ca→-quísimo, -go/-ga→-guísimo, -z→-císimo); contrasted in register with plain muy + adjective (more neutral/everyday than the more emphatic, colloquial -ísimo, and the two are not normally stacked) | spanish-lessons/day-43.html |
 | 2026-08-23 | 44 | 直接受詞代名詞(Los Pronombres de Objeto Directo: lo/la/los/las) | Steps outside the tense/mood track to fill a foundational gap: direct object pronouns lo/la/los/las replace a noun directly receiving a verb's action, agreeing in gender/number with the replaced noun rather than the speaker (el libro→lo, la llave→la, los libros→los, las llaves→las); placed before a conjugated verb (Lo tengo) or, with an infinitive/gerund (Day 13's ir a, Day 14's present progressive), either before the verb group or attached to the infinitive/gerund's end (Voy a comprarlas, Estoy comprándolas — the latter requiring an accent to preserve stress); directly contrasted with Day 15's indirect object pronouns, which share me/te/nos but diverge in the third person (indirect le/les ignores gender; direct lo/la/los/las must match it, even for people, unlike the regional Spain-only leísmo variant) | spanish-lessons/day-44.html |
+| 2026-08-24 | 45 | 直接與間接受詞代名詞合併使用(Los Pronombres de Objeto Directo e Indirecto Combinados) | Combines Day 15's indirect object pronouns (me/te/le/nos/les) with Day 44's direct object pronouns (lo/la/los/las) into one sentence: fixed word order always places indirect before direct (Me lo das, Te la compro, Nos los envían); a third-person indirect pronoun (le/les) is obligatorily replaced by se whenever it precedes a third-person direct pronoun, to avoid the disallowed "le lo"/"les la" sequence (Se lo doy, never Le lo doy), with a clarifying a él/a ella/a usted phrase added when se's ambiguity matters; both pronouns must move together as one unit under the same before-conjugated-verb / attached-to-infinitive-or-gerund placement rules already learned, never split apart (Te lo voy a dar / Voy a dártelo, never "Te voy a lo dar") | spanish-lessons/day-45.html |
 
 Note: a duplicate "Day 2" lesson (ser/¿De dónde eres?, i.e. the same topic
 as Day 5) was independently produced on 2026-07-14 on an orphaned branch
@@ -209,6 +210,7 @@ continues from Day 6.
 | 2026-08-21 | 42 | 益 (Yì) — Increase |
 | 2026-08-22 | 43 | 夬 (Guài) — Breakthrough (Resoluteness) |
 | 2026-08-23 | 44 | 姤 (Gòu) — Coming to Meet |
+| 2026-08-24 | 45 | 萃 (Cuì) — Gathering Together |
 
 Note: a duplicate Hexagram 2 (坤 Kūn) was also independently produced on
 2026-07-14 on the same orphaned branch, for the same reason. Hexagram 7
@@ -257,6 +259,7 @@ above correctly continues from Hexagram 6.
 | 2026-08-21 | Rwanda (盧安達) |
 | 2026-08-22 | Djibouti (吉布地) |
 | 2026-08-23 | Suriname (蘇利南) |
+| 2026-08-24 | Georgia (喬治亞) |
 
 ## Internet Meme Spotlights Featured
 
@@ -301,6 +304,7 @@ above correctly continues from Hexagram 6.
 | 2026-08-21 | "Ain't Nobody Got Time for That" (Sweet Brown) |
 | 2026-08-22 | Ugandan Knuckles ("Do You Know Da Wae?") |
 | 2026-08-23 | "Is This a Pigeon?" |
+| 2026-08-24 | Spider-Man Pointing at Spider-Man |
 
 ## Film / Performing Arts Spotlights Featured
 
@@ -343,6 +347,7 @@ and never repeat a subject already listed.
 | 2026-08-21 | Bicycle Thieves (Ladri di biciclette, 1948, dir. Vittorio De Sica) |
 | 2026-08-22 | Argentine Tango (探戈) |
 | 2026-08-23 | Do the Right Thing (為所應為, 1989, dir. Spike Lee) |
+| 2026-08-24 | Vertigo (迷魂記, 1958, dir. Alfred Hitchcock) |
 
 ## Film-Appreciation / Criticism Method Lessons
 
@@ -387,6 +392,7 @@ table and pick one not yet covered.
 | 2026-08-21 | Voice-Over Narration & Narrator Reliability (whose voice is narrating and from what vantage point in time; whether narration is redundant with, additive to, or actively contradicts the image track; distinct from Day 6's Narrative Structure, which addresses plot sequencing regardless of narration, and Day 4's Sound Design lesson, which covers score/diegetic sound broadly rather than a speaking narrator specifically; check whether the narrator is internal or external to the story, whether image and narration ever visibly conflict, and whether the film eventually reveals the narration itself to have been unreliable) | Fight Club (1999, dir. David Fincher) — the unnamed Narrator's confident, continuous voice-over throughout, revealed in the third act to be the account of a dissociative alter-ego (Tyler Durden) he has literally been narrating himself into and out of, retroactively exposing subliminal single-frame Tyler flashes planted throughout the "normal" early scenes that the narration never once mentioned |
 | 2026-08-22 | Lens Choice & Focal Length: Wide-Angle vs. Telephoto Compression (how a lens's focal length alone shapes perceived spatial distance before any editing/lighting choice — wide-angle exaggerates foreground-background distance while telephoto flattens/compresses it; distinct from Day 8's Depth of Field & Focus (sharp vs. blurred, not spatial compression), Day 3's Cinematography & Lighting (light/color, not lens geometry), and Day 15's Camera Movement (physical camera travel, not a fixed lens's optical property); check what focal length is evidently in use, whether the resulting distortion is emotionally/narratively motivated, and whether a lens-choice shift mid-film marks a deliberate psychological or narrative turn) | The Graduate (1967, dir. Mike Nichols, cinematography by Robert Surtees) — the famous extreme-telephoto shot of Benjamin Braddock sprinting toward camera, whose severe compression flattens his forward progress so completely that despite a full sprint he appears to barely close any distance, conveying his exhausting, futile race against time through pure optics with no trick editing |
 | 2026-08-23 | Sound Bridge (J-Cut & L-Cut) (audio deliberately overlapping a picture cut — arriving early as a J-cut or lingering late as an L-cut — to make a transition feel causally/emotionally continuous rather than abrupt; distinct from Day 4's broader Sound Design & Score, Day 2's Editing & Montage juxtaposition, and Day 11's purely visual Match Cut; check whether the overlapping sound is diegetic or non-diegetic, whether it's a J-cut building anticipation or an L-cut letting an emotional beat carry forward, and whether the bridge serves narrative economy or ironic contrast) | Apocalypse Now (1979, dir. Francis Ford Coppola) — the opening sequence, where helicopter-rotor sound begins over the burning jungle and continues unbroken as the picture cuts to Willard alone in his Saigon hotel room, fusing the war outside with the war in his head before the famous match cut to the ceiling fan whose blades visually echo the rotor sound that never stopped |
+| 2026-08-24 | The Jump Cut (deliberately cutting between two too-similar shots of the same subject to produce a visible, jarring "jump" rather than smooth continuity; distinct from Day 9's Continuity Editing & 180-Degree Rule, which preserves spatial/temporal coherence, and Day 11's Match Cut, a visual rhyme between distinct shots rather than a discontinuity within one ongoing shot; check whether it serves narrative economy (skipping dead time) or psychological jolt, whether it occurs within a single ongoing shot or across a rhythmic staccato sequence, and whether the film treats it as an error to smooth over or a badge of stylistic rebellion) | Breathless (À bout de souffle, 1960, dir. Jean-Luc Godard) — the car scene where Michel drives Patricia through Paris; footage was cut out of the static conversation shot, leaving her position and the background visibly jumping between cuts despite being the same continuous moment, turning a budget-driven fix into a defining French New Wave assault on classical Hollywood continuity |
 
 ## Run Notes
 
@@ -408,6 +414,67 @@ this file's Run Notes section grows past roughly 8-10 daily entries
 (~45-50KB), move the oldest entries out into a new
 `ROUTINE_LOG_ARCHIVE_N.md` file (next sequential number) to keep this file
 safely small, and update this notice accordingly.
+
+- **2026-08-24 — recovery procedure run in full before writing anything
+  new; portal branch confirmed already fully current through Day 44.**
+  This session's designated branch (`claude/bold-goldberg-y7jxnh`) turned
+  out not to exist on GitHub at all — `git ls-remote origin` returned
+  nothing for it and a direct `GET /repos/.../branches/claude/bold-goldberg-y7jxnh`
+  call returned `404 Branch not found`, meaning the branch was local-only
+  and had never been pushed. This is the same recurring branch-divergence
+  bug documented on nearly every prior run, in its most extreme form yet
+  (a designated branch that isn't even a real remote ref), so the standing
+  recovery procedure was followed in full rather than trusting the
+  starting branch: (1) `mcp__github__list_branches` listed all `claude/*`
+  branches in the repo (51 total, none named `bold-goldberg-y7jxnh`).
+  (2) Per the standing instruction to never rely on the repo's unrelated
+  `default_branch` setting, `GET /repos/lebonthe/ClaudeRoutineTest/deployments?environment=github-pages`
+  was called directly via `curl` (using the session's available
+  `GITHUB_TOKEN`, which succeeded where prior days' unauthenticated
+  `WebFetch` attempts had been blocked with 403); all 42 returned
+  deployments, from 2026-07-14 through the most recent one on
+  2026-08-23T21:50:50Z, had `ref: claude/epic-brahmagupta-g1y16m`, and
+  that most recent deployment's status history included `state: success`,
+  confirming this branch as the actual GitHub Pages-deployed portal
+  branch. (3) That branch's `ROUTINE_LOG.md` (all six tracking tables),
+  `index.html`, `briefings/` (through 2026-08-23.html), and
+  `spanish-lessons/` (through day-44.html) were fetched and confirmed
+  complete, internally consistent, and already fully up to date through
+  Day 44/Hexagram 44/Suriname/"Is This a Pigeon?"/Do the Right
+  Thing/Sound Bridge — no gap and nothing to reconcile from any other
+  branch (all other `claude/*` branches checked — the `epic-brahmagupta-*`,
+  `happy-newton-*`, and `gracious-ramanujan-*` variants — were confirmed
+  stale, topping out no later than 2026-07-20). `git fetch origin
+  claude/epic-brahmagupta-g1y16m` followed by `git checkout -b
+  claude/daily-2026-08-24 origin/claude/epic-brahmagupta-g1y16m`
+  confirmed the same tip locally before any file was written. Today's
+  content: Spanish Day 45 (combining Day 15's indirect object pronouns
+  with Day 44's direct object pronouns into one sentence, including the
+  obligatory le/les→se rule — the natural next step after introducing
+  direct object pronouns in isolation yesterday), Hexagram 45 (萃 Cuì,
+  "Gathering Together," continuing directly from yesterday's 姤 Gòu per
+  the Xugua commentary: things that meet then gather), Georgia/喬治亞
+  (chosen for its topical relevance — 2024's disputed election and
+  "foreign agents" law protests — and its scale-comparison and
+  first-Christian-state historical value), Spider-Man Pointing at
+  Spider-Man (a durable, not-yet-covered English-language reaction-image
+  template), Vertigo (1958, dir. Alfred Hitchcock — a landmark film not
+  yet used in Section 7 despite already being cited as the Section 8
+  worked example for Gaze/Spectatorship Theory on 2026-08-06, consistent
+  with the existing pattern of a film appearing once per section under
+  different lenses), and The Jump Cut as the 31st film-analysis method
+  for Section 8 (worked example: Breathless's car-scene jump cuts).
+  Since this briefing is generated at 5:30am Taipei time on a Monday,
+  before either the Taiwan/Asia session or the US Monday session has
+  opened, all three market sections still report Friday 2026-08-21's
+  close as the most recent available data and say so explicitly; dev-news
+  section notes no material updates since the prior briefing where
+  applicable, aside from Google's new Android Developer Verification
+  policy taking effect in September. After adding today's row,
+  git-merged `claude/daily-2026-08-24` fast-forward into
+  `claude/epic-brahmagupta-g1y16m` and pushed the portal branch directly
+  (this is what actually updates GitHub Pages); the daily branch was also
+  pushed and kept, per the no-destructive-action default.
 
 - **2026-08-23 — recovery procedure run in full before writing anything
   new; portal branch confirmed already fully current through Day 43.**
