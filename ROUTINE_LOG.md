@@ -155,6 +155,7 @@ the repo so a permanent link can be shared.
 | 2026-08-22 | 43 | 絕對最高級(El Superlativo Absoluto: -ísimo) | Continues Day 42's comparison/ranking area with its complement: the absolute superlative suffix -ísimo/-ísima intensifies an adjective ("extremely X") with no comparison group at all, distinct from Day 42's relative superlative (el/la más...de, which ranks within a named group); formed by dropping the final vowel and adding -ísimo/-ísima, with three spelling adjustments to preserve consonant sound (-co/-ca→-quísimo, -go/-ga→-guísimo, -z→-císimo); contrasted in register with plain muy + adjective (more neutral/everyday than the more emphatic, colloquial -ísimo, and the two are not normally stacked) | spanish-lessons/day-43.html |
 | 2026-08-23 | 44 | 直接受詞代名詞(Los Pronombres de Objeto Directo: lo/la/los/las) | Steps outside the tense/mood track to fill a foundational gap: direct object pronouns lo/la/los/las replace a noun directly receiving a verb's action, agreeing in gender/number with the replaced noun rather than the speaker (el libro→lo, la llave→la, los libros→los, las llaves→las); placed before a conjugated verb (Lo tengo) or, with an infinitive/gerund (Day 13's ir a, Day 14's present progressive), either before the verb group or attached to the infinitive/gerund's end (Voy a comprarlas, Estoy comprándolas — the latter requiring an accent to preserve stress); directly contrasted with Day 15's indirect object pronouns, which share me/te/nos but diverge in the third person (indirect le/les ignores gender; direct lo/la/los/las must match it, even for people, unlike the regional Spain-only leísmo variant) | spanish-lessons/day-44.html |
 | 2026-08-24 | 45 | 直接與間接受詞代名詞合併使用(Los Pronombres de Objeto Directo e Indirecto Combinados) | Combines Day 15's indirect object pronouns (me/te/le/nos/les) with Day 44's direct object pronouns (lo/la/los/las) into one sentence: fixed word order always places indirect before direct (Me lo das, Te la compro, Nos los envían); a third-person indirect pronoun (le/les) is obligatorily replaced by se whenever it precedes a third-person direct pronoun, to avoid the disallowed "le lo"/"les la" sequence (Se lo doy, never Le lo doy), with a clarifying a él/a ella/a usted phrase added when se's ambiguity matters; both pronouns must move together as one unit under the same before-conjugated-verb / attached-to-infinitive-or-gerund placement rules already learned, never split apart (Te lo voy a dar / Voy a dártelo, never "Te voy a lo dar") | spanish-lessons/day-45.html |
+| 2026-08-25 | 46 | 反身動詞與反身代名詞(Los Verbos Reflexivos y los Pronombres Reflexivos) | Formalizes the reflexive pronoun system (me/te/se/nos/os/se) silently used since Day 1's Me llamo; regular reflexive verbs (levantarse, ducharse, vestirse, acostarse) conjugate normally with a matching reflexive pronoun before the conjugated verb or attached to an infinitive/gerund/affirmative command, same placement rules as Days 44-45; deliberately sequenced right after Day 45 to contrast identical spelling with opposite function — yesterday's se is a forced le/les→se substitution before a third-person direct object pronoun (two participants), today's se is a true reflexive pronoun where subject acts on itself (one participant, no accompanying lo/la/los/las) | spanish-lessons/day-46.html |
 
 Note: a duplicate "Day 2" lesson (ser/¿De dónde eres?, i.e. the same topic
 as Day 5) was independently produced on 2026-07-14 on an orphaned branch
@@ -211,6 +212,7 @@ continues from Day 6.
 | 2026-08-22 | 43 | 夬 (Guài) — Breakthrough (Resoluteness) |
 | 2026-08-23 | 44 | 姤 (Gòu) — Coming to Meet |
 | 2026-08-24 | 45 | 萃 (Cuì) — Gathering Together |
+| 2026-08-25 | 46 | 升 (Shēng) — Pushing Upward / Ascending |
 
 Note: a duplicate Hexagram 2 (坤 Kūn) was also independently produced on
 2026-07-14 on the same orphaned branch, for the same reason. Hexagram 7
@@ -260,6 +262,7 @@ above correctly continues from Hexagram 6.
 | 2026-08-22 | Djibouti (吉布地) |
 | 2026-08-23 | Suriname (蘇利南) |
 | 2026-08-24 | Georgia (喬治亞) |
+| 2026-08-25 | Cuba (古巴) |
 
 ## Internet Meme Spotlights Featured
 
@@ -305,6 +308,7 @@ above correctly continues from Hexagram 6.
 | 2026-08-22 | Ugandan Knuckles ("Do You Know Da Wae?") |
 | 2026-08-23 | "Is This a Pigeon?" |
 | 2026-08-24 | Spider-Man Pointing at Spider-Man |
+| 2026-08-25 | Dat Boi |
 
 ## Film / Performing Arts Spotlights Featured
 
@@ -348,6 +352,7 @@ and never repeat a subject already listed.
 | 2026-08-22 | Argentine Tango (探戈) |
 | 2026-08-23 | Do the Right Thing (為所應為, 1989, dir. Spike Lee) |
 | 2026-08-24 | Vertigo (迷魂記, 1958, dir. Alfred Hitchcock) |
+| 2026-08-25 | Sunset Boulevard (日落大道, 1950, dir. Billy Wilder) |
 
 ## Film-Appreciation / Criticism Method Lessons
 
@@ -393,6 +398,7 @@ table and pick one not yet covered.
 | 2026-08-22 | Lens Choice & Focal Length: Wide-Angle vs. Telephoto Compression (how a lens's focal length alone shapes perceived spatial distance before any editing/lighting choice — wide-angle exaggerates foreground-background distance while telephoto flattens/compresses it; distinct from Day 8's Depth of Field & Focus (sharp vs. blurred, not spatial compression), Day 3's Cinematography & Lighting (light/color, not lens geometry), and Day 15's Camera Movement (physical camera travel, not a fixed lens's optical property); check what focal length is evidently in use, whether the resulting distortion is emotionally/narratively motivated, and whether a lens-choice shift mid-film marks a deliberate psychological or narrative turn) | The Graduate (1967, dir. Mike Nichols, cinematography by Robert Surtees) — the famous extreme-telephoto shot of Benjamin Braddock sprinting toward camera, whose severe compression flattens his forward progress so completely that despite a full sprint he appears to barely close any distance, conveying his exhausting, futile race against time through pure optics with no trick editing |
 | 2026-08-23 | Sound Bridge (J-Cut & L-Cut) (audio deliberately overlapping a picture cut — arriving early as a J-cut or lingering late as an L-cut — to make a transition feel causally/emotionally continuous rather than abrupt; distinct from Day 4's broader Sound Design & Score, Day 2's Editing & Montage juxtaposition, and Day 11's purely visual Match Cut; check whether the overlapping sound is diegetic or non-diegetic, whether it's a J-cut building anticipation or an L-cut letting an emotional beat carry forward, and whether the bridge serves narrative economy or ironic contrast) | Apocalypse Now (1979, dir. Francis Ford Coppola) — the opening sequence, where helicopter-rotor sound begins over the burning jungle and continues unbroken as the picture cuts to Willard alone in his Saigon hotel room, fusing the war outside with the war in his head before the famous match cut to the ceiling fan whose blades visually echo the rotor sound that never stopped |
 | 2026-08-24 | The Jump Cut (deliberately cutting between two too-similar shots of the same subject to produce a visible, jarring "jump" rather than smooth continuity; distinct from Day 9's Continuity Editing & 180-Degree Rule, which preserves spatial/temporal coherence, and Day 11's Match Cut, a visual rhyme between distinct shots rather than a discontinuity within one ongoing shot; check whether it serves narrative economy (skipping dead time) or psychological jolt, whether it occurs within a single ongoing shot or across a rhythmic staccato sequence, and whether the film treats it as an error to smooth over or a badge of stylistic rebellion) | Breathless (À bout de souffle, 1960, dir. Jean-Luc Godard) — the car scene where Michel drives Patricia through Paris; footage was cut out of the static conversation shot, leaving her position and the background visibly jumping between cuts despite being the same continuous moment, turning a budget-driven fix into a defining French New Wave assault on classical Hollywood continuity |
+| 2026-08-25 | The Dutch Angle / Canted Framing (tilting the camera off its horizontal axis so the horizon runs diagonally, signaling imbalance/instability/moral distortion before dialogue or action states it; distinct from Day 8's Framing & Composition, which covers symmetry/perspective/negative space within a level frame, and Day 3's Cinematography & Lighting, which covers light/color rather than the camera's rotational axis; check whether the tilt is a single punctuation moment or a sustained stylistic signature, whether it's subtle or extreme, and whether it's motivated by a character's literal disorientation or is purely authorial commentary) | The Third Man (1949, dir. Carol Reed, cinematography by Robert Krasker) — set across occupied postwar Vienna, the film repeatedly cants the frame (interrogation scenes, the climactic sewer chase) as pure authorial commentary that the world's moral/physical foundations are off-level, considered daringly excessive by some contemporaries yet now a textbook reference case for the technique |
 
 ## Run Notes
 
@@ -789,3 +795,74 @@ safely small, and update this notice accordingly.
   outcome either way; the recovery/verification procedure itself remains
   necessary every single day regardless of outcome, since the session's
   starting/assigned branch cannot be trusted in advance.
+
+- **2026-08-25:** The branch-divergence bug occurred again, this time in
+  its most direct form yet: the session's own starting/assigned branch,
+  `claude/bold-goldberg-8r3lfp`, was found to be a genuinely stale branch
+  frozen at Day 3 / Hexagram 3 (2026-07-20) with none of the routine's
+  real progress on it — exactly the scenario the recovery procedure warns
+  about. No work was done on that branch. Recovery followed the standard
+  procedure: (1) `list_branches` enumerated all 52 `claude/*` branches
+  in the repo, including a cluster of five `claude/epic-brahmagupta-*`
+  branches with diverging tips. (2) `GET /repos/.../deployments?
+  environment=github-pages` (fetched directly via `curl` using the
+  session's `GITHUB_TOKEN`, since no MCP tool exposes the deployments
+  endpoint) showed every successful GitHub Pages deployment for the past
+  month — 25+ consecutive daily deployments from 2026-07-25 through
+  2026-08-24 — was built from `claude/epic-brahmagupta-g1y16m`, confirming
+  it as the persistent portal branch; the most recent deployment (sha
+  `c82cf4b0`, state `success`) matched `claude/daily-2026-08-24` exactly.
+  (3) Cloned the repo locally and compared briefings/spanish-lessons
+  counts and last-modified dates across all five `epic-brahmagupta-*`
+  branches and every other `claude/*` branch: `g1y16m` had 46 briefings
+  through 2026-08-24 and was the clear, uncontested maximum — every
+  other branch (the four sibling `epic-brahmagupta-*` branches, all the
+  `happy-newton-*`/`gracious-ramanujan-*`/`routine-*` branches, and this
+  session's own stale starting branch) topped out at 2-15 briefings from
+  mid-to-late July, confirming no reconciliation was needed before adding
+  today's content. Created `claude/daily-2026-08-25` directly off
+  `claude/epic-brahmagupta-g1y16m`'s tip. Added Spanish Day 46 (reflexive
+  verbs/pronouns me/te/se/nos/os/se, deliberately sequenced right after
+  Day 45 to contrast identical-spelling-but-different-function: yesterday's
+  forced le/les→se substitution vs. today's true reflexive se), Hexagram
+  46 (升 Shēng, Pushing Upward — the Xugua commentary's direct pivot off
+  Hexagram 45, "聚而上者謂之升", read as the natural upward pressure that
+  follows any successful gathering), Cuba (chosen for Section 5 as a
+  Caribbean state not yet covered, with a distinctive US-embargo/
+  Cold-War/one-party-socialist-state angle absent from prior spotlights),
+  Dat Boi (chosen for Section 6 as a foundational mid-2010s "meme economy"
+  case study — years of dormant incubation followed by an explosive,
+  self-aware viral cycle — mechanistically distinct from every meme
+  already covered), Sunset Boulevard (chosen for Section 7 as a landmark
+  Hollywood-self-satire film not yet used as a Section 7 spotlight,
+  distinct from every prior film on that list), and The Dutch Angle /
+  Canted Framing as Section 8's thirty-second film-analysis lesson
+  (worked through The Third Man's sustained postwar-Vienna tilted framing,
+  chosen as a lens distinct from Day 8's level-frame Composition lesson
+  and Day 3's light/color-focused Cinematography lesson, since it turns
+  specifically on the camera's rotational axis). Market/dev-news sections
+  used `WebSearch` directly: the most recent close for all three regions
+  was Monday Aug 24 (Tuesday's Aug 25 session had not yet opened at
+  briefing time) — Dow +0.3% to 53,577.40 (third straight winning
+  session), S&P 500 +0.32% to 7,677.28, Nasdaq +0.66% to 26,151.30 on
+  falling yields and a chip-stock rally; Asia was broadly weak the same
+  session, with Japan's Nikkei -0.74% to 65,528.09, South Korea's KOSPI
+  down a sharp -3.12% to 6,696.96 on an Alibaba/Samsung-led chip-stock
+  selloff, and Hong Kong's Hang Seng -1.84%; TAIEX fell -1.02% to
+  44,762.32, breaching back below 45,000 on the lowest turnover since
+  April 7, with TSMC closing at its session low as the main drag. Dev
+  news noted Apple watchers flagging Aug 26 (tomorrow) as the likely
+  iPhone 18 event-invitation date, firming reports that a standard
+  iPhone 18 will be skipped this cycle in favor of Pro/Pro Max models
+  plus a first foldable "iPhone Ultra" (with the standard model, 18e,
+  and an Air 2 pushed to spring 2027); confirmed Claude Opus 5 still
+  leads the Artificial Analysis Intelligence Index (63.0-63.1) as of the
+  Aug 24 snapshot — and explicitly flagged, rather than repeated as
+  fact, a lower-quality aggregator claim of a separate new "Claude 5"
+  release this August distinct from the already-known Opus 5/Fable 5
+  family, since it could not be corroborated by higher-quality sources.
+  Fast-forward merged `claude/daily-2026-08-25` into
+  `claude/epic-brahmagupta-g1y16m` and pushed the portal branch, making
+  today's entry live at https://lebonthe.github.io/ClaudeRoutineTest/.
+  The daily branch was kept (not deleted) as the isolated record of
+  today's change, per the no-destructive-action default.
