@@ -194,6 +194,7 @@ the repo so a permanent link can be shared.
 | 2026-08-24 | 45 | 直接與間接受詞代名詞合併使用(Los Pronombres de Objeto Directo e Indirecto Combinados) | Combines Day 15's indirect object pronouns (me/te/le/nos/les) with Day 44's direct object pronouns (lo/la/los/las) into one sentence: fixed word order always places indirect before direct (Me lo das, Te la compro, Nos los envían); a third-person indirect pronoun (le/les) is obligatorily replaced by se whenever it precedes a third-person direct pronoun, to avoid the disallowed "le lo"/"les la" sequence (Se lo doy, never Le lo doy), with a clarifying a él/a ella/a usted phrase added when se's ambiguity matters; both pronouns must move together as one unit under the same before-conjugated-verb / attached-to-infinitive-or-gerund placement rules already learned, never split apart (Te lo voy a dar / Voy a dártelo, never "Te voy a lo dar") | spanish-lessons/day-45.html |
 | 2026-08-26 | 46 | 反身動詞與反身代名詞(Los Verbos Reflexivos y los Pronombres Reflexivos) | Formalizes the reflexive pronoun system (me/te/se/nos/os/se) silently used since Day 1's Me llamo; regular reflexive verbs (levantarse, ducharse, vestirse, acostarse) conjugate normally with a matching reflexive pronoun before the conjugated verb or attached to an infinitive/gerund/affirmative command, same placement rules as Days 44-45; deliberately sequenced right after Day 45 to contrast identical spelling with opposite function — yesterday's se is a forced le/les→se substitution before a third-person direct object pronoun (two participants), today's se is a true reflexive pronoun where subject acts on itself (one participant, no accompanying lo/la/los/las) | spanish-lessons/day-46.html |
 | 2026-08-27 | 47 | 相互動詞(Los Verbos Recíprocos) | Extends Day 46's reflexive pronouns (me/te/se/nos/os/se) to their second, distinct function: reciprocal "each other" meaning, possible only with a plural subject (nosotros/vosotros/ellos-ellas-ustedes) and a verb whose meaning logically allows a two-way exchange (verse, quererse, ayudarse, abrazarse, escribirse); identical spelling to the reflexive use means a sentence like Se abrazan is genuinely ambiguous in isolation (reflexive "they hug themselves" vs. reciprocal "they hug each other"), resolved when needed with el uno al otro/la una a la otra (two people) or los unos a los otros/unas a otras (larger groups); not every plural reflexive-shaped verb admits a reciprocal reading at all — dormirse ("fall asleep") has no two-way meaning to borrow, so nos dormimos can only mean "we fell asleep," never a reciprocal action | spanish-lessons/day-47.html |
+| 2026-08-28 | 48 | 無人稱與被動 se(El Se Impersonal y la Voz Pasiva Refleja) | Gives se its third and final identity, distinct from Day 46's reflexive (subject acts on itself) and Day 47's reciprocal (subjects act on each other): a construction with no identifiable agent at all, splitting into two rules despite identical spelling — impersonal se pairs with a verb that has no concrete noun to serve as grammatical subject and stays fixed in the third-person singular regardless of how many people are implied (Se vive bien aquí, Se dice que...), while passive se (voz pasiva refleja) promotes the thing acted upon into the grammatical subject, so the verb must agree with it in number (Se vende casa vs. Se venden casas); flagged edge case: when the sought object is a specific person marked with the personal "a" (Se busca a los voluntarios), it falls under impersonal se + direct object rather than passive se, since a personal-a-marked noun cannot itself be a grammatical subject, and prescriptive usage often keeps the verb singular even when plural people are meant | spanish-lessons/day-48.html |
 
 Note: a duplicate "Day 2" lesson (ser/¿De dónde eres?, i.e. the same topic
 as Day 5) was independently produced on 2026-07-14 on an orphaned branch
@@ -252,6 +253,7 @@ continues from Day 6.
 | 2026-08-24 | 45 | 萃 (Cuì) — Gathering Together |
 | 2026-08-26 | 46 | 升 (Shēng) — Pushing Upward / Ascending |
 | 2026-08-27 | 47 | 困 (Kùn) — Oppression / Exhaustion |
+| 2026-08-28 | 48 | 井 (Jǐng) — The Well |
 
 Note: a duplicate Hexagram 2 (坤 Kūn) was also independently produced on
 2026-07-14 on the same orphaned branch, for the same reason. Hexagram 7
@@ -303,6 +305,7 @@ above correctly continues from Hexagram 6.
 | 2026-08-24 | Georgia (喬治亞) |
 | 2026-08-26 | Cuba (古巴) |
 | 2026-08-27 | Malaysia (馬來西亞) |
+| 2026-08-28 | North Korea (北韓) |
 
 ## Internet Meme Spotlights Featured
 
@@ -350,6 +353,7 @@ above correctly continues from Hexagram 6.
 | 2026-08-24 | Spider-Man Pointing at Spider-Man |
 | 2026-08-26 | Dat Boi |
 | 2026-08-27 | "87分,不能再高了" (87 Points, Can't Go Any Higher, Taiwan) |
+| 2026-08-28 | Gigachad |
 
 ## Film / Performing Arts Spotlights Featured
 
@@ -395,6 +399,7 @@ and never repeat a subject already listed.
 | 2026-08-24 | Vertigo (迷魂記, 1958, dir. Alfred Hitchcock) |
 | 2026-08-26 | Sunset Boulevard (日落大道, 1950, dir. Billy Wilder) |
 | 2026-08-27 | Casablanca (北非諜影, 1942, dir. Michael Curtiz) |
+| 2026-08-28 | Cantonese Opera (粵劇) |
 
 ## Film-Appreciation / Criticism Method Lessons
 
@@ -442,6 +447,7 @@ table and pick one not yet covered.
 | 2026-08-24 | The Jump Cut (deliberately cutting between two too-similar shots of the same subject to produce a visible, jarring "jump" rather than smooth continuity; distinct from Day 9's Continuity Editing & 180-Degree Rule, which preserves spatial/temporal coherence, and Day 11's Match Cut, a visual rhyme between distinct shots rather than a discontinuity within one ongoing shot; check whether it serves narrative economy (skipping dead time) or psychological jolt, whether it occurs within a single ongoing shot or across a rhythmic staccato sequence, and whether the film treats it as an error to smooth over or a badge of stylistic rebellion) | Breathless (À bout de souffle, 1960, dir. Jean-Luc Godard) — the car scene where Michel drives Patricia through Paris; footage was cut out of the static conversation shot, leaving her position and the background visibly jumping between cuts despite being the same continuous moment, turning a budget-driven fix into a defining French New Wave assault on classical Hollywood continuity |
 | 2026-08-26 | The Dutch Angle / Canted Framing (tilting the camera off its horizontal axis so the horizon runs diagonally, signaling imbalance/instability/moral distortion before dialogue or action states it; distinct from Day 8's Framing & Composition, which covers symmetry/perspective/negative space within a level frame, and Day 3's Cinematography & Lighting, which covers light/color rather than the camera's rotational axis; check whether the tilt is a single punctuation moment or a sustained stylistic signature, whether it's subtle or extreme, and whether it's motivated by a character's literal disorientation or is purely authorial commentary) | The Third Man (1949, dir. Carol Reed, cinematography by Robert Krasker) — set across occupied postwar Vienna, the film repeatedly cants the frame (interrogation scenes, the climactic sewer chase) as pure authorial commentary that the world's moral/physical foundations are off-level, considered daringly excessive by some contemporaries yet now a textbook reference case for the technique |
 | 2026-08-27 | Breaking the Fourth Wall / Direct Address to Camera (a character or the film itself acknowledges it is being watched, collapsing the fiction of a sealed world unaware of an audience; distinct from Day 21's Voice-Over Narration, where a narrator's voice runs over the images without ever looking at or acknowledging the camera/audience, and Day 19's Subjective/POV Camera, which places the lens at a character's eyeline without that character being aware of a camera at all; check whether the break is a single punctuation moment or a sustained structural device, whether the character is genuinely aware they address an audience, and what relationship it builds — conspiratorial intimacy, comic mockery, or unsettling implication) | Ferris Bueller's Day Off (1986, dir. John Hughes) — Ferris turns to the camera within the film's opening minutes and keeps returning to it throughout, narrating his truancy scheme and personal philosophy and even breaking in after the credits start to roll to tell the audience to go home; by making the viewer his sole confidant and co-conspirator, the device recruits the audience into rooting for a protagonist who is objectively lying to and manipulating almost everyone else in his life |
+| 2026-08-28 | The Dolly Zoom / "Vertigo Effect" (Contra-Zoom) (physically dollying the camera toward or away from a subject while simultaneously zooming the lens in the opposite direction, holding the subject's frame size constant while the background stretches or compresses around it — an effect neither a plain zoom nor a plain dolly can produce alone; distinct from Day 15's Camera Movement, which named "zoom" as one movement among several in a broad taxonomy without addressing this specific simultaneous zoom-against-dolly combination or its disorienting perceptual effect; check what psychological state it externalizes, whether the background stretches away or compresses toward the viewer, and whether it's a single shock beat or a recurring structural motif) | Jaws (1975, dir. Steven Spielberg, cinematography by Bill Butler) — the beach scene where police chief Martin Brody realizes in real time that a shark is attacking a swimmer; Spielberg dollies the camera toward Brody while zooming the lens out, holding his face at a constant size while the beach behind him appears to lurch and stretch away, externalizing the sensation of the ground dropping out from under his sense of control without a single line of dialogue; deliberately borrowed from Vertigo (1958, dir. Alfred Hitchcock), whose use of the technique for Scottie's fear of heights gave the effect its popular name |
 
 ## Run Notes
 
@@ -1038,3 +1044,74 @@ safely small, and update this notice accordingly.
   `currentDate` context (or the system clock) first, compute today minus
   the portal branch's latest entry date, and treat that gap, not an
   assumption, as the number of days' content actually owed.
+
+- **2026-08-28 — clean run, STEP 0 applied correctly from the start.**
+  Read the session's own `currentDate` context first (2026-08-27 UTC,
+  which is already 2026-08-28 05:39 Taipei time — confirmed with `date`
+  and `TZ=Asia/Taipei date`), rather than inferring "today" from the
+  portal branch's latest entry. Computed `days_owed = 1` against the
+  portal branch's latest entry (2026-08-27), so today's content was
+  genuinely owed. Listed all `claude/*` branches via `list_branches` and
+  cross-checked the GitHub Pages `deployments?environment=github-pages`
+  endpoint: the most recent `state: success` deployment (id 6114520157,
+  2026-08-27T00:50:28Z) confirmed the portal branch is still
+  `claude/epic-brahmagupta-g1y16m`, currently at commit `8e087f0f...`
+  (same commit as `claude/daily-2026-08-27-prompt-rules`). No branch in
+  the full branch listing had a daily-dated entry past 2026-08-27, so the
+  portal branch already held the longest, most complete, non-duplicate
+  history — no reconciliation was needed this run. Created
+  `claude/daily-2026-08-28` off the portal tip (confirmed via local
+  `git fetch` + `git log` matching the same commit hash), wrote
+  `briefings/2026-08-28.html` and `spanish-lessons/day-48.html`, and
+  added Spanish Day 48 (el se impersonal y la voz pasiva refleja —
+  impersonal/passive "se," the third and final identity of the se
+  pronoun cluster, deliberately sequenced as the natural completion of
+  Day 46's reflexive se and Day 47's reciprocal se), Hexagram 48 (井
+  Jǐng, The Well — the Xugua commentary's direct pivot off Hexagram 47,
+  "困乎上者必反下", read as a return to the most basic, inexhaustible
+  resource after exhaustion at the heights; classical text cross-verified
+  via WebSearch against multiple independent Chinese classical-text
+  transcription sites since ctext.org itself was unreachable by direct
+  fetch in this environment), North Korea (chosen for Section 5 as a
+  populous, geopolitically significant East Asian state not yet covered;
+  facts on population/GDP verified via WebSearch and flagged as soft
+  outside estimates rather than official DPRK data), Gigachad (chosen for
+  Section 6 as a still-highly-active, previously-uncovered meme; verified
+  via WebSearch that the widely-repeated "Beyond the Gains" origin story
+  and "Bashkir" ethnicity detail are NOT corroborated by any source found
+  and were deliberately omitted from the briefing rather than stated
+  unverified), and Cantonese Opera (chosen for Section 7 as a Chinese
+  opera tradition clearly distinct from the already-covered Peking Opera,
+  Kunqu, and Taiwanese Opera/Gezaixi; UNESCO inscription year and key
+  performers verified via WebSearch). Section 8 added The Dolly Zoom /
+  "Vertigo Effect" as the thirty-fourth film-analysis lesson, worked
+  through Jaws' beach scene (cinematographer Bill Butler credit verified
+  via WebSearch), chosen as a lens distinct from Day 15's general Camera
+  Movement taxonomy since it isolates the specific simultaneous
+  zoom-against-dolly combination rather than camera movement broadly.
+  Market data for Section 1 required substantial WebSearch/WebFetch
+  cross-checking: direct WebFetch to finance.yahoo.com, fool.com, and
+  tradingeconomics.com were all blocked by the network egress proxy, so
+  figures were reconstructed from WebSearch result summaries instead;
+  an initial search returned an internally-inconsistent set of index
+  levels (S&P 500 7,673.04/Dow 53,195.36/Nasdaq 26,168.46, all *below*
+  the already-published Aug 27 briefing's Aug 26 closing figures despite
+  being labeled as the Aug 27 close) which was caught precisely because
+  of that inconsistency and discarded in favor of re-querying with
+  session-specific context (Nvidia's earnings beat, Salesforce's rally,
+  named Dow constituent movers) until a coherent, mutually-consistent
+  picture emerged across independent sources (Dow +100pts/+0.19% to
+  53,564 per a Trading-Economics-sourced summary naming specific movers;
+  S&P 500 +0.57% to ~7,720 and Nasdaq +1.4-1.5% per Yahoo/Motley
+  Fool/CNBC-sourced summaries) — flagged in the briefing's own meta note
+  that the Nasdaq/S&P point levels are reconstructed/approximate rather
+  than a single authoritative print. Asia/Taiwan figures (Nikkei -0.2%,
+  KOSPI +1.5%, Hang Seng -0.3%, TAIEX +0.31% to 45,975 with TSMC itself
+  dipping slightly) came from single, internally-detailed articles
+  (tradingkey.com, nextapple.com) rather than aggregated summaries, so
+  were treated as more reliable. Updated `index.html` and all six
+  never-repeat tracking tables in this file. Fast-forward merged
+  `claude/daily-2026-08-28` into `claude/epic-brahmagupta-g1y16m` and
+  pushed the portal branch, making today's entry live at
+  https://lebonthe.github.io/ClaudeRoutineTest/. The daily branch was
+  kept (not deleted), per the no-destructive-action default.
