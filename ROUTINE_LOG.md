@@ -156,6 +156,7 @@ the repo so a permanent link can be shared.
 | 2026-08-23 | 44 | 直接受詞代名詞(Los Pronombres de Objeto Directo: lo/la/los/las) | Steps outside the tense/mood track to fill a foundational gap: direct object pronouns lo/la/los/las replace a noun directly receiving a verb's action, agreeing in gender/number with the replaced noun rather than the speaker (el libro→lo, la llave→la, los libros→los, las llaves→las); placed before a conjugated verb (Lo tengo) or, with an infinitive/gerund (Day 13's ir a, Day 14's present progressive), either before the verb group or attached to the infinitive/gerund's end (Voy a comprarlas, Estoy comprándolas — the latter requiring an accent to preserve stress); directly contrasted with Day 15's indirect object pronouns, which share me/te/nos but diverge in the third person (indirect le/les ignores gender; direct lo/la/los/las must match it, even for people, unlike the regional Spain-only leísmo variant) | spanish-lessons/day-44.html |
 | 2026-08-24 | 45 | 直接與間接受詞代名詞合併使用(Los Pronombres de Objeto Directo e Indirecto Combinados) | Combines Day 15's indirect object pronouns (me/te/le/nos/les) with Day 44's direct object pronouns (lo/la/los/las) into one sentence: fixed word order always places indirect before direct (Me lo das, Te la compro, Nos los envían); a third-person indirect pronoun (le/les) is obligatorily replaced by se whenever it precedes a third-person direct pronoun, to avoid the disallowed "le lo"/"les la" sequence (Se lo doy, never Le lo doy), with a clarifying a él/a ella/a usted phrase added when se's ambiguity matters; both pronouns must move together as one unit under the same before-conjugated-verb / attached-to-infinitive-or-gerund placement rules already learned, never split apart (Te lo voy a dar / Voy a dártelo, never "Te voy a lo dar") | spanish-lessons/day-45.html |
 | 2026-08-26 | 46 | 反身動詞與反身代名詞(Los Verbos Reflexivos y los Pronombres Reflexivos) | Formalizes the reflexive pronoun system (me/te/se/nos/os/se) silently used since Day 1's Me llamo; regular reflexive verbs (levantarse, ducharse, vestirse, acostarse) conjugate normally with a matching reflexive pronoun before the conjugated verb or attached to an infinitive/gerund/affirmative command, same placement rules as Days 44-45; deliberately sequenced right after Day 45 to contrast identical spelling with opposite function — yesterday's se is a forced le/les→se substitution before a third-person direct object pronoun (two participants), today's se is a true reflexive pronoun where subject acts on itself (one participant, no accompanying lo/la/los/las) | spanish-lessons/day-46.html |
+| 2026-08-27 | 47 | 相互動詞(Los Verbos Recíprocos) | Extends Day 46's reflexive pronouns (me/te/se/nos/os/se) to their second, distinct function: reciprocal "each other" meaning, possible only with a plural subject (nosotros/vosotros/ellos-ellas-ustedes) and a verb whose meaning logically allows a two-way exchange (verse, quererse, ayudarse, abrazarse, escribirse); identical spelling to the reflexive use means a sentence like Se abrazan is genuinely ambiguous in isolation (reflexive "they hug themselves" vs. reciprocal "they hug each other"), resolved when needed with el uno al otro/la una a la otra (two people) or los unos a los otros/unas a otras (larger groups); not every plural reflexive-shaped verb admits a reciprocal reading at all — dormirse ("fall asleep") has no two-way meaning to borrow, so nos dormimos can only mean "we fell asleep," never a reciprocal action | spanish-lessons/day-47.html |
 
 Note: a duplicate "Day 2" lesson (ser/¿De dónde eres?, i.e. the same topic
 as Day 5) was independently produced on 2026-07-14 on an orphaned branch
@@ -213,6 +214,7 @@ continues from Day 6.
 | 2026-08-23 | 44 | 姤 (Gòu) — Coming to Meet |
 | 2026-08-24 | 45 | 萃 (Cuì) — Gathering Together |
 | 2026-08-26 | 46 | 升 (Shēng) — Pushing Upward / Ascending |
+| 2026-08-27 | 47 | 困 (Kùn) — Oppression / Exhaustion |
 
 Note: a duplicate Hexagram 2 (坤 Kūn) was also independently produced on
 2026-07-14 on the same orphaned branch, for the same reason. Hexagram 7
@@ -263,6 +265,7 @@ above correctly continues from Hexagram 6.
 | 2026-08-23 | Suriname (蘇利南) |
 | 2026-08-24 | Georgia (喬治亞) |
 | 2026-08-26 | Cuba (古巴) |
+| 2026-08-27 | Malaysia (馬來西亞) |
 
 ## Internet Meme Spotlights Featured
 
@@ -309,6 +312,7 @@ above correctly continues from Hexagram 6.
 | 2026-08-23 | "Is This a Pigeon?" |
 | 2026-08-24 | Spider-Man Pointing at Spider-Man |
 | 2026-08-26 | Dat Boi |
+| 2026-08-27 | "87分,不能再高了" (87 Points, Can't Go Any Higher, Taiwan) |
 
 ## Film / Performing Arts Spotlights Featured
 
@@ -353,6 +357,7 @@ and never repeat a subject already listed.
 | 2026-08-23 | Do the Right Thing (為所應為, 1989, dir. Spike Lee) |
 | 2026-08-24 | Vertigo (迷魂記, 1958, dir. Alfred Hitchcock) |
 | 2026-08-26 | Sunset Boulevard (日落大道, 1950, dir. Billy Wilder) |
+| 2026-08-27 | Casablanca (北非諜影, 1942, dir. Michael Curtiz) |
 
 ## Film-Appreciation / Criticism Method Lessons
 
@@ -399,6 +404,7 @@ table and pick one not yet covered.
 | 2026-08-23 | Sound Bridge (J-Cut & L-Cut) (audio deliberately overlapping a picture cut — arriving early as a J-cut or lingering late as an L-cut — to make a transition feel causally/emotionally continuous rather than abrupt; distinct from Day 4's broader Sound Design & Score, Day 2's Editing & Montage juxtaposition, and Day 11's purely visual Match Cut; check whether the overlapping sound is diegetic or non-diegetic, whether it's a J-cut building anticipation or an L-cut letting an emotional beat carry forward, and whether the bridge serves narrative economy or ironic contrast) | Apocalypse Now (1979, dir. Francis Ford Coppola) — the opening sequence, where helicopter-rotor sound begins over the burning jungle and continues unbroken as the picture cuts to Willard alone in his Saigon hotel room, fusing the war outside with the war in his head before the famous match cut to the ceiling fan whose blades visually echo the rotor sound that never stopped |
 | 2026-08-24 | The Jump Cut (deliberately cutting between two too-similar shots of the same subject to produce a visible, jarring "jump" rather than smooth continuity; distinct from Day 9's Continuity Editing & 180-Degree Rule, which preserves spatial/temporal coherence, and Day 11's Match Cut, a visual rhyme between distinct shots rather than a discontinuity within one ongoing shot; check whether it serves narrative economy (skipping dead time) or psychological jolt, whether it occurs within a single ongoing shot or across a rhythmic staccato sequence, and whether the film treats it as an error to smooth over or a badge of stylistic rebellion) | Breathless (À bout de souffle, 1960, dir. Jean-Luc Godard) — the car scene where Michel drives Patricia through Paris; footage was cut out of the static conversation shot, leaving her position and the background visibly jumping between cuts despite being the same continuous moment, turning a budget-driven fix into a defining French New Wave assault on classical Hollywood continuity |
 | 2026-08-26 | The Dutch Angle / Canted Framing (tilting the camera off its horizontal axis so the horizon runs diagonally, signaling imbalance/instability/moral distortion before dialogue or action states it; distinct from Day 8's Framing & Composition, which covers symmetry/perspective/negative space within a level frame, and Day 3's Cinematography & Lighting, which covers light/color rather than the camera's rotational axis; check whether the tilt is a single punctuation moment or a sustained stylistic signature, whether it's subtle or extreme, and whether it's motivated by a character's literal disorientation or is purely authorial commentary) | The Third Man (1949, dir. Carol Reed, cinematography by Robert Krasker) — set across occupied postwar Vienna, the film repeatedly cants the frame (interrogation scenes, the climactic sewer chase) as pure authorial commentary that the world's moral/physical foundations are off-level, considered daringly excessive by some contemporaries yet now a textbook reference case for the technique |
+| 2026-08-27 | Breaking the Fourth Wall / Direct Address to Camera (a character or the film itself acknowledges it is being watched, collapsing the fiction of a sealed world unaware of an audience; distinct from Day 21's Voice-Over Narration, where a narrator's voice runs over the images without ever looking at or acknowledging the camera/audience, and Day 19's Subjective/POV Camera, which places the lens at a character's eyeline without that character being aware of a camera at all; check whether the break is a single punctuation moment or a sustained structural device, whether the character is genuinely aware they address an audience, and what relationship it builds — conspiratorial intimacy, comic mockery, or unsettling implication) | Ferris Bueller's Day Off (1986, dir. John Hughes) — Ferris turns to the camera within the film's opening minutes and keeps returning to it throughout, narrating his truancy scheme and personal philosophy and even breaking in after the credits start to roll to tell the audience to go home; by making the viewer his sole confidant and co-conspirator, the device recruits the audience into rooting for a protagonist who is objectively lying to and manipulating almost everyone else in his life |
 
 ## Run Notes
 
@@ -924,3 +930,74 @@ safely small, and update this notice accordingly.
   runs: if the portal branch's most recent entry is already dated
   "today," stop — do not treat a second same-day firing as license to
   produce a second day's worth of content.
+
+- **2026-08-27 — new instance of the exact date-assumption bug flagged in
+  the note directly above, caught live by the user, then corrected
+  same-session.** This session began, per its scheduled-task prompt, by
+  running the recovery procedure (steps 1-3) as instructed, confirmed the
+  portal branch was still `claude/epic-brahmagupta-g1y16m`, and found its
+  latest entry already dated 2026-08-26 — but then made exactly the
+  mistake the note above warns against: instead of checking the session's
+  own `currentDate` context (which the system prompt had already supplied
+  as 2026-08-27) before concluding "today," it inferred "today" purely
+  from the portal branch's latest dated entry, concluded a duplicate
+  firing had occurred, and stood down without producing any new briefing
+  content — publishing a (factually accurate as far as it went, but
+  incomplete) run note and push notification to that effect. The user
+  replied directly in the same conversation: "不對啊 今天的應該要產出 8/27"
+  ("No, today's output should be 8/27"). Cross-checking the session's
+  `currentDate` context immediately confirmed the user was right: the
+  actual date was 2026-08-27, one full day past the portal branch's most
+  recent (2026-08-26) entry, meaning today's content genuinely had not
+  been produced yet. Recovered by doing the real day's work in the same
+  session: created `claude/daily-2026-08-27` off the (unchanged) portal
+  tip, wrote `briefings/2026-08-27.html` and `spanish-lessons/day-47.html`,
+  added Spanish Day 47 (verbos recíprocos — reciprocal verbs, extending
+  Day 46's reflexive pronouns to their "each other" meaning, deliberately
+  sequenced as a direct pair with Day 46 the same way Day 46 paired with
+  Day 45), Hexagram 47 (困 Kùn, Oppression/Exhaustion — the Xugua
+  commentary's direct pivot off Hexagram 46, "升而不已必困", read as ascent
+  that outruns its own resource base), Malaysia (chosen for Section 5 as
+  a major, populous Southeast Asian nation not yet covered, offering a
+  natural contrast with the already-covered Indonesia via its rotating-
+  monarchy-adjacent multi-ethnic Malay/Chinese/Indian federal structure),
+  "87分,不能再高了" (chosen for Section 6 as another distinctively
+  Taiwanese PTT-originated slang term, verified via WebSearch against
+  pttpedia and CNA sources for its Tǒngshén/亞洲統神 origin story rather
+  than assumed from general knowledge), Casablanca (chosen for Section 7
+  as a canonical, previously-uncovered Hollywood classic with a rich
+  legacy angle), and Breaking the Fourth Wall / Direct Address to Camera
+  as Section 8's thirty-third film-analysis lesson (worked through Ferris
+  Bueller's Day Off, chosen as a lens distinct from Day 21's Voice-Over
+  Narration and Day 19's Subjective/POV Camera, since it specifically
+  turns on the character's awareness of, and direct address to, an
+  audience). Market-data figures for Section 1 required unusually heavy
+  WebSearch cross-checking this run: multiple queries for the "August 26,
+  2026" US close initially returned figures that, on inspection, were
+  actually a recycled/mislabeled repeat of the prior day's (Aug 25) close
+  (near-identical point values under a different date label), which was
+  only caught by independently computing the actual day-of-week for
+  2026-08-26 (Wednesday, confirmed by calendar arithmetic from a known
+  2026-01-01 Thursday anchor) and then re-querying specifically for
+  "Wednesday August 26" coverage naming same-day-specific events (the
+  Fed's preferred PCE inflation reading, Meta's $17B settlement,
+  Abercrombie & Fitch's guidance raise, Nvidia's after-the-bell Q2
+  report) to confirm genuinely distinct Wednesday data before writing the
+  briefing; a similar mislabeling pattern recurred for the Asian indices
+  (an "Aug 26" Hang Seng figure that was internally labeled "Tuesday,"
+  a contradiction given Aug 26 is a Wednesday) and was resolved the same
+  way. Fast-forward merged `claude/daily-2026-08-27` into
+  `claude/epic-brahmagupta-g1y16m` and pushed the portal branch, making
+  today's entry live at https://lebonthe.github.io/ClaudeRoutineTest/.
+  The daily branch was kept (not deleted), per the no-destructive-action
+  default, as was the earlier same-day `claude/daily-2026-08-26-
+  duplicate-check` branch and its now-superseded run note (left in place
+  rather than rewritten, consistent with this routine's fix-forward
+  practice). **Lesson for future runs, stated plainly this time:** the
+  portal branch's latest dated entry is a *lower bound* on how much
+  content exists, never a substitute for checking the actual current
+  date. Before writing anything — and before concluding a run is
+  redundant or a "duplicate firing" — always read the session's own
+  `currentDate` context (or the system clock) first, compute today minus
+  the portal branch's latest entry date, and treat that gap, not an
+  assumption, as the number of days' content actually owed.
