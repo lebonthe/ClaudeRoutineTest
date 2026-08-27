@@ -42,6 +42,43 @@ hexagrams, country/region spotlights, and meme spotlights are never repeated).
   below). If the live site looks stale, check which branch Pages is
   deployed from and make sure the day's work actually lands there.
   The repo is public, so Pages does not expose anything private.
+- **STEP 0 — verify the actual current date before deciding anything
+  (established 2026-08-27, after the exact opposite mistake happened on
+  both 2026-08-26 and 2026-08-27).** Before touching git at all — before
+  even the branch-recovery steps below — read the session's own
+  current-date context (or the system clock) directly. Do NOT infer
+  "today" from the portal branch's most recent dated entry, from a daily
+  branch's name, or from an assumption that the previous run must have
+  covered "yesterday": the portal branch's latest entry is only a LOWER
+  BOUND on progress, never a substitute for checking the real date.
+  Compute `days_owed = (actual current date) − (portal branch's latest
+  dated entry)`. If `days_owed ≥ 1`, today's content still needs to be
+  produced, dated as the actual current date — not skipped because the
+  portal branch "looks recent." Only if `days_owed = 0` **after this
+  arithmetic** (never after just eyeballing dates) is it a genuine
+  duplicate same-day firing; log it in Run Notes and stand down without
+  advancing any of the six never-repeat sequences. Do this every single
+  run, even when the portal branch looks freshly updated — that is
+  exactly the condition under which the shortcut becomes tempting and
+  wrong.
+- **Market data must be for the actual current date, verified fresh, not
+  reused or mislabeled (established 2026-08-27).** When researching
+  Section 1, always search using the actual current date from the STEP 0
+  check above, never a guessed/previous date or figures remembered from
+  an earlier run. Independently compute the weekday of the actual current
+  date yourself and use it to determine which trading session is genuinely
+  the most recently closed one relative to the current Taipei generation
+  time — do not trust a search result's own date label at face value;
+  search summaries have repeatedly returned a prior session's figures
+  under the wrong date. When multiple queries return different numbers
+  for what should be the same session, treat that as a sign of a
+  stale/mislabeled result, not normal noise — re-query with session-
+  specific context (named same-day events, companies, data releases) to
+  confirm the correct day's figures before writing them into the
+  briefing, and prefer a sourced, internally consistent account over a
+  bare unverified number. If genuinely current data cannot be confirmed
+  for a given market, say so explicitly in that bullet rather than
+  presenting stale or unverified figures as current.
 
 ## Spanish Lesson Template (required format, set 2026-07-09)
 
