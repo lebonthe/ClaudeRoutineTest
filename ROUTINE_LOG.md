@@ -196,6 +196,7 @@ the repo so a permanent link can be shared.
 | 2026-08-27 | 47 | 相互動詞(Los Verbos Recíprocos) | Extends Day 46's reflexive pronouns (me/te/se/nos/os/se) to their second, distinct function: reciprocal "each other" meaning, possible only with a plural subject (nosotros/vosotros/ellos-ellas-ustedes) and a verb whose meaning logically allows a two-way exchange (verse, quererse, ayudarse, abrazarse, escribirse); identical spelling to the reflexive use means a sentence like Se abrazan is genuinely ambiguous in isolation (reflexive "they hug themselves" vs. reciprocal "they hug each other"), resolved when needed with el uno al otro/la una a la otra (two people) or los unos a los otros/unas a otras (larger groups); not every plural reflexive-shaped verb admits a reciprocal reading at all — dormirse ("fall asleep") has no two-way meaning to borrow, so nos dormimos can only mean "we fell asleep," never a reciprocal action | spanish-lessons/day-47.html |
 | 2026-08-28 | 48 | 無人稱與被動 se(El Se Impersonal y la Voz Pasiva Refleja) | Gives se its third and final identity, distinct from Day 46's reflexive (subject acts on itself) and Day 47's reciprocal (subjects act on each other): a construction with no identifiable agent at all, splitting into two rules despite identical spelling — impersonal se pairs with a verb that has no concrete noun to serve as grammatical subject and stays fixed in the third-person singular regardless of how many people are implied (Se vive bien aquí, Se dice que...), while passive se (voz pasiva refleja) promotes the thing acted upon into the grammatical subject, so the verb must agree with it in number (Se vende casa vs. Se venden casas); flagged edge case: when the sought object is a specific person marked with the personal "a" (Se busca a los voluntarios), it falls under impersonal se + direct object rather than passive se, since a personal-a-marked noun cannot itself be a grammatical subject, and prescriptive usage often keeps the verb singular even when plural people are meant | spanish-lessons/day-48.html |
 | 2026-08-29 | 49 | 以 ser 構成的被動語態(La Voz Pasiva con "Ser") | Delivers the classic "textbook" passive that Day 48's se-passive was always contrasted against — ser (any tense) + past participle agreeing in gender/number with the subject + optional por + agent — the one structural power the se-passive can never offer, since se-passive sentences (Se vende la casa) cannot name who performed the action while the ser-passive can (La casa fue vendida por un banco); because everyday speech overwhelmingly prefers the active voice or se-passive, the ser-passive concentrates in formal writing/news/historical-legal narration, registers where naming a specific agent actually matters; sharpest contrast with every haber-based compound tense (Days 21, 22, 38, 39, 40): haber's past participle never changes form, but the ser-passive's past participle behaves like an adjective and must agree with the subject in gender and number (fue construido/construida, fueron construidos/construidas) | spanish-lessons/day-49.html |
+| 2026-08-30 | 50 | estar + 過去分詞的結果狀態(El Estado Resultante con "Estar") | The direct pair to Day 49's ser-passive: estar (any tense) + past participle (still agreeing in gender/number with the subject, same rule as Day 49) describes the resulting state/condition left behind by a prior action rather than the action/event itself (La ventana está rota = it's broken, a state, vs. Day 49's La ventana fue rota por el niño = the event of breaking it, with a named agent); estar+participle can never take a "por + agente" phrase the way ser-passive can, since it isn't narrating an action at all; far more common in everyday speech than Day 49's ser-passive, since describing a thing's current condition is a constant daily need | spanish-lessons/day-50.html |
 
 Note: a duplicate "Day 2" lesson (ser/¿De dónde eres?, i.e. the same topic
 as Day 5) was independently produced on 2026-07-14 on an orphaned branch
@@ -256,6 +257,7 @@ continues from Day 6.
 | 2026-08-27 | 47 | 困 (Kùn) — Oppression / Exhaustion |
 | 2026-08-28 | 48 | 井 (Jǐng) — The Well |
 | 2026-08-29 | 49 | 革 (Gé) — Revolution (Molting) |
+| 2026-08-30 | 50 | 鼎 (Dǐng) — The Caldron |
 
 Note: a duplicate Hexagram 2 (坤 Kūn) was also independently produced on
 2026-07-14 on the same orphaned branch, for the same reason. Hexagram 7
@@ -309,6 +311,7 @@ above correctly continues from Hexagram 6.
 | 2026-08-27 | Malaysia (馬來西亞) |
 | 2026-08-28 | North Korea (北韓) |
 | 2026-08-29 | Chad (查德) |
+| 2026-08-30 | Portugal (葡萄牙) |
 
 ## Internet Meme Spotlights Featured
 
@@ -358,6 +361,7 @@ above correctly continues from Hexagram 6.
 | 2026-08-27 | "87分,不能再高了" (87 Points, Can't Go Any Higher, Taiwan) |
 | 2026-08-28 | Gigachad |
 | 2026-08-29 | Tung Tung Tung Sahur |
+| 2026-08-30 | Sigma / Sigma Male / Sigma Grindset |
 
 ## Film / Performing Arts Spotlights Featured
 
@@ -405,6 +409,7 @@ and never repeat a subject already listed.
 | 2026-08-27 | Casablanca (北非諜影, 1942, dir. Michael Curtiz) |
 | 2026-08-28 | Cantonese Opera (粵劇) |
 | 2026-08-29 | Singin' in the Rain (萬花嬉春, 1952, dir. Gene Kelly & Stanley Donen) |
+| 2026-08-30 | The Rite of Spring (春之祭, ballet, 1913; music by Stravinsky, choreography by Nijinsky) |
 
 ## Film-Appreciation / Criticism Method Lessons
 
@@ -454,6 +459,7 @@ table and pick one not yet covered.
 | 2026-08-27 | Breaking the Fourth Wall / Direct Address to Camera (a character or the film itself acknowledges it is being watched, collapsing the fiction of a sealed world unaware of an audience; distinct from Day 21's Voice-Over Narration, where a narrator's voice runs over the images without ever looking at or acknowledging the camera/audience, and Day 19's Subjective/POV Camera, which places the lens at a character's eyeline without that character being aware of a camera at all; check whether the break is a single punctuation moment or a sustained structural device, whether the character is genuinely aware they address an audience, and what relationship it builds — conspiratorial intimacy, comic mockery, or unsettling implication) | Ferris Bueller's Day Off (1986, dir. John Hughes) — Ferris turns to the camera within the film's opening minutes and keeps returning to it throughout, narrating his truancy scheme and personal philosophy and even breaking in after the credits start to roll to tell the audience to go home; by making the viewer his sole confidant and co-conspirator, the device recruits the audience into rooting for a protagonist who is objectively lying to and manipulating almost everyone else in his life |
 | 2026-08-28 | The Dolly Zoom / "Vertigo Effect" (Contra-Zoom) (physically dollying the camera toward or away from a subject while simultaneously zooming the lens in the opposite direction, holding the subject's frame size constant while the background stretches or compresses around it — an effect neither a plain zoom nor a plain dolly can produce alone; distinct from Day 15's Camera Movement, which named "zoom" as one movement among several in a broad taxonomy without addressing this specific simultaneous zoom-against-dolly combination or its disorienting perceptual effect; check what psychological state it externalizes, whether the background stretches away or compresses toward the viewer, and whether it's a single shock beat or a recurring structural motif) | Jaws (1975, dir. Steven Spielberg, cinematography by Bill Butler) — the beach scene where police chief Martin Brody realizes in real time that a shark is attacking a swimmer; Spielberg dollies the camera toward Brody while zooming the lens out, holding his face at a constant size while the beach behind him appears to lurch and stretch away, externalizing the sensation of the ground dropping out from under his sense of control without a single line of dialogue; deliberately borrowed from Vertigo (1958, dir. Alfred Hitchcock), whose use of the technique for Scottie's fear of heights gave the effect its popular name |
 | 2026-08-29 | Ellipsis / Editing for Compressed Time (a cut, dissolve, or montage that deliberately skips a stretch of story time without confusing the audience about how much has passed — distinct from Day 24's Jump Cut, which cuts between two too-similar shots within one continuous moment to produce a jarring visible discontinuity, and Day 18's Cross-Cutting/Parallel Editing, which alternates between genuinely simultaneous actions in different places rather than compressing time within one ongoing action; ellipsis smooths the gap over rather than exposing it, typically signaled by a dissolve, a recurring visual/musical motif, or a costume/prop change; check how much time is skipped, what cue marks the jump, whether the missing time is genuinely irrelevant or withheld for a later reveal, and whether it compresses years into a life-spanning montage or just hours/days into a simple dissolve) | Up (2009, dir. Pete Docter, co-dir. Bob Peterson) — the wordless "Married Life" opening montage, compressing roughly forty-five years of Carl and Ellie's entire marriage into about four minutes via rapid dissolves, recurring match-cut transitions, and a single Michael Giacchino musical theme binding every time-leap into one continuous emotional throughline, so Ellie's death moments later lands with the weight of an entire unseen lifetime |
+| 2026-08-30 | Leitmotif / Recurring Musical Theme as Character Signature (a specific, identifiable musical phrase — not score in general — permanently attached to one character/place/idea, so hearing it (even varied in key, tempo, or orchestration) cues that character's presence independent of the image track; distinct from Day 4's broader Sound Design & Score, which covered score-as-emotional-cue and diegetic/non-diegetic sound generally without tracking one specific recurring theme's variations across a whole film/franchise; check what melodic/rhythmic cell repeats, whose identity it represents, whether its harmonic/instrumental treatment shifts to track that character's arc, and whether the film withholds or delays it for a later payoff) | Star Wars: The Empire Strikes Back (1980, dir. Irvin Kershner, music by John Williams) — "The Imperial March" (Darth Vader's Theme), introduced in this film (not the 1977 original) as Vader's musical signature, a grinding minor-key march related to the funeral-march tradition that announces his offscreen approach through sound alone, contrasted against the heroic major-key "Force Theme" to carry the trilogy's moral architecture in music even without dialogue |
 
 ## Run Notes
 
@@ -603,6 +609,68 @@ safely small, and update this notice accordingly.
   one in this file; the Archive notice above was updated accordingly.
   Updated `index.html` and all six never-repeat tracking tables in this
   file. Fast-forward merged `claude/daily-2026-08-29` into
+  `claude/epic-brahmagupta-g1y16m` and pushed the portal branch, making
+  today's entry live at https://lebonthe.github.io/ClaudeRoutineTest/.
+  The daily branch was kept (not deleted), per the no-destructive-action
+  default.
+
+
+- **2026-08-30 — STEP 0 caught a stale `currentDate` context value before
+  any work began.** The session's own `currentDate` context field read
+  2026-08-29 — i.e. *yesterday's* date, already fully covered by the
+  portal branch's latest entry — which is exactly the trap STEP 0 exists
+  to catch. Rather than trusting that field at face value, `date -u` and
+  `TZ=Asia/Taipei date` were run directly: the system clock showed Sat
+  2026-08-29 21:39 UTC, i.e. **Sun 2026-08-30 05:39 Taipei time**, one full
+  day ahead of the context field. Cross-checked against the portal
+  branch's own history: the latest successful `pages-build-deployment`
+  workflow run (#50, created_at 2026-08-28T21:52:13Z = 2026-08-29 05:52
+  Taipei) had `head_branch: claude/epic-brahmagupta-g1y16m` at commit
+  `75eecbac...`, matching `claude/daily-2026-08-29`'s tip exactly and
+  confirming the portal branch's latest dated entry is 2026-08-29 — so
+  `days_owed = 2026-08-30 minus 2026-08-29 = 1`, meaning today's content
+  was genuinely owed and dated 2026-08-30 (not skipped as a duplicate,
+  and not mistakenly dated 2026-08-29 a second time). `list_branches`
+  returned 62 `claude/*` branches; none had a daily-dated entry past
+  2026-08-29, so no reconciliation from another branch was needed. `git
+  fetch origin claude/epic-brahmagupta-g1y16m` followed by `git checkout
+  -b claude/daily-2026-08-30 origin/claude/epic-brahmagupta-g1y16m`
+  confirmed the same tip locally before any file was written. Today's
+  content: Spanish Day 50 (estar + past participle for resultant state,
+  the direct pair to Day 49's ser-passive — same participle-agreement
+  rule, opposite function: state vs. event, and estar can never take a
+  "por + agente" phrase), Hexagram 50 (鼎 Dǐng, The Caldron, continuing
+  the King Wen sequence directly from yesterday's 革 Gé via the Xugua
+  commentary's explicit "革物者莫若鼎,故受之以鼎"), Portugal (chosen for
+  Section 5 as a mid-sized, well-documented European state not yet
+  covered, including its rare current "cohabitation" between a
+  centre-left president elected March 2026 and a centre-right prime
+  minister), "Sigma"/"Sigma Male"/"Sigma Grindset" (chosen for Section 6
+  as a still highly-active, previously-uncovered meme with a well
+  documented origin distinct from the already-covered Gigachad), The
+  Rite of Spring (1913 ballet, chosen for Section 7 as the first dance/
+  concert-music landmark covered that centers on a real historical riot
+  at its premiere, distinct from the already-covered Swan Lake ballet),
+  and Leitmotif/Recurring Musical Theme as the 36th film-analysis method
+  (Star Wars: The Empire Strikes Back's Imperial March), distinguished
+  explicitly from the already-taught Day 4 Sound Design & Score lesson
+  to avoid conceptual overlap. Market section (Section 1) reused Friday,
+  2026-08-28's closing figures verbatim from yesterday's briefing, since
+  Saturday 2026-08-29 and Sunday 2026-08-30 are both non-trading days in
+  all three regions covered (US/Asia/Taiwan) — the briefing's own meta
+  note states explicitly that these are the same confirmed prints as
+  yesterday's report, not an independently re-verified new session, to
+  avoid presenting a repeated number as if it were freshly confirmed.
+  Section 2 (dev news) was refreshed with genuinely new items not in
+  yesterday's briefing: Apple CEO John Ternus's September 1, 2026
+  succession from Tim Cook (making the Sept 9 event his first as CEO),
+  a 100+-company (OpenAI/Anthropic/Google/Microsoft) joint letter on
+  AI-enabled cyberattack defense, a since-patched cross-model
+  reasoning-token API flaw, and new Flutter items (Widget Previewer IDE
+  integration, #2 app-store SDK ranking, 2026 Toyota RAV4 infotainment).
+  Updated `index.html` (new top row plus a Run Notes-referencing note
+  about the stale-`currentDate` catch) and all six never-repeat tracking
+  tables in this file. Fast-forward merged `claude/daily-2026-08-30` into
   `claude/epic-brahmagupta-g1y16m` and pushed the portal branch, making
   today's entry live at https://lebonthe.github.io/ClaudeRoutineTest/.
   The daily branch was kept (not deleted), per the no-destructive-action
