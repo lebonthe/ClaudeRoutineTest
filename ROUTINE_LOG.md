@@ -198,6 +198,7 @@ the repo so a permanent link can be shared.
 | 2026-08-29 | 49 | 以 ser 構成的被動語態(La Voz Pasiva con "Ser") | Delivers the classic "textbook" passive that Day 48's se-passive was always contrasted against — ser (any tense) + past participle agreeing in gender/number with the subject + optional por + agent — the one structural power the se-passive can never offer, since se-passive sentences (Se vende la casa) cannot name who performed the action while the ser-passive can (La casa fue vendida por un banco); because everyday speech overwhelmingly prefers the active voice or se-passive, the ser-passive concentrates in formal writing/news/historical-legal narration, registers where naming a specific agent actually matters; sharpest contrast with every haber-based compound tense (Days 21, 22, 38, 39, 40): haber's past participle never changes form, but the ser-passive's past participle behaves like an adjective and must agree with the subject in gender and number (fue construido/construida, fueron construidos/construidas) | spanish-lessons/day-49.html |
 | 2026-08-30 | 50 | estar + 過去分詞的結果狀態(El Estado Resultante con "Estar") | The direct pair to Day 49's ser-passive: estar (any tense) + past participle (still agreeing in gender/number with the subject, same rule as Day 49) describes the resulting state/condition left behind by a prior action rather than the action/event itself (La ventana está rota = it's broken, a state, vs. Day 49's La ventana fue rota por el niño = the event of breaking it, with a named agent); estar+participle can never take a "por + agente" phrase the way ser-passive can, since it isn't narrating an action at all; far more common in everyday speech than Day 49's ser-passive, since describing a thing's current condition is a constant daily need | spanish-lessons/day-50.html |
 | 2026-08-31 | 51 | Por 與 Para 的用法區分(Por vs. Para) | Steps outside the tense/mood track entirely to resolve Spanish learners' most notorious point of confusion: por points backward to a cause/reason, duration, route travelled through, or exchange/price (por tu cumpleaños, por una hora, por el centro), while para points forward to a purpose (para + infinitive), recipient, deadline, or destination (para ti, para comprarlo, para el viernes, para Madrid); the two can coexist in one sentence with no conflict since they answer different questions (¿Caminaste por el centro para comprarlo?); sharpest minimal-pair contrast drilled: pasar por Barcelona (passing through, en route elsewhere) vs. ir para Barcelona (Barcelona itself is the destination) | spanish-lessons/day-51.html |
+| 2026-09-01 | 52 | 關係代名詞(Los Pronombres Relativos: Que, Quien, Donde, Cuyo) | Steps outside the tense/mood/preposition tracks to cover Spanish's four core relative pronouns: que (universal default for people/things, never omissible unlike English that/who), quien/quienes (people only, most common right after a preposition or in a comma-set-off clause), donde (location, unaccented — distinct from the interrogative dónde), and cuyo/cuya/cuyos/cuyas (possession, agreeing in gender/number with the noun possessed rather than the possessor — the reverse of English/Chinese intuition, and the sharpest trap in the lesson) | spanish-lessons/day-52.html |
 
 Note: a duplicate "Day 2" lesson (ser/¿De dónde eres?, i.e. the same topic
 as Day 5) was independently produced on 2026-07-14 on an orphaned branch
@@ -260,6 +261,7 @@ continues from Day 6.
 | 2026-08-29 | 49 | 革 (Gé) — Revolution (Molting) |
 | 2026-08-30 | 50 | 鼎 (Dǐng) — The Caldron |
 | 2026-08-31 | 51 | 震 (Zhèn) — The Arousing (Shock, Thunder) |
+| 2026-09-01 | 52 | 艮 (Gèn) — Keeping Still (Mountain) |
 
 Note: a duplicate Hexagram 2 (坤 Kūn) was also independently produced on
 2026-07-14 on the same orphaned branch, for the same reason. Hexagram 7
@@ -315,6 +317,7 @@ above correctly continues from Hexagram 6.
 | 2026-08-29 | Chad (查德) |
 | 2026-08-30 | Portugal (葡萄牙) |
 | 2026-08-31 | Comoros (葛摩/科摩羅) |
+| 2026-09-01 | Botswana (波札那) |
 
 ## Internet Meme Spotlights Featured
 
@@ -366,6 +369,7 @@ above correctly continues from Hexagram 6.
 | 2026-08-29 | Tung Tung Tung Sahur |
 | 2026-08-30 | Sigma / Sigma Male / Sigma Grindset |
 | 2026-08-31 | Big Chungus |
+| 2026-09-01 | Wojak |
 
 ## Film / Performing Arts Spotlights Featured
 
@@ -415,6 +419,7 @@ and never repeat a subject already listed.
 | 2026-08-29 | Singin' in the Rain (萬花嬉春, 1952, dir. Gene Kelly & Stanley Donen) |
 | 2026-08-30 | The Rite of Spring (春之祭, ballet, 1913; music by Stravinsky, choreography by Nijinsky) |
 | 2026-08-31 | Vietnamese Water Puppetry (Múa Rối Nước, 越南水上木偶戲) |
+| 2026-09-01 | Persona (1966, dir. Ingmar Bergman) |
 
 ## Film-Appreciation / Criticism Method Lessons
 
@@ -466,6 +471,7 @@ table and pick one not yet covered.
 | 2026-08-29 | Ellipsis / Editing for Compressed Time (a cut, dissolve, or montage that deliberately skips a stretch of story time without confusing the audience about how much has passed — distinct from Day 24's Jump Cut, which cuts between two too-similar shots within one continuous moment to produce a jarring visible discontinuity, and Day 18's Cross-Cutting/Parallel Editing, which alternates between genuinely simultaneous actions in different places rather than compressing time within one ongoing action; ellipsis smooths the gap over rather than exposing it, typically signaled by a dissolve, a recurring visual/musical motif, or a costume/prop change; check how much time is skipped, what cue marks the jump, whether the missing time is genuinely irrelevant or withheld for a later reveal, and whether it compresses years into a life-spanning montage or just hours/days into a simple dissolve) | Up (2009, dir. Pete Docter, co-dir. Bob Peterson) — the wordless "Married Life" opening montage, compressing roughly forty-five years of Carl and Ellie's entire marriage into about four minutes via rapid dissolves, recurring match-cut transitions, and a single Michael Giacchino musical theme binding every time-leap into one continuous emotional throughline, so Ellie's death moments later lands with the weight of an entire unseen lifetime |
 | 2026-08-30 | Leitmotif / Recurring Musical Theme as Character Signature (a specific, identifiable musical phrase — not score in general — permanently attached to one character/place/idea, so hearing it (even varied in key, tempo, or orchestration) cues that character's presence independent of the image track; distinct from Day 4's broader Sound Design & Score, which covered score-as-emotional-cue and diegetic/non-diegetic sound generally without tracking one specific recurring theme's variations across a whole film/franchise; check what melodic/rhythmic cell repeats, whose identity it represents, whether its harmonic/instrumental treatment shifts to track that character's arc, and whether the film withholds or delays it for a later payoff) | Star Wars: The Empire Strikes Back (1980, dir. Irvin Kershner, music by John Williams) — "The Imperial March" (Darth Vader's Theme), introduced in this film (not the 1977 original) as Vader's musical signature, a grinding minor-key march related to the funeral-march tradition that announces his offscreen approach through sound alone, contrasted against the heroic major-key "Force Theme" to carry the trilogy's moral architecture in music even without dialogue |
 | 2026-08-31 | Slow Motion & Speed Ramping / Frame-Rate Manipulation (overcranking records more frames per second than playback rate, stretching action into slow motion when played back normally; undercranking does the reverse; speed ramping shifts frame rate within one continuous shot rather than cutting between separately-shot segments; distinct from Day 24's Ellipsis, which skips time via editing/cuts rather than dilating it via frame rate, Day 3's Long Take, an unbroken shot at normal real-time speed regardless of frame rate, and Day 15's Camera Movement, physical camera travel independent of playback speed; check what psychological/dramatic beat is isolated and elongated, whether the effect is subtle or an overt stylistic signature, and whether sound is deliberately left unslowed for tension against the stretched image) | The Matrix (1999, dir. Lana & Lilly Wachowski, cinematography by Bill Pope) — the lobby shootout's "bullet time" sequence (VFX supervisor John Gaeta), combining a timed ring of still cameras with separately-shot slow-motion footage so the camera appears to orbit a subject frozen in extreme slow motion, isolating a fraction-of-a-second event to externalize Neo's dawning superhuman perception within the Matrix; built on the older slow-motion-violence tradition pioneered by Sam Peckinpah's The Wild Bunch (1969) |
+| 2026-09-01 | The Freeze Frame (Arrested Motion) (halting the moving image on a single still frame for a deliberate duration rather than continuing to play, most often as a final punctuation device but occasionally mid-sequence to isolate one instant; distinct from Day 3's Long Take, an unbroken shot that keeps playing in real time — the opposite gesture of arresting motion — Day 15's Camera Movement, physical camera travel irrelevant once the image has stopped moving, and Day 37's Slow Motion & Speed Ramping, which stretches motion via frame rate but never fully halts it; check whether the freeze closes the film on a deliberately unresolved note or emphasizes a mid-scene instant, and whether it is total or partial) | The 400 Blows (Les Quatre Cents Coups, 1959, dir. François Truffaut) — the celebrated final shot, young runaway Antoine Doinel sprinting along a beach toward the sea in one continuous tracking shot, turning to look directly into the camera as the image abruptly freezes on his face in an extended close-up that becomes the film's last image before the credits, deliberately refusing to resolve his fate and becoming one of the most influential single shots of the French New Wave |
 
 ## Run Notes
 
@@ -761,4 +767,92 @@ safely small, and update this notice accordingly.
   `claude/daily-2026-08-31` into `claude/epic-brahmagupta-g1y16m` and
   pushed the portal branch, making today's entry live at
   https://lebonthe.github.io/ClaudeRoutineTest/. The daily branch was
+  kept (not deleted), per the no-destructive-action default.
+
+- **2026-09-01 — clean run, STEP 0 applied correctly from the start.**
+  Read the system clock directly (`date -u` → Mon 2026-08-31T21:39:17Z;
+  `TZ=Asia/Taipei date` → Tue 2026-09-01 05:39 CST) rather than inferring
+  "today" from the portal branch's most recent entry or the session's
+  own `currentDate` context field (which read 2026-08-31, a day behind —
+  the same category of staleness flagged on 2026-08-30's run — so the
+  system-clock check again proved essential). Computed `days_owed = 1`
+  against the portal branch's latest entry (2026-08-31), so today's
+  content was genuinely owed and dated 2026-09-01 (a Tuesday), not
+  skipped as a duplicate. Listed all `claude/*` branches via
+  `list_branches` (63 branches returned) and confirmed the persistent
+  portal branch via the `deployments?environment=github-pages` REST API
+  (called directly via `curl`, which worked this run): the latest
+  `state: success` deployment (id 6171701056, 2026-08-30T21:54:03Z)
+  deployed `claude/epic-brahmagupta-g1y16m` at commit `bacedd3f81...`,
+  which exactly matches `claude/daily-2026-08-31`'s tip — confirming the
+  portal branch already held the complete, non-stale history through
+  Day 51/Hexagram 51 with no reconciliation needed. Created
+  `claude/daily-2026-09-01` directly off the portal branch's tip via
+  `create_branch`, confirmed by matching commit hash. Wrote
+  `briefings/2026-09-01.html` and `spanish-lessons/day-52.html`, adding
+  Spanish Day 52 (relative pronouns que/quien/donde/cuyo — deliberately
+  stepping outside the tense/mood/preposition track to cover a
+  foundational grammar gap, with cuyo's possessed-noun rather than
+  possessor agreement flagged as the sharpest trap), Hexagram 52 (艮 Gèn,
+  Keeping Still/Mountain — the Xugua commentary's direct pivot off
+  Hexagram 51, "震者動也,物不可以終動,止之,故受之以艮", read as the
+  disciplined-stillness counterpart to Hexagram 51's composure-under-
+  shock lesson; classical text cross-verified against training
+  knowledge of the standard Wilhelm/Baynes-style rendering, consistent
+  with the pattern of prior hexagram entries in this table), Botswana
+  (chosen for Section 5 as a previously-uncovered Southern African
+  democracy with a strong post-independence diamond-driven economy and
+  a notable 2024 peaceful transfer of power ending 58 years of
+  single-party rule; population, area, and GDP-per-capita figures held
+  from training knowledge given the low-volatility nature of these
+  statistics, with the 2024 election outcome cross-checked against
+  training knowledge of the Duma Boko/Umbrella for Democratic Change
+  transition), Wojak (chosen for Section 6 as a previously-uncovered,
+  foundational imageboard-culture template distinct from Pepe/Trollface/
+  other already-covered entries, with its NPC/Doomer/Soyjak derivative
+  taxonomy giving clear material for the "variations/evolution" and
+  "current status" sub-points), and Persona (chosen for Section 7 as a
+  landmark Bergman arthouse film not yet covered, pairing naturally with
+  the already-featured 8½ as a defining work of 1960s reflexive
+  psychological cinema). Section 8 added The Freeze Frame (Arrested
+  Motion) as the thirty-eighth film-analysis lesson, worked through The
+  400 Blows' (1959) closing freeze-frame shot, explicitly distinguished
+  from Day 3's Long Take (real-time playback, the opposite gesture),
+  Day 15's Camera Movement (physical travel, irrelevant once the image
+  has stopped), and Day 37's Slow Motion & Speed Ramping (stretches
+  motion via frame rate but never fully halts it). Market section
+  (Section 1) required cross-checking multiple independent WebSearch
+  queries for two discrepancies: an initial TAIEX search result
+  mislabeled Monday 2026-08-31's 202.98-point decline as a "gain" (a
+  garbled/stale figure), corrected via a re-query naming specific
+  stocks (Nan Ya Plastics, Cathay Financial, Unimicron) and the MSCI
+  quarterly rebalance, which returned multiple internally-consistent
+  Chinese-language sources (Newtalk, Focus Taiwan) confirming the
+  202.98-point decline to 46,128.47; and the Hang Seng Index showed
+  -0.22% in one 24/7 Wall St snapshot versus -0.07% in another (and in
+  a separate WebSearch synthesis), resolved by cross-checking three
+  independent Chinese/Japanese-language sources (cnyes, Baidu, i-Cable)
+  that all confirmed the smaller -0.07%/-17.8-point decline to
+  25,566.99, with the -0.22% figure judged a stale intraday snapshot
+  rather than the final close. US figures (S&P/Dow/Nasdaq, the US-Iran
+  conflict/oil-price rationale) and the Nikkei/Shanghai figures were
+  each corroborated across 2+ independent sources with no discrepancy.
+  Weekday of 2026-08-31 independently confirmed as Monday via direct
+  Python date computation, not assumed. Section 2 (dev news) drew on
+  genuinely current items dated to this exact date where possible: Tim
+  Cook's formal CEO-to-executive-chairman transition and John Ternus's
+  succession landing precisely on 2026-09-01 itself, the confirmed
+  Sept 9 "Surprise and Shine" event and iPhone 18 Pro/Pro Max/Ultra
+  lineup-split rumors, the iOS 27 Siri overhaul, and Anthropic's
+  confirmed Claude Sonnet 5 pricing decision and Claudeforce/Salesforce
+  beta timeline (deliberately different specifics from 2026-08-31's
+  briefing, which had already covered the security-patch-round and
+  Astra/GPT-5.6-Cyber/MAI-Cyber-1-Flash items, to avoid redundant
+  content between consecutive days). Updated `index.html` (new top row)
+  and all six never-repeat tracking tables in this file. Pushed
+  `briefings/2026-09-01.html` and `spanish-lessons/day-52.html` to
+  `claude/daily-2026-09-01` via `push_files`, then will fast-forward
+  merge `claude/daily-2026-09-01` into `claude/epic-brahmagupta-g1y16m`
+  and push the portal branch, making today's entry live at
+  https://lebonthe.github.io/ClaudeRoutineTest/. The daily branch will be
   kept (not deleted), per the no-destructive-action default.
