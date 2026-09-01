@@ -29,7 +29,8 @@
 <b>備註(2026-08-26):</b> 原本應對應 2026-08-26 的內容,一度被誤標為 2026-08-25 產出(連帶市場數據誤用了前一交易日的收盤價、且「尚未開盤」的敘述邏輯也對不上實際時間),經使用者於當日回報後即時修正,已將該篇簡報、索引列與六張追蹤表的日期全數更正為 2026-08-26,市場段落也已改用正確的週二(8月25日)實際收盤數據重寫。詳見 <code>ROUTINE_LOG.md</code> 的 Run Notes。<br>
 <b>備註(2026-08-27):</b> 排程當日第二次執行時,誤以為 portal 分支最新一列(2026-08-26)就是「今天」,因而略過了真正應產出的 2026-08-27 內容;經使用者當場指正後,已依實際日期(session <code>currentDate</code> context)補產出 2026-08-27 這篇簡報與六張追蹤表新列。詳見 <code>ROUTINE_LOG.md</code> 的 Run Notes。<br>
 <b>備註(2026-08-30):</b> 本次執行時,session 的 <code>currentDate</code> context 欄位本身就標示錯誤的日期(顯示 2026-08-29,即前一日),幸好 STEP 0 要求直接以系統時鐘(<code>date</code> / <code>TZ=Asia/Taipei date</code>)覆核,才確認實際日期其實已經是 2026-08-30(週日),因而正確產出這一天的內容,而非被過期的 context 欄位誤導成重複執行 08-29。詳見 <code>ROUTINE_LOG.md</code> 的 Run Notes。<br>
-<b>備註(2026-09-01):</b> session 的 <code>currentDate</code> context 欄位再次標示錯誤的日期(顯示 2026-08-31,即前一日),同樣透過 STEP 0 的系統時鐘覆核(<code>date</code> / <code>TZ=Asia/Taipei date</code>)確認實際日期其實已經是 2026-09-01(週二),因而正確產出這一天的內容。詳見 <code>ROUTINE_LOG.md</code> 的 Run Notes。
+<b>備註(2026-09-01):</b> session 的 <code>currentDate</code> context 欄位再次標示錯誤的日期(顯示 2026-08-31,即前一日),同樣透過 STEP 0 的系統時鐘覆核(<code>date</code> / <code>TZ=Asia/Taipei date</code>)確認實際日期其實已經是 2026-09-01(週二),因而正確產出這一天的內容。詳見 <code>ROUTINE_LOG.md</code> 的 Run Notes。<br>
+<b>備註(2026-09-02):</b> session 的 <code>currentDate</code> context 欄位第三次連續標示錯誤的日期(顯示 2026-09-01,即前一日),同樣透過 STEP 0 的系統時鐘覆核(<code>date</code> / <code>TZ=Asia/Taipei date</code>)確認實際日期其實已經是 2026-09-02(週三),因而正確產出這一天的內容,而非誤判為重複執行。詳見 <code>ROUTINE_LOG.md</code> 的 Run Notes。
 </div>
 
 <h2>📅 每日內容一覽</h2>
@@ -47,6 +48,16 @@
 </tr>
 </thead>
 <tbody>
+<tr>
+<td>2026-09-02</td>
+<td><a href="briefings/2026-09-02.html">briefings/2026-09-02.html</a></td>
+<td><a href="spanish-lessons/day-53.html">Day 53 — 指小詞與擴大詞(Los Diminutivos y Aumentativos: -ito/-illo/-ón/-azo)</a></td>
+<td>第 53 卦:漸 (Jiàn) — Development (Gradual Progress)</td>
+<td>巴拉圭 (Paraguay)</td>
+<td>愈來愈大的腦(Expanding Brain / Galaxy Brain)</td>
+<td>西西里木偶劇 Opera dei Pupi</td>
+<td>分割畫面 Split Screen / Multi-Frame Composition</td>
+</tr>
 <tr>
 <td>2026-09-01</td>
 <td><a href="briefings/2026-09-01.html">briefings/2026-09-01.html</a></td>
