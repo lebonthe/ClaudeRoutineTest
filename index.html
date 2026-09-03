@@ -31,7 +31,8 @@
 <b>備註(2026-08-30):</b> 本次執行時,session 的 <code>currentDate</code> context 欄位本身就標示錯誤的日期(顯示 2026-08-29,即前一日),幸好 STEP 0 要求直接以系統時鐘(<code>date</code> / <code>TZ=Asia/Taipei date</code>)覆核,才確認實際日期其實已經是 2026-08-30(週日),因而正確產出這一天的內容,而非被過期的 context 欄位誤導成重複執行 08-29。詳見 <code>ROUTINE_LOG.md</code> 的 Run Notes。<br>
 <b>備註(2026-09-01):</b> session 的 <code>currentDate</code> context 欄位再次標示錯誤的日期(顯示 2026-08-31,即前一日),同樣透過 STEP 0 的系統時鐘覆核(<code>date</code> / <code>TZ=Asia/Taipei date</code>)確認實際日期其實已經是 2026-09-01(週二),因而正確產出這一天的內容。詳見 <code>ROUTINE_LOG.md</code> 的 Run Notes。<br>
 <b>備註(2026-09-02):</b> session 的 <code>currentDate</code> context 欄位第三次連續標示錯誤的日期(顯示 2026-09-01,即前一日),同樣透過 STEP 0 的系統時鐘覆核(<code>date</code> / <code>TZ=Asia/Taipei date</code>)確認實際日期其實已經是 2026-09-02(週三),因而正確產出這一天的內容,而非誤判為重複執行。詳見 <code>ROUTINE_LOG.md</code> 的 Run Notes。<br>
-<b>備註(2026-09-03):</b> session 的 <code>currentDate</code> context 欄位第四次連續標示錯誤的日期(顯示 2026-09-02,即前一日),再次透過 STEP 0 的系統時鐘覆核(<code>TZ=Asia/Taipei date</code>)確認實際日期其實已經是 2026-09-03(週四),因而正確產出這一天的內容。本次執行前也重新核對了所有 <code>claude/*</code> 分支與 GitHub Pages 部署歷史,確認 <code>claude/epic-brahmagupta-g1y16m</code> 分支的最新一次成功部署(commit <code>4e27cca7</code>)與 <code>claude/daily-2026-09-02</code> 分支的最新 commit 完全一致,兩者並無分歧,因此本次直接從 portal 分支尖端切出新分支,無需額外整合。詳見 <code>ROUTINE_LOG.md</code> 的 Run Notes。
+<b>備註(2026-09-03):</b> session 的 <code>currentDate</code> context 欄位第四次連續標示錯誤的日期(顯示 2026-09-02,即前一日),再次透過 STEP 0 的系統時鐘覆核(<code>TZ=Asia/Taipei date</code>)確認實際日期其實已經是 2026-09-03(週四),因而正確產出這一天的內容。本次執行前也重新核對了所有 <code>claude/*</code> 分支與 GitHub Pages 部署歷史,確認 <code>claude/epic-brahmagupta-g1y16m</code> 分支的最新一次成功部署(commit <code>4e27cca7</code>)與 <code>claude/daily-2026-09-02</code> 分支的最新 commit 完全一致,兩者並無分歧,因此本次直接從 portal 分支尖端切出新分支,無需額外整合。詳見 <code>ROUTINE_LOG.md</code> 的 Run Notes。<br>
+<b>備註(2026-09-04):</b> session 的 <code>currentDate</code> context 欄位第五次連續標示錯誤的日期(顯示 2026-09-03,即前一日),再次透過 STEP 0 的系統時鐘覆核(<code>TZ=Asia/Taipei date</code>)確認實際日期其實已經是 2026-09-04(週五),因而正確產出這一天的內容。本次執行前同樣重新核對了所有 <code>claude/*</code> 分支與 GitHub Pages 部署歷史,確認 <code>claude/epic-brahmagupta-g1y16m</code> 分支的最新一次成功部署(commit <code>cd04bde6</code>)與 <code>claude/daily-2026-09-03</code> 分支的最新 commit 完全一致,並無分歧,因此本次同樣直接從 portal 分支尖端切出新分支。詳見 <code>ROUTINE_LOG.md</code> 的 Run Notes。
 </div>
 
 <h2>📅 每日內容一覽</h2>
@@ -49,6 +50,16 @@
 </tr>
 </thead>
 <tbody>
+<tr>
+<td>2026-09-04</td>
+<td><a href="briefings/2026-09-04.html">briefings/2026-09-04.html</a></td>
+<td><a href="spanish-lessons/day-55.html">Day 55 — 否定詞與不定詞(Las Palabras Negativas e Indefinidas: algo/nada, alguien/nadie, alguno/ninguno, siempre/nunca, también/tampoco)</a></td>
+<td>第 55 卦:豐 (Fēng) — Abundance</td>
+<td>烏茲別克 (Uzbekistan)</td>
+<td>哭泣喬丹(Crying Jordan)</td>
+<td>盤索里 Pansori(韓國敘事說唱)</td>
+<td>動作匹配剪輯 Match on Action</td>
+</tr>
 <tr>
 <td>2026-09-03</td>
 <td><a href="briefings/2026-09-03.html">briefings/2026-09-03.html</a></td>

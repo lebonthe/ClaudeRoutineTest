@@ -201,6 +201,7 @@ the repo so a permanent link can be shared.
 | 2026-09-01 | 52 | 關係代名詞(Los Pronombres Relativos: Que, Quien, Donde, Cuyo) | Steps outside the tense/mood/preposition tracks to cover Spanish's four core relative pronouns: que (universal default for people/things, never omissible unlike English that/who), quien/quienes (people only, most common right after a preposition or in a comma-set-off clause), donde (location, unaccented — distinct from the interrogative dónde), and cuyo/cuya/cuyos/cuyas (possession, agreeing in gender/number with the noun possessed rather than the possessor — the reverse of English/Chinese intuition, and the sharpest trap in the lesson) | spanish-lessons/day-52.html |
 | 2026-09-02 | 53 | 指小詞與擴大詞(Los Diminutivos y Aumentativos: -ito/-illo/-ón/-azo) | Steps outside verb tenses/moods/prepositions/pronouns entirely into Spanish word-formation: diminutive suffixes -ito/-ita (and the -cito/-cita variant for n/r/e-ending words) and the regional -illo/-illa shrink a noun or soften tone (casa→casita, un momentito for politeness), while augmentative suffixes -ón/-ona and -azo/-aza enlarge or intensify (hombre→hombrón, golpe→golpazo, "a huge hit"); suffixes attach after dropping a final vowel, with spelling adjustments (c→qu, g→gu, z→c) to preserve sound; flagged that some derived forms (sillón "armchair," bolsillo "pocket," flechazo "love at first sight") have fully lexicalized into independent words no longer read as literal "big/small X" | spanish-lessons/day-53.html |
 | 2026-09-03 | 54 | 變化動詞(Los Verbos de Cambio: ponerse/volverse/hacerse/llegar a ser/convertirse en) | Introduces the five Spanish "become" verbs that English/Chinese collapse into one word: ponerse + adjective (short-lived, involuntary emotional/physical state, e.g. ponerse pálido); volverse + adjective/noun (more lasting, often sudden and uncontrolled personality/state shift, e.g. volverse desconfiado); hacerse + adjective/noun (change achieved through effort/choice, often profession/status/belief, e.g. hacerse abogada); llegar a ser + noun/adjective (formal "finally become," emphasizing a long process); convertirse en + noun only (change in fundamental nature/composition); core dialogue drilled the ponerse/volverse/hacerse trio, with llegar a ser and convertirse en covered in the breakdown/contrast table | spanish-lessons/day-54.html |
+| 2026-09-04 | 55 | 否定詞與不定詞(Las Palabras Negativas e Indefinidas: algo/nada, alguien/nadie, alguno/ninguno, siempre/nunca, también/tampoco) | Steps outside verb tenses/moods entirely to cover five paired indefinite/negative words: algo/nada (things), alguien/nadie (people), alguno/ninguno (some/none, shortened to algún/ningún before a masculine singular noun, and almost always kept singular even for a notionally plural "none"), siempre/nunca (always/never), and también/tampoco (echoing an affirmative vs. negative statement, never interchangeable); headline grammar point is Spanish's mandatory double negation (opposite of English): a negative word after the verb requires "no" before the verb (No veo a nadie), while a negative word placed before the verb takes no additional "no" (Nadie viene) — the two never combine and a clause is never left with zero negative marking before the verb; sharpest flagged trap is postposed "alguno" after a noun in a negative clause, which intensifies the negation rather than keeping its usual affirmative "some" meaning (No tengo interés alguno) | spanish-lessons/day-55.html |
 
 Note: a duplicate "Day 2" lesson (ser/¿De dónde eres?, i.e. the same topic
 as Day 5) was independently produced on 2026-07-14 on an orphaned branch
@@ -266,6 +267,7 @@ continues from Day 6.
 | 2026-09-01 | 52 | 艮 (Gèn) — Keeping Still (Mountain) |
 | 2026-09-02 | 53 | 漸 (Jiàn) — Development (Gradual Progress) |
 | 2026-09-03 | 54 | 歸妹 (Guī Mèi) — The Marrying Maiden |
+| 2026-09-04 | 55 | 豐 (Fēng) — Abundance (Fullness) |
 
 Note: a duplicate Hexagram 2 (坤 Kūn) was also independently produced on
 2026-07-14 on the same orphaned branch, for the same reason. Hexagram 7
@@ -324,6 +326,7 @@ above correctly continues from Hexagram 6.
 | 2026-09-01 | Botswana (波札那) |
 | 2026-09-02 | Paraguay (巴拉圭) |
 | 2026-09-03 | Ukraine (烏克蘭) |
+| 2026-09-04 | Uzbekistan (烏茲別克) |
 
 ## Internet Meme Spotlights Featured
 
@@ -378,6 +381,7 @@ above correctly continues from Hexagram 6.
 | 2026-09-01 | Wojak |
 | 2026-09-02 | Expanding Brain / Galaxy Brain |
 | 2026-09-03 | "One Does Not Simply" (Boromir Meme) |
+| 2026-09-04 | Crying Jordan (Michael Jordan Crying Meme) |
 
 ## Film / Performing Arts Spotlights Featured
 
@@ -430,6 +434,7 @@ and never repeat a subject already listed.
 | 2026-09-01 | Persona (1966, dir. Ingmar Bergman) |
 | 2026-09-02 | Opera dei Pupi (Sicilian Puppet Theatre) |
 | 2026-09-03 | The Rules of the Game (La Règle du jeu, 1939, dir. Jean Renoir) |
+| 2026-09-04 | Pansori (판소리, Korean narrative singing) |
 
 ## Film-Appreciation / Criticism Method Lessons
 
@@ -484,6 +489,7 @@ table and pick one not yet covered.
 | 2026-09-01 | The Freeze Frame (Arrested Motion) (halting the moving image on a single still frame for a deliberate duration rather than continuing to play, most often as a final punctuation device but occasionally mid-sequence to isolate one instant; distinct from Day 3's Long Take, an unbroken shot that keeps playing in real time — the opposite gesture of arresting motion — Day 15's Camera Movement, physical camera travel irrelevant once the image has stopped moving, and Day 37's Slow Motion & Speed Ramping, which stretches motion via frame rate but never fully halts it; check whether the freeze closes the film on a deliberately unresolved note or emphasizes a mid-scene instant, and whether it is total or partial) | The 400 Blows (Les Quatre Cents Coups, 1959, dir. François Truffaut) — the celebrated final shot, young runaway Antoine Doinel sprinting along a beach toward the sea in one continuous tracking shot, turning to look directly into the camera as the image abruptly freezes on his face in an extended close-up that becomes the film's last image before the credits, deliberately refusing to resolve his fate and becoming one of the most influential single shots of the French New Wave |
 | 2026-09-02 | Split Screen / Multi-Frame Composition (dividing a single frame into two or more simultaneous panels each showing a different image at once; distinct from Day 18's Cross-Cutting/Parallel Editing, which alternates between separate shots of simultaneous action over time rather than displaying them together within one undivided frame; check whether panels show genuinely simultaneous action or a comparison across time/perspective, whether divisions are symmetrical or asymmetrical, whether the device is a single beat or a sustained structural motif, and whether it produces tension, efficiency, intimacy, or irony) | The Thomas Crown Affair (1968, dir. Norman Jewison, montage editing by Pablo Ferro) — the bank-heist sequence, fracturing the frame into a shifting grid of over a dozen simultaneous panels (getaway drivers, security guards, a ticking clock, participants' faces, wide shots) to deliver the robbery's dispersed, simultaneous information at once rather than through a long chain of intercut shots, widely credited as the most influential mainstream use of the technique and a lasting stylistic shorthand for the caper-film genre |
 | 2026-09-03 | Eyeline Match (a cut from a shot of a character looking off-screen in a particular direction to a second shot revealing what/whom they're looking at, creating a purely directional, editing-constructed spatial connection between shots that may never have been filmed near each other; distinct from Day 9's Continuity Editing/180-Degree Rule (Shot/Reverse Shot), which alternates between two facing speakers across a dialogue exchange while preserving a consistent camera axis, and Day 19's Subjective/POV Camera, which places the lens directly at a character's own eye position rather than showing both the look and a separate reaction/object shot; check whether it's used for simple orientation, delayed-reveal suspense, or to construct an entirely fabricated spatial/emotional relationship, and whether the look-and-reveal chain is a single beat or a sustained structural device) | Rear Window (1954, dir. Alfred Hitchcock) — built almost entirely on repeated eyeline-match chains: a shot of the wheelchair-bound Jefferies looking out his rear window, cut to what he sees across the courtyard, cut back to his reaction; none of it requires the actor and the courtyard set to share real proximity, echoing the earlier Soviet Kuleshov Effect experiments on purely directional editing to build both the courtyard's fictional geography and the plot's mounting suspicion |
+| 2026-09-04 | Match on Action (a cut made mid-continuous-physical-movement, timed against the motion's momentum so the action appears to continue seamlessly across the cut even though the two shots may differ in angle/distance/lens or come from separate takes/stunts; distinct from Day 11's Match Cut & Graphic Match, which foregrounds the edit itself as a deliberate visual rhyme via a shared graphic shape, and Day 9's Continuity Editing/180-Degree Rule, which addresses maintaining camera axis across a dialogue exchange rather than cutting mid-motion within one action; check whether the cut lines up frame-accurately or leaves a jump-cut-style discontinuity, whether it's used for coverage/dynamism or to compress/intensify perceived speed, and whether the "one continuous action" was filmed as a single take or assembled from separate setups) | Raiders of the Lost Ark (1981, dir. Steven Spielberg) — the giant-boulder chase in Peru, cutting rapidly among wide shots of the boulder, medium shots of Indy's full-body sprint, and low ground-level angles, each cut timed to match his running stride and momentum precisely so the escape reads as one unbroken sprint despite dozens of shifting camera positions |
 
 ## Run Notes
 
@@ -1023,6 +1029,79 @@ tracking tables in this file. Pushed `briefings/2026-09-03.html`,
 `spanish-lessons/day-54.html`, updated `ROUTINE_LOG.md`, and updated
 `index.html` to `claude/daily-2026-09-03`, then fast-forward merged
 `claude/daily-2026-09-03` into `claude/epic-brahmagupta-g1y16m` and
+pushed the portal branch, making today's entry live at
+https://lebonthe.github.io/ClaudeRoutineTest/. The daily branch was
+kept (not deleted), per the no-destructive-action default.
+
+**2026-09-04:** STEP 0 run first as always: the session's own `currentDate`
+context field again showed 2026-09-03 (a day behind, the fifth
+consecutive occurrence of this same context-staleness pattern), but
+`TZ=Asia/Taipei date` on the system clock confirmed the actual date is
+2026-09-04 (Friday), so `days_owed = 1` against the portal branch's
+2026-09-03 entry and today's content was produced under the real date.
+Full branch-recovery procedure re-run before any content work: listed
+all `claude/*` branches, then confirmed the GitHub Pages-deployed
+portal branch via the `pages-build-deployment` Actions workflow's run
+history — the latest successful run (run #55) deployed commit
+`cd04bde6`, matching `claude/epic-brahmagupta-g1y16m`'s current tip
+exactly, and that same commit is also the tip of
+`claude/daily-2026-09-03`, confirming the portal branch and yesterday's
+daily branch are perfectly in sync with no divergence to reconcile.
+Branched `claude/daily-2026-09-04` directly from the portal branch's
+tip. Selected new material for all six never-repeat tracking tables,
+verified against this file's authoritative tables: Spanish Day 55
+(negative/indefinite words: algo/nada, alguien/nadie, alguno/ninguno,
+siempre/nunca, también/tampoco, plus Spanish's mandatory double-negation
+rule, confirmed via review of Days 1-54 that this foundational topic
+had never been taught as a dedicated lesson), Hexagram 55 (豐 Fēng,
+Abundance/Fullness — the correct King Wen successor to yesterday's 歸妹,
+read as a deliberate pair: 54 warned against impulsive, wrongly-
+positioned advance, while 55 shows the opposite case — a rightful
+"arrival" — carried to its peak, immediately tempered by the Tuan
+commentary's classic teaching that a sun at zenith has nowhere to go
+but down), Uzbekistan (a populous, historically rich Central Asian
+"Silk Road" country not yet covered, and only the second "doubly
+landlocked" country in this series after Liechtenstein), Crying Jordan
+/ Michael Jordan Crying Meme (a foundational mid-2010s sports-internet
+reaction-image template not yet covered), Pansori (판소리, Korean
+narrative singing — chosen for Section 7 as a performing-arts spotlight
+not yet covered, continuing the alternation with the landmark-film
+spotlights), and Match on Action as the forty-first film-analysis
+method, worked through the Raiders of the Lost Ark boulder-chase
+sequence, explicitly distinguished from Day 11's Match Cut/Graphic
+Match and Day 9's Continuity Editing/180-Degree Rule. Market research
+(Section 1) this round cross-checked cleanly: Thursday Sept 3, 2026 was
+independently confirmed as the correct weekday via the system clock,
+and precise Taipei-to-US-Eastern time conversion confirmed the US
+market's Thursday close had already occurred (just under six hours
+before this Friday-morning briefing) while Asia's own Thursday local
+sessions had closed many hours earlier still — this time, unlike
+several recent sessions during the US-Iran-conflict volatility, no
+conflicting or mislabeled same-day figures surfaced across independent
+searches for either the US or Asia figures, so no stale data needed to
+be caught and discarded. Final figures used: US indices extending their
+rebound for a second day (S&P +0.5% to 7,666.60, Dow +0.6%/+295.07 to
+53,061.95, Nasdaq +0.5%/+118.05 to 26,217.83 — all for Thursday Sept 3),
+Asia's own Thursday local session comparatively calm and mixed (Nikkei
+-0.17%, Hang Seng -0.39%, Shanghai +0.02%, KOSPI +0.26%), and Taiwan's
+TAIEX -0.67% to 45,857.66. Section 2 (dev news) covered genuinely new
+items for this window: Apple's Sept 9 "Surprise and Shine" event now
+five days out with RC builds of iOS 27/macOS 27 "Golden Gate" expected
+imminently, OpenAI's Astra model crossing the "Critical" cybersecurity
+threshold under its Preparedness Framework plus the new ChatGPT
+Health-Epic EHR integration, Anthropic's new "Enterprise Frontier
+Safeguards" (zero-data-retention plus customer-held misuse-monitoring
+logs), and Android 17's Developer Verification rollout beginning this
+September; Flutter had no newly-dated release/blog item for this
+specific window (the most substantive recent item, Impeller becoming
+the default Android renderer on Vulkan-enabled devices, traces back to
+Google I/O 2026 rather than this week) and the briefing notes this
+explicitly rather than presenting older news as fresh. Updated
+`index.html` (new top row) and all six never-repeat tracking tables in
+this file. Pushed `briefings/2026-09-04.html`, `spanish-lessons/day-55.html`,
+updated `ROUTINE_LOG.md`, and updated `index.html` to
+`claude/daily-2026-09-04`, then fast-forward merged
+`claude/daily-2026-09-04` into `claude/epic-brahmagupta-g1y16m` and
 pushed the portal branch, making today's entry live at
 https://lebonthe.github.io/ClaudeRoutineTest/. The daily branch was
 kept (not deleted), per the no-destructive-action default.
