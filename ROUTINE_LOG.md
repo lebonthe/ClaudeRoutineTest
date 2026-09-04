@@ -202,6 +202,7 @@ the repo so a permanent link can be shared.
 | 2026-09-02 | 53 | 指小詞與擴大詞(Los Diminutivos y Aumentativos: -ito/-illo/-ón/-azo) | Steps outside verb tenses/moods/prepositions/pronouns entirely into Spanish word-formation: diminutive suffixes -ito/-ita (and the -cito/-cita variant for n/r/e-ending words) and the regional -illo/-illa shrink a noun or soften tone (casa→casita, un momentito for politeness), while augmentative suffixes -ón/-ona and -azo/-aza enlarge or intensify (hombre→hombrón, golpe→golpazo, "a huge hit"); suffixes attach after dropping a final vowel, with spelling adjustments (c→qu, g→gu, z→c) to preserve sound; flagged that some derived forms (sillón "armchair," bolsillo "pocket," flechazo "love at first sight") have fully lexicalized into independent words no longer read as literal "big/small X" | spanish-lessons/day-53.html |
 | 2026-09-03 | 54 | 變化動詞(Los Verbos de Cambio: ponerse/volverse/hacerse/llegar a ser/convertirse en) | Introduces the five Spanish "become" verbs that English/Chinese collapse into one word: ponerse + adjective (short-lived, involuntary emotional/physical state, e.g. ponerse pálido); volverse + adjective/noun (more lasting, often sudden and uncontrolled personality/state shift, e.g. volverse desconfiado); hacerse + adjective/noun (change achieved through effort/choice, often profession/status/belief, e.g. hacerse abogada); llegar a ser + noun/adjective (formal "finally become," emphasizing a long process); convertirse en + noun only (change in fundamental nature/composition); core dialogue drilled the ponerse/volverse/hacerse trio, with llegar a ser and convertirse en covered in the breakdown/contrast table | spanish-lessons/day-54.html |
 | 2026-09-04 | 55 | 否定詞與不定詞(Las Palabras Negativas e Indefinidas: algo/nada, alguien/nadie, alguno/ninguno, siempre/nunca, también/tampoco) | Steps outside verb tenses/moods entirely to cover five paired indefinite/negative words: algo/nada (things), alguien/nadie (people), alguno/ninguno (some/none, shortened to algún/ningún before a masculine singular noun, and almost always kept singular even for a notionally plural "none"), siempre/nunca (always/never), and también/tampoco (echoing an affirmative vs. negative statement, never interchangeable); headline grammar point is Spanish's mandatory double negation (opposite of English): a negative word after the verb requires "no" before the verb (No veo a nadie), while a negative word placed before the verb takes no additional "no" (Nadie viene) — the two never combine and a clause is never left with zero negative marking before the verb; sharpest flagged trap is postposed "alguno" after a noun in a negative clause, which intensifies the negation rather than keeping its usual affirmative "some" meaning (No tengo interés alguno) | spanish-lessons/day-55.html |
+| 2026-09-05 | 56 | Hay 與 Estar(存在句與位置句) | Steps outside verb tenses/moods/pronouns entirely to formalize a distinction used silently since Day 2 but never taught: the invariable existential hay (haber's fixed impersonal form, never conjugated for number) introduces a new/unspecified thing or person and almost always pairs with an indefinite article or no article (Hay un libro), while estar (agreeing in person/number) states where an already-specific, already-identified thing is located and almost always pairs with a definite article/possessive/demonstrative (El libro está aquí); simplest test taught: if a definite article/possessive/demonstrative would still make sense on the noun, use estar, otherwise use hay; explicitly cross-referenced Day 55's nadie/nada, which — being inherently unspecified/nonexistent — can only ever pair with hay, never estar | spanish-lessons/day-56.html |
 
 Note: a duplicate "Day 2" lesson (ser/¿De dónde eres?, i.e. the same topic
 as Day 5) was independently produced on 2026-07-14 on an orphaned branch
@@ -268,6 +269,7 @@ continues from Day 6.
 | 2026-09-02 | 53 | 漸 (Jiàn) — Development (Gradual Progress) |
 | 2026-09-03 | 54 | 歸妹 (Guī Mèi) — The Marrying Maiden |
 | 2026-09-04 | 55 | 豐 (Fēng) — Abundance (Fullness) |
+| 2026-09-05 | 56 | 旅 (Lǚ) — The Wanderer |
 
 Note: a duplicate Hexagram 2 (坤 Kūn) was also independently produced on
 2026-07-14 on the same orphaned branch, for the same reason. Hexagram 7
@@ -327,6 +329,7 @@ above correctly continues from Hexagram 6.
 | 2026-09-02 | Paraguay (巴拉圭) |
 | 2026-09-03 | Ukraine (烏克蘭) |
 | 2026-09-04 | Uzbekistan (烏茲別克) |
+| 2026-09-05 | Cambodia (柬埔寨) |
 
 ## Internet Meme Spotlights Featured
 
@@ -382,6 +385,7 @@ above correctly continues from Hexagram 6.
 | 2026-09-02 | Expanding Brain / Galaxy Brain |
 | 2026-09-03 | "One Does Not Simply" (Boromir Meme) |
 | 2026-09-04 | Crying Jordan (Michael Jordan Crying Meme) |
+| 2026-09-05 | Chuck Norris Facts |
 
 ## Film / Performing Arts Spotlights Featured
 
@@ -435,6 +439,7 @@ and never repeat a subject already listed.
 | 2026-09-02 | Opera dei Pupi (Sicilian Puppet Theatre) |
 | 2026-09-03 | The Rules of the Game (La Règle du jeu, 1939, dir. Jean Renoir) |
 | 2026-09-04 | Pansori (판소리, Korean narrative singing) |
+| 2026-09-05 | Pather Panchali (大地之歌, 1955, dir. Satyajit Ray) |
 
 ## Film-Appreciation / Criticism Method Lessons
 
@@ -490,6 +495,7 @@ table and pick one not yet covered.
 | 2026-09-02 | Split Screen / Multi-Frame Composition (dividing a single frame into two or more simultaneous panels each showing a different image at once; distinct from Day 18's Cross-Cutting/Parallel Editing, which alternates between separate shots of simultaneous action over time rather than displaying them together within one undivided frame; check whether panels show genuinely simultaneous action or a comparison across time/perspective, whether divisions are symmetrical or asymmetrical, whether the device is a single beat or a sustained structural motif, and whether it produces tension, efficiency, intimacy, or irony) | The Thomas Crown Affair (1968, dir. Norman Jewison, montage editing by Pablo Ferro) — the bank-heist sequence, fracturing the frame into a shifting grid of over a dozen simultaneous panels (getaway drivers, security guards, a ticking clock, participants' faces, wide shots) to deliver the robbery's dispersed, simultaneous information at once rather than through a long chain of intercut shots, widely credited as the most influential mainstream use of the technique and a lasting stylistic shorthand for the caper-film genre |
 | 2026-09-03 | Eyeline Match (a cut from a shot of a character looking off-screen in a particular direction to a second shot revealing what/whom they're looking at, creating a purely directional, editing-constructed spatial connection between shots that may never have been filmed near each other; distinct from Day 9's Continuity Editing/180-Degree Rule (Shot/Reverse Shot), which alternates between two facing speakers across a dialogue exchange while preserving a consistent camera axis, and Day 19's Subjective/POV Camera, which places the lens directly at a character's own eye position rather than showing both the look and a separate reaction/object shot; check whether it's used for simple orientation, delayed-reveal suspense, or to construct an entirely fabricated spatial/emotional relationship, and whether the look-and-reveal chain is a single beat or a sustained structural device) | Rear Window (1954, dir. Alfred Hitchcock) — built almost entirely on repeated eyeline-match chains: a shot of the wheelchair-bound Jefferies looking out his rear window, cut to what he sees across the courtyard, cut back to his reaction; none of it requires the actor and the courtyard set to share real proximity, echoing the earlier Soviet Kuleshov Effect experiments on purely directional editing to build both the courtyard's fictional geography and the plot's mounting suspicion |
 | 2026-09-04 | Match on Action (a cut made mid-continuous-physical-movement, timed against the motion's momentum so the action appears to continue seamlessly across the cut even though the two shots may differ in angle/distance/lens or come from separate takes/stunts; distinct from Day 11's Match Cut & Graphic Match, which foregrounds the edit itself as a deliberate visual rhyme via a shared graphic shape, and Day 9's Continuity Editing/180-Degree Rule, which addresses maintaining camera axis across a dialogue exchange rather than cutting mid-motion within one action; check whether the cut lines up frame-accurately or leaves a jump-cut-style discontinuity, whether it's used for coverage/dynamism or to compress/intensify perceived speed, and whether the "one continuous action" was filmed as a single take or assembled from separate setups) | Raiders of the Lost Ark (1981, dir. Steven Spielberg) — the giant-boulder chase in Peru, cutting rapidly among wide shots of the boulder, medium shots of Indy's full-body sprint, and low ground-level angles, each cut timed to match his running stride and momentum precisely so the escape reads as one unbroken sprint despite dozens of shifting camera positions |
+| 2026-09-05 | The Needle Drop (deliberate use of a pre-existing, previously-recorded piece of music — usually an already-famous song, licensed rather than newly composed — dropped into a scene, trading on the audience's pre-existing recognition and associations; distinct from Day 4's broader Sound Design & Score, which covered diegetic/non-diegetic sound and score-as-emotional-cue generally without addressing pre-existing/licensed music's distinct recognition dynamics, and Day 36's Leitmotif, an originally-composed theme that builds meaning only through in-film repetition — the inverse of a needle drop's meaning arriving pre-loaded from outside the film; check whether the lyrics reinforce the scene (thematic) or clash with it (ironic counterpoint), whether the source is diegetic or non-diegetic, and whether the song's era/genre connotations are being used straight or deliberately mismatched against the scene's setting) | Reservoir Dogs (1992, dir. Quentin Tarantino) — Mr. Blonde's torture scene, where the cheerful 1970s soft-rock hit "Stuck in the Middle with You" (Stealers Wheel) plays diegetically from a radio he turns up before torturing a bound police officer, the song's refusal to darken alongside the violence making the ironic counterpoint even more unsettling than a non-diegetic drop would be |
 
 ## Run Notes
 
@@ -1105,3 +1111,94 @@ updated `ROUTINE_LOG.md`, and updated `index.html` to
 pushed the portal branch, making today's entry live at
 https://lebonthe.github.io/ClaudeRoutineTest/. The daily branch was
 kept (not deleted), per the no-destructive-action default.
+
+**2026-09-05:** STEP 0 run first as always: the session's own `currentDate`
+context field again showed 2026-09-04 (a day behind, the sixth
+consecutive occurrence of this same context-staleness pattern), but
+`date -u` / `TZ=Asia/Taipei date` on the system clock confirmed the
+actual date is 2026-09-05 (Saturday), so `days_owed = 1` against the
+portal branch's 2026-09-04 entry and today's content was produced
+under the real date. Full branch-recovery procedure re-run before any
+content work: listed all `claude/*` branches via the GitHub API, then
+confirmed the GitHub Pages-deployed portal branch by querying
+`GET /repos/.../deployments?environment=github-pages` directly and
+reading the `ref` of the newest entry whose own status history included
+a `state: success` — the latest such deployment (id 6253604698,
+created 2026-09-03T21:52:29Z) deployed commit `70b7072e`, matching
+`claude/epic-brahmagupta-g1y16m`'s current tip exactly, and that same
+commit is also the tip of `claude/daily-2026-09-04`, confirming the
+portal branch and yesterday's daily branch were perfectly in sync with
+no divergence to reconcile. Branched `claude/daily-2026-09-05` directly
+from the portal branch's tip. Selected new material for all six
+never-repeat tracking tables, verified against this file's authoritative
+tables: Spanish Day 56 (Hay vs. Estar — existence vs. location, a
+foundational distinction used silently since Day 2's ¿Cómo estás? but
+never formally taught, confirmed via review of Days 1-55 that this
+exact contrast had never been given its own lesson), Hexagram 56 (旅
+Lǚ, The Wanderer — the correct King Wen successor to yesterday's 豐,
+read as a direct pair: 55 showed abundance driven to its peak, 56 shows
+that peak's human consequence, a wanderer with nowhere settled to
+stand, tempered by the Judgment's modest "small matters only, but
+perseverance brings good fortune"), Cambodia (a Southeast Asian country
+not yet covered, chosen partly for its live current-events relevance —
+the ongoing, unresolved Cambodia-Thailand border conflict — verified
+via a dedicated search on the conflict's 2026 status rather than relying
+on older background knowledge), Chuck Norris Facts (a foundational
+early-2000s absurdist-hyperbole joke format not yet covered, distinct
+from every image-macro-era meme already logged), Pather Panchali (1955,
+dir. Satyajit Ray — chosen for Section 7 as a landmark work of Indian
+arthouse cinema not yet represented in either section, continuing the
+alternation back to a landmark-film spotlight after Day 09-04's
+performing-arts entry), and The Needle Drop as the forty-second
+film-analysis method, worked through Reservoir Dogs' "Stuck in the
+Middle with You" torture scene, explicitly distinguished from Day 4's
+Sound Design & Score and Day 36's Leitmotif. Market research (Section 1)
+required careful same-day-different-driver handling rather than a
+stale-data catch: with generation happening Saturday ~5:45am Taipei,
+the most recently closed US session was Friday Sept 4 (closing just
+under two hours before this briefing), while Asia/Taiwan's own Friday
+Sept 4 local sessions had closed many hours earlier, before that same
+day's US jobs report even existed — so the two halves of "Friday's"
+market news were verified as reflecting genuinely different,
+chronologically-ordered drivers (Thursday's US tech-rally carry-over
+plus dovish Fed Waller remarks driving Asia/Taiwan's Friday-morning
+rally; Friday's own blowout August jobs report, released later,
+reversing part of that sentiment in the US's own Friday close) rather
+than treated as one homogeneous "Friday" data point. A genuine
+stale/mislabeled-data catch did occur within the Taiwan figure
+specifically: an initial search returned a TAIEX close of "46,166.45,
++308.79 points (+0.67%)" for Sept 4, but this exactly mirrored (in
+inverted sign) Sept 3's already-published -0.67% move, a red flag per
+this file's stale-data protocol; a follow-up, more specific search
+(named companies, foreign-buying figures) returned a starkly different,
+internally-consistent figure — TAIEX +693.47 points (+1.51%) to
+46,551.13 — cross-confirmed identically across four independent
+Chinese-language financial outlets (cnyes, Newtalk, NextApple,
+taronews), which was used instead. Final figures used: US Friday Sept 4
+close down modestly (Dow -0.51%/-271.86 to 53,414.25, S&P -0.38% to
+7,718.60, Nasdaq -0.29% to 26,506.99) on a much-stronger-than-expected
+August jobs report (+162K vs. ~53-56K expected, unemployment steady at
+4.1%, Sept rate-hike odds rising to ~59% from 52%); Asia's own Friday
+local session broadly higher (Nikkei +1.3% to 65,020.94, Hang Seng
++1.8% to 25,658.73, KOSPI +1.7% to 6,690.72, Shanghai the regional
+laggard at -0.5% to 3,921.40); Taiwan's TAIEX +1.51% to 46,551.13 as
+described above, driven additionally by NT$56.21B in net foreign buying
+into electronics/semiconductors. Section 2 (dev news) covered genuinely
+new items for this window: the Sept 9 Apple event now four days out
+with RC-build estimates converging on Sept 7-9; OpenAI's official Sept 4
+launch of GPT-6 Astra (superseding the "crossing a critical threshold"
+preview reported in the prior briefing with the model's actual release)
+plus its $1B "Daybreak for Frontline Defenders" initiative; Google's
+Sept 4 shutdown of Google Assistant on Android/Wear OS/Android Auto in
+favor of Gemini; and incremental Claude Code updates. Flutter again had
+no newly-dated item for this specific window (Flutter 3.47, Aug 12,
+remains the most recent substantive release, now over three weeks old)
+and the briefing says so explicitly. Updated `index.html` (new top row)
+and all six never-repeat tracking tables in this file. Pushed
+`briefings/2026-09-05.html`, `spanish-lessons/day-56.html`, updated
+`ROUTINE_LOG.md`, and updated `index.html` to `claude/daily-2026-09-05`,
+then fast-forward merged `claude/daily-2026-09-05` into
+`claude/epic-brahmagupta-g1y16m` and pushed the portal branch, making
+today's entry live at https://lebonthe.github.io/ClaudeRoutineTest/.
+The daily branch was kept (not deleted), per the no-destructive-action
+default.

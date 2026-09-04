@@ -32,7 +32,8 @@
 <b>備註(2026-09-01):</b> session 的 <code>currentDate</code> context 欄位再次標示錯誤的日期(顯示 2026-08-31,即前一日),同樣透過 STEP 0 的系統時鐘覆核(<code>date</code> / <code>TZ=Asia/Taipei date</code>)確認實際日期其實已經是 2026-09-01(週二),因而正確產出這一天的內容。詳見 <code>ROUTINE_LOG.md</code> 的 Run Notes。<br>
 <b>備註(2026-09-02):</b> session 的 <code>currentDate</code> context 欄位第三次連續標示錯誤的日期(顯示 2026-09-01,即前一日),同樣透過 STEP 0 的系統時鐘覆核(<code>date</code> / <code>TZ=Asia/Taipei date</code>)確認實際日期其實已經是 2026-09-02(週三),因而正確產出這一天的內容,而非誤判為重複執行。詳見 <code>ROUTINE_LOG.md</code> 的 Run Notes。<br>
 <b>備註(2026-09-03):</b> session 的 <code>currentDate</code> context 欄位第四次連續標示錯誤的日期(顯示 2026-09-02,即前一日),再次透過 STEP 0 的系統時鐘覆核(<code>TZ=Asia/Taipei date</code>)確認實際日期其實已經是 2026-09-03(週四),因而正確產出這一天的內容。本次執行前也重新核對了所有 <code>claude/*</code> 分支與 GitHub Pages 部署歷史,確認 <code>claude/epic-brahmagupta-g1y16m</code> 分支的最新一次成功部署(commit <code>4e27cca7</code>)與 <code>claude/daily-2026-09-02</code> 分支的最新 commit 完全一致,兩者並無分歧,因此本次直接從 portal 分支尖端切出新分支,無需額外整合。詳見 <code>ROUTINE_LOG.md</code> 的 Run Notes。<br>
-<b>備註(2026-09-04):</b> session 的 <code>currentDate</code> context 欄位第五次連續標示錯誤的日期(顯示 2026-09-03,即前一日),再次透過 STEP 0 的系統時鐘覆核(<code>TZ=Asia/Taipei date</code>)確認實際日期其實已經是 2026-09-04(週五),因而正確產出這一天的內容。本次執行前同樣重新核對了所有 <code>claude/*</code> 分支與 GitHub Pages 部署歷史,確認 <code>claude/epic-brahmagupta-g1y16m</code> 分支的最新一次成功部署(commit <code>cd04bde6</code>)與 <code>claude/daily-2026-09-03</code> 分支的最新 commit 完全一致,並無分歧,因此本次同樣直接從 portal 分支尖端切出新分支。詳見 <code>ROUTINE_LOG.md</code> 的 Run Notes。
+<b>備註(2026-09-04):</b> session 的 <code>currentDate</code> context 欄位第五次連續標示錯誤的日期(顯示 2026-09-03,即前一日),再次透過 STEP 0 的系統時鐘覆核(<code>TZ=Asia/Taipei date</code>)確認實際日期其實已經是 2026-09-04(週五),因而正確產出這一天的內容。本次執行前同樣重新核對了所有 <code>claude/*</code> 分支與 GitHub Pages 部署歷史,確認 <code>claude/epic-brahmagupta-g1y16m</code> 分支的最新一次成功部署(commit <code>cd04bde6</code>)與 <code>claude/daily-2026-09-03</code> 分支的最新 commit 完全一致,並無分歧,因此本次同樣直接從 portal 分支尖端切出新分支。詳見 <code>ROUTINE_LOG.md</code> 的 Run Notes。<br>
+<b>備註(2026-09-05):</b> session 的 <code>currentDate</code> context 欄位第六次連續標示錯誤的日期(顯示 2026-09-04,即前一日),再次透過 STEP 0 的系統時鐘覆核(<code>TZ=Asia/Taipei date</code>)確認實際日期其實已經是 2026-09-05(週六),因而正確產出這一天的內容,而非誤判為重複執行。本次執行前同樣重新核對了所有 <code>claude/*</code> 分支與 GitHub Pages 部署歷史(以 <code>/repos/.../deployments?environment=github-pages</code> API 確認最新一筆 <code>state: success</code> 的部署),確認 <code>claude/epic-brahmagupta-g1y16m</code> 分支的最新一次成功部署(commit <code>70b7072e</code>)與 <code>claude/daily-2026-09-04</code> 分支的最新 commit 完全一致,並無分歧,因此本次同樣直接從 portal 分支尖端切出新分支。台股數據研究過程中,也發現並捨棄了一則與週四已公布跌幅正負號相反、數字雷同的疑似過時/誤植數據。詳見 <code>ROUTINE_LOG.md</code> 的 Run Notes。
 </div>
 
 <h2>📅 每日內容一覽</h2>
@@ -50,6 +51,16 @@
 </tr>
 </thead>
 <tbody>
+<tr>
+<td>2026-09-05</td>
+<td><a href="briefings/2026-09-05.html">briefings/2026-09-05.html</a></td>
+<td><a href="spanish-lessons/day-56.html">Day 56 — Hay 與 Estar(存在句與位置句)</a></td>
+<td>第 56 卦:旅 (Lǚ) — The Wanderer</td>
+<td>柬埔寨 (Cambodia)</td>
+<td>查克·羅禮士冷知識(Chuck Norris Facts)</td>
+<td>《大地之歌》Pather Panchali(1955,薩雅吉·雷)</td>
+<td>插入既成音樂 Needle Drop</td>
+</tr>
 <tr>
 <td>2026-09-04</td>
 <td><a href="briefings/2026-09-04.html">briefings/2026-09-04.html</a></td>
