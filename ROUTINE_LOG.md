@@ -204,6 +204,7 @@ the repo so a permanent link can be shared.
 | 2026-09-04 | 55 | 否定詞與不定詞(Las Palabras Negativas e Indefinidas: algo/nada, alguien/nadie, alguno/ninguno, siempre/nunca, también/tampoco) | Steps outside verb tenses/moods entirely to cover five paired indefinite/negative words: algo/nada (things), alguien/nadie (people), alguno/ninguno (some/none, shortened to algún/ningún before a masculine singular noun, and almost always kept singular even for a notionally plural "none"), siempre/nunca (always/never), and también/tampoco (echoing an affirmative vs. negative statement, never interchangeable); headline grammar point is Spanish's mandatory double negation (opposite of English): a negative word after the verb requires "no" before the verb (No veo a nadie), while a negative word placed before the verb takes no additional "no" (Nadie viene) — the two never combine and a clause is never left with zero negative marking before the verb; sharpest flagged trap is postposed "alguno" after a noun in a negative clause, which intensifies the negation rather than keeping its usual affirmative "some" meaning (No tengo interés alguno) | spanish-lessons/day-55.html |
 | 2026-09-05 | 56 | Hay 與 Estar(存在句與位置句) | Steps outside verb tenses/moods/pronouns entirely to formalize a distinction used silently since Day 2 but never taught: the invariable existential hay (haber's fixed impersonal form, never conjugated for number) introduces a new/unspecified thing or person and almost always pairs with an indefinite article or no article (Hay un libro), while estar (agreeing in person/number) states where an already-specific, already-identified thing is located and almost always pairs with a definite article/possessive/demonstrative (El libro está aquí); simplest test taught: if a definite article/possessive/demonstrative would still make sense on the noun, use estar, otherwise use hay; explicitly cross-referenced Day 55's nadie/nada, which — being inherently unspecified/nonexistent — can only ever pair with hay, never estar | spanish-lessons/day-56.html |
 | 2026-09-06 | 57 | 無意/意外的 se(El Se Accidental o Involuntario) | Gives se a fourth and final identity, completing the full se-family begun on Day 46 (reflexive, subject acts on itself), Day 47 (reciprocal, subjects act on each other) and Day 48 (impersonal/passive, no identifiable agent at all): se + indirect object pronoun (me/te/le/nos/os/les) + verb reframes an event as something that merely happened to the affected person rather than something they deliberately did, softening or removing blame (Se me cayó el vaso, "I dropped the glass," lit. "the glass fell on me," vs. the plain Dejé caer el vaso, "I [deliberately] dropped the glass"); the verb agrees in number with the grammatical subject — the thing that happened, not the person affected (Se me cayó el vaso singular vs. Se me cayeron los platos plural) — the sharpest structural trap in the lesson, since English/Chinese speakers instinctively want the verb to agree with the person instead; common verbs used this way: caer, romper, olvidar, acabar, perder, quedar, escapar | spanish-lessons/day-57.html |
+| 2026-09-07 | 58 | 個人受詞 A(La A Personal) | Steps outside the tense/mood/pronoun/se-family tracks into a distinctively Spanish grammatical marker with no English/Chinese equivalent: the personal "a," required immediately before a direct object when that object is a specific, identifiable person (Veo a mi hermana) but omitted when the object is a thing (Veo el coche); self-test taught: if a sentence could naturally be questioned with ¿A quién...?, its direct object needs the personal "a"; directly cross-referenced with Day 55's people-referring indefinites (alguien/nadie, which always take the personal "a" as a direct object) and Day 44's direct object pronouns (lo/la/los/las, before which the "a" disappears once the noun is replaced: Veo a mi hermana → La veo); flagged exception: tener expressing plain possession/quantity usually omits it (Tengo tres hermanos) | spanish-lessons/day-58.html |
 
 Note: a duplicate "Day 2" lesson (ser/¿De dónde eres?, i.e. the same topic
 as Day 5) was independently produced on 2026-07-14 on an orphaned branch
@@ -272,6 +273,7 @@ continues from Day 6.
 | 2026-09-04 | 55 | 豐 (Fēng) — Abundance (Fullness) |
 | 2026-09-05 | 56 | 旅 (Lǚ) — The Wanderer |
 | 2026-09-06 | 57 | 巽 (Xùn) — The Gentle (The Penetrating, Wind) |
+| 2026-09-07 | 58 | 兌 (Duì) — The Joyous (Lake) |
 
 Note: a duplicate Hexagram 2 (坤 Kūn) was also independently produced on
 2026-07-14 on the same orphaned branch, for the same reason. Hexagram 7
@@ -333,6 +335,7 @@ above correctly continues from Hexagram 6.
 | 2026-09-04 | Uzbekistan (烏茲別克) |
 | 2026-09-05 | Cambodia (柬埔寨) |
 | 2026-09-06 | Yemen (葉門) |
+| 2026-09-07 | Egypt (埃及) |
 
 ## Internet Meme Spotlights Featured
 
@@ -390,6 +393,7 @@ above correctly continues from Hexagram 6.
 | 2026-09-04 | Crying Jordan (Michael Jordan Crying Meme) |
 | 2026-09-05 | Chuck Norris Facts |
 | 2026-09-06 | Gru's Plan |
+| 2026-09-07 | Disaster Girl |
 
 ## Film / Performing Arts Spotlights Featured
 
@@ -445,6 +449,7 @@ and never repeat a subject already listed.
 | 2026-09-04 | Pansori (판소리, Korean narrative singing) |
 | 2026-09-05 | Pather Panchali (大地之歌, 1955, dir. Satyajit Ray) |
 | 2026-09-06 | Whirling Dervishes / Mevlevi Sema Ceremony (旋轉苦行僧,土耳其蘇非教團儀式) |
+| 2026-09-07 | Chinatown (唐人街, 1974, dir. Roman Polanski) |
 
 ## Film-Appreciation / Criticism Method Lessons
 
@@ -502,8 +507,88 @@ table and pick one not yet covered.
 | 2026-09-04 | Match on Action (a cut made mid-continuous-physical-movement, timed against the motion's momentum so the action appears to continue seamlessly across the cut even though the two shots may differ in angle/distance/lens or come from separate takes/stunts; distinct from Day 11's Match Cut & Graphic Match, which foregrounds the edit itself as a deliberate visual rhyme via a shared graphic shape, and Day 9's Continuity Editing/180-Degree Rule, which addresses maintaining camera axis across a dialogue exchange rather than cutting mid-motion within one action; check whether the cut lines up frame-accurately or leaves a jump-cut-style discontinuity, whether it's used for coverage/dynamism or to compress/intensify perceived speed, and whether the "one continuous action" was filmed as a single take or assembled from separate setups) | Raiders of the Lost Ark (1981, dir. Steven Spielberg) — the giant-boulder chase in Peru, cutting rapidly among wide shots of the boulder, medium shots of Indy's full-body sprint, and low ground-level angles, each cut timed to match his running stride and momentum precisely so the escape reads as one unbroken sprint despite dozens of shifting camera positions |
 | 2026-09-05 | The Needle Drop (deliberate use of a pre-existing, previously-recorded piece of music — usually an already-famous song, licensed rather than newly composed — dropped into a scene, trading on the audience's pre-existing recognition and associations; distinct from Day 4's broader Sound Design & Score, which covered diegetic/non-diegetic sound and score-as-emotional-cue generally without addressing pre-existing/licensed music's distinct recognition dynamics, and Day 36's Leitmotif, an originally-composed theme that builds meaning only through in-film repetition — the inverse of a needle drop's meaning arriving pre-loaded from outside the film; check whether the lyrics reinforce the scene (thematic) or clash with it (ironic counterpoint), whether the source is diegetic or non-diegetic, and whether the song's era/genre connotations are being used straight or deliberately mismatched against the scene's setting) | Reservoir Dogs (1992, dir. Quentin Tarantino) — Mr. Blonde's torture scene, where the cheerful 1970s soft-rock hit "Stuck in the Middle with You" (Stealers Wheel) plays diegetically from a radio he turns up before torturing a bound police officer, the song's refusal to darken alongside the violence making the ironic counterpoint even more unsettling than a non-diegetic drop would be |
 | 2026-09-06 | The Wipe (Transition Wipe: one shot pushing/replacing another via a moving line or shape sweeping across the frame, rather than a cut or dissolve) — distinct from Day 29's Ellipsis, which covers cuts/dissolves smoothing over skipped story time in general without addressing this specific overt, energetic wipe-shaped transition; check whether the wipe's direction/shape is plain (a straight line) or a stylized shape, whether it's used for a simple scene change or to evoke a specific serial/genre tradition, and whether it's played straight or self-consciously nostalgic | Star Wars (1977, dir. George Lucas) — used throughout as a deliberate homage to 1930s adventure serials like Flash Gordon and to Akira Kurosawa's The Hidden Fortress (1958, itself already featured in this series' Section 7 lineage of Kurosawa influence via Seven Samurai and Rashomon), giving the film's episodic, multi-location plot the brisk "chapter break" rhythm of an old-fashioned serial |
+| 2026-09-07 | Frame Within a Frame / Diegetic Framing Devices (using an in-scene, diegetic aperture — a window, doorway, archway, or mirror actually present in the story world — to construct a secondary frame around a character inside the camera's own frame; distinct from Day 8's Framing & Composition, which covers symmetry/perspective/negative space within an already-fixed camera frame without addressing a specific in-scene architectural framing device, and Day 6's The Gaze/Spectatorship Theory, a structural question of whose eyes the camera aligns with rather than a concrete object enclosing a character on screen; check what the enclosing object is, whether it isolates/imprisons/enables secret observation, whether it's a single moment or a recurring structural motif, and whether the frame stays stable or grows more unstable/threatening as the scene develops) | Alien (1979, dir. Ridley Scott, cinematography by Derek Vanlint) — the Nostromo's narrow corridors, airlock hatches, and doorway thresholds repeatedly enclose Ripley and her crewmates within tight secondary frames as the Xenomorph stalks the ship's interior, turning ordinary industrial architecture into a sustained visual metaphor for entrapment and unseen surveillance, growing progressively tighter and more claustrophobic as the crew is picked off one by one |
 
 ## Run Notes
+
+**2026-09-07:** STEP 0 run first as always: the session's own `currentDate`
+context field showed 2026-09-06 (a day behind, yet another occurrence of
+this same context-staleness pattern), but `TZ=Asia/Taipei date` on the
+system clock confirmed the actual date is 2026-09-07 (Monday), so
+`days_owed = 1` against the portal branch's 2026-09-06 entry and today's
+content was produced under the real date. Full branch-recovery procedure
+re-run before any content work: listed all `claude/*` branches (67
+returned), then confirmed the GitHub Pages-deployed portal branch via the
+`pages-build-deployment` Actions workflow's run history — the latest
+successful run (run #58) deployed commit `a7911cba`, matching
+`claude/epic-brahmagupta-g1y16m`'s tip exactly, and that same commit is
+also the tip of `claude/daily-2026-09-06`, confirming the portal branch
+and yesterday's daily branch are perfectly in sync with no divergence to
+reconcile. As an extra check this run, also spot-checked the tips of the
+several oddly-named orphaned branches (`claude/epic-brahmagupta-b9qdr5`,
+`-is0gmu`, `-mgut69`, `-nn87ee`, `claude/gracious-ramanujan-4wyzgc`, and
+all six `claude/happy-newton-*` branches) via `list_commits`; all were
+confirmed stale mid-July-2026 leftovers (Day 2-10 era) from the historical
+branch-divergence bug described elsewhere in this file, none more advanced
+than the portal branch, so no reconciliation was needed. Branched
+`claude/daily-2026-09-07` directly from the portal branch's tip. Selected
+new material for all six never-repeat tracking tables, verified against
+this file's authoritative tables: Spanish Day 58 (la a personal — the
+personal "a," a distinctively Spanish grammatical marker with no
+English/Chinese equivalent, confirmed via review of Days 1-57 that this
+foundational topic had never been taught as a dedicated lesson, and
+cross-referenced directly with Day 55's alguien/nadie and Day 44's direct
+object pronouns), Hexagram 58 (兌 Duì, The Joyous/Lake — the correct King
+Wen successor to yesterday's 巽, and the last of the eight "pure"
+doubled-trigram hexagrams alongside 1/2/29/30/51/52/57 already featured;
+read as a direct pair with 57: gentle entering succeeded, and joy is the
+natural reward, so long as it stays "firm within, gentle without" per the
+Tuan's warning against hollow flattery), Egypt (a major, historically rich
+transcontinental civilization not yet covered despite the series' recent
+focus on smaller/underrepresented countries — chosen deliberately for its
+depth of history/economy/religion content), Disaster Girl (a foundational
+2008-era reaction-image template not yet covered, with a well-documented
+2021 NFT-sale coda), Chinatown (1974, dir. Roman Polanski — chosen for
+Section 7 as a landmark neo-noir not yet covered, continuing the
+alternation with performing-arts spotlights per the recent pattern), and
+Frame Within a Frame / Diegetic Framing Devices as the forty-fourth
+film-analysis method, worked through Alien's (1979) corridor/hatch/doorway
+imagery, explicitly distinguished from Day 8's Framing & Composition and
+Day 6's The Gaze/Spectatorship Theory. Market research (Section 1)
+confirmed Monday, Sept 7, 2026 as US Labor Day via a fresh holiday-calendar
+search, so US markets are fully closed today with no new session since
+Friday Sept 4 (already reported the past two days, re-verified fresh again
+today with identical Dow/S&P/Nasdaq figures); Asia/Taiwan markets also have
+no new session to report since their local Monday sessions had not yet
+opened at this briefing's ~5:35am Taipei generation time, so Friday Sept 4
+figures were reused a third day running. This round's re-verification
+surfaced a minor cross-source discrepancy in the Hang Seng/Shanghai
+figures (25,650.87/3,930.12 vs. the twice-previously-confirmed
+25,658.73/3,921.40) — likely differing index-snapshot timing across data
+providers rather than a genuinely different session, since Nikkei and
+TAIEX matched exactly across all three days' checks — flagged explicitly
+in the briefing text per this file's stale-data protocol rather than
+silently resolved either way. Section 2 (dev news) covered genuinely new
+items for this window: refined Apple Sept-9-event details (iPhone 18 Pro/
+Pro Max only, standard iPhone 18 deferred to spring 2027 with iPhone 18e/
+Air 2, 2nm A20 Pro chip, smaller Dynamic Island, variable-aperture camera,
+John Ternus's first keynote as CEO), a Sept 6-dated "model fatigue" report
+on this week's dense AI-lab release cadence (Anthropic's Fable 5.1/Mythos
+5.1, Meta/Google updates, OpenAI's GPT-6 Astra) plus Google's new
+cybersecurity-focused Gemini 3.8 Flash Cyber model, the EU AI Act's
+Article 50 transparency rules (in force since Aug 2) now driving visible
+compliance-tooling work across Anthropic/Google/Meta/OpenAI/Microsoft, and
+Android 17's next scheduled QPR1 stable/Minor-SDK update remaining on
+track for a September rollout — distinct from the previously-covered
+September Feature Drop and Developer Verification items; Flutter still had
+no newly-dated release and the briefing says so explicitly. Updated
+`index.html` (new top row) and all six never-repeat tracking tables in
+this file. Pushed `briefings/2026-09-07.html`, `spanish-lessons/day-58.html`,
+updated `ROUTINE_LOG.md`, and updated `index.html` to
+`claude/daily-2026-09-07`, then fast-forward merged `claude/daily-2026-09-07`
+into `claude/epic-brahmagupta-g1y16m` and pushed the portal branch, making
+today's entry live at https://lebonthe.github.io/ClaudeRoutineTest/. The
+daily branch was kept (not deleted), per the no-destructive-action default.
 
 **Archive notice (2026-08-20):** This file's Run Notes section was growing
 large enough (~150KB) to repeatedly hit output-size limits when pushing
