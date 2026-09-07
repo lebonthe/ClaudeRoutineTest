@@ -511,6 +511,30 @@ table and pick one not yet covered.
 
 ## Run Notes
 
+**2026-09-07 (second firing, no new content):** STEP 0 run first as
+always, before touching git: the session's own `currentDate` context
+field read 2026-09-07. Per the git workflow's branch-recovery steps,
+listed all `claude/*` branches, then confirmed the GitHub Pages-deployed
+portal branch via the `pages-build-deployment` Actions workflow's run
+history — the latest successful run (run #59, id 34062368153, completed
+2026-09-06T21:53:30Z) deployed commit `d488d5ee...` on
+`head_branch: claude/epic-brahmagupta-g1y16m`, whose commit message
+("Add September 7, 2026 morning briefing") and content confirmed the
+portal branch's Run Notes already carried a complete 2026-09-07 entry
+(Spanish Day 58, Hexagram 58, Egypt, Disaster Girl, Chinatown, and Frame
+Within a Frame as film-analysis method 44 — see the entry immediately
+below this one). `days_owed = (2026-09-07) − (portal's latest dated
+entry, 2026-09-07) = 0`, confirmed by arithmetic rather than by
+eyeballing the branch's freshness, so per this file's own STEP 0 policy
+this is a genuine duplicate same-day scheduler firing. No new briefing,
+Spanish lesson, hexagram, country/meme/film spotlight, or film-analysis
+method was produced, and none of the six never-repeat sequences were
+advanced a second time; `index.html` and the tracking tables above are
+unchanged from the prior run. This note alone was added, on a new branch
+(`claude/daily-2026-09-07-duplicate-check`) fast-forward merged into the
+portal branch, per this file's own instructions for handling a confirmed
+duplicate firing.
+
 **2026-09-07:** STEP 0 run first as always: the session's own `currentDate`
 context field showed 2026-09-06 (a day behind, yet another occurrence of
 this same context-staleness pattern), but `TZ=Asia/Taipei date` on the
