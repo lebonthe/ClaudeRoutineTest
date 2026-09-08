@@ -205,6 +205,7 @@ the repo so a permanent link can be shared.
 | 2026-09-05 | 56 | Hay 與 Estar(存在句與位置句) | Steps outside verb tenses/moods/pronouns entirely to formalize a distinction used silently since Day 2 but never taught: the invariable existential hay (haber's fixed impersonal form, never conjugated for number) introduces a new/unspecified thing or person and almost always pairs with an indefinite article or no article (Hay un libro), while estar (agreeing in person/number) states where an already-specific, already-identified thing is located and almost always pairs with a definite article/possessive/demonstrative (El libro está aquí); simplest test taught: if a definite article/possessive/demonstrative would still make sense on the noun, use estar, otherwise use hay; explicitly cross-referenced Day 55's nadie/nada, which — being inherently unspecified/nonexistent — can only ever pair with hay, never estar | spanish-lessons/day-56.html |
 | 2026-09-06 | 57 | 無意/意外的 se(El Se Accidental o Involuntario) | Gives se a fourth and final identity, completing the full se-family begun on Day 46 (reflexive, subject acts on itself), Day 47 (reciprocal, subjects act on each other) and Day 48 (impersonal/passive, no identifiable agent at all): se + indirect object pronoun (me/te/le/nos/os/les) + verb reframes an event as something that merely happened to the affected person rather than something they deliberately did, softening or removing blame (Se me cayó el vaso, "I dropped the glass," lit. "the glass fell on me," vs. the plain Dejé caer el vaso, "I [deliberately] dropped the glass"); the verb agrees in number with the grammatical subject — the thing that happened, not the person affected (Se me cayó el vaso singular vs. Se me cayeron los platos plural) — the sharpest structural trap in the lesson, since English/Chinese speakers instinctively want the verb to agree with the person instead; common verbs used this way: caer, romper, olvidar, acabar, perder, quedar, escapar | spanish-lessons/day-57.html |
 | 2026-09-07 | 58 | 個人受詞 A(La A Personal) | Steps outside the tense/mood/pronoun/se-family tracks into a distinctively Spanish grammatical marker with no English/Chinese equivalent: the personal "a," required immediately before a direct object when that object is a specific, identifiable person (Veo a mi hermana) but omitted when the object is a thing (Veo el coche); self-test taught: if a sentence could naturally be questioned with ¿A quién...?, its direct object needs the personal "a"; directly cross-referenced with Day 55's people-referring indefinites (alguien/nadie, which always take the personal "a" as a direct object) and Day 44's direct object pronouns (lo/la/los/las, before which the "a" disappears once the noun is replaced: Veo a mi hermana → La veo); flagged exception: tener expressing plain possession/quantity usually omits it (Tengo tres hermanos) | spanish-lessons/day-58.html |
+| 2026-09-09 | 59 | 表達義務(Tener que / Deber / Hay que) | Steps outside the tense/mood/pronoun/se-family/personal-a tracks into a foundational everyday-usage gap: three ways to express obligation that English/Chinese collapse into one word — tener que + infinitive (subject-conjugated, strong/personal/often externally-imposed obligation), deber + infinitive (subject-conjugated, softer moral "should," closer to advice than hard necessity, especially in its conditional form deberías), and hay que + infinitive (reuses Day 56's invariable existential hay, general impersonal obligation with no named subject, never conjugated for person/number); the three sit on a cline from most personal/urgent (tener que) to most general/detached (hay que), with deber as the softer advisory middle ground; flagged trap: tener que (obligation, followed by que + infinitive) vs. plain tener expressing possession (Day 58's Tengo tres hermanos, no que, no infinitive) | spanish-lessons/day-59.html |
 
 Note: a duplicate "Day 2" lesson (ser/¿De dónde eres?, i.e. the same topic
 as Day 5) was independently produced on 2026-07-14 on an orphaned branch
@@ -274,6 +275,7 @@ continues from Day 6.
 | 2026-09-05 | 56 | 旅 (Lǚ) — The Wanderer |
 | 2026-09-06 | 57 | 巽 (Xùn) — The Gentle (The Penetrating, Wind) |
 | 2026-09-07 | 58 | 兌 (Duì) — The Joyous (Lake) |
+| 2026-09-09 | 59 | 渙 (Huàn) — Dispersion |
 
 Note: a duplicate Hexagram 2 (坤 Kūn) was also independently produced on
 2026-07-14 on the same orphaned branch, for the same reason. Hexagram 7
@@ -336,6 +338,7 @@ above correctly continues from Hexagram 6.
 | 2026-09-05 | Cambodia (柬埔寨) |
 | 2026-09-06 | Yemen (葉門) |
 | 2026-09-07 | Egypt (埃及) |
+| 2026-09-09 | Peru (秘魯) |
 
 ## Internet Meme Spotlights Featured
 
@@ -394,6 +397,7 @@ above correctly continues from Hexagram 6.
 | 2026-09-05 | Chuck Norris Facts |
 | 2026-09-06 | Gru's Plan |
 | 2026-09-07 | Disaster Girl |
+| 2026-09-09 | "It's Corn" (Corn Kid) |
 
 ## Film / Performing Arts Spotlights Featured
 
@@ -450,6 +454,7 @@ and never repeat a subject already listed.
 | 2026-09-05 | Pather Panchali (大地之歌, 1955, dir. Satyajit Ray) |
 | 2026-09-06 | Whirling Dervishes / Mevlevi Sema Ceremony (旋轉苦行僧,土耳其蘇非教團儀式) |
 | 2026-09-07 | Chinatown (唐人街, 1974, dir. Roman Polanski) |
+| 2026-09-09 | Come and See (見證, 1985, dir. Elem Klimov) |
 
 ## Film-Appreciation / Criticism Method Lessons
 
@@ -508,8 +513,82 @@ table and pick one not yet covered.
 | 2026-09-05 | The Needle Drop (deliberate use of a pre-existing, previously-recorded piece of music — usually an already-famous song, licensed rather than newly composed — dropped into a scene, trading on the audience's pre-existing recognition and associations; distinct from Day 4's broader Sound Design & Score, which covered diegetic/non-diegetic sound and score-as-emotional-cue generally without addressing pre-existing/licensed music's distinct recognition dynamics, and Day 36's Leitmotif, an originally-composed theme that builds meaning only through in-film repetition — the inverse of a needle drop's meaning arriving pre-loaded from outside the film; check whether the lyrics reinforce the scene (thematic) or clash with it (ironic counterpoint), whether the source is diegetic or non-diegetic, and whether the song's era/genre connotations are being used straight or deliberately mismatched against the scene's setting) | Reservoir Dogs (1992, dir. Quentin Tarantino) — Mr. Blonde's torture scene, where the cheerful 1970s soft-rock hit "Stuck in the Middle with You" (Stealers Wheel) plays diegetically from a radio he turns up before torturing a bound police officer, the song's refusal to darken alongside the violence making the ironic counterpoint even more unsettling than a non-diegetic drop would be |
 | 2026-09-06 | The Wipe (Transition Wipe: one shot pushing/replacing another via a moving line or shape sweeping across the frame, rather than a cut or dissolve) — distinct from Day 29's Ellipsis, which covers cuts/dissolves smoothing over skipped story time in general without addressing this specific overt, energetic wipe-shaped transition; check whether the wipe's direction/shape is plain (a straight line) or a stylized shape, whether it's used for a simple scene change or to evoke a specific serial/genre tradition, and whether it's played straight or self-consciously nostalgic | Star Wars (1977, dir. George Lucas) — used throughout as a deliberate homage to 1930s adventure serials like Flash Gordon and to Akira Kurosawa's The Hidden Fortress (1958, itself already featured in this series' Section 7 lineage of Kurosawa influence via Seven Samurai and Rashomon), giving the film's episodic, multi-location plot the brisk "chapter break" rhythm of an old-fashioned serial |
 | 2026-09-07 | Frame Within a Frame / Diegetic Framing Devices (using an in-scene, diegetic aperture — a window, doorway, archway, or mirror actually present in the story world — to construct a secondary frame around a character inside the camera's own frame; distinct from Day 8's Framing & Composition, which covers symmetry/perspective/negative space within an already-fixed camera frame without addressing a specific in-scene architectural framing device, and Day 6's The Gaze/Spectatorship Theory, a structural question of whose eyes the camera aligns with rather than a concrete object enclosing a character on screen; check what the enclosing object is, whether it isolates/imprisons/enables secret observation, whether it's a single moment or a recurring structural motif, and whether the frame stays stable or grows more unstable/threatening as the scene develops) | Alien (1979, dir. Ridley Scott, cinematography by Derek Vanlint) — the Nostromo's narrow corridors, airlock hatches, and doorway thresholds repeatedly enclose Ripley and her crewmates within tight secondary frames as the Xenomorph stalks the ship's interior, turning ordinary industrial architecture into a sustained visual metaphor for entrapment and unseen surveillance, growing progressively tighter and more claustrophobic as the crew is picked off one by one |
+| 2026-09-09 | The Split-Diopter Shot (a half-convex supplementary lens attached in front of the main lens, keeping a very close foreground element and a much more distant background element in simultaneous sharp focus within one continuous, undivided shot — something no ordinary lens/aperture combination can achieve since depth of field always falls off continuously with distance; distinct from Day 8's Depth of Field & Focus, still governed by one continuous focal plane regardless of deep/shallow/rack-focus technique, and Day 41's Split Screen, which physically divides the frame via editing/compositing rather than optically fusing two focal distances in one undivided shot; check whether the visible soft seam where the two lens halves meet is disguised behind a natural vertical edge in the composition or left foregrounded, and whether it's a single punctuation shot or a director's recurring signature) | Blow Out (1981, dir. Brian De Palma, cinematography by Vilmos Zsigmond) — the opening scene of sound recordist Jack Terry capturing nighttime ambient noise near a bridge, one of 15 documented split-diopter shots in the film, repeatedly holding his recording equipment/face in sharp focus in one half of the frame while keeping the surrounding location equally sharp in the other half, visually insisting that both the foreground recording technology and the wider unfolding conspiracy demand the audience's simultaneous attention |
 
 ## Run Notes
+
+**2026-09-09:** STEP 0 run first, before touching git: the system clock
+(`date`; `TZ=Asia/Taipei date`) confirmed the actual current date is
+2026-09-09 (Wednesday), matching the session's own `currentDate` context
+this time (no stale-date discrepancy today). Per the git workflow's
+branch-recovery steps, listed all `claude/*` branches (63 total) via
+`list_branches`, then confirmed the GitHub Pages-deployed portal branch
+via the `pages-build-deployment` Actions workflow's run history (the
+`deployments?environment=github-pages` API returned HTTP 403 through
+`WebFetch`, so the Actions workflow history was used instead, consistent
+with prior runs' fallback) — the latest successful run (run #60, id
+34164054978, completed 2026-09-07T21:42:38Z) deployed commit
+`800b3a9a...` on `head_branch: claude/epic-brahmagupta-g1y16m`, confirmed
+as the portal branch.
+
+**Gap flagged: 2026-09-08 was never produced.** The portal branch's
+latest *dated content* entry was 2026-09-07 (commit `d488d5e`, run #59);
+run #60 on the same date was only a duplicate-firing note with no new
+content. Comparing against today's actual date (2026-09-09) gives
+`days_owed = 2` (both 2026-09-08 and 2026-09-09 are missing), not 0 or 1.
+No `claude/daily-2026-09-08` branch exists, and no other `claude/*`
+branch carries any content dated after 2026-09-07 — confirmed by
+checking `briefings/` and `spanish-lessons/` directory listings on the
+portal branch tip (latest files: `2026-09-07.html` / `day-58.html`) and
+by the portal branch's own commit history. Per this file's own days_owed
+policy ("if days_owed > 1, note the gap ... and produce today's entry;
+do not attempt to silently backfill every missed day unless separately
+instructed"), this run produces only 2026-09-09's content, dated as the
+actual current date, and does not attempt to backfill 2026-09-08 — the
+Spanish/hexagram/country/meme/film/method sequences simply continue from
+Day 58/Hexagram 58 (2026-09-07's progress) to Day 59/Hexagram 59, with no
+placeholder inserted for the skipped calendar day. If the user wants
+2026-09-08 backfilled separately, that would need explicit instruction.
+
+Content produced today: Spanish Day 59 (tener que / deber / hay que —
+expressing obligation), Hexagram 59 (渙 Huàn, Dispersion), Peru country
+spotlight, "It's Corn" (Corn Kid) meme spotlight, Come and See (1985,
+dir. Elem Klimov) film spotlight, and the Split-Diopter Shot as
+film-analysis method 45 (worked through Blow Out, 1981, dir. Brian De
+Palma).
+
+Market section: Wednesday Sept 9's generation time (~5:40am Taipei)
+falls before all three regions' next local/exchange open, so the most
+recently closed session everywhere is Tuesday, Sept 8 — confirmed via
+independent weekday computation (TZ=Asia/Taipei date) rather than
+trusting search-result date labels at face value. US: Dow -628.18
+(-1.18%) to 52,786.07, S&P 500 -0.58% to 7,673.52, Nasdaq -0.32% to
+26,421.41, driven by Middle East tensions ahead of a key US inflation
+reading. Asia: Nikkei -1.70% to 65,269.33, Shanghai +0.20% to 3,940.55,
+Hang Seng -0.38% to 25,317.18, KOSPI -0.58% to 6,954.52 (intraday high
+7,171.52). Taiwan: TAIEX -0.47% to 47,105.78. All figures were internally
+consistent across sources with no cross-source discrepancy requiring a
+flag this round. Dev news covers Apple's "Surprise and Shine" event
+happening later today (Sept 9, 10am Pacific ≈ 1am Thursday Taipei —
+still hours away at generation time, so treated as upcoming/unconfirmed
+rather than reported as fact), Anthropic's "J-space"/"J-lens"
+interpretability research and the Fable 5.1/Mythos 5.1 safeguard tiers,
+OpenAI's GPT-6 Astra system-card disclosure of reduced chain-of-thought
+monitorability, a patched Chrome V8 RCE flaw (CVE-2026-85046), Gemini
+3.8 Flash Cyber, and Android 17's continuing rollout to non-Pixel OEMs;
+Flutter still has no new release since 3.47.0 (Aug 12) and the briefing
+says so explicitly.
+
+Country-spotlight note: Iran was considered first (topical given the
+Middle East tensions driving today's market news), but a search turned
+up an extraordinary, hard-to-independently-verify claim (a change in
+Iran's Supreme Leader following a lethal strike) that would be
+irresponsible to publish into a stable, encyclopedic country-profile
+section without stronger corroboration than a single automated search
+pass; Peru was substituted instead as a calmer, well-documented choice
+with its own current-events texture (a July 2026 presidential
+transition) that could be verified consistently across sources. Updates
+index.html and all six never-repeat tracking tables in ROUTINE_LOG.md.
 
 **2026-09-07 (second firing, no new content):** STEP 0 run first as
 always, before touching git: the session's own `currentDate` context
