@@ -206,6 +206,7 @@ the repo so a permanent link can be shared.
 | 2026-09-06 | 57 | 無意/意外的 se(El Se Accidental o Involuntario) | Gives se a fourth and final identity, completing the full se-family begun on Day 46 (reflexive, subject acts on itself), Day 47 (reciprocal, subjects act on each other) and Day 48 (impersonal/passive, no identifiable agent at all): se + indirect object pronoun (me/te/le/nos/os/les) + verb reframes an event as something that merely happened to the affected person rather than something they deliberately did, softening or removing blame (Se me cayó el vaso, "I dropped the glass," lit. "the glass fell on me," vs. the plain Dejé caer el vaso, "I [deliberately] dropped the glass"); the verb agrees in number with the grammatical subject — the thing that happened, not the person affected (Se me cayó el vaso singular vs. Se me cayeron los platos plural) — the sharpest structural trap in the lesson, since English/Chinese speakers instinctively want the verb to agree with the person instead; common verbs used this way: caer, romper, olvidar, acabar, perder, quedar, escapar | spanish-lessons/day-57.html |
 | 2026-09-07 | 58 | 個人受詞 A(La A Personal) | Steps outside the tense/mood/pronoun/se-family tracks into a distinctively Spanish grammatical marker with no English/Chinese equivalent: the personal "a," required immediately before a direct object when that object is a specific, identifiable person (Veo a mi hermana) but omitted when the object is a thing (Veo el coche); self-test taught: if a sentence could naturally be questioned with ¿A quién...?, its direct object needs the personal "a"; directly cross-referenced with Day 55's people-referring indefinites (alguien/nadie, which always take the personal "a" as a direct object) and Day 44's direct object pronouns (lo/la/los/las, before which the "a" disappears once the noun is replaced: Veo a mi hermana → La veo); flagged exception: tener expressing plain possession/quantity usually omits it (Tengo tres hermanos) | spanish-lessons/day-58.html |
 | 2026-09-09 | 59 | 表達義務(Tener que / Deber / Hay que) | Steps outside the tense/mood/pronoun/se-family/personal-a tracks into a foundational everyday-usage gap: three ways to express obligation that English/Chinese collapse into one word — tener que + infinitive (subject-conjugated, strong/personal/often externally-imposed obligation), deber + infinitive (subject-conjugated, softer moral "should," closer to advice than hard necessity, especially in its conditional form deberías), and hay que + infinitive (reuses Day 56's invariable existential hay, general impersonal obligation with no named subject, never conjugated for person/number); the three sit on a cline from most personal/urgent (tener que) to most general/detached (hay que), with deber as the softer advisory middle ground; flagged trap: tener que (obligation, followed by que + infinitive) vs. plain tener expressing possession (Day 58's Tengo tres hermanos, no que, no infinitive) | spanish-lessons/day-59.html |
+| 2026-09-10 | 60 | 兩種「知道」(Saber vs. Conocer) | Steps outside the tense/mood/pronoun/se-family/obligation tracks into another foundational everyday-usage gap: two verbs for "to know" — saber (irregular yo-form sé) for facts/information/que-clauses/question-word clauses, and, critically, saber + infinitive for "know how to" do something (a structure conocer never takes); conocer (irregular yo-form conozco) for familiarity/acquaintance with a specific person (obligatorily taking Day 58's personal a), place, or thing; both verbs carry the same preterite-vs-imperfect aspectual shift already taught for poder on Day 18 — imperfect (sabía/conocía) marks an already-ongoing state of knowing/being acquainted, while preterite (supe/conocí) marks the instantaneous event of finding something out or meeting someone for the first time | spanish-lessons/day-60.html |
 
 Note: a duplicate "Day 2" lesson (ser/¿De dónde eres?, i.e. the same topic
 as Day 5) was independently produced on 2026-07-14 on an orphaned branch
@@ -276,6 +277,7 @@ continues from Day 6.
 | 2026-09-06 | 57 | 巽 (Xùn) — The Gentle (The Penetrating, Wind) |
 | 2026-09-07 | 58 | 兌 (Duì) — The Joyous (Lake) |
 | 2026-09-09 | 59 | 渙 (Huàn) — Dispersion |
+| 2026-09-10 | 60 | 節 (Jié) — Limitation |
 
 Note: a duplicate Hexagram 2 (坤 Kūn) was also independently produced on
 2026-07-14 on the same orphaned branch, for the same reason. Hexagram 7
@@ -339,6 +341,7 @@ above correctly continues from Hexagram 6.
 | 2026-09-06 | Yemen (葉門) |
 | 2026-09-07 | Egypt (埃及) |
 | 2026-09-09 | Peru (秘魯) |
+| 2026-09-10 | Thailand (泰國) |
 
 ## Internet Meme Spotlights Featured
 
@@ -398,6 +401,7 @@ above correctly continues from Hexagram 6.
 | 2026-09-06 | Gru's Plan |
 | 2026-09-07 | Disaster Girl |
 | 2026-09-09 | "It's Corn" (Corn Kid) |
+| 2026-09-10 | Among Us / "Sus" |
 
 ## Film / Performing Arts Spotlights Featured
 
@@ -455,6 +459,7 @@ and never repeat a subject already listed.
 | 2026-09-06 | Whirling Dervishes / Mevlevi Sema Ceremony (旋轉苦行僧,土耳其蘇非教團儀式) |
 | 2026-09-07 | Chinatown (唐人街, 1974, dir. Roman Polanski) |
 | 2026-09-09 | Come and See (見證, 1985, dir. Elem Klimov) |
+| 2026-09-10 | A Trip to the Moon (月球旅行記, Le Voyage dans la Lune, 1902, dir. Georges Méliès) |
 
 ## Film-Appreciation / Criticism Method Lessons
 
@@ -514,8 +519,63 @@ table and pick one not yet covered.
 | 2026-09-06 | The Wipe (Transition Wipe: one shot pushing/replacing another via a moving line or shape sweeping across the frame, rather than a cut or dissolve) — distinct from Day 29's Ellipsis, which covers cuts/dissolves smoothing over skipped story time in general without addressing this specific overt, energetic wipe-shaped transition; check whether the wipe's direction/shape is plain (a straight line) or a stylized shape, whether it's used for a simple scene change or to evoke a specific serial/genre tradition, and whether it's played straight or self-consciously nostalgic | Star Wars (1977, dir. George Lucas) — used throughout as a deliberate homage to 1930s adventure serials like Flash Gordon and to Akira Kurosawa's The Hidden Fortress (1958, itself already featured in this series' Section 7 lineage of Kurosawa influence via Seven Samurai and Rashomon), giving the film's episodic, multi-location plot the brisk "chapter break" rhythm of an old-fashioned serial |
 | 2026-09-07 | Frame Within a Frame / Diegetic Framing Devices (using an in-scene, diegetic aperture — a window, doorway, archway, or mirror actually present in the story world — to construct a secondary frame around a character inside the camera's own frame; distinct from Day 8's Framing & Composition, which covers symmetry/perspective/negative space within an already-fixed camera frame without addressing a specific in-scene architectural framing device, and Day 6's The Gaze/Spectatorship Theory, a structural question of whose eyes the camera aligns with rather than a concrete object enclosing a character on screen; check what the enclosing object is, whether it isolates/imprisons/enables secret observation, whether it's a single moment or a recurring structural motif, and whether the frame stays stable or grows more unstable/threatening as the scene develops) | Alien (1979, dir. Ridley Scott, cinematography by Derek Vanlint) — the Nostromo's narrow corridors, airlock hatches, and doorway thresholds repeatedly enclose Ripley and her crewmates within tight secondary frames as the Xenomorph stalks the ship's interior, turning ordinary industrial architecture into a sustained visual metaphor for entrapment and unseen surveillance, growing progressively tighter and more claustrophobic as the crew is picked off one by one |
 | 2026-09-09 | The Split-Diopter Shot (a half-convex supplementary lens attached in front of the main lens, keeping a very close foreground element and a much more distant background element in simultaneous sharp focus within one continuous, undivided shot — something no ordinary lens/aperture combination can achieve since depth of field always falls off continuously with distance; distinct from Day 8's Depth of Field & Focus, still governed by one continuous focal plane regardless of deep/shallow/rack-focus technique, and Day 41's Split Screen, which physically divides the frame via editing/compositing rather than optically fusing two focal distances in one undivided shot; check whether the visible soft seam where the two lens halves meet is disguised behind a natural vertical edge in the composition or left foregrounded, and whether it's a single punctuation shot or a director's recurring signature) | Blow Out (1981, dir. Brian De Palma, cinematography by Vilmos Zsigmond) — the opening scene of sound recordist Jack Terry capturing nighttime ambient noise near a bridge, one of 15 documented split-diopter shots in the film, repeatedly holding his recording equipment/face in sharp focus in one half of the frame while keeping the surrounding location equally sharp in the other half, visually insisting that both the foreground recording technology and the wider unfolding conspiracy demand the audience's simultaneous attention |
+| 2026-09-10 | The MacGuffin (an object, goal, or piece of information that drives a plot forward and motivates characters to act, chase, or scheme, while its own specific nature remains, by design, unimportant to the story's real thematic/emotional interest; popularized by Alfred Hitchcock; distinct from Day 8 (Aug 1)'s Symbolism & Visual Metaphor, which requires a recurring image to accumulate meaning across appearances, and from Foreshadowing & Chekhov's Gun (Aug 20), which concerns a planted detail that must later pay off through a meaningful reveal — a MacGuffin needs neither recurrence nor a payoff reveal, only enough desirability that characters will act, betray, and risk everything to obtain it; check whether the object could be swapped for something else entirely different without changing anything about the story's actual meaning or characters' relationships) | The Maltese Falcon (1941, dir. John Huston) — the jewel-encrusted black falcon statuette that Sam Spade and a rotating cast of double-crossing rivals scheme, lie, and kill to obtain turns out in the final scene to be a worthless plaster forgery, the genuine article never recovered on screen; the falcon's actual value/appearance is never the point, only the shifting alliances, greed, and Spade's own morally ambiguous choices along the way, all of which would play out identically with any other equally valuable prize swapped in |
 
 ## Run Notes
+
+**2026-09-10:** STEP 0 run first, before touching git: the system clock
+(`date`; converted to Taipei time) confirmed the actual current date is
+2026-09-10 (Thursday) — the container's UTC clock read `2026-09-09
+21:39 UTC`, which converts to `2026-09-10 05:39 Taipei`, consistent with
+this routine's 5:30am Taipei firing schedule; this did not match the
+session's own `currentDate` context field (which read 2026-09-09), so
+the system-clock check in STEP 0 caught the stale context field before
+any work began, same as several prior runs. Listed all `claude/*`
+branches via `list_branches`, then confirmed the GitHub Pages-deployed
+portal branch via the `pages-build-deployment` Actions workflow's run
+history (run #61, id 34282943116, completed 2026-09-08T21:53:04Z)
+deployed commit `4fc08322...` on `head_branch:
+claude/epic-brahmagupta-g1y16m` — this SHA is identical to
+`claude/daily-2026-09-09`'s tip, confirming no divergence to reconcile.
+The portal branch's latest dated content entry was 2026-09-09 (Spanish
+Day 59, Hexagram 59), giving `days_owed = 1` against today's actual
+date — a normal single-day gap, not a duplicate firing and not a
+multi-day backlog. Branched `claude/daily-2026-09-10` directly from the
+portal branch's tip.
+
+Content produced today: Spanish Day 60 (saber vs. conocer — two verbs
+for "to know"), Hexagram 60 (節 Jié, Limitation, paired with yesterday's
+渙 Huàn Dispersion as a complementary before/after pair per the Xugua
+sequence), Thailand country spotlight, "Among Us" / "sus" meme
+spotlight, A Trip to the Moon (1902, dir. Georges Méliès) film
+spotlight, and the MacGuffin as film-analysis method 46 (worked through
+The Maltese Falcon, 1941, dir. John Huston).
+
+Market section: Thursday Sept 10's generation time (~5:35am Taipei)
+falls before all three regions' next local open, so the most recently
+closed session everywhere is Wednesday Sept 9 (US: Dow -0.8% to
+52,380.66, S&P -0.5% to 7,636.36, Nasdaq -0.6% to 26,253.34, driven by
+oil above $100/barrel and yields jumping on Treasury Secretary Bessent's
+bond buyback announcement; Asia: Nikkei -0.19%, Shanghai +0.28%, Hang
+Seng -0.17%, KOSPI +1.40%; Taiwan: TAIEX +0.16% to 47,183.36). All Sept
+9 figures were cross-checked by confirming they change consistently
+(via simple addition/subtraction) from yesterday's already-verified
+Sept 8 levels — every region matched exactly, so no discrepancy needed
+flagging this round. Dev news covers the actual results of Apple's
+"Surprise and Shine" event (iPhone 18 Pro/Pro Max, the foldable iPhone
+Duo at $2,000+, A20 Pro chip, no base iPhone 18 this cycle) plus the
+same-day confirmed September 14 release date for iOS 27/iPadOS
+27/macOS 27 "Golden Gate"/tvOS 27/watchOS 27/visionOS 27 — a concrete
+follow-up to yesterday's necessarily-speculative pre-event coverage;
+further Anthropic Fable 5.1/Mythos 5.1 detail (1M-token context, 75%
+cheaper prompt cache reads), OpenAI's GPT-6 Astra full release, a joint
+Google/Anthropic/OpenAI cyber-AI defender model announcement, and the
+September 2026 Android Feature Drop (Find Hub "Remembered" tab, Motion
+Assist, Google Messages + Keep integration); Flutter still has no new
+release and the briefing says so.
+
+Updates index.html and all six never-repeat tracking tables in
+ROUTINE_LOG.md.
 
 **2026-09-09:** STEP 0 run first, before touching git: the system clock
 (`date`; `TZ=Asia/Taipei date`) confirmed the actual current date is
