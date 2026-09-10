@@ -207,6 +207,7 @@ the repo so a permanent link can be shared.
 | 2026-09-07 | 58 | 個人受詞 A(La A Personal) | Steps outside the tense/mood/pronoun/se-family tracks into a distinctively Spanish grammatical marker with no English/Chinese equivalent: the personal "a," required immediately before a direct object when that object is a specific, identifiable person (Veo a mi hermana) but omitted when the object is a thing (Veo el coche); self-test taught: if a sentence could naturally be questioned with ¿A quién...?, its direct object needs the personal "a"; directly cross-referenced with Day 55's people-referring indefinites (alguien/nadie, which always take the personal "a" as a direct object) and Day 44's direct object pronouns (lo/la/los/las, before which the "a" disappears once the noun is replaced: Veo a mi hermana → La veo); flagged exception: tener expressing plain possession/quantity usually omits it (Tengo tres hermanos) | spanish-lessons/day-58.html |
 | 2026-09-09 | 59 | 表達義務(Tener que / Deber / Hay que) | Steps outside the tense/mood/pronoun/se-family/personal-a tracks into a foundational everyday-usage gap: three ways to express obligation that English/Chinese collapse into one word — tener que + infinitive (subject-conjugated, strong/personal/often externally-imposed obligation), deber + infinitive (subject-conjugated, softer moral "should," closer to advice than hard necessity, especially in its conditional form deberías), and hay que + infinitive (reuses Day 56's invariable existential hay, general impersonal obligation with no named subject, never conjugated for person/number); the three sit on a cline from most personal/urgent (tener que) to most general/detached (hay que), with deber as the softer advisory middle ground; flagged trap: tener que (obligation, followed by que + infinitive) vs. plain tener expressing possession (Day 58's Tengo tres hermanos, no que, no infinitive) | spanish-lessons/day-59.html |
 | 2026-09-10 | 60 | 兩種「知道」(Saber vs. Conocer) | Steps outside the tense/mood/pronoun/se-family/obligation tracks into another foundational everyday-usage gap: two verbs for "to know" — saber (irregular yo-form sé) for facts/information/que-clauses/question-word clauses, and, critically, saber + infinitive for "know how to" do something (a structure conocer never takes); conocer (irregular yo-form conozco) for familiarity/acquaintance with a specific person (obligatorily taking Day 58's personal a), place, or thing; both verbs carry the same preterite-vs-imperfect aspectual shift already taught for poder on Day 18 — imperfect (sabía/conocía) marks an already-ongoing state of knowing/being acquainted, while preterite (supe/conocí) marks the instantaneous event of finding something out or meeting someone for the first time | spanish-lessons/day-60.html |
+| 2026-09-11 | 61 | 重讀所有格代名詞/形容詞(Los Posesivos Tónicos: mío/tuyo/suyo) | Returns to and completes the possessives topic first opened on Day 10: alongside the short "unstressed" possessive adjectives already taught (mi/tu/su, always before the noun, neutral in tone), Spanish has a second "stressed" set (mío/tuyo/suyo/nuestro/vuestro/suyo, each with full gender/number agreement) that either follows the noun for emphasis/contrast (un amigo mío, "one among several," distinct from the neutral mi amigo) or stands entirely alone as a possessive pronoun replacing the noun outright, normally with a definite article (el mío, la tuya); the stressed forms agree with the thing owned, never the owner, exactly like Day 10's short forms; after ser the article is normally dropped (es mío, not es el mío) unless the noun itself has been omitted and the possessive pronoun must carry the sentence alone (el mío es más grande); flagged suyo's inherent ambiguity (his/her/your/their), resolved with de él/de ella/de usted/de ellos exactly as Day 45's se-ambiguity was resolved with a él/a ella/a usted | spanish-lessons/day-61.html |
 
 Note: a duplicate "Day 2" lesson (ser/¿De dónde eres?, i.e. the same topic
 as Day 5) was independently produced on 2026-07-14 on an orphaned branch
@@ -278,6 +279,7 @@ continues from Day 6.
 | 2026-09-07 | 58 | 兌 (Duì) — The Joyous (Lake) |
 | 2026-09-09 | 59 | 渙 (Huàn) — Dispersion |
 | 2026-09-10 | 60 | 節 (Jié) — Limitation |
+| 2026-09-11 | 61 | 中孚 (Zhōng Fú) — Inner Truth |
 
 Note: a duplicate Hexagram 2 (坤 Kūn) was also independently produced on
 2026-07-14 on the same orphaned branch, for the same reason. Hexagram 7
@@ -342,6 +344,7 @@ above correctly continues from Hexagram 6.
 | 2026-09-07 | Egypt (埃及) |
 | 2026-09-09 | Peru (秘魯) |
 | 2026-09-10 | Thailand (泰國) |
+| 2026-09-11 | Morocco (摩洛哥) |
 
 ## Internet Meme Spotlights Featured
 
@@ -402,6 +405,7 @@ above correctly continues from Hexagram 6.
 | 2026-09-07 | Disaster Girl |
 | 2026-09-09 | "It's Corn" (Corn Kid) |
 | 2026-09-10 | Among Us / "Sus" |
+| 2026-09-11 | Ice Bucket Challenge |
 
 ## Film / Performing Arts Spotlights Featured
 
@@ -460,6 +464,7 @@ and never repeat a subject already listed.
 | 2026-09-07 | Chinatown (唐人街, 1974, dir. Roman Polanski) |
 | 2026-09-09 | Come and See (見證, 1985, dir. Elem Klimov) |
 | 2026-09-10 | A Trip to the Moon (月球旅行記, Le Voyage dans la Lune, 1902, dir. Georges Méliès) |
+| 2026-09-11 | Lawrence of Arabia (阿拉伯的勞倫斯, 1962, dir. David Lean) |
 
 ## Film-Appreciation / Criticism Method Lessons
 
@@ -520,8 +525,71 @@ table and pick one not yet covered.
 | 2026-09-07 | Frame Within a Frame / Diegetic Framing Devices (using an in-scene, diegetic aperture — a window, doorway, archway, or mirror actually present in the story world — to construct a secondary frame around a character inside the camera's own frame; distinct from Day 8's Framing & Composition, which covers symmetry/perspective/negative space within an already-fixed camera frame without addressing a specific in-scene architectural framing device, and Day 6's The Gaze/Spectatorship Theory, a structural question of whose eyes the camera aligns with rather than a concrete object enclosing a character on screen; check what the enclosing object is, whether it isolates/imprisons/enables secret observation, whether it's a single moment or a recurring structural motif, and whether the frame stays stable or grows more unstable/threatening as the scene develops) | Alien (1979, dir. Ridley Scott, cinematography by Derek Vanlint) — the Nostromo's narrow corridors, airlock hatches, and doorway thresholds repeatedly enclose Ripley and her crewmates within tight secondary frames as the Xenomorph stalks the ship's interior, turning ordinary industrial architecture into a sustained visual metaphor for entrapment and unseen surveillance, growing progressively tighter and more claustrophobic as the crew is picked off one by one |
 | 2026-09-09 | The Split-Diopter Shot (a half-convex supplementary lens attached in front of the main lens, keeping a very close foreground element and a much more distant background element in simultaneous sharp focus within one continuous, undivided shot — something no ordinary lens/aperture combination can achieve since depth of field always falls off continuously with distance; distinct from Day 8's Depth of Field & Focus, still governed by one continuous focal plane regardless of deep/shallow/rack-focus technique, and Day 41's Split Screen, which physically divides the frame via editing/compositing rather than optically fusing two focal distances in one undivided shot; check whether the visible soft seam where the two lens halves meet is disguised behind a natural vertical edge in the composition or left foregrounded, and whether it's a single punctuation shot or a director's recurring signature) | Blow Out (1981, dir. Brian De Palma, cinematography by Vilmos Zsigmond) — the opening scene of sound recordist Jack Terry capturing nighttime ambient noise near a bridge, one of 15 documented split-diopter shots in the film, repeatedly holding his recording equipment/face in sharp focus in one half of the frame while keeping the surrounding location equally sharp in the other half, visually insisting that both the foreground recording technology and the wider unfolding conspiracy demand the audience's simultaneous attention |
 | 2026-09-10 | The MacGuffin (an object, goal, or piece of information that drives a plot forward and motivates characters to act, chase, or scheme, while its own specific nature remains, by design, unimportant to the story's real thematic/emotional interest; popularized by Alfred Hitchcock; distinct from Day 8 (Aug 1)'s Symbolism & Visual Metaphor, which requires a recurring image to accumulate meaning across appearances, and from Foreshadowing & Chekhov's Gun (Aug 20), which concerns a planted detail that must later pay off through a meaningful reveal — a MacGuffin needs neither recurrence nor a payoff reveal, only enough desirability that characters will act, betray, and risk everything to obtain it; check whether the object could be swapped for something else entirely different without changing anything about the story's actual meaning or characters' relationships) | The Maltese Falcon (1941, dir. John Huston) — the jewel-encrusted black falcon statuette that Sam Spade and a rotating cast of double-crossing rivals scheme, lie, and kill to obtain turns out in the final scene to be a worthless plaster forgery, the genuine article never recovered on screen; the falcon's actual value/appearance is never the point, only the shifting alliances, greed, and Spade's own morally ambiguous choices along the way, all of which would play out identically with any other equally valuable prize swapped in |
+| 2026-09-11 | Acousmatic Sound / Off-Screen Sound Source (a sound whose visual source is deliberately withheld from the frame, term formalized by Michel Chion building on Pierre Schaeffer; distinct from Day 4's broader Sound Design & Score, which covered diegetic/non-diegetic sound and score-as-emotional-cue generally without isolating this specific hidden-source case, and from Day 23's Sound Bridge (J-Cut & L-Cut), which overlaps audio across a cut between two already-visible scenes rather than concealing a sound's source entirely; check whether the sound's eventual on-screen reveal, "de-acousmatization," causes it to lose dramatic power, since an unseen/unbounded source the mind can imagine as worse than any effect is inherently more frightening than a visible, bounded one) | Jurassic Park (1993, dir. Steven Spielberg) — the T. rex paddock-breakout sequence, where the animal's approach is signaled entirely acousmatically (a distant rhythmic low-frequency thump, then the iconic rippling glass of water on the dashboard timed to each unseen footfall) before it is ever shown on screen, with the reveal moments later shifting the scene's register from dread of the unknown to embodied action-spectacle |
 
 ## Run Notes
+
+**2026-09-11:** STEP 0 run first, before touching git: the session's own
+`currentDate` context field read 2026-09-10 (yesterday) — the ninth
+consecutive occurrence of this same stale-context pattern — but the
+system clock (`date -u` and `TZ=Asia/Taipei date`) confirmed the
+container's UTC clock read `2026-09-10 21:39:58 UTC`, converting to
+`2026-09-11 05:39 Taipei`, consistent with this routine's 5:30am Taipei
+firing schedule. Because the portal branch's most recent deployed
+commit turned out to correspond to a 2026-09-10 dated entry (not
+2026-09-11), the first pass through this arithmetic risked being
+mistaken for a same-day duplicate firing purely from the coincidence
+that the stale `currentDate` context (2026-09-10) matched the portal's
+latest entry date — the system-clock check in STEP 0 caught this before
+any work began, confirming `days_owed = 1`, a normal single-day gap, not
+a duplicate.
+
+Listed all `claude/*` branches via `list_branches` (75 branches total),
+then confirmed the GitHub Pages-deployed portal branch directly via the
+`deployments?environment=github-pages` API (not blocked this session):
+the most recent entry with `state: success` (deployment id 6360052134,
+completed 2026-09-09T21:53:26Z) deployed commit `251d48db...` on
+`ref: claude/epic-brahmagupta-g1y16m` — this SHA is identical to
+`claude/daily-2026-09-10`'s tip, confirming no divergence to reconcile.
+Spot-checked several other old `claude/epic-brahmagupta-*`,
+`claude/gracious-ramanujan-*`, and `claude/happy-newton-*` branches;
+all remain stale mid-July 2026 orphans with no lead over the portal
+branch. Branched `claude/daily-2026-09-11` directly from the portal
+branch's tip.
+
+Content produced today: Spanish Day 61 (stressed possessive
+pronouns/adjectives mío/tuyo/suyo, completing the possessives topic
+first opened on Day 10), Hexagram 61 (中孚 Zhōng Fú, Inner Truth, paired
+with yesterday's 節 Jié Limitation via the Xugua's "節而信之,故受之以
+中孚"), Morocco country spotlight, Ice Bucket Challenge meme spotlight,
+Lawrence of Arabia (1962, dir. David Lean) film spotlight, and
+Acousmatic Sound / Off-Screen Sound Source as film-analysis method 47
+(worked through Jurassic Park, 1993, dir. Steven Spielberg).
+
+Market section: Friday Sept 11's generation time (~5:40am Taipei) falls
+before all three regions' next local open, so the most recently closed
+session everywhere is Thursday Sept 10 (US: Dow -0.6% to 52,064.10,
+S&P -0.58% to 7,591.70, Nasdaq -0.65% to 26,081.72, a fourth
+consecutive down session on oil above $100/barrel; Asia: Nikkei +0.20%,
+Shanghai -0.43%, Hang Seng -1.27%, KOSPI -0.25% holding above 7,000;
+Taiwan: TAIEX -0.51% to 46,940.49). The TAIEX figure was independently
+cross-checked across three separate Taiwanese outlets (Taronews, CNYES,
+UDN) all reporting the identical 46,940.49 close and -242.87-point move
+before being written into the briefing, following this file's
+re-verification protocol; the US figures were confirmed by two
+independent outlets both describing the same fourth-consecutive-decline
+narrative. Dev news covers the iPhone 18 Pro/Duo pre-order date shifting
+to Saturday Sept 12 (to avoid opening sales on the 9/11 25th
+anniversary) as a genuine same-day follow-up distinct from yesterday's
+event-result coverage; Anthropic's disclosure of a fourth Claude
+cybersecurity-sandbox breach and its independent METR audit, plus its
+$30B run-rate revenue figure, as new AI-industry news not covered in
+any prior briefing; Android and Flutter are both explicitly noted as
+having no further new items beyond what was already reported yesterday,
+rather than being silently reused as if new.
+
+Updates index.html and all six never-repeat tracking tables in
+ROUTINE_LOG.md.
 
 **2026-09-10:** STEP 0 run first, before touching git: the system clock
 (`date`; converted to Taipei time) confirmed the actual current date is

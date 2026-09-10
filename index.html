@@ -37,7 +37,8 @@
 <b>備註(2026-09-06):</b> session 的 <code>currentDate</code> context 欄位第七次連續標示錯誤的日期(顯示 2026-09-05,即前一日),再次透過 STEP 0 的系統時鐘覆核(<code>date</code> / <code>TZ=Asia/Taipei date</code>)確認實際日期其實已經是 2026-09-06(週日),因而正確產出這一天的內容。本次執行前同樣重新核對了所有 <code>claude/*</code> 分支,並改以 <code>pages-build-deployment</code> Actions 工作流程的執行紀錄(deployments API 本次被網路代理擋下)確認 <code>claude/epic-brahmagupta-g1y16m</code> 分支的最新一次成功部署(commit <code>8f502255</code>)與 <code>claude/daily-2026-09-05</code> 分支的最新 commit 完全一致,並無分歧,因此本次同樣直接從 portal 分支尖端切出新分支。由於今日為週日,美股、亞股、台股皆無新收盤交易日,市場段落改為重新核實昨日(9月4日)數據仍然正確,過程中也發現並捨棄了一則無明確出處、疑似過時的台股數據。另外,本檔案的 Run Notes 章節已成長至 9 筆(2026-08-28 至 2026-09-05)、約 47.75KB,依其自訂政策予以歸檔,已將最舊的六筆記錄移至新建的 <code>ROUTINE_LOG_ARCHIVE_5.md</code>。詳見 <code>ROUTINE_LOG.md</code> 的 Run Notes。<br>
 <b>備註(2026-09-07):</b> session 的 <code>currentDate</code> context 欄位第八次連續標示錯誤的日期(顯示 2026-09-06,即前一日),再次透過 STEP 0 的系統時鐘覆核(<code>date</code> / <code>TZ=Asia/Taipei date</code>)確認實際日期其實已經是 2026-09-07(週一),因而正確產出這一天的內容。本次執行前同樣重新核對了所有 <code>claude/*</code> 分支(67 個),並以 <code>pages-build-deployment</code> Actions 工作流程的執行紀錄確認 <code>claude/epic-brahmagupta-g1y16m</code> 分支的最新一次成功部署(commit <code>a7911cba</code>)與 <code>claude/daily-2026-09-06</code> 分支的最新 commit 完全一致,並無分歧;本次額外抽查了數個舊有、命名怪異的孤兒分支,確認均為 2026 年 7 月中旬遺留的過時分支,並無領先進度需要整合。今日為美國勞動節,美股全日休市;亞股與台股則因本篇簡報產出時當地交易時段尚未開盤,同樣無新收盤數據,市場段落沿用並重新核實週五(9月4日)數據,過程中發現並標註了一項恒生指數/上證指數的跨來源微小數據差異(而非默默略過)。詳見 <code>ROUTINE_LOG.md</code> 的 Run Notes。<br>
 <b>備註(2026-09-09):</b> 本次系統時鐘確認實際日期為 2026-09-09(週三),與 session 的 <code>currentDate</code> context 欄位一致,並無誤判問題;但發現 <b>2026-09-08 這天完全沒有產出內容</b>——portal 分支最新一筆有實際內容的日期仍停留在 2026-09-07(9月7日當天第二次執行僅記錄了一則「重複執行」的 Run Notes,並未新增任何內容),對照今日實際日期後 days_owed = 2。依本檔案自訂的政策(days_owed > 1 時,於 Run Notes 註明落差並只產出「今天」的內容,不逕自回補每一個錯過的日子),本次僅產出 2026-09-09 這一天的內容,西班牙文/卦象/國家/迷因/電影/看片方法六大序列則直接從第 58 天/第 58 卦接續至第 59 天/第 59 卦,09-08 未補課、也未插入佔位列。國家單元原本考慮介紹伊朗(與當日市場新聞的中東情勢議題相關),但搜尋過程中出現一則難以獨立查證、事涉重大(最高領袖因軍事打擊更替)的說法,基於審慎原則,改選局勢較穩定、且同樣具備可查證時事性(2026 年 7 月總統交接)的秘魯作為今日國家主題。詳見 <code>ROUTINE_LOG.md</code> 的 Run Notes。<br>
-<b>備註(2026-09-10):</b> 本次系統時鐘確認實際日期為 2026-09-10(週四,台北時間清晨產出),與 portal 分支最新一筆內容(2026-09-09)相差一天,days_owed = 1,屬於正常的單日進度,並無誤判或分支分歧問題。執行前重新核對了所有 <code>claude/*</code> 分支與 <code>pages-build-deployment</code> Actions 工作流程的部署紀錄,確認 <code>claude/epic-brahmagupta-g1y16m</code> 分支的最新一次成功部署(commit <code>4fc08322</code>)與 <code>claude/daily-2026-09-09</code> 分支的最新 commit 完全一致,並無分歧,因此本次直接從 portal 分支尖端切出新分支。美股 9 月 9 日收盤數據(國際油價突破每桶 100 美元、公債殖利率因財政部回購計畫消息跳升,美股連三日下跌)與亞股/台股 9 月 9 日收盤數據,皆與昨日簡報已核實的 9 月 8 日數據做加減法交叉核對,結果完全吻合,未發現任何日期誤植或跨來源落差。蘋果「Surprise and Shine」發表會已於 9 月 9 日實際登場(iPhone 18 Pro/Pro Max 與首款折疊機 iPhone Duo,並確認 iOS 27 全家族將於 9 月 14 日發布),本篇簡報得以直接報導確認後的結果,而非如前一篇僅能報導發表會前的預期內容。詳見 <code>ROUTINE_LOG.md</code> 的 Run Notes。
+<b>備註(2026-09-10):</b> 本次系統時鐘確認實際日期為 2026-09-10(週四,台北時間清晨產出),與 portal 分支最新一筆內容(2026-09-09)相差一天,days_owed = 1,屬於正常的單日進度,並無誤判或分支分歧問題。執行前重新核對了所有 <code>claude/*</code> 分支與 <code>pages-build-deployment</code> Actions 工作流程的部署紀錄,確認 <code>claude/epic-brahmagupta-g1y16m</code> 分支的最新一次成功部署(commit <code>4fc08322</code>)與 <code>claude/daily-2026-09-09</code> 分支的最新 commit 完全一致,並無分歧,因此本次直接從 portal 分支尖端切出新分支。美股 9 月 9 日收盤數據(國際油價突破每桶 100 美元、公債殖利率因財政部回購計畫消息跳升,美股連三日下跌)與亞股/台股 9 月 9 日收盤數據,皆與昨日簡報已核實的 9 月 8 日數據做加減法交叉核對,結果完全吻合,未發現任何日期誤植或跨來源落差。蘋果「Surprise and Shine」發表會已於 9 月 9 日實際登場(iPhone 18 Pro/Pro Max 與首款折疊機 iPhone Duo,並確認 iOS 27 全家族將於 9 月 14 日發布),本篇簡報得以直接報導確認後的結果,而非如前一篇僅能報導發表會前的預期內容。詳見 <code>ROUTINE_LOG.md</code> 的 Run Notes。<br>
+<b>備註(2026-09-11):</b> 本次執行時,session 的 <code>currentDate</code> context 欄位再度標示錯誤日期(顯示 2026-09-10,即前一日),但 STEP 0 依規定直接以系統時鐘覆核(容器 UTC 時鐘讀數 2026-09-10 21:39,換算 <code>TZ=Asia/Taipei</code> 即為 2026-09-11 05:39,週五),確認實際日期其實已經是 2026-09-11,而非重複執行同一天;portal 分支(<code>claude/epic-brahmagupta-g1y16m</code>)最新內容僅到 2026-09-10,days_owed = 1,屬正常單日進度。執行前重新核對了所有 <code>claude/*</code> 分支,並透過 <code>/repos/.../deployments?environment=github-pages</code> API 確認最新一筆 <code>state: success</code> 部署的 commit(<code>251d48db</code>)與 <code>claude/daily-2026-09-10</code> 分支尖端完全一致,並無分歧,因此本次直接從 portal 分支尖端切出新分支。美股 9 月 10 日收盤數據(連續第四日下跌,油價維持每桶百美元以上)已交叉核對兩個獨立來源;台股 9 月 10 日收盤數據(下跌 242.87 點至 46,940.49 點)已交叉核對三個獨立台灣財經媒體來源,數字完全一致。詳見 <code>ROUTINE_LOG.md</code> 的 Run Notes。
 </div>
 
 <h2>📅 每日內容一覽</h2>
@@ -55,6 +56,16 @@
 </tr>
 </thead>
 <tbody>
+<tr>
+<td>2026-09-11</td>
+<td><a href="briefings/2026-09-11.html">briefings/2026-09-11.html</a></td>
+<td><a href="spanish-lessons/day-61.html">Day 61 — 重讀所有格代名詞(mío/tuyo/suyo)</a></td>
+<td>第 61 卦:中孚 (Zhōng Fú) — Inner Truth</td>
+<td>摩洛哥 (Morocco)</td>
+<td>冰桶挑戰 Ice Bucket Challenge</td>
+<td>《阿拉伯的勞倫斯》Lawrence of Arabia(1962,dir. David Lean)</td>
+<td>聲源不現形/離軸音 Acousmatic Sound</td>
+</tr>
 <tr>
 <td>2026-09-10</td>
 <td><a href="briefings/2026-09-10.html">briefings/2026-09-10.html</a></td>
