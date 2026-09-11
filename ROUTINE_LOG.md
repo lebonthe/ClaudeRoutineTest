@@ -208,6 +208,7 @@ the repo so a permanent link can be shared.
 | 2026-09-09 | 59 | 表達義務(Tener que / Deber / Hay que) | Steps outside the tense/mood/pronoun/se-family/personal-a tracks into a foundational everyday-usage gap: three ways to express obligation that English/Chinese collapse into one word — tener que + infinitive (subject-conjugated, strong/personal/often externally-imposed obligation), deber + infinitive (subject-conjugated, softer moral "should," closer to advice than hard necessity, especially in its conditional form deberías), and hay que + infinitive (reuses Day 56's invariable existential hay, general impersonal obligation with no named subject, never conjugated for person/number); the three sit on a cline from most personal/urgent (tener que) to most general/detached (hay que), with deber as the softer advisory middle ground; flagged trap: tener que (obligation, followed by que + infinitive) vs. plain tener expressing possession (Day 58's Tengo tres hermanos, no que, no infinitive) | spanish-lessons/day-59.html |
 | 2026-09-10 | 60 | 兩種「知道」(Saber vs. Conocer) | Steps outside the tense/mood/pronoun/se-family/obligation tracks into another foundational everyday-usage gap: two verbs for "to know" — saber (irregular yo-form sé) for facts/information/que-clauses/question-word clauses, and, critically, saber + infinitive for "know how to" do something (a structure conocer never takes); conocer (irregular yo-form conozco) for familiarity/acquaintance with a specific person (obligatorily taking Day 58's personal a), place, or thing; both verbs carry the same preterite-vs-imperfect aspectual shift already taught for poder on Day 18 — imperfect (sabía/conocía) marks an already-ongoing state of knowing/being acquainted, while preterite (supe/conocí) marks the instantaneous event of finding something out or meeting someone for the first time | spanish-lessons/day-60.html |
 | 2026-09-11 | 61 | 重讀所有格代名詞/形容詞(Los Posesivos Tónicos: mío/tuyo/suyo) | Returns to and completes the possessives topic first opened on Day 10: alongside the short "unstressed" possessive adjectives already taught (mi/tu/su, always before the noun, neutral in tone), Spanish has a second "stressed" set (mío/tuyo/suyo/nuestro/vuestro/suyo, each with full gender/number agreement) that either follows the noun for emphasis/contrast (un amigo mío, "one among several," distinct from the neutral mi amigo) or stands entirely alone as a possessive pronoun replacing the noun outright, normally with a definite article (el mío, la tuya); the stressed forms agree with the thing owned, never the owner, exactly like Day 10's short forms; after ser the article is normally dropped (es mío, not es el mío) unless the noun itself has been omitted and the possessive pronoun must carry the sentence alone (el mío es más grande); flagged suyo's inherent ambiguity (his/her/your/their), resolved with de él/de ella/de usted/de ellos exactly as Day 45's se-ambiguity was resolved with a él/a ella/a usted | spanish-lessons/day-61.html |
+| 2026-09-12 | 62 | 轉述句/間接引語(El Estilo Indirecto) | A capstone topic deliberately reusing nearly every tense/mood taught so far (Days 16-40): converting direct quotation (Estilo Directo) into reported speech (Estilo Indirecto) via the secuencia de tiempos (sequence of tenses) rule — when the reporting verb (decir, preguntar...) is itself past tense, the quoted material's tense must shift back one step: Presente→Imperfecto, Pretérito Indefinido/Perfecto→Pluscuamperfecto (Day 22), Futuro Simple→Condicional Simple (Day 24), Imperativo (Days 25-26)→Subjuntivo Imperfecto (Day 35); reported yes/no questions add "si," reported information-questions keep the question word but drop inversion/question marks; a parallel deictic shift applies (aquí→allí, este→ese, hoy→ese día, mañana→al día siguiente, ayer→el día anterior); flagged that "que" is obligatory (unlike English's optional "that"), and that many native speakers skip the tense shift in speech when the quoted content remains true in the present | spanish-lessons/day-62.html |
 
 Note: a duplicate "Day 2" lesson (ser/¿De dónde eres?, i.e. the same topic
 as Day 5) was independently produced on 2026-07-14 on an orphaned branch
@@ -280,6 +281,7 @@ continues from Day 6.
 | 2026-09-09 | 59 | 渙 (Huàn) — Dispersion |
 | 2026-09-10 | 60 | 節 (Jié) — Limitation |
 | 2026-09-11 | 61 | 中孚 (Zhōng Fú) — Inner Truth |
+| 2026-09-12 | 62 | 小過 (Xiǎo Guò) — Preponderance of the Small |
 
 Note: a duplicate Hexagram 2 (坤 Kūn) was also independently produced on
 2026-07-14 on the same orphaned branch, for the same reason. Hexagram 7
@@ -345,6 +347,7 @@ above correctly continues from Hexagram 6.
 | 2026-09-09 | Peru (秘魯) |
 | 2026-09-10 | Thailand (泰國) |
 | 2026-09-11 | Morocco (摩洛哥) |
+| 2026-09-12 | Poland (波蘭) |
 
 ## Internet Meme Spotlights Featured
 
@@ -406,6 +409,7 @@ above correctly continues from Hexagram 6.
 | 2026-09-09 | "It's Corn" (Corn Kid) |
 | 2026-09-10 | Among Us / "Sus" |
 | 2026-09-11 | Ice Bucket Challenge |
+| 2026-09-12 | Mocking SpongeBob |
 
 ## Film / Performing Arts Spotlights Featured
 
@@ -465,6 +469,7 @@ and never repeat a subject already listed.
 | 2026-09-09 | Come and See (見證, 1985, dir. Elem Klimov) |
 | 2026-09-10 | A Trip to the Moon (月球旅行記, Le Voyage dans la Lune, 1902, dir. Georges Méliès) |
 | 2026-09-11 | Lawrence of Arabia (阿拉伯的勞倫斯, 1962, dir. David Lean) |
+| 2026-09-12 | Kecak (克差舞/凱恰克舞, Bali, Indonesia) |
 
 ## Film-Appreciation / Criticism Method Lessons
 
@@ -526,8 +531,82 @@ table and pick one not yet covered.
 | 2026-09-09 | The Split-Diopter Shot (a half-convex supplementary lens attached in front of the main lens, keeping a very close foreground element and a much more distant background element in simultaneous sharp focus within one continuous, undivided shot — something no ordinary lens/aperture combination can achieve since depth of field always falls off continuously with distance; distinct from Day 8's Depth of Field & Focus, still governed by one continuous focal plane regardless of deep/shallow/rack-focus technique, and Day 41's Split Screen, which physically divides the frame via editing/compositing rather than optically fusing two focal distances in one undivided shot; check whether the visible soft seam where the two lens halves meet is disguised behind a natural vertical edge in the composition or left foregrounded, and whether it's a single punctuation shot or a director's recurring signature) | Blow Out (1981, dir. Brian De Palma, cinematography by Vilmos Zsigmond) — the opening scene of sound recordist Jack Terry capturing nighttime ambient noise near a bridge, one of 15 documented split-diopter shots in the film, repeatedly holding his recording equipment/face in sharp focus in one half of the frame while keeping the surrounding location equally sharp in the other half, visually insisting that both the foreground recording technology and the wider unfolding conspiracy demand the audience's simultaneous attention |
 | 2026-09-10 | The MacGuffin (an object, goal, or piece of information that drives a plot forward and motivates characters to act, chase, or scheme, while its own specific nature remains, by design, unimportant to the story's real thematic/emotional interest; popularized by Alfred Hitchcock; distinct from Day 8 (Aug 1)'s Symbolism & Visual Metaphor, which requires a recurring image to accumulate meaning across appearances, and from Foreshadowing & Chekhov's Gun (Aug 20), which concerns a planted detail that must later pay off through a meaningful reveal — a MacGuffin needs neither recurrence nor a payoff reveal, only enough desirability that characters will act, betray, and risk everything to obtain it; check whether the object could be swapped for something else entirely different without changing anything about the story's actual meaning or characters' relationships) | The Maltese Falcon (1941, dir. John Huston) — the jewel-encrusted black falcon statuette that Sam Spade and a rotating cast of double-crossing rivals scheme, lie, and kill to obtain turns out in the final scene to be a worthless plaster forgery, the genuine article never recovered on screen; the falcon's actual value/appearance is never the point, only the shifting alliances, greed, and Spade's own morally ambiguous choices along the way, all of which would play out identically with any other equally valuable prize swapped in |
 | 2026-09-11 | Acousmatic Sound / Off-Screen Sound Source (a sound whose visual source is deliberately withheld from the frame, term formalized by Michel Chion building on Pierre Schaeffer; distinct from Day 4's broader Sound Design & Score, which covered diegetic/non-diegetic sound and score-as-emotional-cue generally without isolating this specific hidden-source case, and from Day 23's Sound Bridge (J-Cut & L-Cut), which overlaps audio across a cut between two already-visible scenes rather than concealing a sound's source entirely; check whether the sound's eventual on-screen reveal, "de-acousmatization," causes it to lose dramatic power, since an unseen/unbounded source the mind can imagine as worse than any effect is inherently more frightening than a visible, bounded one) | Jurassic Park (1993, dir. Steven Spielberg) — the T. rex paddock-breakout sequence, where the animal's approach is signaled entirely acousmatically (a distant rhythmic low-frequency thump, then the iconic rippling glass of water on the dashboard timed to each unseen footfall) before it is ever shown on screen, with the reveal moments later shifting the scene's register from dread of the unknown to embodied action-spectacle |
+| 2026-09-12 | Axial Cutting / "The Kubrick Cut" (a cut between shots of the same subject, same camera axis, but different distance/focal length, producing an abrupt jump rather than smooth camera movement, deliberately violating the continuity-editing convention of changing angle by a meaningful amount between cuts; distinct from Day 11's Match Cut & Graphic Match, which links different subjects via a shared graphic shape rather than jumping distance on one unchanging subject/axis; Day 36's Dolly Zoom/"Vertigo Effect," one continuous shot with simultaneous opposed dolly+zoom rather than a cut; Day 24's Jump Cut, exposing a time discontinuity within a static single-angle shot rather than changing distance along a fixed sightline; and Day 13's Shot Scale, which just names shot sizes without addressing this specific same-axis cutting technique; check whether cuts punch in or pull back, whether the axis stays exact or drifts, how many successive cuts chain together, and what psychological effect the abrupt jump produces versus an equivalent smooth dolly) | The Shining (1980, dir. Stanley Kubrick) — Danny's tricycle ride to the end of the Overlook Hotel corridor where the ghostly Grady twins stand motionless, cut in a rapid series of axial shots straight down the same sightline toward them, each cut bringing them noticeably nearer with no dolly/zoom bridging the gap, the jaggedness of the jump itself (rather than a smooth creeping push-in) manufacturing the scene's dread |
 
 ## Run Notes
+
+**2026-09-12:** STEP 0 run first, before touching git: the session's own
+`currentDate` context field/system-reminder read 2026-09-11 (yesterday) —
+the tenth consecutive occurrence of this same stale-context pattern — but
+the system clock independently confirmed the actual date is one day later:
+`date -u` read `Fri Sep 11 21:40:43 UTC 2026`, and `TZ=Asia/Taipei date`
+read `Sat Sep 12 05:40:43 CST 2026`, past this routine's 5:30am Taipei
+firing threshold, confirming the actual current date is 2026-09-12
+(Saturday), not 2026-09-11. Full branch-recovery procedure re-run before
+any content work: `mcp__github__list_branches` listed all 71 `claude/*`
+branches; rather than the deployments API, the GitHub Pages-deployed
+portal branch was confirmed via the `pages-build-deployment` Actions
+workflow's run history — the latest successful run (id 34534419706, run
+#63, completed 2026-09-10T21:52:12Z) deployed commit `e305872d` on
+`head_branch: claude/epic-brahmagupta-g1y16m`, and that same commit is
+also the exact tip of `claude/daily-2026-09-11`, confirmed via a local
+`git fetch` + branch comparison, so the portal branch and yesterday's
+daily branch are identical with no divergence to reconcile. Also spot-
+checked (via `git merge-base --is-ancestor`) that none of the other
+`claude/*` branches (the orphaned `epic-brahmagupta-*`/`happy-newton-*`/
+`gracious-ramanujan-*`/`routine-add-section*` branches) sit ahead of the
+portal branch; all remain the same stale mid-July-2026 leftovers
+previously identified. Portal's latest dated entry is 2026-09-11, so
+`days_owed = 1` against the actual date of 2026-09-12 — a normal single-
+day gap, not a duplicate firing — and `claude/daily-2026-09-12` was
+branched directly off the portal branch's tip.
+
+Market section: Saturday's ~5:40am Taipei generation time means no market
+anywhere has a new session since Friday Sept 11 (all three regions).
+US Friday close (Dow +0.98% to 52,573.29, S&P +0.86% to 7,656.98, Nasdaq
++0.96% to 26,333.04) reversed the prior session's declines on favorable
+inflation data; Asia's own Friday local sessions (closing hours before
+the US session even opened) instead reflected renewed Middle
+East-tension-driven oil/yield pressure building during Asian trading
+hours (Nikkei -1.93%, Shanghai -1.18%, Hang Seng -0.60%, KOSPI -1.76% to
+6,909.91) — a same-calendar-day but different-session divergence, not a
+contradiction, and the briefing explains it as such rather than silently
+picking one number. TAIEX required real re-verification this round: an
+initial search returned an internally garbled figure (simultaneously
+claiming a 46,651.21 "open" and a contradictory "+792.42-point" rise that
+didn't reconcile against Thursday's confirmed 46,940.49 close), and a
+second search returned a "+192 points to 45,121" figure with specific
+passive-component-stock detail (TSMC, 國巨, 禾伸堂) that a follow-up
+search tracing those same stock-specific details revealed actually
+belonged to Sept 7, not Sept 11 — both were discarded per this file's
+stale-data protocol. A third, TWSE-sourced search returned a close of
+45,965.08 (-975.41, -2.08%), which reconciles arithmetically against
+Thursday's close (46,940.49 − 975.41 = 45,965.08) and matches the
+region-wide down move seen everywhere else that day, so this figure was
+used. Dev news covers the iOS 27/macOS 27 "Golden Gate" release
+candidate (now confirmed for Sept 14, two days out) with fuller Siri AI/
+Safari/Passwords feature detail than prior days' bare release-date
+mentions; a cross-industry roundup of Google/Anthropic/OpenAI's recently
+announced cyber-AI safeguard programs; and Android 17 QPR1's on-schedule
+September rollout across Samsung/Vivo; Flutter still has no new release
+(3.47.0, Aug 12, now exactly one month old) and the briefing says so.
+
+Poland was chosen as this cycle's country spotlight (a substantial,
+not-yet-covered EU/NATO member with a distinctive post-Communist/
+Solidarity history); Poland's president/PM were verified fresh via
+WebSearch (President Karol Nawrocki, PM Donald Tusk) rather than assumed
+from older training knowledge. Mocking SpongeBob (meme), Kecak/Balinese
+"Ramayana Monkey Chant" (performing-arts spotlight, chosen for variety
+after a recent run of film spotlights), and Axial Cutting/"The Kubrick
+Cut" (film-analysis method 48, worked through The Shining) round out the
+day. Updates `index.html` (new top row) and all six never-repeat
+tracking tables in this file. Pushed `briefings/2026-09-12.html`,
+`spanish-lessons/day-62.html`, updated `ROUTINE_LOG.md`, and updated
+`index.html` to `claude/daily-2026-09-12`, then fast-forward merged
+`claude/daily-2026-09-12` into `claude/epic-brahmagupta-g1y16m` and
+pushed the portal branch, making today's entry live at
+https://lebonthe.github.io/ClaudeRoutineTest/. The daily branch was kept
+(not deleted), per the no-destructive-action default.
 
 **2026-09-11:** STEP 0 run first, before touching git: the session's own
 `currentDate` context field read 2026-09-10 (yesterday) — the ninth
