@@ -209,6 +209,7 @@ the repo so a permanent link can be shared.
 | 2026-09-10 | 60 | 兩種「知道」(Saber vs. Conocer) | Steps outside the tense/mood/pronoun/se-family/obligation tracks into another foundational everyday-usage gap: two verbs for "to know" — saber (irregular yo-form sé) for facts/information/que-clauses/question-word clauses, and, critically, saber + infinitive for "know how to" do something (a structure conocer never takes); conocer (irregular yo-form conozco) for familiarity/acquaintance with a specific person (obligatorily taking Day 58's personal a), place, or thing; both verbs carry the same preterite-vs-imperfect aspectual shift already taught for poder on Day 18 — imperfect (sabía/conocía) marks an already-ongoing state of knowing/being acquainted, while preterite (supe/conocí) marks the instantaneous event of finding something out or meeting someone for the first time | spanish-lessons/day-60.html |
 | 2026-09-11 | 61 | 重讀所有格代名詞/形容詞(Los Posesivos Tónicos: mío/tuyo/suyo) | Returns to and completes the possessives topic first opened on Day 10: alongside the short "unstressed" possessive adjectives already taught (mi/tu/su, always before the noun, neutral in tone), Spanish has a second "stressed" set (mío/tuyo/suyo/nuestro/vuestro/suyo, each with full gender/number agreement) that either follows the noun for emphasis/contrast (un amigo mío, "one among several," distinct from the neutral mi amigo) or stands entirely alone as a possessive pronoun replacing the noun outright, normally with a definite article (el mío, la tuya); the stressed forms agree with the thing owned, never the owner, exactly like Day 10's short forms; after ser the article is normally dropped (es mío, not es el mío) unless the noun itself has been omitted and the possessive pronoun must carry the sentence alone (el mío es más grande); flagged suyo's inherent ambiguity (his/her/your/their), resolved with de él/de ella/de usted/de ellos exactly as Day 45's se-ambiguity was resolved with a él/a ella/a usted | spanish-lessons/day-61.html |
 | 2026-09-12 | 62 | 轉述句/間接引語(El Estilo Indirecto) | A capstone topic deliberately reusing nearly every tense/mood taught so far (Days 16-40): converting direct quotation (Estilo Directo) into reported speech (Estilo Indirecto) via the secuencia de tiempos (sequence of tenses) rule — when the reporting verb (decir, preguntar...) is itself past tense, the quoted material's tense must shift back one step: Presente→Imperfecto, Pretérito Indefinido/Perfecto→Pluscuamperfecto (Day 22), Futuro Simple→Condicional Simple (Day 24), Imperativo (Days 25-26)→Subjuntivo Imperfecto (Day 35); reported yes/no questions add "si," reported information-questions keep the question word but drop inversion/question marks; a parallel deictic shift applies (aquí→allí, este→ese, hoy→ese día, mañana→al día siguiente, ayer→el día anterior); flagged that "que" is obligatory (unlike English's optional "that"), and that many native speakers skip the tense shift in speech when the quoted content remains true in the present | spanish-lessons/day-62.html |
+| 2026-09-13 | 63 | 指小詞與擴大詞(Los Diminutivos y Aumentativos) | Steps outside the tense/mood track (Days 16-62) to cover a high-frequency word-formation topic: suffixes -ito/-ita (or -cito/-cita for consonant-final/-e-final/one-syllable words) that shrink a noun or, far more often in practice, simply add affection/politeness/softening (casa→casita, momento→momentito, mi abuela→mi abuelita); and -ón/-ona (or colloquial -ote/-ota) that enlarge a noun, admiringly or dismissively depending on tone (hombre→hombrón, perro→perrote); flagged that several forms (sillón, bolsillo, ventanilla) have fully lexicalized into independent words whose meaning has drifted away from literal "small/big X"; noted heavier everyday use of diminutives in Latin American Spanish (café→cafecito, ahora→ahorita) versus more formal/limited use in peninsular Spanish | spanish-lessons/day-63.html |
 
 Note: a duplicate "Day 2" lesson (ser/¿De dónde eres?, i.e. the same topic
 as Day 5) was independently produced on 2026-07-14 on an orphaned branch
@@ -282,6 +283,7 @@ continues from Day 6.
 | 2026-09-10 | 60 | 節 (Jié) — Limitation |
 | 2026-09-11 | 61 | 中孚 (Zhōng Fú) — Inner Truth |
 | 2026-09-12 | 62 | 小過 (Xiǎo Guò) — Preponderance of the Small |
+| 2026-09-13 | 63 | 既濟 (Jì Jì) — After Completion |
 
 Note: a duplicate Hexagram 2 (坤 Kūn) was also independently produced on
 2026-07-14 on the same orphaned branch, for the same reason. Hexagram 7
@@ -348,6 +350,7 @@ above correctly continues from Hexagram 6.
 | 2026-09-10 | Thailand (泰國) |
 | 2026-09-11 | Morocco (摩洛哥) |
 | 2026-09-12 | Poland (波蘭) |
+| 2026-09-13 | Finland (芬蘭) |
 
 ## Internet Meme Spotlights Featured
 
@@ -410,6 +413,7 @@ above correctly continues from Hexagram 6.
 | 2026-09-10 | Among Us / "Sus" |
 | 2026-09-11 | Ice Bucket Challenge |
 | 2026-09-12 | Mocking SpongeBob |
+| 2026-09-13 | NPC Streaming / "NPC" Meme |
 
 ## Film / Performing Arts Spotlights Featured
 
@@ -470,6 +474,7 @@ and never repeat a subject already listed.
 | 2026-09-10 | A Trip to the Moon (月球旅行記, Le Voyage dans la Lune, 1902, dir. Georges Méliès) |
 | 2026-09-11 | Lawrence of Arabia (阿拉伯的勞倫斯, 1962, dir. David Lean) |
 | 2026-09-12 | Kecak (克差舞/凱恰克舞, Bali, Indonesia) |
+| 2026-09-13 | Modern Times (摩登時代, 1936, dir. Charlie Chaplin) |
 
 ## Film-Appreciation / Criticism Method Lessons
 
@@ -532,8 +537,84 @@ table and pick one not yet covered.
 | 2026-09-10 | The MacGuffin (an object, goal, or piece of information that drives a plot forward and motivates characters to act, chase, or scheme, while its own specific nature remains, by design, unimportant to the story's real thematic/emotional interest; popularized by Alfred Hitchcock; distinct from Day 8 (Aug 1)'s Symbolism & Visual Metaphor, which requires a recurring image to accumulate meaning across appearances, and from Foreshadowing & Chekhov's Gun (Aug 20), which concerns a planted detail that must later pay off through a meaningful reveal — a MacGuffin needs neither recurrence nor a payoff reveal, only enough desirability that characters will act, betray, and risk everything to obtain it; check whether the object could be swapped for something else entirely different without changing anything about the story's actual meaning or characters' relationships) | The Maltese Falcon (1941, dir. John Huston) — the jewel-encrusted black falcon statuette that Sam Spade and a rotating cast of double-crossing rivals scheme, lie, and kill to obtain turns out in the final scene to be a worthless plaster forgery, the genuine article never recovered on screen; the falcon's actual value/appearance is never the point, only the shifting alliances, greed, and Spade's own morally ambiguous choices along the way, all of which would play out identically with any other equally valuable prize swapped in |
 | 2026-09-11 | Acousmatic Sound / Off-Screen Sound Source (a sound whose visual source is deliberately withheld from the frame, term formalized by Michel Chion building on Pierre Schaeffer; distinct from Day 4's broader Sound Design & Score, which covered diegetic/non-diegetic sound and score-as-emotional-cue generally without isolating this specific hidden-source case, and from Day 23's Sound Bridge (J-Cut & L-Cut), which overlaps audio across a cut between two already-visible scenes rather than concealing a sound's source entirely; check whether the sound's eventual on-screen reveal, "de-acousmatization," causes it to lose dramatic power, since an unseen/unbounded source the mind can imagine as worse than any effect is inherently more frightening than a visible, bounded one) | Jurassic Park (1993, dir. Steven Spielberg) — the T. rex paddock-breakout sequence, where the animal's approach is signaled entirely acousmatically (a distant rhythmic low-frequency thump, then the iconic rippling glass of water on the dashboard timed to each unseen footfall) before it is ever shown on screen, with the reveal moments later shifting the scene's register from dread of the unknown to embodied action-spectacle |
 | 2026-09-12 | Axial Cutting / "The Kubrick Cut" (a cut between shots of the same subject, same camera axis, but different distance/focal length, producing an abrupt jump rather than smooth camera movement, deliberately violating the continuity-editing convention of changing angle by a meaningful amount between cuts; distinct from Day 11's Match Cut & Graphic Match, which links different subjects via a shared graphic shape rather than jumping distance on one unchanging subject/axis; Day 36's Dolly Zoom/"Vertigo Effect," one continuous shot with simultaneous opposed dolly+zoom rather than a cut; Day 24's Jump Cut, exposing a time discontinuity within a static single-angle shot rather than changing distance along a fixed sightline; and Day 13's Shot Scale, which just names shot sizes without addressing this specific same-axis cutting technique; check whether cuts punch in or pull back, whether the axis stays exact or drifts, how many successive cuts chain together, and what psychological effect the abrupt jump produces versus an equivalent smooth dolly) | The Shining (1980, dir. Stanley Kubrick) — Danny's tricycle ride to the end of the Overlook Hotel corridor where the ghostly Grady twins stand motionless, cut in a rapid series of axial shots straight down the same sightline toward them, each cut bringing them noticeably nearer with no dolly/zoom bridging the gap, the jaggedness of the jump itself (rather than a smooth creeping push-in) manufacturing the scene's dread |
+| 2026-09-13 | Practical Effects vs. CGI / Visual Effects Analysis (asks how a shot was physically made — practical/in-camera techniques (real stunts, miniatures, pyrotechnics, prosthetics) vs. digital VFX/CGI — and what that choice communicates; distinct from all 48 prior lessons, none of which addressed the real-vs-digital production question itself; check for weight/physicality cues (consistent motion blur, believable interaction with real dust/light/shadow) vs. tell-tale digital artifacts (unnaturally clean light integration, motion ignoring momentum), while recognizing most modern blockbusters blend both rather than being purely one or the other) | Mad Max: Fury Road (2015, dir. George Miller, cinematography by John Seale) — Miller maximized genuinely practical, in-camera stunt work (real vehicles, real desert locations, real explosions, real stunt performers for the War Boys' pole-vault attacks and vehicle transfers), reserving CGI mainly for cleanup and enhancement rather than replacement, producing a widely-praised felt weight and danger in the chases that critics consistently contrasted with more digitally-driven contemporary action films |
 
 ## Run Notes
+
+**2026-09-13:** STEP 0 run first, before touching git: the session's own
+`currentDate` context field/system-reminder read 2026-09-12 (yesterday) —
+the eleventh consecutive occurrence of this same stale-context pattern —
+but the system clock independently confirmed the actual date is one day
+later: `date -u` read `Sat Sep 12 21:40:21 UTC 2026`, and
+`TZ=Asia/Taipei date` read `Sun Sep 13 05:40:21 CST 2026`, past this
+routine's 5:30am Taipei firing threshold, confirming the actual current
+date is 2026-09-13 (Sunday), not 2026-09-12. Full branch-recovery
+procedure re-run before any content work: `mcp__github__list_branches`
+listed all `claude/*` branches; the GitHub Pages-deployed portal branch
+was confirmed via the `/repos/.../deployments?environment=github-pages`
+API — the latest `state: success` deployment (id 6402416321, created
+2026-09-11T21:54:53Z) deployed commit `3ed6be06` on
+`ref: claude/epic-brahmagupta-g1y16m`, and a local `git fetch` confirmed
+that same commit is the exact tip of `claude/epic-brahmagupta-g1y16m`
+and of `claude/daily-2026-09-12`, with no divergence to reconcile.
+Portal's latest dated entry across all six tracking tables (Spanish Day
+62, Hexagram 62, Poland, Mocking SpongeBob, Kecak, film-analysis method
+48) was 2026-09-12, so `days_owed = (2026-09-13) − (2026-09-12) = 1` — a
+normal single-day gap, not a duplicate firing — and `claude/daily-2026-09-13`
+was branched directly off the portal branch's tip.
+
+Market section: Sunday's ~5:40am Taipei generation time means no market
+anywhere has a new session since Friday, Sept 11 (all three regions,
+second consecutive day with no new close). US and Asia figures were
+simply reconfirmed unchanged from yesterday's briefing; new since
+yesterday was weekend news of oil pushing toward $100/barrel and rising
+Treasury yields reviving Fed rate-hike fears ahead of Monday's open,
+included as a forward-looking preview item rather than a new closed
+session. TAIEX re-verification for the same Friday session surfaced two
+*additional* conflicting figures beyond yesterday's already-published
+45,965.08/-975.41/-2.08% (a 46,148.07/-792.42/-1.69% figure and a
+46,184.85/-755.64/-1.61% figure), both of which also reconcile
+arithmetically against Thursday's 46,940.49 close, meaning arithmetic
+consistency alone cannot break the tie between three competing numbers.
+Per this file's own market-freshness policy, the conflict is disclosed
+explicitly in the briefing rather than silently swapped for a new
+number or presented as newly confirmed; the previously-published
+45,965.08 figure is retained as the most-corroborated available number
+pending a source that can definitively resolve it.
+
+Dev news section: confirmed iOS 27/macOS 27 "Golden Gate" now releases
+tomorrow (Monday, Sept 14), one day out from this run. Two genuinely new
+items (not covered in any prior briefing) were found and used in place
+of repeating yesterday's AI/Android notes verbatim: (1) GreyNoise's
+disclosure of an AI-agent-driven attack campaign (OpenAI Codex + a
+DeepSeek model) that breached 395 organizations across 48 countries via
+a PaperCut vulnerability, corroborated across many independent outlets
+(BleepingComputer, The Register, Help Net Security, TechTimes); (2)
+Google's confirmation that Android 17 will require "Developer
+Verification" (identity-verified, Google-registered developers) even for
+sideloaded app installs, starting this September. A separate AI-news
+search returned a garbled, differently-attributed rehash of the
+Google/Anthropic/OpenAI cyber-safeguards story already covered in
+yesterday's briefing (this time miscrediting Google rather than
+Anthropic with the "Enterprise Frontier Safeguards" product) — treated as
+unreliable noise and not reused, consistent with this file's policy on
+discarding internally-inconsistent search results rather than presenting
+them as confirmed.
+
+Content picks for the six never-repeat tracks, checked against the
+tracking tables above before selection: Spanish Day 63 (diminutives and
+augmentatives, -ito/-ita and -ón/-ona — a deliberate detour from the
+Day 16-62 tense/mood throughline into everyday word-formation); Hexagram
+63 (既濟 Jì Jì, "After Completion" — the King Wen sequence's only
+hexagram with every line in its formally "correct" position, flagged in
+the write-up as setting up a deliberate contrast with tomorrow's would-be
+Hexagram 64, 未濟, the sequence's actual final hexagram); Finland (not
+previously featured); NPC Streaming / the "NPC" meme (not previously
+featured); Modern Times (1936, dir. Chaplin) for the film/performing-arts
+slot (not previously featured); and Practical Effects vs. CGI / Visual
+Effects Analysis, worked through Mad Max: Fury Road (2015), as
+film-analysis method lesson 49 (not previously covered, distinct from
+all 48 prior lessons' composition/editing/sound/performance angles).
 
 **2026-09-12:** STEP 0 run first, before touching git: the session's own
 `currentDate` context field/system-reminder read 2026-09-11 (yesterday) —
