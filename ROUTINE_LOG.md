@@ -210,6 +210,7 @@ the repo so a permanent link can be shared.
 | 2026-09-11 | 61 | 重讀所有格代名詞/形容詞(Los Posesivos Tónicos: mío/tuyo/suyo) | Returns to and completes the possessives topic first opened on Day 10: alongside the short "unstressed" possessive adjectives already taught (mi/tu/su, always before the noun, neutral in tone), Spanish has a second "stressed" set (mío/tuyo/suyo/nuestro/vuestro/suyo, each with full gender/number agreement) that either follows the noun for emphasis/contrast (un amigo mío, "one among several," distinct from the neutral mi amigo) or stands entirely alone as a possessive pronoun replacing the noun outright, normally with a definite article (el mío, la tuya); the stressed forms agree with the thing owned, never the owner, exactly like Day 10's short forms; after ser the article is normally dropped (es mío, not es el mío) unless the noun itself has been omitted and the possessive pronoun must carry the sentence alone (el mío es más grande); flagged suyo's inherent ambiguity (his/her/your/their), resolved with de él/de ella/de usted/de ellos exactly as Day 45's se-ambiguity was resolved with a él/a ella/a usted | spanish-lessons/day-61.html |
 | 2026-09-12 | 62 | 轉述句/間接引語(El Estilo Indirecto) | A capstone topic deliberately reusing nearly every tense/mood taught so far (Days 16-40): converting direct quotation (Estilo Directo) into reported speech (Estilo Indirecto) via the secuencia de tiempos (sequence of tenses) rule — when the reporting verb (decir, preguntar...) is itself past tense, the quoted material's tense must shift back one step: Presente→Imperfecto, Pretérito Indefinido/Perfecto→Pluscuamperfecto (Day 22), Futuro Simple→Condicional Simple (Day 24), Imperativo (Days 25-26)→Subjuntivo Imperfecto (Day 35); reported yes/no questions add "si," reported information-questions keep the question word but drop inversion/question marks; a parallel deictic shift applies (aquí→allí, este→ese, hoy→ese día, mañana→al día siguiente, ayer→el día anterior); flagged that "que" is obligatory (unlike English's optional "that"), and that many native speakers skip the tense shift in speech when the quoted content remains true in the present | spanish-lessons/day-62.html |
 | 2026-09-13 | 63 | 指小詞與擴大詞(Los Diminutivos y Aumentativos) | Steps outside the tense/mood track (Days 16-62) to cover a high-frequency word-formation topic: suffixes -ito/-ita (or -cito/-cita for consonant-final/-e-final/one-syllable words) that shrink a noun or, far more often in practice, simply add affection/politeness/softening (casa→casita, momento→momentito, mi abuela→mi abuelita); and -ón/-ona (or colloquial -ote/-ota) that enlarge a noun, admiringly or dismissively depending on tone (hombre→hombrón, perro→perrote); flagged that several forms (sillón, bolsillo, ventanilla) have fully lexicalized into independent words whose meaning has drifted away from literal "small/big X"; noted heavier everyday use of diminutives in Latin American Spanish (café→cafecito, ahora→ahorita) versus more formal/limited use in peninsular Spanish | spanish-lessons/day-63.html |
+| 2026-09-14 | 64 | 副詞的構成(Los Adverbios de Modo con -mente) | Steps outside the tense/mood track into another high-frequency word-formation topic, immediately following Day 63's diminutives/augmentatives: manner adverbs formed by taking an adjective's feminine singular form (rápido→rápida, lento→lenta) and adding -mente (rápidamente, lentamente), while adjectives already sharing one form for both genders (normal, fácil, feliz) add -mente directly with no change, preserving any written accent from the base adjective unchanged; core "chain rule" taught: when two or more -mente adverbs modify the same verb joined by y/o/pero, only the last keeps -mente and every earlier one reverts to its plain feminine adjective form (habla rápida y claramente, not rápidamente y claramente); flagged that, like overusing English "-ly" adverbs, stacking too many -mente words in formal Spanish writing reads as heavy, with native writers often substituting de manera + adjective or con + noun instead | spanish-lessons/day-64.html |
 
 Note: a duplicate "Day 2" lesson (ser/¿De dónde eres?, i.e. the same topic
 as Day 5) was independently produced on 2026-07-14 on an orphaned branch
@@ -284,6 +285,9 @@ continues from Day 6.
 | 2026-09-11 | 61 | 中孚 (Zhōng Fú) — Inner Truth |
 | 2026-09-12 | 62 | 小過 (Xiǎo Guò) — Preponderance of the Small |
 | 2026-09-13 | 63 | 既濟 (Jì Jì) — After Completion |
+| 2026-09-14 | 64 | 未濟 (Wèi Jì) — Before Completion |
+
+**The full 64-hexagram King Wen sequence is now complete (2026-07-08 through 2026-09-14).** Per this routine's own rule, from 2026-09-15 onward Section 4 switches to introducing one essay or poem of Zhuangzi (莊子) per day, never repeated. This table's role as the authoritative never-repeat source for Section 4 is superseded going forward by a new "Zhuangzi Essays/Poems Featured" tracking table, to be added below on the next run.
 
 Note: a duplicate Hexagram 2 (坤 Kūn) was also independently produced on
 2026-07-14 on the same orphaned branch, for the same reason. Hexagram 7
@@ -351,6 +355,7 @@ above correctly continues from Hexagram 6.
 | 2026-09-11 | Morocco (摩洛哥) |
 | 2026-09-12 | Poland (波蘭) |
 | 2026-09-13 | Finland (芬蘭) |
+| 2026-09-14 | Croatia (克羅埃西亞) |
 
 ## Internet Meme Spotlights Featured
 
@@ -414,6 +419,7 @@ above correctly continues from Hexagram 6.
 | 2026-09-11 | Ice Bucket Challenge |
 | 2026-09-12 | Mocking SpongeBob |
 | 2026-09-13 | NPC Streaming / "NPC" Meme |
+| 2026-09-14 | Overly Attached Girlfriend |
 
 ## Film / Performing Arts Spotlights Featured
 
@@ -475,6 +481,7 @@ and never repeat a subject already listed.
 | 2026-09-11 | Lawrence of Arabia (阿拉伯的勞倫斯, 1962, dir. David Lean) |
 | 2026-09-12 | Kecak (克差舞/凱恰克舞, Bali, Indonesia) |
 | 2026-09-13 | Modern Times (摩登時代, 1936, dir. Charlie Chaplin) |
+| 2026-09-14 | The Cabinet of Dr. Caligari (卡里加利博士的小屋, 1920, dir. Robert Wiene) |
 
 ## Film-Appreciation / Criticism Method Lessons
 
@@ -538,8 +545,71 @@ table and pick one not yet covered.
 | 2026-09-11 | Acousmatic Sound / Off-Screen Sound Source (a sound whose visual source is deliberately withheld from the frame, term formalized by Michel Chion building on Pierre Schaeffer; distinct from Day 4's broader Sound Design & Score, which covered diegetic/non-diegetic sound and score-as-emotional-cue generally without isolating this specific hidden-source case, and from Day 23's Sound Bridge (J-Cut & L-Cut), which overlaps audio across a cut between two already-visible scenes rather than concealing a sound's source entirely; check whether the sound's eventual on-screen reveal, "de-acousmatization," causes it to lose dramatic power, since an unseen/unbounded source the mind can imagine as worse than any effect is inherently more frightening than a visible, bounded one) | Jurassic Park (1993, dir. Steven Spielberg) — the T. rex paddock-breakout sequence, where the animal's approach is signaled entirely acousmatically (a distant rhythmic low-frequency thump, then the iconic rippling glass of water on the dashboard timed to each unseen footfall) before it is ever shown on screen, with the reveal moments later shifting the scene's register from dread of the unknown to embodied action-spectacle |
 | 2026-09-12 | Axial Cutting / "The Kubrick Cut" (a cut between shots of the same subject, same camera axis, but different distance/focal length, producing an abrupt jump rather than smooth camera movement, deliberately violating the continuity-editing convention of changing angle by a meaningful amount between cuts; distinct from Day 11's Match Cut & Graphic Match, which links different subjects via a shared graphic shape rather than jumping distance on one unchanging subject/axis; Day 36's Dolly Zoom/"Vertigo Effect," one continuous shot with simultaneous opposed dolly+zoom rather than a cut; Day 24's Jump Cut, exposing a time discontinuity within a static single-angle shot rather than changing distance along a fixed sightline; and Day 13's Shot Scale, which just names shot sizes without addressing this specific same-axis cutting technique; check whether cuts punch in or pull back, whether the axis stays exact or drifts, how many successive cuts chain together, and what psychological effect the abrupt jump produces versus an equivalent smooth dolly) | The Shining (1980, dir. Stanley Kubrick) — Danny's tricycle ride to the end of the Overlook Hotel corridor where the ghostly Grady twins stand motionless, cut in a rapid series of axial shots straight down the same sightline toward them, each cut bringing them noticeably nearer with no dolly/zoom bridging the gap, the jaggedness of the jump itself (rather than a smooth creeping push-in) manufacturing the scene's dread |
 | 2026-09-13 | Practical Effects vs. CGI / Visual Effects Analysis (asks how a shot was physically made — practical/in-camera techniques (real stunts, miniatures, pyrotechnics, prosthetics) vs. digital VFX/CGI — and what that choice communicates; distinct from all 48 prior lessons, none of which addressed the real-vs-digital production question itself; check for weight/physicality cues (consistent motion blur, believable interaction with real dust/light/shadow) vs. tell-tale digital artifacts (unnaturally clean light integration, motion ignoring momentum), while recognizing most modern blockbusters blend both rather than being purely one or the other) | Mad Max: Fury Road (2015, dir. George Miller, cinematography by John Seale) — Miller maximized genuinely practical, in-camera stunt work (real vehicles, real desert locations, real explosions, real stunt performers for the War Boys' pole-vault attacks and vehicle transfers), reserving CGI mainly for cleanup and enhancement rather than replacement, producing a widely-praised felt weight and danger in the chases that critics consistently contrasted with more digitally-driven contemporary action films |
+| 2026-09-14 | The Insert Shot / Cutaway to Significant Detail (a close-up cutaway to a specific object or detail — a ticking clock, a dripping faucet, a hand reaching for a weapon — inserted into an otherwise wider scene to direct audience attention to something characters may or may not have noticed themselves; distinct from Day 8's Depth of Field & Focus, which concerns what stays sharp within one continuous shot, and Day 13's Shot Scale, which just names shot sizes generally without addressing this specific interruption-of-coverage technique; check what the insert asks the audience to notice that the wide shot alone would miss, whether it builds suspense/forshadows a payoff/supplies withheld information, and whether inserts recur as a directorial rhythm or appear as a single punctuation) | Once Upon a Time in the West (1968, dir. Sergio Leone) — the wordless opening train-station sequence, building nearly ten minutes of tension almost entirely from a rhythmic series of insert shots on mundane environmental details (a dripping water tank, a fly landing on a man's face, a creaking windmill vane, a telegraph key), each held far longer than its literal information requires, manufacturing dread purely out of stillness and accumulated detail |
 
 ## Run Notes
+
+**2026-09-14:** STEP 0 run first, before touching git: the session's own
+`currentDate` context field/system-reminder read 2026-09-13 (yesterday) —
+the twelfth consecutive occurrence of this same stale-context pattern —
+but the system clock independently confirmed the actual date is one day
+ahead (`date -u` read 2026-09-13 21:39 UTC; `TZ=Asia/Taipei date` read
+2026-09-14 05:39, a Monday), so today's content is dated 2026-09-14, not
+09-13. Re-checked all `claude/*` branches via `list_branches` and confirmed
+the live GitHub Pages portal via the `pages-build-deployment` Actions
+workflow run history (run #65, latest `state: success`, deployed commit
+`e08ef7b2`): the portal branch remains `claude/epic-brahmagupta-g1y16m`.
+Verified locally with `git rev-parse` that
+`origin/claude/epic-brahmagupta-g1y16m` and `origin/claude/daily-2026-09-13`
+point to the identical commit (`e08ef7b2`) — no divergence to reconcile —
+and branched `claude/daily-2026-09-14` directly from the portal tip.
+`days_owed` = 1 against the portal's latest dated entry (2026-09-13), a
+normal single-day gap.
+
+Market section: at this ~5:45am Taipei Monday generation time, it is still
+Sunday evening on the US East Coast and hours before Tokyo/Seoul/Hong
+Kong/Taipei markets open, so all three regions' most recently closed
+session remains Friday, Sept 11 — unchanged from Saturday's and Sunday's
+briefings. Genuinely new: weekend oil/Fed-rate-hike-odds developments (Brent/WTI
+both above $100/barrel on renewed US-Iran tension, FedWatch hike odds up to
+72.4% from 49.4%) affecting Monday's US open outlook, and — most
+importantly — a resolution of the TAIEX three-way conflict flagged in
+yesterday's briefing: a dated Hsin Kuang Securities (新光證券) post-market
+report and CNBC's real-time TAIEX quote data independently corroborate the
+same figure (-755.64 points, -1.61%, close 46,184.85, intraday low
+45,942.44), so this briefing supersedes the previously-published tentative
+45,965.08 figure with 46,184.85 now that two independent sources agree. A
+separate search result claiming Monday Sept 14 Asian trading was already
+in progress (with specific intraday moves) was judged almost-certainly
+stale/mislabeled — impossible at this generation time, hours before any
+regional exchange opens — and explicitly flagged rather than used, per
+this file's own stale-data policy.
+
+**Hexagram cycle complete:** today's Hexagram 64 (未濟, Wèi Jì) completes
+the full 64-hexagram King Wen sequence begun 2026-07-08. Per the routine's
+own rule, Section 4 switches to introducing one Zhuangzi (莊子) essay/poem
+per day, never repeated, starting with tomorrow's run (2026-09-15). A new
+"Zhuangzi Essays/Poems Featured" tracking table should be added to this
+file's never-repeat section on that run.
+
+Country spotlight: chose Croatia (not yet featured) over other EU/Balkan
+candidates for a straightforward, well-documented, currently-relevant
+profile (2023 euro/Schengen accession). Meme spotlight: chose Overly
+Attached Girlfriend (2012), not yet featured, a well-documented early-2010s
+meme with a clear, verifiable origin story. Film spotlight: chose The
+Cabinet of Dr. Caligari (1920) — deliberately avoided Battleship Potemkin
+despite it being otherwise available for Section 7, since its Odessa Steps
+sequence was already used as Section 8's Day 2 (2026-07-25) worked example,
+and picking it again as today's Section 7 subject would have felt
+redundant to a reader following both sections daily, even though the two
+tracking tables are formally independent. Film-analysis method: The Insert
+Shot (Lesson 50), a genuinely new lens distinct from the existing Depth of
+Field and Shot Scale lessons, worked through Once Upon a Time in the
+West's opening station sequence.
+
+Spanish Day 64 (Los Adverbios de Modo con -mente) continues directly from
+Day 63, chosen as a clean, high-frequency topic with no overlap against
+the full lesson history checked in this file.
 
 **2026-09-13:** STEP 0 run first, before touching git: the session's own
 `currentDate` context field/system-reminder read 2026-09-12 (yesterday) —
@@ -878,444 +948,9 @@ with its own current-events texture (a July 2026 presidential
 transition) that could be verified consistently across sources. Updates
 index.html and all six never-repeat tracking tables in ROUTINE_LOG.md.
 
-**2026-09-07 (second firing, no new content):** STEP 0 run first as
-always, before touching git: the session's own `currentDate` context
-field read 2026-09-07. Per the git workflow's branch-recovery steps,
-listed all `claude/*` branches, then confirmed the GitHub Pages-deployed
-portal branch via the `pages-build-deployment` Actions workflow's run
-history — the latest successful run (run #59, id 34062368153, completed
-2026-09-06T21:53:30Z) deployed commit `d488d5ee...` on
-`head_branch: claude/epic-brahmagupta-g1y16m`, whose commit message
-("Add September 7, 2026 morning briefing") and content confirmed the
-portal branch's Run Notes already carried a complete 2026-09-07 entry
-(Spanish Day 58, Hexagram 58, Egypt, Disaster Girl, Chinatown, and Frame
-Within a Frame as film-analysis method 44 — see the entry immediately
-below this one). `days_owed = (2026-09-07) − (portal's latest dated
-entry, 2026-09-07) = 0`, confirmed by arithmetic rather than by
-eyeballing the branch's freshness, so per this file's own STEP 0 policy
-this is a genuine duplicate same-day scheduler firing. No new briefing,
-Spanish lesson, hexagram, country/meme/film spotlight, or film-analysis
-method was produced, and none of the six never-repeat sequences were
-advanced a second time; `index.html` and the tracking tables above are
-unchanged from the prior run. This note alone was added, on a new branch
-(`claude/daily-2026-09-07-duplicate-check`) fast-forward merged into the
-portal branch, per this file's own instructions for handling a confirmed
-duplicate firing.
 
-**2026-09-07:** STEP 0 run first as always: the session's own `currentDate`
-context field showed 2026-09-06 (a day behind, yet another occurrence of
-this same context-staleness pattern), but `TZ=Asia/Taipei date` on the
-system clock confirmed the actual date is 2026-09-07 (Monday), so
-`days_owed = 1` against the portal branch's 2026-09-06 entry and today's
-content was produced under the real date. Full branch-recovery procedure
-re-run before any content work: listed all `claude/*` branches (67
-returned), then confirmed the GitHub Pages-deployed portal branch via the
-`pages-build-deployment` Actions workflow's run history — the latest
-successful run (run #58) deployed commit `a7911cba`, matching
-`claude/epic-brahmagupta-g1y16m`'s tip exactly, and that same commit is
-also the tip of `claude/daily-2026-09-06`, confirming the portal branch
-and yesterday's daily branch are perfectly in sync with no divergence to
-reconcile. As an extra check this run, also spot-checked the tips of the
-several oddly-named orphaned branches (`claude/epic-brahmagupta-b9qdr5`,
-`-is0gmu`, `-mgut69`, `-nn87ee`, `claude/gracious-ramanujan-4wyzgc`, and
-all six `claude/happy-newton-*` branches) via `list_commits`; all were
-confirmed stale mid-July-2026 leftovers (Day 2-10 era) from the historical
-branch-divergence bug described elsewhere in this file, none more advanced
-than the portal branch, so no reconciliation was needed. Branched
-`claude/daily-2026-09-07` directly from the portal branch's tip. Selected
-new material for all six never-repeat tracking tables, verified against
-this file's authoritative tables: Spanish Day 58 (la a personal — the
-personal "a," a distinctively Spanish grammatical marker with no
-English/Chinese equivalent, confirmed via review of Days 1-57 that this
-foundational topic had never been taught as a dedicated lesson, and
-cross-referenced directly with Day 55's alguien/nadie and Day 44's direct
-object pronouns), Hexagram 58 (兌 Duì, The Joyous/Lake — the correct King
-Wen successor to yesterday's 巽, and the last of the eight "pure"
-doubled-trigram hexagrams alongside 1/2/29/30/51/52/57 already featured;
-read as a direct pair with 57: gentle entering succeeded, and joy is the
-natural reward, so long as it stays "firm within, gentle without" per the
-Tuan's warning against hollow flattery), Egypt (a major, historically rich
-transcontinental civilization not yet covered despite the series' recent
-focus on smaller/underrepresented countries — chosen deliberately for its
-depth of history/economy/religion content), Disaster Girl (a foundational
-2008-era reaction-image template not yet covered, with a well-documented
-2021 NFT-sale coda), Chinatown (1974, dir. Roman Polanski — chosen for
-Section 7 as a landmark neo-noir not yet covered, continuing the
-alternation with performing-arts spotlights per the recent pattern), and
-Frame Within a Frame / Diegetic Framing Devices as the forty-fourth
-film-analysis method, worked through Alien's (1979) corridor/hatch/doorway
-imagery, explicitly distinguished from Day 8's Framing & Composition and
-Day 6's The Gaze/Spectatorship Theory. Market research (Section 1)
-confirmed Monday, Sept 7, 2026 as US Labor Day via a fresh holiday-calendar
-search, so US markets are fully closed today with no new session since
-Friday Sept 4 (already reported the past two days, re-verified fresh again
-today with identical Dow/S&P/Nasdaq figures); Asia/Taiwan markets also have
-no new session to report since their local Monday sessions had not yet
-opened at this briefing's ~5:35am Taipei generation time, so Friday Sept 4
-figures were reused a third day running. This round's re-verification
-surfaced a minor cross-source discrepancy in the Hang Seng/Shanghai
-figures (25,650.87/3,930.12 vs. the twice-previously-confirmed
-25,658.73/3,921.40) — likely differing index-snapshot timing across data
-providers rather than a genuinely different session, since Nikkei and
-TAIEX matched exactly across all three days' checks — flagged explicitly
-in the briefing text per this file's stale-data protocol rather than
-silently resolved either way. Section 2 (dev news) covered genuinely new
-items for this window: refined Apple Sept-9-event details (iPhone 18 Pro/
-Pro Max only, standard iPhone 18 deferred to spring 2027 with iPhone 18e/
-Air 2, 2nm A20 Pro chip, smaller Dynamic Island, variable-aperture camera,
-John Ternus's first keynote as CEO), a Sept 6-dated "model fatigue" report
-on this week's dense AI-lab release cadence (Anthropic's Fable 5.1/Mythos
-5.1, Meta/Google updates, OpenAI's GPT-6 Astra) plus Google's new
-cybersecurity-focused Gemini 3.8 Flash Cyber model, the EU AI Act's
-Article 50 transparency rules (in force since Aug 2) now driving visible
-compliance-tooling work across Anthropic/Google/Meta/OpenAI/Microsoft, and
-Android 17's next scheduled QPR1 stable/Minor-SDK update remaining on
-track for a September rollout — distinct from the previously-covered
-September Feature Drop and Developer Verification items; Flutter still had
-no newly-dated release and the briefing says so explicitly. Updated
-`index.html` (new top row) and all six never-repeat tracking tables in
-this file. Pushed `briefings/2026-09-07.html`, `spanish-lessons/day-58.html`,
-updated `ROUTINE_LOG.md`, and updated `index.html` to
-`claude/daily-2026-09-07`, then fast-forward merged `claude/daily-2026-09-07`
-into `claude/epic-brahmagupta-g1y16m` and pushed the portal branch, making
-today's entry live at https://lebonthe.github.io/ClaudeRoutineTest/. The
-daily branch was kept (not deleted), per the no-destructive-action default.
-
-**Archive notice (2026-08-20):** This file's Run Notes section was growing
-large enough (~150KB) to repeatedly hit output-size limits when pushing
-updates, corrupting the file mid-transmission. To fix this, the full
-run-note history from 2026-07-14 through 2026-08-18 has been moved,
-verbatim and unabridged, into three archive files:
-- `ROUTINE_LOG_ARCHIVE_1.md` — 2026-07-14 through 2026-07-31
-- `ROUTINE_LOG_ARCHIVE_2.md` — 2026-08-01 through 2026-08-08
-- `ROUTINE_LOG_ARCHIVE_3.md` — 2026-08-10 through 2026-08-18
-- `ROUTINE_LOG_ARCHIVE_4.md` — 2026-08-19 through 2026-08-27 (archived
-  2026-08-29, once this file's Run Notes again grew past ~10 entries/45-50KB)
-- `ROUTINE_LOG_ARCHIVE_5.md` — 2026-08-28 through 2026-09-02 (archived
-  2026-09-06, once this file's Run Notes again grew past ~9 entries/47.75KB)
-
-This file (`ROUTINE_LOG.md`) now keeps the Output Preferences, templates,
-Main Briefing Sections list, all six never-repeat tracking tables (still
-the authoritative source for what has already been used — always check
-these, not the archives, before picking today's content), and only the
-most recent run notes below. Future runs: after adding today's entry, if
-this file's Run Notes section grows past roughly 8-10 daily entries
-(~45-50KB), move the oldest entries out into a new
-`ROUTINE_LOG_ARCHIVE_N.md` file (next sequential number) to keep this file
-safely small, and update this notice accordingly.
-
-**2026-09-03:** STEP 0 run first as always: the session's own `currentDate`
-context field again showed 2026-09-02 (a day behind, the fourth
-consecutive occurrence of this same context-staleness pattern), but
-`TZ=Asia/Taipei date` on the system clock confirmed the actual date is
-2026-09-03 (Thursday), so `days_owed = 1` against the portal branch's
-2026-09-02 entry and today's content was produced under the real date.
-Full branch-recovery procedure re-run before any content work: listed
-all `claude/*` branches (62 branches returned), then confirmed the
-GitHub Pages-deployed portal branch via the `pages-build-deployment`
-Actions workflow's run history (the deployments API itself was not
-queried directly this run since the workflow history already gives an
-unambiguous answer) — the latest successful run (run #54) deployed
-commit `4e27cca7`, matching `claude/epic-brahmagupta-g1y16m`'s current
-tip exactly, and that same commit is also the tip of
-`claude/daily-2026-09-02`, confirming the portal branch and yesterday's
-daily branch are perfectly in sync with no divergence to reconcile this
-time. Branched `claude/daily-2026-09-03` directly from the portal
-branch's tip. Selected new material for all six never-repeat tracking
-tables, verified against this file's authoritative tables (not a guess
-from memory): Spanish Day 54 (verbos de cambio: ponerse/volverse/
-hacerse/llegar a ser/convertirse en — the classic five-way "become"
-distinction, confirmed via grep that none of these five verbs had been
-covered as a dedicated lesson before), Hexagram 54 (歸妹 Guī Mèi, The
-Marrying Maiden — the correct King Wen successor to yesterday's 漸,
-explicitly taught as a paired contrast: both hexagrams use marriage
-imagery, but 53 rewards patient/correctly-ordered advance while 54
-warns against impulsive/wrongly-positioned advance), Ukraine (a large,
-currently-undertaught country/region given the small-nation focus of
-recent weeks, chosen for its historical, geopolitical, and cultural
-depth), "One Does Not Simply" / Boromir Meme (a foundational early-2010s
-image-macro template not yet covered, distinct from all four
-LOTR-adjacent memes' absence in prior entries), The Rules of the Game
-(La Règle du jeu, 1939, dir. Jean Renoir — chosen for Section 7 as a
-landmark deep-focus/mise-en-scène film not yet covered, continuing the
-alternation with performing-arts spotlights), and Eyeline Match as the
-fortieth film-analysis method, worked through Rear Window's (1954)
-look/reveal/reaction chains, explicitly distinguished from Day 9's
-Shot/Reverse Shot and Day 19's Subjective/POV Camera. Market research
-(Section 1) required active re-verification: an initial search
-returned a mislabeled recap of Tuesday Sept 1's US session (a "Dow
-falls 400+ points" narrative) presented as Wednesday Sept 2's close,
-and a similarly mislabeled Tuesday Hang Seng figure — both were traced
-to the wrong date via cross-checking against differently-worded
-follow-up queries and discarded before writing the briefing, per this
-file's stale-data protocol. Confirmed weekday of Sept 2 as Wednesday and
-verified US Labor Day 2026 falls Sept 7 (not that week) before writing
-market figures. Final figures used: US indices rebounding Wednesday
-(Dow +0.56%, S&P +0.46%, Nasdaq +0.45%) on cooling Treasury yields and a
-weak ADP jobs report, while Asia's own Wednesday local session (timed
-before the US Wednesday rebound) instead reflected Tuesday's rough Wall
-Street close and the same US-Iran/oil shock, with Nikkei -~2.5%, KOSPI
--3.99%, Shanghai -0.97%, Hang Seng roughly flat, and Taiwan's TAIEX
--1.67% (TSMC -2.25%) — this same-day-but-different-driver split between
-the US and Asia sections is a recurring pattern in this routine given
-the 12-hour Taipei/US time-zone offset, and was called out explicitly
-in the briefing text rather than left implicit. Section 2 (dev news)
-covered genuinely new items for this window: John Ternus's Sept 1 staff
-memo, iOS 27/macOS 27 "Golden Gate" developer beta 8 (Aug 31), the
-Anthropic Claude Fable 5.1/Mythos 5.1 launch and pricing changes plus
-OpenAI's "Path to Astra" critical-capability disclosure (both Sept
-1-2), Lutnick's Sept 2 comment on Anthropic-government relations, and
-Google's September Android Feature Drop plus Android Studio "Quail 4"
-stable release (both Sept 1); Flutter had no genuinely new news in this
-window and the briefing says so explicitly rather than reusing older
-material. Updated `index.html` (new top row) and all six never-repeat
-tracking tables in this file. Pushed `briefings/2026-09-03.html`,
-`spanish-lessons/day-54.html`, updated `ROUTINE_LOG.md`, and updated
-`index.html` to `claude/daily-2026-09-03`, then fast-forward merged
-`claude/daily-2026-09-03` into `claude/epic-brahmagupta-g1y16m` and
-pushed the portal branch, making today's entry live at
-https://lebonthe.github.io/ClaudeRoutineTest/. The daily branch was
-kept (not deleted), per the no-destructive-action default.
-
-**2026-09-04:** STEP 0 run first as always: the session's own `currentDate`
-context field again showed 2026-09-03 (a day behind, the fifth
-consecutive occurrence of this same context-staleness pattern), but
-`TZ=Asia/Taipei date` on the system clock confirmed the actual date is
-2026-09-04 (Friday), so `days_owed = 1` against the portal branch's
-2026-09-03 entry and today's content was produced under the real date.
-Full branch-recovery procedure re-run before any content work: listed
-all `claude/*` branches, then confirmed the GitHub Pages-deployed
-portal branch via the `pages-build-deployment` Actions workflow's run
-history — the latest successful run (run #55) deployed commit
-`cd04bde6`, matching `claude/epic-brahmagupta-g1y16m`'s current tip
-exactly, and that same commit is also the tip of
-`claude/daily-2026-09-03`, confirming the portal branch and yesterday's
-daily branch are perfectly in sync with no divergence to reconcile.
-Branched `claude/daily-2026-09-04` directly from the portal branch's
-tip. Selected new material for all six never-repeat tracking tables,
-verified against this file's authoritative tables: Spanish Day 55
-(negative/indefinite words: algo/nada, alguien/nadie, alguno/ninguno,
-siempre/nunca, también/tampoco, plus Spanish's mandatory double-negation
-rule, confirmed via review of Days 1-54 that this foundational topic
-had never been taught as a dedicated lesson), Hexagram 55 (豐 Fēng,
-Abundance/Fullness — the correct King Wen successor to yesterday's 歸妹,
-read as a deliberate pair: 54 warned against impulsive, wrongly-
-positioned advance, while 55 shows the opposite case — a rightful
-"arrival" — carried to its peak, immediately tempered by the Tuan
-commentary's classic teaching that a sun at zenith has nowhere to go
-but down), Uzbekistan (a populous, historically rich Central Asian
-"Silk Road" country not yet covered, and only the second "doubly
-landlocked" country in this series after Liechtenstein), Crying Jordan
-/ Michael Jordan Crying Meme (a foundational mid-2010s sports-internet
-reaction-image template not yet covered), Pansori (판소리, Korean
-narrative singing — chosen for Section 7 as a performing-arts spotlight
-not yet covered, continuing the alternation with the landmark-film
-spotlights), and Match on Action as the forty-first film-analysis
-method, worked through the Raiders of the Lost Ark boulder-chase
-sequence, explicitly distinguished from Day 11's Match Cut/Graphic
-Match and Day 9's Continuity Editing/180-Degree Rule. Market research
-(Section 1) this round cross-checked cleanly: Thursday Sept 3, 2026 was
-independently confirmed as the correct weekday via the system clock,
-and precise Taipei-to-US-Eastern time conversion confirmed the US
-market's Thursday close had already occurred (just under six hours
-before this Friday-morning briefing) while Asia's own Thursday local
-sessions had closed many hours earlier still — this time, unlike
-several recent sessions during the US-Iran-conflict volatility, no
-conflicting or mislabeled same-day figures surfaced across independent
-searches for either the US or Asia figures, so no stale data needed to
-be caught and discarded. Final figures used: US indices extending their
-rebound for a second day (S&P +0.5% to 7,666.60, Dow +0.6%/+295.07 to
-53,061.95, Nasdaq +0.5%/+118.05 to 26,217.83 — all for Thursday Sept 3),
-Asia's own Thursday local session comparatively calm and mixed (Nikkei
--0.17%, Hang Seng -0.39%, Shanghai +0.02%, KOSPI +0.26%), and Taiwan's
-TAIEX -0.67% to 45,857.66. Section 2 (dev news) covered genuinely new
-items for this window: Apple's Sept 9 "Surprise and Shine" event now
-five days out with RC builds of iOS 27/macOS 27 "Golden Gate" expected
-imminently, OpenAI's Astra model crossing the "Critical" cybersecurity
-threshold under its Preparedness Framework plus the new ChatGPT
-Health-Epic EHR integration, Anthropic's new "Enterprise Frontier
-Safeguards" (zero-data-retention plus customer-held misuse-monitoring
-logs), and Android 17's Developer Verification rollout beginning this
-September; Flutter had no newly-dated release/blog item for this
-specific window (the most substantive recent item, Impeller becoming
-the default Android renderer on Vulkan-enabled devices, traces back to
-Google I/O 2026 rather than this week) and the briefing notes this
-explicitly rather than presenting older news as fresh. Updated
-`index.html` (new top row) and all six never-repeat tracking tables in
-this file. Pushed `briefings/2026-09-04.html`, `spanish-lessons/day-55.html`,
-updated `ROUTINE_LOG.md`, and updated `index.html` to
-`claude/daily-2026-09-04`, then fast-forward merged
-`claude/daily-2026-09-04` into `claude/epic-brahmagupta-g1y16m` and
-pushed the portal branch, making today's entry live at
-https://lebonthe.github.io/ClaudeRoutineTest/. The daily branch was
-kept (not deleted), per the no-destructive-action default.
-
-**2026-09-05:** STEP 0 run first as always: the session's own `currentDate`
-context field again showed 2026-09-04 (a day behind, the sixth
-consecutive occurrence of this same context-staleness pattern), but
-`date -u` / `TZ=Asia/Taipei date` on the system clock confirmed the
-actual date is 2026-09-05 (Saturday), so `days_owed = 1` against the
-portal branch's 2026-09-04 entry and today's content was produced
-under the real date. Full branch-recovery procedure re-run before any
-content work: listed all `claude/*` branches via the GitHub API, then
-confirmed the GitHub Pages-deployed portal branch by querying
-`GET /repos/.../deployments?environment=github-pages` directly and
-reading the `ref` of the newest entry whose own status history included
-a `state: success` — the latest such deployment (id 6253604698,
-created 2026-09-03T21:52:29Z) deployed commit `70b7072e`, matching
-`claude/epic-brahmagupta-g1y16m`'s current tip exactly, and that same
-commit is also the tip of `claude/daily-2026-09-04`, confirming the
-portal branch and yesterday's daily branch were perfectly in sync with
-no divergence to reconcile. Branched `claude/daily-2026-09-05` directly
-from the portal branch's tip. Selected new material for all six
-never-repeat tracking tables, verified against this file's authoritative
-tables: Spanish Day 56 (Hay vs. Estar — existence vs. location, a
-foundational distinction used silently since Day 2's ¿Cómo estás? but
-never formally taught, confirmed via review of Days 1-55 that this
-exact contrast had never been given its own lesson), Hexagram 56 (旅
-Lǚ, The Wanderer — the correct King Wen successor to yesterday's 豐,
-read as a direct pair: 55 showed abundance driven to its peak, 56 shows
-that peak's human consequence, a wanderer with nowhere settled to
-stand, tempered by the Judgment's modest "small matters only, but
-perseverance brings good fortune"), Cambodia (a Southeast Asian country
-not yet covered, chosen partly for its live current-events relevance —
-the ongoing, unresolved Cambodia-Thailand border conflict — verified
-via a dedicated search on the conflict's 2026 status rather than relying
-on older background knowledge), Chuck Norris Facts (a foundational
-early-2000s absurdist-hyperbole joke format not yet covered, distinct
-from every image-macro-era meme already logged), Pather Panchali (1955,
-dir. Satyajit Ray — chosen for Section 7 as a landmark work of Indian
-arthouse cinema not yet represented in either section, continuing the
-alternation back to a landmark-film spotlight after Day 09-04's
-performing-arts entry), and The Needle Drop as the forty-second
-film-analysis method, worked through Reservoir Dogs' "Stuck in the
-Middle with You" torture scene, explicitly distinguished from Day 4's
-Sound Design & Score and Day 36's Leitmotif. Market research (Section 1)
-required careful same-day-different-driver handling rather than a
-stale-data catch: with generation happening Saturday ~5:45am Taipei,
-the most recently closed US session was Friday Sept 4 (closing just
-under two hours before this briefing), while Asia/Taiwan's own Friday
-Sept 4 local sessions had closed many hours earlier, before that same
-day's US jobs report even existed — so the two halves of "Friday's"
-market news were verified as reflecting genuinely different,
-chronologically-ordered drivers (Thursday's US tech-rally carry-over
-plus dovish Fed Waller remarks driving Asia/Taiwan's Friday-morning
-rally; Friday's own blowout August jobs report, released later,
-reversing part of that sentiment in the US's own Friday close) rather
-than treated as one homogeneous "Friday" data point. A genuine
-stale/mislabeled-data catch did occur within the Taiwan figure
-specifically: an initial search returned a TAIEX close of "46,166.45,
-+308.79 points (+0.67%)" for Sept 4, but this exactly mirrored (in
-inverted sign) Sept 3's already-published -0.67% move, a red flag per
-this file's stale-data protocol; a follow-up, more specific search
-(named companies, foreign-buying figures) returned a starkly different,
-internally-consistent figure — TAIEX +693.47 points (+1.51%) to
-46,551.13 — cross-confirmed identically across four independent
-Chinese-language financial outlets (cnyes, Newtalk, NextApple,
-taronews), which was used instead. Final figures used: US Friday Sept 4
-close down modestly (Dow -0.51%/-271.86 to 53,414.25, S&P -0.38% to
-7,718.60, Nasdaq -0.29% to 26,506.99) on a much-stronger-than-expected
-August jobs report (+162K vs. ~53-56K expected, unemployment steady at
-4.1%, Sept rate-hike odds rising to ~59% from 52%); Asia's own Friday
-local session broadly higher (Nikkei +1.3% to 65,020.94, Hang Seng
-+1.8% to 25,658.73, KOSPI +1.7% to 6,690.72, Shanghai the regional
-laggard at -0.5% to 3,921.40); Taiwan's TAIEX +1.51% to 46,551.13 as
-described above, driven additionally by NT$56.21B in net foreign buying
-into electronics/semiconductors. Section 2 (dev news) covered genuinely
-new items for this window: the Sept 9 Apple event now four days out
-with RC-build estimates converging on Sept 7-9; OpenAI's official Sept 4
-launch of GPT-6 Astra (superseding the "crossing a critical threshold"
-preview reported in the prior briefing with the model's actual release)
-plus its $1B "Daybreak for Frontline Defenders" initiative; Google's
-Sept 4 shutdown of Google Assistant on Android/Wear OS/Android Auto in
-favor of Gemini; and incremental Claude Code updates. Flutter again had
-no newly-dated item for this specific window (Flutter 3.47, Aug 12,
-remains the most recent substantive release, now over three weeks old)
-and the briefing says so explicitly. Updated `index.html` (new top row)
-and all six never-repeat tracking tables in this file. Pushed
-`briefings/2026-09-05.html`, `spanish-lessons/day-56.html`, updated
-`ROUTINE_LOG.md`, and updated `index.html` to `claude/daily-2026-09-05`,
-then fast-forward merged `claude/daily-2026-09-05` into
-`claude/epic-brahmagupta-g1y16m` and pushed the portal branch, making
-today's entry live at https://lebonthe.github.io/ClaudeRoutineTest/.
-The daily branch was kept (not deleted), per the no-destructive-action
-default.
-
-**2026-09-06:** STEP 0 run first as always: the session's own `currentDate`
-context field showed 2026-09-05 (a day behind, the seventh consecutive
-occurrence of this same context-staleness pattern), but `date` /
-`TZ=Asia/Taipei date` on the system clock confirmed the actual date is
-2026-09-06 (Sunday), so `days_owed = 1` against the portal branch's
-2026-09-05 entry and today's content was produced under the real date,
-not skipped as a duplicate. Full branch-recovery procedure re-run before
-any content work: `mcp__github__list_branches` listed all `claude/*`
-branches (69 total, latest daily branch `claude/daily-2026-09-05`).
-Rather than the deployments API (blocked earlier this session by the
-network egress proxy the same way finance sites have been on other
-runs), the GitHub Pages-deployed portal branch was confirmed via the
-`pages-build-deployment` Actions workflow's run history: the latest
-successful run (id 33923244082, run #57, completed 2026-09-04T21:55:45Z)
-deployed commit `8f502255...` on `head_branch: claude/epic-brahmagupta-g1y16m`
-— and that same commit is also the exact tip of `claude/daily-2026-09-05`,
-confirmed via a local `git fetch` + `git rev-parse`, so the portal branch
-and yesterday's daily branch are identical with no divergence to
-reconcile. Created `claude/daily-2026-09-06` directly off the portal
-branch's tip.
-
-Also archived this file's Run Notes section per its own stated policy:
-it had grown to 9 daily entries / 47.75KB (2026-08-28 through 2026-09-05),
-right at the ~8-10 entries/45-50KB threshold the file's Archive notice
-sets for moving old entries out, so the oldest six entries (2026-08-28
-through 2026-09-02) were moved verbatim into a new
-`ROUTINE_LOG_ARCHIVE_5.md`, keeping only 2026-09-03 onward plus today's
-new entry in this file, and the Archive notice above was updated
-accordingly.
-
-Bilingual briefing covering markets (Sunday Sept 6, no new session in
-any of the three regions since none trade on Saturday or Sunday; the
-most recently closed session in every region remains Friday Sept 4,
-already reported in yesterday's 2026-09-05 briefing — re-verified rather
-than blindly reused: a fresh search for the US figures returned the
-identical Dow/S&P/Nasdaq numbers already published, mislabeled by the
-search summary as a "Sept 5" close despite US markets being shut that
-Saturday, confirming rather than contradicting Friday's numbers as the
-correct still-current data point; a separate fresh search for Taiwan
-returned a conflicting "+820 points to 46,948" figure for what was
-implied to be the same Sept 4 session, which was identified as a
-stale/mislabeled result per this file's protocol — it did not match any
-independently-confirmed number — and discarded in favor of a
-re-verification search naming TSMC/MediaTek/foreign-buying specifics,
-which reproduced the already-published +693.47/+1.51%/46,551.13 figure
-identically across two more independent sources; the briefing states
-explicitly, in both languages, that no new session has closed and why),
-refreshed dev news (Apple's Sept 9 "Surprise and Shine" event now three
-days out, plus a newly-surfaced report that Apple's overhauled Siri will
-draw on Google-supplied Nvidia GPU cloud capacity; Google's Gemini Spark
-agentic features rolling into Google Photos for US Gemini AI Pro/Ultra
-subscribers; xAI's Grok Bot agent expanding to iPad and Android at lower
-consumer price tiers, relevant competitive context for the Apple/Google
-assistant race already covered in recent briefings; Flutter again had no
-newly-dated item for this specific weekend window and the briefing says
-so explicitly), Spanish lesson (Day 57, el se accidental/involuntario —
-completing the four-identity se-family begun on Days 46-48 with the
-"unplanned occurrence" construction, se + indirect object pronoun,
-e.g. Se me cayó el vaso), I Ching Hexagram 57 (巽 Xùn, The Gentle/The
-Penetrating/Wind, the doubled-wind hexagram directly following Hexagram
-56's wanderer via the Xugua's "旅而无所容,故受之以巽,巽者入也"),
-Yemen country spotlight (chosen as a populous, geopolitically significant
-Middle Eastern state not yet covered; current Presidential Leadership
-Council chair Rashad al-Alimi and the January 2026 collapse of the
-PLC-STC alliance verified via WebSearch as up-to-date 2026 detail rather
-than older pre-war figures), the Gru's Plan meme, the Whirling Dervishes
-/ Mevlevi Sema ceremony (chosen as a Middle Eastern/Turkic performing art
-distinct from this series' recent run of East Asian opera/puppetry
-traditions), and The Wipe Transition as the 43rd film-analysis method,
-worked through Star Wars (1977)'s serial-homage wipe cuts. Updates
-`index.html` (new top row) and all six never-repeat tracking tables in
-this file. Pushed `briefings/2026-09-06.html`, `spanish-lessons/day-57.html`,
-updated `ROUTINE_LOG.md` (including the new `ROUTINE_LOG_ARCHIVE_5.md`),
-and updated `index.html` to `claude/daily-2026-09-06`, then fast-forward
-merged `claude/daily-2026-09-06` into `claude/epic-brahmagupta-g1y16m`
-and pushed the portal branch, making today's entry live at
-https://lebonthe.github.io/ClaudeRoutineTest/. The daily branch was kept
-(not deleted), per the no-destructive-action default.
+Older Run Notes entries (2026-07-08 through 2026-09-07) have been
+archived to `ROUTINE_LOG_ARCHIVE_1.md` through `ROUTINE_LOG_ARCHIVE_6.md`
+(chronological, oldest first) to keep this file's push size manageable.
+The six never-repeat tracking tables above remain complete and current
+in this file; only the narrative Run Notes are split across archives.
