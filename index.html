@@ -41,7 +41,8 @@
 <b>備註(2026-09-11):</b> 本次執行時,session 的 <code>currentDate</code> context 欄位再度標示錯誤日期(顯示 2026-09-10,即前一日),但 STEP 0 依規定直接以系統時鐘覆核(容器 UTC 時鐘讀數 2026-09-10 21:39,換算 <code>TZ=Asia/Taipei</code> 即為 2026-09-11 05:39,週五),確認實際日期其實已經是 2026-09-11,而非重複執行同一天;portal 分支(<code>claude/epic-brahmagupta-g1y16m</code>)最新內容僅到 2026-09-10,days_owed = 1,屬正常單日進度。執行前重新核對了所有 <code>claude/*</code> 分支,並透過 <code>/repos/.../deployments?environment=github-pages</code> API 確認最新一筆 <code>state: success</code> 部署的 commit(<code>251d48db</code>)與 <code>claude/daily-2026-09-10</code> 分支尖端完全一致,並無分歧,因此本次直接從 portal 分支尖端切出新分支。美股 9 月 10 日收盤數據(連續第四日下跌,油價維持每桶百美元以上)已交叉核對兩個獨立來源;台股 9 月 10 日收盤數據(下跌 242.87 點至 46,940.49 點)已交叉核對三個獨立台灣財經媒體來源,數字完全一致。詳見 <code>ROUTINE_LOG.md</code> 的 Run Notes。<br>
 <b>備註(2026-09-12):</b> session 的 <code>currentDate</code> context 欄位第十次連續標示錯誤日期(顯示 2026-09-11,即前一日),STEP 0 再次以系統時鐘覆核(<code>date -u</code> 讀數 2026-09-11 21:40 UTC,換算 <code>TZ=Asia/Taipei</code> 即為 2026-09-12 05:40,週六),確認實際日期其實已經是 2026-09-12,而非重複執行 09-11。portal 分支最新內容僅到 2026-09-11,days_owed = 1,屬正常單日進度。執行前重新核對了所有 71 個 <code>claude/*</code> 分支,並以 <code>pages-build-deployment</code> Actions 工作流程紀錄確認 <code>claude/epic-brahmagupta-g1y16m</code> 分支最新一次成功部署(commit <code>e305872d</code>)與 <code>claude/daily-2026-09-11</code> 分支尖端完全一致,並無分歧,因此本次直接從 portal 分支尖端切出新分支。今日為週六,三大市場皆無新交易日,市場段落改為報導週五(9月11日)收盤數據:美股當日收紅(通膨數據優於預期),亞股與台股當地週五交易時段則因中東情勢緊張、油價走高而下跌——同一日曆日期、不同交易時段各自反映不同新聞,並非矛盾。台股數據經過主動覆核,捨棄了兩筆彼此矛盾/誤植的搜尋結果,最終採用可與前一日收盤價完全吻合、且與區域普遍跌勢一致的數字。詳見 <code>ROUTINE_LOG.md</code> 的 Run Notes。<br>
 <b>備註(2026-09-13):</b> session 的 <code>currentDate</code> context 欄位第十一次連續標示錯誤日期(顯示 2026-09-12,即前一日),STEP 0 再次以系統時鐘覆核(<code>date -u</code> 讀數 2026-09-12 21:40 UTC,換算 <code>TZ=Asia/Taipei</code> 即為 2026-09-13 05:40,週日),確認實際日期其實已經是 2026-09-13,而非重複執行 09-12。portal 分支六張追蹤表最新內容僅到 2026-09-12,days_owed = 1,屬正常單日進度,因此本次直接從 portal 分支尖端切出新分支。今日為週日,三大市場連續第二天皆無新交易日,市場段落沿用並重新核實週五(9月11日)數據;美股與亞股數據不變,台股收盤數字覆核時又發現兩筆與昨日已發布數字互相矛盾的新搜尋結果,本篇簡報選擇明確揭露此矛盾、而非悄悄換上新數字。開發新聞段落找到兩則昨日未報導過的全新項目(AI 代理程式入侵 395 個組織的 PaperCut 資安事件、Android 17 開發者身分驗證新規),取代重複昨日已報導過的舊內容。詳見 <code>ROUTINE_LOG.md</code> 的 Run Notes。<br>
-<b>備註(2026-09-14):</b> session 的 <code>currentDate</code> context 欄位第十二次連續標示錯誤日期(顯示 2026-09-13,即前一日),STEP 0 再次以系統時鐘覆核(<code>date -u</code> 讀數 2026-09-13 21:39 UTC,換算 <code>TZ=Asia/Taipei</code> 即為 2026-09-14 05:39,週一),確認實際日期其實已經是 2026-09-14,而非重複執行 09-13。portal 分支(<code>claude/epic-brahmagupta-g1y16m</code>)最新內容僅到 2026-09-13,且與 <code>claude/daily-2026-09-13</code> 分支尖端完全一致(commit <code>e08ef7b2</code>),並無分歧,days_owed = 1,屬正常單日進度,因此本次直接從 portal 分支尖端切出新分支。由於本篇簡報產出時仍是美東時間週日晚間、且亞洲/台灣市場尚未開盤,三大市場「最近一次收盤」數字與週末簡報相同(週五 9 月 11 日);新增內容為油價衝破每桶 100 美元、聯準會升息機率上升至 72.4% 等週末發展,以及最重要的——透過新光證券盤後報告與 CNBC 即時報價兩筆獨立來源相互印證,解決了昨日揭露的台股收盤數字三方矛盾(確認為 46,184.85 點,-1.61%)。<b>今日第 64 卦(未濟)完成整部易經 64 卦王本卦序的介紹</b>,自明日起第 4 項單元將改為介紹莊子散文/詩作。本次也將 <code>ROUTINE_LOG.md</code> 的 Run Notes(已成長至 12 筆、約 55KB)依政策歸檔至新建的 <code>ROUTINE_LOG_ARCHIVE_6.md</code>。詳見 <code>ROUTINE_LOG.md</code> 的 Run Notes。
+<b>備註(2026-09-14):</b> session 的 <code>currentDate</code> context 欄位第十二次連續標示錯誤日期(顯示 2026-09-13,即前一日),STEP 0 再次以系統時鐘覆核(<code>date -u</code> 讀數 2026-09-13 21:39 UTC,換算 <code>TZ=Asia/Taipei</code> 即為 2026-09-14 05:39,週一),確認實際日期其實已經是 2026-09-14,而非重複執行 09-13。portal 分支(<code>claude/epic-brahmagupta-g1y16m</code>)最新內容僅到 2026-09-13,且與 <code>claude/daily-2026-09-13</code> 分支尖端完全一致(commit <code>e08ef7b2</code>),並無分歧,days_owed = 1,屬正常單日進度,因此本次直接從 portal 分支尖端切出新分支。由於本篇簡報產出時仍是美東時間週日晚間、且亞洲/台灣市場尚未開盤,三大市場「最近一次收盤」數字與週末簡報相同(週五 9 月 11 日);新增內容為油價衝破每桶 100 美元、聯準會升息機率上升至 72.4% 等週末發展,以及最重要的——透過新光證券盤後報告與 CNBC 即時報價兩筆獨立來源相互印證,解決了昨日揭露的台股收盤數字三方矛盾(確認為 46,184.85 點,-1.61%)。<b>今日第 64 卦(未濟)完成整部易經 64 卦王本卦序的介紹</b>,自明日起第 4 項單元將改為介紹莊子散文/詩作。本次也將 <code>ROUTINE_LOG.md</code> 的 Run Notes(已成長至 12 筆、約 55KB)依政策歸檔至新建的 <code>ROUTINE_LOG_ARCHIVE_6.md</code>。詳見 <code>ROUTINE_LOG.md</code> 的 Run Notes。<br>
+<b>備註(2026-09-15):</b> 排程本次觸發時,指派的日期參數本身就標示錯誤日期(顯示 2026-09-14,即前一日)——這是第十三次連續出現同樣的落差模式。STEP 0 依規定直接以系統時鐘覆核(<code>date -u</code> 讀數 2026-09-14 21:40 UTC,換算 <code>TZ=Asia/Taipei</code> 即為 2026-09-15 05:40,週二),確認實際日期其實已經是 2026-09-15,而非重複執行 09-14——若當時直接信任指派的日期參數,將會誤判 days_owed = 0、把本應產出的一整天內容誤認為重複執行而略過不產出。portal 分支(<code>claude/epic-brahmagupta-g1y16m</code>)最新內容僅到 2026-09-14,days_owed = 1,屬正常單日進度,因此本次直接從 portal 分支尖端切出新分支。由於本篇簡報產出時,週一美股已收盤、且台股與亞股週一交易日也已結束,三大市場自週五以來首度全面擁有真正嶄新的收盤數據可供報導(美股道瓊/標普/那斯達克三指數普遍走跌,台股加權指數跌 0.70% 收 45,862.52 點,亞股恒生逆勢上漲、日經與上證小跌),導火線是 Anthropic 與 OpenAI 執行長週末聯合呼籲「放緩前沿 AI 發展步調」一事,週一正式衝擊市場。<b>本單元自第 64 卦完成整部易經王本卦序後,今日起正式改為介紹莊子散文/詩作,第一篇為〈逍遙遊〉。</b>詳見 <code>ROUTINE_LOG.md</code> 的 Run Notes。
 </div>
 
 <h2>📅 每日內容一覽</h2>
@@ -51,7 +52,7 @@
 <th>日期</th>
 <th>晨間簡報</th>
 <th>西班牙文課程</th>
-<th>易經卦象</th>
+<th>易經卦象/莊子</th>
 <th>國家/地區</th>
 <th>網路迷因</th>
 <th>電影/表演藝術</th>
@@ -59,6 +60,16 @@
 </tr>
 </thead>
 <tbody>
+<tr>
+<td>2026-09-15</td>
+<td><a href="briefings/2026-09-15.html">briefings/2026-09-15.html</a></td>
+<td><a href="spanish-lessons/day-65.html">Day 65 — Ser 與 Estar 的用法辨析(意義隨動詞改變的形容詞)</a></td>
+<td>莊子·逍遙遊 (Xiāoyáo Yóu) — Free and Easy Wandering</td>
+<td>塞爾維亞 (Serbia)</td>
+<td>床上入侵者之歌 The Bed Intruder Song</td>
+<td>《亂》Ran(1985,dir. Akira Kurosawa)</td>
+<td>框架敘事/嵌套敘事層 Frame Narrative / Nested Diegesis</td>
+</tr>
 <tr>
 <td>2026-09-14</td>
 <td><a href="briefings/2026-09-14.html">briefings/2026-09-14.html</a></td>
