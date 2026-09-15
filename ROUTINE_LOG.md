@@ -212,6 +212,7 @@ the repo so a permanent link can be shared.
 | 2026-09-13 | 63 | 指小詞與擴大詞(Los Diminutivos y Aumentativos) | Steps outside the tense/mood track (Days 16-62) to cover a high-frequency word-formation topic: suffixes -ito/-ita (or -cito/-cita for consonant-final/-e-final/one-syllable words) that shrink a noun or, far more often in practice, simply add affection/politeness/softening (casa→casita, momento→momentito, mi abuela→mi abuelita); and -ón/-ona (or colloquial -ote/-ota) that enlarge a noun, admiringly or dismissively depending on tone (hombre→hombrón, perro→perrote); flagged that several forms (sillón, bolsillo, ventanilla) have fully lexicalized into independent words whose meaning has drifted away from literal "small/big X"; noted heavier everyday use of diminutives in Latin American Spanish (café→cafecito, ahora→ahorita) versus more formal/limited use in peninsular Spanish | spanish-lessons/day-63.html |
 | 2026-09-14 | 64 | 副詞的構成(Los Adverbios de Modo con -mente) | Steps outside the tense/mood track into another high-frequency word-formation topic, immediately following Day 63's diminutives/augmentatives: manner adverbs formed by taking an adjective's feminine singular form (rápido→rápida, lento→lenta) and adding -mente (rápidamente, lentamente), while adjectives already sharing one form for both genders (normal, fácil, feliz) add -mente directly with no change, preserving any written accent from the base adjective unchanged; core "chain rule" taught: when two or more -mente adverbs modify the same verb joined by y/o/pero, only the last keeps -mente and every earlier one reverts to its plain feminine adjective form (habla rápida y claramente, not rápidamente y claramente); flagged that, like overusing English "-ly" adverbs, stacking too many -mente words in formal Spanish writing reads as heavy, with native writers often substituting de manera + adjective or con + noun instead | spanish-lessons/day-64.html |
 | 2026-09-15 | 65 | Ser 與 Estar 的用法辨析(意義隨動詞改變的形容詞) | Returns to and formally contrasts ser and estar for the first time since they were separately introduced on Day 2 (estar, temporary feelings) and Day 5 (ser, permanent identity/nationality): the core "essence vs. state" logic is demonstrated most sharply by a set of adjectives whose meaning flips entirely depending on the verb — aburrido (ser = boring as a trait, estar = bored right now), listo (ser = clever, estar = ready), malo (ser = bad-natured, estar = sick / spoiled food), rico (ser = wealthy, estar = tasty), verde (ser = green-colored / inexperienced, estar = unripe), vivo (ser = sharp/cunning, estar = alive) — framed not as rote exceptions but as the clearest possible proof that ser/estar is about essence vs. state rather than a fixed word-verb pairing | spanish-lessons/day-65.html |
+| 2026-09-16 | 66 | 常用動詞短語(Perífrasis Verbales: Acabar de / Llevar + Gerundio / Volver a) | Steps outside the ser/estar contrast just completed on Day 65 to fill a foundational everyday-usage gap used implicitly since the earliest lessons but never formally named: three fixed verbal periphrases from the same grammatical family as Day 13's ir a + infinitive and Day 14's estar + gerund — acabar de + infinitive (present-tense conjugated, "to have just done" something, the mirror image of ir a's forward-looking future), llevar + a length of time + gerund ("to have been doing" something for a duration continuing to the present, the natural spoken-Spanish alternative to a literal present-perfect-progressive translation, fixed question form ¿Cuánto tiempo llevas + gerund?), and volver a + infinitive ("to do again," repurposing volver's literal "to return" as a repetition marker, largely interchangeable with adding otra vez/de nuevo) — the three answer independent questions (did this just end? / how long has this continued? / is this happening again?) and freely coexist in one conversation | spanish-lessons/day-66.html |
 
 Note: a duplicate "Day 2" lesson (ser/¿De dónde eres?, i.e. the same topic
 as Day 5) was independently produced on 2026-07-14 on an orphaned branch
@@ -303,6 +304,7 @@ repeated. Before choosing today's piece, check this table.
 | Date | Essay/Poem | Chapter grouping |
 |------|-----------|-------------------|
 | 2026-09-15 | 逍遙遊 (Xiāoyáo Yóu) — "Free and Easy Wandering" | Inner Chapters (內篇), Ch. 1 |
+| 2026-09-16 | 齊物論 (Qíwù Lùn) — "On the Equality of Things" | Inner Chapters (內篇), Ch. 2 |
 
 ## Country/Region/Faction Spotlights Featured
 
@@ -368,6 +370,7 @@ repeated. Before choosing today's piece, check this table.
 | 2026-09-13 | Finland (芬蘭) |
 | 2026-09-14 | Croatia (克羅埃西亞) |
 | 2026-09-15 | Serbia (塞爾維亞) |
+| 2026-09-16 | New Zealand (紐西蘭) |
 
 ## Internet Meme Spotlights Featured
 
@@ -433,6 +436,7 @@ repeated. Before choosing today's piece, check this table.
 | 2026-09-13 | NPC Streaming / "NPC" Meme |
 | 2026-09-14 | Overly Attached Girlfriend |
 | 2026-09-15 | The Bed Intruder Song / Antoine Dodson |
+| 2026-09-16 | Star Wars Kid |
 
 ## Film / Performing Arts Spotlights Featured
 
@@ -496,6 +500,7 @@ and never repeat a subject already listed.
 | 2026-09-13 | Modern Times (摩登時代, 1936, dir. Charlie Chaplin) |
 | 2026-09-14 | The Cabinet of Dr. Caligari (卡里加利博士的小屋, 1920, dir. Robert Wiene) |
 | 2026-09-15 | Ran (亂, 1985, dir. Akira Kurosawa) |
+| 2026-09-16 | Parasite (기생충, 2019, dir. Bong Joon-ho) |
 
 ## Film-Appreciation / Criticism Method Lessons
 
@@ -561,8 +566,82 @@ table and pick one not yet covered.
 | 2026-09-13 | Practical Effects vs. CGI / Visual Effects Analysis (asks how a shot was physically made — practical/in-camera techniques (real stunts, miniatures, pyrotechnics, prosthetics) vs. digital VFX/CGI — and what that choice communicates; distinct from all 48 prior lessons, none of which addressed the real-vs-digital production question itself; check for weight/physicality cues (consistent motion blur, believable interaction with real dust/light/shadow) vs. tell-tale digital artifacts (unnaturally clean light integration, motion ignoring momentum), while recognizing most modern blockbusters blend both rather than being purely one or the other) | Mad Max: Fury Road (2015, dir. George Miller, cinematography by John Seale) — Miller maximized genuinely practical, in-camera stunt work (real vehicles, real desert locations, real explosions, real stunt performers for the War Boys' pole-vault attacks and vehicle transfers), reserving CGI mainly for cleanup and enhancement rather than replacement, producing a widely-praised felt weight and danger in the chases that critics consistently contrasted with more digitally-driven contemporary action films |
 | 2026-09-14 | The Insert Shot / Cutaway to Significant Detail (a close-up cutaway to a specific object or detail — a ticking clock, a dripping faucet, a hand reaching for a weapon — inserted into an otherwise wider scene to direct audience attention to something characters may or may not have noticed themselves; distinct from Day 8's Depth of Field & Focus, which concerns what stays sharp within one continuous shot, and Day 13's Shot Scale, which just names shot sizes generally without addressing this specific interruption-of-coverage technique; check what the insert asks the audience to notice that the wide shot alone would miss, whether it builds suspense/forshadows a payoff/supplies withheld information, and whether inserts recur as a directorial rhythm or appear as a single punctuation) | Once Upon a Time in the West (1968, dir. Sergio Leone) — the wordless opening train-station sequence, building nearly ten minutes of tension almost entirely from a rhythmic series of insert shots on mundane environmental details (a dripping water tank, a fly landing on a man's face, a creaking windmill vane, a telegraph key), each held far longer than its literal information requires, manufacturing dread purely out of stillness and accumulated detail |
 | 2026-09-15 | Frame Narrative / Nested Diegesis (Story-within-a-Story) (how many distinct diegetic levels — layers of storytelling nested inside one another — a film constructs, and what happens at the boundary where one level tells/frames another; distinct from Day 6's Narrative Structure, which addresses achronological/non-linear sequencing within one story rather than nested narrating levels, and Day 17's Title Sequence lesson, a compressed thesis delivered before the story proper begins rather than a narrating frame that persists through it; check who narrates each level and to whom, whether the outer frame is a brief bookend or a continuously returned-to presence, and whether the film uses the relationship between levels — which is "true," which is a construction — as its own thematic payload) | Life of Pi (2012, dir. Ang Lee) — adult Pi's frame-narrative retelling of his shipwreck survival to a novelist is upended late in the film when he offers a second, brutally mundane alternate version of the same events and asks which the novelist prefers; the novelist's choice of the tiger story, met with Pi's "And so it goes with God," reframes the entire nested structure as a direct argument for why humans choose meaningful stories over bare fact |
+| 2026-09-16 | Multiple/Conflicting Subjective Narration ("The Rashomon Effect") (asks whether a film presents the same single event more than once through the conflicting, self-interested, or flatly incompatible subjective accounts of different characters who witnessed or took part in it, and whether the film ultimately adjudicates which version is "true" or deliberately withholds that judgment; distinct from Day 51's Frame Narrative/Nested Diegesis, which concerns how many layers of storytelling are nested regardless of whether any layer's content is disputed, and Day 6's Narrative Structure, which addresses achronological sequencing of a single agreed-upon set of events; check how many retellings are staged, whether visual style shifts to mark each teller's psychological coloring of the same space, whether discrepancies are minor or irreconcilable, and whether a stable "objective" baseline version is ever supplied) | Rashomon (1950, dir. Akira Kurosawa) — the film that gave the technique its name, structured around four wholly incompatible eyewitness/participant accounts (a bandit, a samurai's wife, the murdered samurai via a medium, and a woodcutter) of the same rape-and-killing incident, each shot with a subtly different visual/performative register; even the outer-frame woodcutter narrator, seemingly best positioned to know, is later revealed to have lied by omission about his own role, so the film's camera never supplies a fifth "objective" vantage point to settle the matter |
 
 ## Run Notes
+
+**2026-09-16:** STEP 0 run first, before touching git at all: the session's
+own `currentDate` context field/system-reminder for this scheduled firing
+stated 2026-09-15 — a day behind — the fourteenth consecutive occurrence
+of this exact stale-context pattern. Per this file's own STEP 0 policy,
+the system clock was checked independently rather than trusting that
+label: `date -u` read `Tue Sep 15 21:40:52 UTC 2026`, and `TZ=Asia/Taipei
+date` read `Wed Sep 16 05:40:52 CST 2026`, confirming the actual current
+date is 2026-09-16 (Wednesday), a full calendar day ahead of the assigned
+prompt's stated date. This distinction mattered directly and was not a
+mere formality this run: at first glance the portal branch already
+carried a complete, deployed 2026-09-15 entry (briefings/2026-09-15.html,
+spanish-lessons/day-65.html, and all six tracking tables current through
+2026-09-15), which — had the assigned prompt's stated 2026-09-15 been
+trusted as "today" — would have produced `days_owed = 0` and caused this
+run to log a duplicate-firing note and stand down, silently skipping an
+entire day's content. Only because STEP 0 independently checked the
+system clock first was it clear that the real date is one day past the
+portal's latest entry, i.e. `days_owed = (2026-09-16) − (2026-09-15) = 1`
+— a normal single-day gap, not a duplicate firing.
+
+Full branch-recovery procedure was run before any content work, per this
+file's own policy: `list_branches` enumerated all `claude/*` branches
+(newest being `claude/daily-2026-09-15`, alongside numerous older
+orphaned/differently-named branches from this bug's earlier occurrences,
+none carrying any content dated after 2026-09-15). The GitHub
+Pages-deployed portal branch was confirmed directly via the
+`/repos/.../deployments?environment=github-pages` REST API (queried with
+`curl` using the container's `GITHUB_TOKEN`, since this MCP server has no
+dedicated deployments tool): the latest entry with `state: success` (id
+6447200313, created 2026-09-14T21:52:23Z ≈ 2026-09-15 05:52 Taipei)
+deployed commit `084fa45b` on `ref: claude/epic-brahmagupta-g1y16m`. A
+local `git rev-parse` confirmed this is the exact tip of both
+`claude/epic-brahmagupta-g1y16m` and `claude/daily-2026-09-15`, with no
+divergence to reconcile, so `claude/daily-2026-09-16` was branched
+directly from the portal tip.
+
+Market section: by this ~5:40am Taipei Wednesday generation time,
+Tuesday's regular US session had already closed (16:00 ET ≈ 04:00
+Taipei), and Tuesday was also a normal trading day across Asia and
+Taiwan, so all three regions had a genuinely fresh closed session to
+report. US Tuesday close (Dow 52,093.11/-0.63%, S&P 500 7,585.73/-0.45%,
+Nasdaq 25,981.57/-0.78%, stocks pressured by a multiyear-high 10-year
+Treasury yield ahead of Wednesday's Fed decision) and Taiwan's TAIEX
+close (45,511.49/-0.77%, -351.03 points) were each cross-checked
+arithmetically against Monday's already-confirmed closes and found
+exactly consistent (45,862.52 − 351.03 = 45,511.49; 52,421.20 − 328.09 =
+52,093.11). Asia section (Nikkei +0.38% to 63,735 — bucking the regional
+trend on a tech rebound ahead of an anticipated BOJ rate hike to 1.25%;
+Hang Seng −1.0% to 24,667.24; Shanghai −0.54% to 3,864.28) and the
+non-headline KOSPI (−0.85% to 6,627.26, corroborated by two independent
+Seoul Economic Daily reports) were checked against a third, conflicting
+same-date "KOSPI Plunges 3%" search result, judged a stale/intraday-only
+snapshot rather than the confirmed close and flagged as such rather than
+silently discarded.
+
+Content produced today: Spanish Day 66 (a new grammar topic — acabar de
+/ llevar + gerundio / volver a — chosen after confirming via a targeted
+grep of this file that none of the three had been taught in any of the
+prior 65 lessons, despite por/para, comparatives, relative pronouns,
+ser/estar-passive, and the full se-family all already being covered),
+Zhuangzi Essay 2 (齊物論, the natural next chapter in Inner-Chapters
+order following yesterday's 逍遙遊), New Zealand country spotlight, Star
+Wars Kid meme spotlight, Parasite (2019, dir. Bong Joon-ho) film
+spotlight, and "The Rashomon Effect" / multiple subjective narration as
+film-analysis method 52 (worked through Rashomon itself, the film that
+coined the term — confirmed as not a repeat of Day 51's Frame
+Narrative/Nested Diegesis lesson, which tests nested storytelling layers
+rather than conflicting retellings of one event). Country-spotlight note:
+New Zealand's Prime Minister was verified as still Christopher Luxon as
+of this briefing (next election due later in 2026 under the normal
+three-year cycle, not yet held as of this generation time). Updates
+index.html and all six never-repeat tracking tables in ROUTINE_LOG.md.
 
 **2026-09-15:** STEP 0 run first, before touching git at all: the session's
 own `currentDate` context field/system-reminder for this scheduled firing
