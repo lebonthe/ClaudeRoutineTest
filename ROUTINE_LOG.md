@@ -213,6 +213,7 @@ the repo so a permanent link can be shared.
 | 2026-09-14 | 64 | 副詞的構成(Los Adverbios de Modo con -mente) | Steps outside the tense/mood track into another high-frequency word-formation topic, immediately following Day 63's diminutives/augmentatives: manner adverbs formed by taking an adjective's feminine singular form (rápido→rápida, lento→lenta) and adding -mente (rápidamente, lentamente), while adjectives already sharing one form for both genders (normal, fácil, feliz) add -mente directly with no change, preserving any written accent from the base adjective unchanged; core "chain rule" taught: when two or more -mente adverbs modify the same verb joined by y/o/pero, only the last keeps -mente and every earlier one reverts to its plain feminine adjective form (habla rápida y claramente, not rápidamente y claramente); flagged that, like overusing English "-ly" adverbs, stacking too many -mente words in formal Spanish writing reads as heavy, with native writers often substituting de manera + adjective or con + noun instead | spanish-lessons/day-64.html |
 | 2026-09-15 | 65 | Ser 與 Estar 的用法辨析(意義隨動詞改變的形容詞) | Returns to and formally contrasts ser and estar for the first time since they were separately introduced on Day 2 (estar, temporary feelings) and Day 5 (ser, permanent identity/nationality): the core "essence vs. state" logic is demonstrated most sharply by a set of adjectives whose meaning flips entirely depending on the verb — aburrido (ser = boring as a trait, estar = bored right now), listo (ser = clever, estar = ready), malo (ser = bad-natured, estar = sick / spoiled food), rico (ser = wealthy, estar = tasty), verde (ser = green-colored / inexperienced, estar = unripe), vivo (ser = sharp/cunning, estar = alive) — framed not as rote exceptions but as the clearest possible proof that ser/estar is about essence vs. state rather than a fixed word-verb pairing | spanish-lessons/day-65.html |
 | 2026-09-16 | 66 | 常用動詞短語(Perífrasis Verbales: Acabar de / Llevar + Gerundio / Volver a) | Steps outside the ser/estar contrast just completed on Day 65 to fill a foundational everyday-usage gap used implicitly since the earliest lessons but never formally named: three fixed verbal periphrases from the same grammatical family as Day 13's ir a + infinitive and Day 14's estar + gerund — acabar de + infinitive (present-tense conjugated, "to have just done" something, the mirror image of ir a's forward-looking future), llevar + a length of time + gerund ("to have been doing" something for a duration continuing to the present, the natural spoken-Spanish alternative to a literal present-perfect-progressive translation, fixed question form ¿Cuánto tiempo llevas + gerund?), and volver a + infinitive ("to do again," repurposing volver's literal "to return" as a repetition marker, largely interchangeable with adding otra vez/de nuevo) — the three answer independent questions (did this just end? / how long has this continued? / is this happening again?) and freely coexist in one conversation | spanish-lessons/day-66.html |
+| 2026-09-17 | 67 | 數字 11 到 100(Los Números del 11 al 100) | Steps back to fill a foundational gap left open since Day 6's 0-10: numbers 11-15 (once/doce/trece/catorce/quince) are irregular and must be memorized individually; 16-19 and 21-29 follow a predictable diez-/veinti- + digit pattern but are still fused into a single word (a scattered subset — dieciséis, veintidós, veintitrés, veintiséis — requiring a written accent); from 30 onward the fusion rule stops entirely and decades combine with units via a mandatory "y" as three separate words (treinta y uno, never a fused "treintaiuno"); also covers uno's gender apocope inside compound numbers (veintiún años / treinta y una personas) and the cien-vs-ciento split (cien alone or before a noun for exactly 100, ciento inside any 101-199 compound) | spanish-lessons/day-67.html |
 
 Note: a duplicate "Day 2" lesson (ser/¿De dónde eres?, i.e. the same topic
 as Day 5) was independently produced on 2026-07-14 on an orphaned branch
@@ -305,6 +306,7 @@ repeated. Before choosing today's piece, check this table.
 |------|-----------|-------------------|
 | 2026-09-15 | 逍遙遊 (Xiāoyáo Yóu) — "Free and Easy Wandering" | Inner Chapters (內篇), Ch. 1 |
 | 2026-09-16 | 齊物論 (Qíwù Lùn) — "On the Equality of Things" | Inner Chapters (內篇), Ch. 2 |
+| 2026-09-17 | 養生主 (Yǎngshēng Zhǔ) — "The Secret of Caring for Life" (featuring Cook Ding's Butchering of an Ox, 庖丁解牛) | Inner Chapters (內篇), Ch. 3 |
 
 ## Country/Region/Faction Spotlights Featured
 
@@ -371,6 +373,7 @@ repeated. Before choosing today's piece, check this table.
 | 2026-09-14 | Croatia (克羅埃西亞) |
 | 2026-09-15 | Serbia (塞爾維亞) |
 | 2026-09-16 | New Zealand (紐西蘭) |
+| 2026-09-17 | Netherlands (荷蘭) |
 
 ## Internet Meme Spotlights Featured
 
@@ -437,6 +440,7 @@ repeated. Before choosing today's piece, check this table.
 | 2026-09-14 | Overly Attached Girlfriend |
 | 2026-09-15 | The Bed Intruder Song / Antoine Dodson |
 | 2026-09-16 | Star Wars Kid |
+| 2026-09-17 | Chocolate Rain (Tay Zonday) |
 
 ## Film / Performing Arts Spotlights Featured
 
@@ -501,6 +505,7 @@ and never repeat a subject already listed.
 | 2026-09-14 | The Cabinet of Dr. Caligari (卡里加利博士的小屋, 1920, dir. Robert Wiene) |
 | 2026-09-15 | Ran (亂, 1985, dir. Akira Kurosawa) |
 | 2026-09-16 | Parasite (기생충, 2019, dir. Bong Joon-ho) |
+| 2026-09-17 | The Passion of Joan of Arc (La Passion de Jeanne d'Arc, 1928, dir. Carl Theodor Dreyer) |
 
 ## Film-Appreciation / Criticism Method Lessons
 
@@ -567,8 +572,88 @@ table and pick one not yet covered.
 | 2026-09-14 | The Insert Shot / Cutaway to Significant Detail (a close-up cutaway to a specific object or detail — a ticking clock, a dripping faucet, a hand reaching for a weapon — inserted into an otherwise wider scene to direct audience attention to something characters may or may not have noticed themselves; distinct from Day 8's Depth of Field & Focus, which concerns what stays sharp within one continuous shot, and Day 13's Shot Scale, which just names shot sizes generally without addressing this specific interruption-of-coverage technique; check what the insert asks the audience to notice that the wide shot alone would miss, whether it builds suspense/forshadows a payoff/supplies withheld information, and whether inserts recur as a directorial rhythm or appear as a single punctuation) | Once Upon a Time in the West (1968, dir. Sergio Leone) — the wordless opening train-station sequence, building nearly ten minutes of tension almost entirely from a rhythmic series of insert shots on mundane environmental details (a dripping water tank, a fly landing on a man's face, a creaking windmill vane, a telegraph key), each held far longer than its literal information requires, manufacturing dread purely out of stillness and accumulated detail |
 | 2026-09-15 | Frame Narrative / Nested Diegesis (Story-within-a-Story) (how many distinct diegetic levels — layers of storytelling nested inside one another — a film constructs, and what happens at the boundary where one level tells/frames another; distinct from Day 6's Narrative Structure, which addresses achronological/non-linear sequencing within one story rather than nested narrating levels, and Day 17's Title Sequence lesson, a compressed thesis delivered before the story proper begins rather than a narrating frame that persists through it; check who narrates each level and to whom, whether the outer frame is a brief bookend or a continuously returned-to presence, and whether the film uses the relationship between levels — which is "true," which is a construction — as its own thematic payload) | Life of Pi (2012, dir. Ang Lee) — adult Pi's frame-narrative retelling of his shipwreck survival to a novelist is upended late in the film when he offers a second, brutally mundane alternate version of the same events and asks which the novelist prefers; the novelist's choice of the tiger story, met with Pi's "And so it goes with God," reframes the entire nested structure as a direct argument for why humans choose meaningful stories over bare fact |
 | 2026-09-16 | Multiple/Conflicting Subjective Narration ("The Rashomon Effect") (asks whether a film presents the same single event more than once through the conflicting, self-interested, or flatly incompatible subjective accounts of different characters who witnessed or took part in it, and whether the film ultimately adjudicates which version is "true" or deliberately withholds that judgment; distinct from Day 51's Frame Narrative/Nested Diegesis, which concerns how many layers of storytelling are nested regardless of whether any layer's content is disputed, and Day 6's Narrative Structure, which addresses achronological sequencing of a single agreed-upon set of events; check how many retellings are staged, whether visual style shifts to mark each teller's psychological coloring of the same space, whether discrepancies are minor or irreconcilable, and whether a stable "objective" baseline version is ever supplied) | Rashomon (1950, dir. Akira Kurosawa) — the film that gave the technique its name, structured around four wholly incompatible eyewitness/participant accounts (a bandit, a samurai's wife, the murdered samurai via a medium, and a woodcutter) of the same rape-and-killing incident, each shot with a subtly different visual/performative register; even the outer-frame woodcutter narrator, seemingly best positioned to know, is later revealed to have lied by omission about his own role, so the film's camera never supplies a fifth "objective" vantage point to settle the matter |
+| 2026-09-17 | Match Dissolve / Superimposed Cross-Dissolve as Transition (a sustained cross-dissolve — the outgoing shot fading out while the incoming shot simultaneously fades in, overlapping for an extended beat rather than an instantaneous replacement — that lets a specific compositional element (a shape, silhouette, or figure's position) stay visually anchored across the transition while everything else transforms around it; distinct from Day 11's Match Cut & Graphic Match, an instantaneous hard cut with no overlap, and Day 29's Ellipsis, which smooths over skipped story time without requiring any positional/compositional rhyme during the transition itself; check what element stays anchored through the overlap, and whether the dissolve is doing meaningful representational work or is a simple scene change) | The Wizard of Oz (1939, dir. Victor Fleming) — the sepia-toned Kansas farmhouse doorway cross-dissolving into the Technicolor world of Munchkinland, a sepia-costumed stand-in dissolving out while Judy Garland in full color dissolves in at the same framed position, so the doorway's silhouette and Dorothy's central position remain the one constant anchor throughout the entire color transformation |
 
 ## Run Notes
+
+**2026-09-17:** STEP 0 run first, before touching git at all: the assigned
+prompt's own stated date was 2026-09-16 — a day behind — the fifteenth
+consecutive occurrence of this exact stale-date pattern. Per this file's
+own STEP 0 policy, the system clock was checked independently rather than
+trusting that label: `date -u` read `Wed Sep 16 21:40:06 UTC 2026`, and
+`TZ=Asia/Taipei date` read `Thu Sep 17 05:40:06 CST 2026`, confirming the
+actual current date is 2026-09-17 (Thursday), a full calendar day ahead of
+the assigned prompt's stated date. As on several recent occurrences, this
+distinction mattered directly rather than being a mere formality: the
+portal branch already carried a complete, deployed 2026-09-16 entry
+(briefings/2026-09-16.html, spanish-lessons/day-66.html, and all six
+tracking tables current through 2026-09-16) — had the assigned prompt's
+stated 2026-09-16 been trusted as "today," this would have produced
+`days_owed = 0` and caused this run to log a duplicate-firing note and
+stand down, silently skipping an entire day's content. Only because
+STEP 0 independently checked the system clock first was it clear that
+`days_owed = (2026-09-17) − (2026-09-16) = 1` — a normal single-day gap,
+not a duplicate firing.
+
+Full branch-recovery procedure was run before any content work, per this
+file's own policy: `list_branches` enumerated all `claude/*` branches
+(newest daily branch being `claude/daily-2026-09-16`, alongside numerous
+older orphaned/differently-named branches from this bug's earlier
+occurrences, none carrying any content dated after 2026-09-16). The
+GitHub Pages-deployed portal branch was confirmed directly via the
+`/repos/.../deployments?environment=github-pages` REST API (queried with
+`curl` using the container's `GITHUB_TOKEN`, since this MCP server has no
+dedicated deployments tool): the latest entry with `state: success` (id
+6469236539, created 2026-09-15T21:54:18Z ≈ 2026-09-16 05:54 Taipei)
+deployed commit `398b347d` on `ref: claude/epic-brahmagupta-g1y16m`. This
+is the exact tip of both that branch and `claude/daily-2026-09-16`, with
+no divergence to reconcile, so `claude/daily-2026-09-17` was branched
+directly from the portal tip.
+
+Market section: by this ~5:40am Taipei Thursday generation time,
+Wednesday's regular US session had already closed (16:00 ET ≈ 04:00
+Taipei), and Wednesday was also a normal trading day across Asia and
+Taiwan, so all three regions had a genuinely fresh closed session to
+report. US Wednesday close (Dow 51,461.90/-1.21%, S&P 500 7,551.81/-0.45%,
+Nasdaq 25,978.42/-0.01%) was driven by the Federal Reserve hiking interest
+rates for the first time in three years, with Fed Chair Kevin Warsh
+flagging persistent inflation risk; the Dow figure was cross-checked
+arithmetically against Tuesday's already-confirmed close and found exactly
+consistent (52,093.11 − 631.21 = 51,461.90). Asia section (Nikkei
++0.69% to 63,923.00, Shanghai +0.71% to 3,891.60, Hang Seng +0.19% to
+24,713.78) was independently corroborated across two separate search
+passes with identical figures, no discrepancy this round. KOSPI (+1.37%
+to 6,717.97, rebounding past 6,700 after a four-day losing streak despite
+continued foreign selling) was corroborated across three independent
+sources with no conflicting numbers this round — a contrast with an
+earlier briefing this month where a KOSPI figure required flagging as
+unreliable. Taiwan's TAIEX required an active re-query: an initial search
+pass returned a figure (45,639.14, +223.38/+0.49%) that did not reconcile
+arithmetically with Tuesday's confirmed close, triggering this routine's
+policy of treating a mismatched same-session number as a stale/mislabeled
+signal rather than normal noise; a second, more targeted search pass
+returned 45,848.90 (+337.41/+0.74%), independently corroborated across
+four separate Taiwan financial-media sources and exactly reconciling with
+Tuesday's confirmed close (45,511.49 + 337.41 = 45,848.90), which was
+adopted as the confirmed figure.
+
+Content produced today: Spanish Day 67 (numbers 11-100, a foundational
+gap left open since Day 6's 0-10 — confirmed via a targeted grep of this
+file that no prior lesson had covered numbers beyond ten), Zhuangzi Essay
+3 (養生主, featuring the Cook Ding/庖丁解牛 parable, the natural next
+Inner Chapter following Essay 2's 齊物論), Netherlands country spotlight,
+Chocolate Rain (Tay Zonday) meme spotlight, The Passion of Joan of Arc
+(1928, dir. Carl Theodor Dreyer) film spotlight, and Match Dissolve /
+Superimposed Cross-Dissolve as film-analysis method 53 (worked through
+The Wizard of Oz's sepia-to-Technicolor doorway transition). Country-
+spotlight note: the Netherlands' current Prime Minister was verified as
+Rob Jetten (D66), sworn in Feb 23, 2026 as the country's youngest-ever PM
+atop a first-in-decades minority coalition (D66/VVD/CDA) — confirmed via
+a targeted search rather than relied upon from training-data-era
+knowledge, since a cabinet change of this kind falls squarely inside the
+gap between the model's knowledge cutoff and this routine's fictional
+current date. Updates index.html and all six never-repeat tracking tables
+in ROUTINE_LOG.md.
 
 **2026-09-16:** STEP 0 run first, before touching git at all: the session's
 own `currentDate` context field/system-reminder for this scheduled firing
