@@ -576,6 +576,37 @@ table and pick one not yet covered.
 
 ## Run Notes
 
+**2026-09-17 (second firing):** STEP 0 run first, before touching git at
+all, per this file's own policy — even though the portal branch looked
+freshly updated. The scheduled prompt's own stated date parameter again
+read 2026-09-17; the session's current-date context also confirmed
+2026-09-17, so no stale-date correction was needed this time. Full
+branch-recovery procedure was run regardless: `list_branches` enumerated
+all `claude/*` branches (newest daily branch already `claude/daily-2026-09-17`),
+and the `pages-build-deployment` Actions workflow history was checked
+directly (rather than trusting the repository's `default_branch` field
+or the live Pages URL, which is unreliable from inside sessions) — the
+most recent successful run (#69, deployed 2026-09-16T22:02:22Z UTC ≈
+2026-09-17 06:02 Taipei) had already deployed commit `68a6df5` on
+`claude/epic-brahmagupta-g1y16m`, titled "Update index.html: add
+2026-09-17 row and Run Notes note." Confirmed via `briefings/`,
+`spanish-lessons/`, and this file's six tracking tables that a complete,
+non-stub 2026-09-17 entry was already present and live (Spanish Day 67 —
+numbers 11-100, Zhuangzi Essay 養生主 / Cook Ding, Netherlands spotlight,
+Chocolate Rain meme, The Passion of Joan of Arc film spotlight, and Match
+Dissolve as film-analysis method), matching the tip of both
+`claude/daily-2026-09-17` and the portal branch exactly, with no
+divergence to reconcile.
+
+`days_owed = (2026-09-17) − (2026-09-17) = 0`. Per this file's own STEP 0
+policy, this is a genuine duplicate same-day scheduler firing: this run
+produces no new briefing, Spanish lesson, hexagram/Zhuangzi entry,
+country/meme/film spotlight, or film-analysis method, and does not
+advance any of the six never-repeat sequences a second time. This note
+is logged and the run stands down. No push notification was sent for
+this firing, consistent with not paging the user over a run that found
+nothing new to report.
+
 **2026-09-17:** STEP 0 run first, before touching git at all: the assigned
 prompt's own stated date was 2026-09-16 — a day behind — the fifteenth
 consecutive occurrence of this exact stale-date pattern. Per this file's
