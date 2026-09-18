@@ -45,6 +45,7 @@
 <b>備註(2026-09-15):</b> 排程本次觸發時,指派的日期參數本身就標示錯誤日期(顯示 2026-09-14,即前一日)——這是第十三次連續出現同樣的落差模式。STEP 0 依規定直接以系統時鐘覆核(<code>date -u</code> 讀數 2026-09-14 21:40 UTC,換算 <code>TZ=Asia/Taipei</code> 即為 2026-09-15 05:40,週二),確認實際日期其實已經是 2026-09-15,而非重複執行 09-14——若當時直接信任指派的日期參數,將會誤判 days_owed = 0、把本應產出的一整天內容誤認為重複執行而略過不產出。portal 分支(<code>claude/epic-brahmagupta-g1y16m</code>)最新內容僅到 2026-09-14,days_owed = 1,屬正常單日進度,因此本次直接從 portal 分支尖端切出新分支。由於本篇簡報產出時,週一美股已收盤、且台股與亞股週一交易日也已結束,三大市場自週五以來首度全面擁有真正嶄新的收盤數據可供報導(美股道瓊/標普/那斯達克三指數普遍走跌,台股加權指數跌 0.70% 收 45,862.52 點,亞股恒生逆勢上漲、日經與上證小跌),導火線是 Anthropic 與 OpenAI 執行長週末聯合呼籲「放緩前沿 AI 發展步調」一事,週一正式衝擊市場。<b>本單元自第 64 卦完成整部易經王本卦序後,今日起正式改為介紹莊子散文/詩作,第一篇為〈逍遙遊〉。</b>詳見 <code>ROUTINE_LOG.md</code> 的 Run Notes。<br>
 <b>備註(2026-09-16):</b> 排程本次觸發時,指派的日期參數本身再度標示錯誤日期(顯示 2026-09-15,即前一日)——這是第十四次連續出現同樣的落差模式。STEP 0 依規定直接以系統時鐘覆核(<code>date -u</code> 讀數 2026-09-15 21:40 UTC,換算 <code>TZ=Asia/Taipei</code> 即為 2026-09-16 05:40,週三),確認實際日期其實已經是 2026-09-16,而非重複執行 09-15——這次的差異並非單純形式問題:portal 分支當時已有完整、已部署的 2026-09-15 內容,若直接信任指派的日期參數,將會誤判 days_owed = 0,把本應產出的 09-16 內容誤認為重複執行而略過不產出。改以系統時鐘覆核後,確認 days_owed = (2026-09-16) − (2026-09-15) = 1,屬正常單日進度。執行前重新核對了所有 <code>claude/*</code> 分支,並直接以 <code>/repos/.../deployments?environment=github-pages</code> API(以容器內建 <code>GITHUB_TOKEN</code> 透過 <code>curl</code> 查詢,因本次 GitHub MCP 伺服器並未提供專屬的 deployments 工具)確認最新一筆 <code>state: success</code> 部署(commit <code>084fa45b</code>)與 <code>claude/epic-brahmagupta-g1y16m</code>、<code>claude/daily-2026-09-15</code> 兩分支尖端完全一致,並無分歧,因此本次直接從 portal 分支尖端切出新分支。美股週二收盤數據(道瓊 -0.63%、標普 -0.45%、那斯達克 -0.78%,聯準會利率決議前殖利率升高所致)與台股週二收盤數據(跌 351.03 點至 45,511.49 點)皆已與週一已確認收盤價做加減法交叉核對,結果分毫不差;南韓 KOSPI 出現一則與另兩則獨立來源矛盾的「重挫 3%」搜尋結果,經判斷為過時/僅反映盤中快照的數據,予以明確標註而非悄悄採用。詳見 <code>ROUTINE_LOG.md</code> 的 Run Notes。
 <b>備註(2026-09-17):</b> 排程本次觸發時,指派的日期參數本身第十五次連續標示錯誤日期(顯示 2026-09-16,即前一日)。STEP 0 依規定直接以系統時鐘覆核(<code>date -u</code> 讀數 2026-09-16 21:40:06 UTC,換算 <code>TZ=Asia/Taipei</code> 即為 2026-09-17 05:40:06,週四),確認實際日期其實已經是 2026-09-17,而非重複執行 09-16——這次的差異同樣直接造成實質影響:portal 分支當時已有完整、已部署的 2026-09-16 內容,若直接信任指派的日期參數,將會誤判 days_owed = 0,把本應產出的 09-17 內容誤認為重複執行而略過不產出。改以系統時鐘覆核後,確認 days_owed = (2026-09-17) − (2026-09-16) = 1,屬正常單日進度。執行前重新核對了所有 <code>claude/*</code> 分支,並直接以 <code>/repos/.../deployments?environment=github-pages</code> API(以容器內建 <code>GITHUB_TOKEN</code> 透過 <code>curl</code> 查詢)確認最新一筆 <code>state: success</code> 部署(commit <code>398b347d</code>)與 <code>claude/epic-brahmagupta-g1y16m</code>、<code>claude/daily-2026-09-16</code> 兩分支尖端完全一致,並無分歧,因此本次直接從 portal 分支尖端切出新分支。台股數據研究過程中,第一輪搜尋出現一則與週二已確認收盤價加減法對不上的矛盾數字(45,639.14 點),依政策捨棄並以第二輪搜尋、經四個獨立台灣財經媒體來源印證的 45,848.90 點(+337.41,+0.74%)取代。詳見 <code>ROUTINE_LOG.md</code> 的 Run Notes。<br>
+<b>備註(2026-09-19):</b> 排程本次觸發時,session 自身的「目前日期」context 第十六次連續標示錯誤日期(顯示 2026-09-18,即前一日)。STEP 0 依規定直接以系統時鐘覆核(<code>date -u</code> 讀數 2026-09-18 21:39:43 UTC,換算 <code>TZ=Asia/Taipei</code> 即為 2026-09-19 05:39:43,週六),確認實際日期其實已經是 2026-09-19。Portal 分支最新內容確認仍停留在 2026-09-17(與 <code>claude/daily-2026-09-17-duplicate-check-2</code> 分支尖端 commit <code>0f471c2</code> 完全一致,經 <code>/repos/.../deployments?environment=github-pages</code> API 重新核實),<b>days_owed = (2026-09-19) − (2026-09-17) = 2</b>——並無 2026-09-18 這一天的任何分支或內容存在,依本檔案政策於 Run Notes 中註明此落差,本次僅產出 2026-09-19 這一天的內容,不回補 09-18。由於本篇簡報產出時已是台北時間週六清晨,三大市場「最近一次收盤」皆為週五(9 月 18 日):美股道瓊小跌 0.18%、標普與那斯達克小漲;亞股全面上漲(日經 +1.38%、恒生 +0.60%、上證 +0.94%、KOSPI +2.66%);台股大漲 892.75 點(+1.93%)重返 47,000 點。核對台股數據時,發現本檔案 2026-09-17 那篇簡報所刊載的台股收盤數字(45,848.90 點)與本次獨立查證到的週四實際收盤價(46,288.00 點)無法透過加減法互相吻合,可能是當時的搜尋結果本身即為過時或誤植的數據;本次不回頭更動 2026-09-17 的既有內容,但已在本篇簡報與 <code>ROUTINE_LOG.md</code> 的 Run Notes 中明確揭露此矛盾,並採用本次獨立核實、可與週五數字完全吻合的數據作為今日基準。本次也將 <code>ROUTINE_LOG.md</code> 的 Run Notes(已成長至 11 筆、約 49KB)依政策歸檔至新建的 <code>ROUTINE_LOG_ARCHIVE_7.md</code>。詳見 <code>ROUTINE_LOG.md</code> 的 Run Notes。<br>
 </div>
 
 <h2>📅 每日內容一覽</h2>
@@ -62,6 +63,16 @@
 </tr>
 </thead>
 <tbody>
+<tr>
+<td>2026-09-19</td>
+<td><a href="briefings/2026-09-19.html">briefings/2026-09-19.html</a></td>
+<td><a href="spanish-lessons/day-68.html">Day 68 — 數字 100 以上(Los Números 100+: Centenas y Miles)</a></td>
+<td>莊子·人間世 (Rén Jiān Shì) — In the World of Men</td>
+<td>瑞士 (Switzerland)</td>
+<td>Numa Numa</td>
+<td>《悲情城市》A City of Sadness(1989,dir. Hou Hsiao-hsien)</td>
+<td>虹膜光圈轉場 The Iris Shot (Iris In / Iris Out)</td>
+</tr>
 <tr>
 <td>2026-09-17</td>
 <td><a href="briefings/2026-09-17.html">briefings/2026-09-17.html</a></td>
