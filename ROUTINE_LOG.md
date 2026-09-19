@@ -675,6 +675,33 @@ Entries 2026-09-09 through 2026-09-16 have accordingly been moved to a
 new `ROUTINE_LOG_ARCHIVE_7.md`, leaving only the three most recent
 entries (this one, plus both 2026-09-17 entries) in this file.
 
+**2026-09-19 (second firing):** STEP 0 run first, before touching git at
+all, per this file's own policy. The session's own current-date context
+this time stated 2026-09-19 correctly (no stale-context drift on this
+firing). Full branch-recovery procedure was run regardless: all `claude/*`
+branches were re-enumerated via `list_branches`, and the GitHub
+Pages-deployed portal branch was reconfirmed via the
+`/repos/.../deployments?environment=github-pages` REST API (queried with
+`curl` using the container's `GH_TOKEN`): the latest entry with
+`state: success` (id 6533457111, created 2026-09-18T21:56:55Z ≈
+2026-09-19 05:56 Taipei) deployed commit `9aadef6c` on
+`ref: claude/epic-brahmagupta-g1y16m`. This commit exactly matches the tip
+of `claude/daily-2026-09-19` (the branch that produced today's real
+content: Spanish Day 68, Zhuangzi Essay 4, Switzerland, Numa Numa, A City
+of Sadness, The Iris Shot — all confirmed present in `briefings/2026-09-19.html`,
+the Spanish/Zhuangzi/country/meme/film/method tracking tables above, and
+this file's own immediately-preceding 2026-09-19 Run Notes entry), with no
+divergence across branches to reconcile.
+
+`days_owed = (2026-09-19) − (2026-09-19) = 0`. Per this file's own STEP 0
+policy, this is a genuine duplicate same-day firing: no second day's
+content was produced, and the Spanish/Zhuangzi/country/meme/film/method
+sequences were not advanced a second time. This branch
+(`claude/daily-2026-09-19-duplicate-check`) exists solely to record this
+note and was branched directly from the portal tip; per this run's
+`SendUserFile`/notification guidance for scheduled routines, no push
+notification was sent for this firing since nothing new was produced.
+
 **2026-09-17 (second firing):** STEP 0 run first, before touching git at
 all, per this file's own policy — even though the portal branch looked
 freshly updated. The scheduled prompt's own stated date parameter again
