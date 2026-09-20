@@ -215,6 +215,7 @@ the repo so a permanent link can be shared.
 | 2026-09-16 | 66 | 常用動詞短語(Perífrasis Verbales: Acabar de / Llevar + Gerundio / Volver a) | Steps outside the ser/estar contrast just completed on Day 65 to fill a foundational everyday-usage gap used implicitly since the earliest lessons but never formally named: three fixed verbal periphrases from the same grammatical family as Day 13's ir a + infinitive and Day 14's estar + gerund — acabar de + infinitive (present-tense conjugated, "to have just done" something, the mirror image of ir a's forward-looking future), llevar + a length of time + gerund ("to have been doing" something for a duration continuing to the present, the natural spoken-Spanish alternative to a literal present-perfect-progressive translation, fixed question form ¿Cuánto tiempo llevas + gerund?), and volver a + infinitive ("to do again," repurposing volver's literal "to return" as a repetition marker, largely interchangeable with adding otra vez/de nuevo) — the three answer independent questions (did this just end? / how long has this continued? / is this happening again?) and freely coexist in one conversation | spanish-lessons/day-66.html |
 | 2026-09-17 | 67 | 數字 11 到 100(Los Números del 11 al 100) | Steps back to fill a foundational gap left open since Day 6's 0-10: numbers 11-15 (once/doce/trece/catorce/quince) are irregular and must be memorized individually; 16-19 and 21-29 follow a predictable diez-/veinti- + digit pattern but are still fused into a single word (a scattered subset — dieciséis, veintidós, veintitrés, veintiséis — requiring a written accent); from 30 onward the fusion rule stops entirely and decades combine with units via a mandatory "y" as three separate words (treinta y uno, never a fused "treintaiuno"); also covers uno's gender apocope inside compound numbers (veintiún años / treinta y una personas) and the cien-vs-ciento split (cien alone or before a noun for exactly 100, ciento inside any 101-199 compound) | spanish-lessons/day-67.html |
 | 2026-09-19 | 68 | 數字 100 以上:百位數與千位數(Los Números 100+: Centenas y Miles) | Continues directly from Day 67's 11-100: hundreds 200-900 (doscientos, trescientos, cuatrocientos, quinientos, seiscientos, setecientos, ochocientos, novecientos) are the only multi-digit numbers besides uno that agree in gender with the noun counted (quinientas personas vs. quinientos dólares) — a genuinely new rule, since every number from dos through noventa y nueve stays invariable regardless of the noun's gender; three of the eight are irregular spellings not derivable by simply appending -cientos (500 quinientos, 700 setecientos, 900 novecientos); mil (thousand) is invariable and never pluralizes before a smaller number (dos mil, not "dos miles"), with a hundred-word's gender agreement reaching through mil to the final noun (quinientas mil personas); years are read as one continuous number rather than split into two-digit pairs the way English does (1998 = mil novecientos noventa y ocho, never "nineteen ninety-eight"-style) | spanish-lessons/day-68.html |
+| 2026-09-20 | 69 | 序數詞(Los Números Ordinales) | Steps outside the Day 67-68 cardinal-number track into a structurally distinct system: ordinals 1st-10th (primero, segundo, tercero, cuarto, quinto, sexto, séptimo, octavo, noveno, décimo) function as ordinary adjectives, agreeing in BOTH gender and number with the noun described (los primeros meses) — unlike Day 68's hundreds, which agree in gender only; primero and tercero apocopate (drop the final -o) immediately before a masculine singular noun (el primer día, el tercer piso, never "el primero día"); usage collapses sharply after décimo, with everyday speech switching to Day 67-68's cardinal numbers instead, placed AFTER the noun (el siglo veintiuno, not the technically-correct-but-rare vigésimo primero) — the same substitution applies to floor numbers, book chapters, and royal/papal regnal numbers beyond the tenth | spanish-lessons/day-69.html |
 
 Note: a duplicate "Day 2" lesson (ser/¿De dónde eres?, i.e. the same topic
 as Day 5) was independently produced on 2026-07-14 on an orphaned branch
@@ -309,6 +310,7 @@ repeated. Before choosing today's piece, check this table.
 | 2026-09-16 | 齊物論 (Qíwù Lùn) — "On the Equality of Things" | Inner Chapters (內篇), Ch. 2 |
 | 2026-09-17 | 養生主 (Yǎngshēng Zhǔ) — "The Secret of Caring for Life" (featuring Cook Ding's Butchering of an Ox, 庖丁解牛) | Inner Chapters (內篇), Ch. 3 |
 | 2026-09-19 | 人間世 (Rén Jiān Shì) — "In the World of Men" (featuring the fasting of the mind 心齋, the useless sacred oak, and Zhili Shu 支離疏) | Inner Chapters (內篇), Ch. 4 |
+| 2026-09-20 | 德充符 (Dé Chōng Fú) — "The Sign of Virtue Complete" (featuring Wang Tai 王駘, Shentu Jia 申徒嘉, Shushan the Toeless 叔山無趾, Ai Tai To 哀駘它, and the closing Zhuangzi-Huizi dialogue on being "without feeling" 無情) | Inner Chapters (內篇), Ch. 5 |
 
 ## Country/Region/Faction Spotlights Featured
 
@@ -377,6 +379,7 @@ repeated. Before choosing today's piece, check this table.
 | 2026-09-16 | New Zealand (紐西蘭) |
 | 2026-09-17 | Netherlands (荷蘭) |
 | 2026-09-19 | Switzerland (瑞士) |
+| 2026-09-20 | Mexico (墨西哥) |
 
 ## Internet Meme Spotlights Featured
 
@@ -445,6 +448,7 @@ repeated. Before choosing today's piece, check this table.
 | 2026-09-16 | Star Wars Kid |
 | 2026-09-17 | Chocolate Rain (Tay Zonday) |
 | 2026-09-19 | Numa Numa (Gary Brolsma) |
+| 2026-09-20 | 打工人 (Dǎgōngrén, "Wage Worker") |
 
 ## Film / Performing Arts Spotlights Featured
 
@@ -511,6 +515,7 @@ and never repeat a subject already listed.
 | 2026-09-16 | Parasite (기생충, 2019, dir. Bong Joon-ho) |
 | 2026-09-17 | The Passion of Joan of Arc (La Passion de Jeanne d'Arc, 1928, dir. Carl Theodor Dreyer) |
 | 2026-09-19 | A City of Sadness (悲情城市, 1989, dir. Hou Hsiao-hsien) |
+| 2026-09-20 | Battleship Potemkin (Броненосец «Потёмкин», 1925, dir. Sergei Eisenstein) |
 
 ## Film-Appreciation / Criticism Method Lessons
 
@@ -579,6 +584,7 @@ table and pick one not yet covered.
 | 2026-09-16 | Multiple/Conflicting Subjective Narration ("The Rashomon Effect") (asks whether a film presents the same single event more than once through the conflicting, self-interested, or flatly incompatible subjective accounts of different characters who witnessed or took part in it, and whether the film ultimately adjudicates which version is "true" or deliberately withholds that judgment; distinct from Day 51's Frame Narrative/Nested Diegesis, which concerns how many layers of storytelling are nested regardless of whether any layer's content is disputed, and Day 6's Narrative Structure, which addresses achronological sequencing of a single agreed-upon set of events; check how many retellings are staged, whether visual style shifts to mark each teller's psychological coloring of the same space, whether discrepancies are minor or irreconcilable, and whether a stable "objective" baseline version is ever supplied) | Rashomon (1950, dir. Akira Kurosawa) — the film that gave the technique its name, structured around four wholly incompatible eyewitness/participant accounts (a bandit, a samurai's wife, the murdered samurai via a medium, and a woodcutter) of the same rape-and-killing incident, each shot with a subtly different visual/performative register; even the outer-frame woodcutter narrator, seemingly best positioned to know, is later revealed to have lied by omission about his own role, so the film's camera never supplies a fifth "objective" vantage point to settle the matter |
 | 2026-09-17 | Match Dissolve / Superimposed Cross-Dissolve as Transition (a sustained cross-dissolve — the outgoing shot fading out while the incoming shot simultaneously fades in, overlapping for an extended beat rather than an instantaneous replacement — that lets a specific compositional element (a shape, silhouette, or figure's position) stay visually anchored across the transition while everything else transforms around it; distinct from Day 11's Match Cut & Graphic Match, an instantaneous hard cut with no overlap, and Day 29's Ellipsis, which smooths over skipped story time without requiring any positional/compositional rhyme during the transition itself; check what element stays anchored through the overlap, and whether the dissolve is doing meaningful representational work or is a simple scene change) | The Wizard of Oz (1939, dir. Victor Fleming) — the sepia-toned Kansas farmhouse doorway cross-dissolving into the Technicolor world of Munchkinland, a sepia-costumed stand-in dissolving out while Judy Garland in full color dissolves in at the same framed position, so the doorway's silhouette and Dorothy's central position remain the one constant anchor throughout the entire color transformation |
 | 2026-09-19 | The Iris Shot (Iris In / Iris Out) (a circular mask that closes down from the frame's edges to a single point, or opens outward from a point to fill the frame — either isolating a specific detail/character within an otherwise wide shot by narrowing attention onto it, or serving as scene-opening/closing punctuation in place of a straight cut or fade; pioneered/popularized by D.W. Griffith and cinematographer Billy Bitzer in the mid-1910s, decades before Day 46's Wipe or Day 53's Match Dissolve existed as alternatives; distinct from Day 8's Framing & Composition, a property of the camera's own fixed frame rather than a masking device layered onto it, and Day 41's Split Screen, which divides the frame into simultaneous panels rather than narrowing to/from a single point; check whether the iris directs attention to one detail within a continuing shot or serves purely as transitional punctuation, and whether its retro/silent-era connotation is played straight or knowingly nostalgic) | Intolerance (1916, dir. D.W. Griffith, cinematography by Billy Bitzer) — within the film's elaborately-detailed ancient Babylon sequences, built at enormous real-world scale with thousands of extras, Griffith and Bitzer repeatedly iris the frame down from the full, teeming spectacle to a single soldier, face, or object, directing attention onto one human-scale detail before irising back out to re-establish the epic scale of the set and crowd around it — an early demonstration that the iris could function as a directed-attention device within a shot, not merely a transition between them |
+| 2026-09-20 | The Kuleshov Effect (audiences derive an implied emotion or meaning not from a single shot's isolated content but from its juxtaposition with the shots immediately around it — identical footage, recut into a different sequence, reads as an entirely different feeling; named for Soviet filmmaker/theorist Lev Kuleshov, a contemporary of Battleship Potemkin's Sergei Eisenstein within the same Soviet Montage movement, and the foundational proof-of-concept behind Eisenstein's later "intellectual montage"; distinct from Day 11's Match Cut & Graphic Match and Day 24's Match on Action, which concern visual/motion continuity across a cut rather than meaning generated purely by adjacency, and from generic Editing & Montage, which this lesson narrows into one specific, testable mechanism; check what emotional/narrative information a shot seems to carry purely because of its neighboring shots, and whether the same shot recut elsewhere would read differently) | Lev Kuleshov's 1918 experiment at the Moscow Film School — a single expressionless close-up of actor Ivan Mozzhukhin's face was intercut, in three separate short sequences, with a bowl of soup, a girl in a coffin, and a woman reclining on a divan; test audiences praised Mozzhukhin's "acting," reporting hunger, grief, and desire respectively in the three otherwise frame-for-frame-identical sequences — a clean historical demonstration that a shot's perceived meaning is manufactured largely by editorial context, the same mechanism Eisenstein scaled up seven years later in Potemkin's Odessa Steps |
 
 ## Run Notes
 
@@ -811,6 +817,77 @@ knowledge, since a cabinet change of this kind falls squarely inside the
 gap between the model's knowledge cutoff and this routine's fictional
 current date. Updates index.html and all six never-repeat tracking tables
 in ROUTINE_LOG.md.
+
+**2026-09-20:** STEP 0 run first, per policy. The session's own
+current-date context matched the system clock this run (no stale-context
+discrepancy for the first time in seventeen runs): `TZ=Asia/Taipei date`
+confirmed 2026-09-20, a Sunday. The portal branch
+(`claude/epic-brahmagupta-g1y16m`) was re-fetched and its latest content
+confirmed at 2026-09-19 (commit `95b14ec`, "Log duplicate same-day firing
+for 2026-09-19"), giving `days_owed = (2026-09-20) − (2026-09-19) = 1` —
+a normal single-day gap, not a duplicate firing. No other `claude/*`
+branch was found ahead of the portal tip, so `claude/daily-2026-09-20`
+was branched directly from `origin/claude/epic-brahmagupta-g1y16m`.
+
+Market section: since it is Sunday in Taipei, no new trading session has
+closed anywhere since Friday, Sept 18 — the same session already reported
+as "most recently closed" in yesterday's (2026-09-19) briefing. Per this
+file's own policy of re-verifying rather than silently reusing prior
+figures, every US/Asia/Taiwan figure was independently re-queried this
+run: Dow -95.40/-0.18% to 51,682.64, S&P 500 +0.17% to 7,650.50, Nasdaq
++0.39% to 26,522.55; Nikkei +882.70/+1.38% to 65,018.95 (Nikkei figure
+re-confirmed via a Japanese-language source giving the identical
++882.70-point move, and additionally tied to same-day context: the Bank
+of Japan raised its policy rate a quarter point to 1.25%, its highest
+since 1995, announced the same Friday and credited with lifting the
+afternoon session); Hang Seng +146.49/+0.60% to 24,750.78 (Hang Seng Tech
+sub-index +2.2% to 4,405.5); Shanghai +0.94% to 3,911.87; KOSPI
++178.82/+2.66% to 6,894.23 (KOSDAQ +0.60% to 827.12); TAIEX +892.75/+1.93%
+to 47,180.75 on NT$1.075065 trillion turnover. Every figure re-verified
+as unchanged and internally consistent with yesterday's briefing — this
+run found no discrepancy to flag this time, and says so explicitly rather
+than presenting the re-check as having turned up something new. Genuinely
+new since yesterday: weekend-only context relevant to Monday's open —
+10-year Treasury yield touched 4.998%, gold closed the week at
+US$4,380/oz, WTI eased from Friday's $100.30 to Saturday's $99.40 (Brent
+$103.87 → $103.19) on easing-not-resolved concern over the Saudi pipeline
+disruption reported earlier in the week, and the coming week's calendar
+(China LPR fixing Mon, flash PMIs Wed, Banxico decision Thu, Brazil
+IPCA-15 Fri, a possible Trump-Xi US-China summit flagged by CNBC as a
+market "wildcard," and scattered notable earnings) was added as forward
+context, sourced independently from riotimesonline.com's Sept 19 Global
+Economy Briefing and CNBC's Sept 18 "next week" outlook rather than
+carried over from any prior briefing.
+
+Dev-news section: added iOS 27/macOS Golden Gate's Siri AI waitlist
+rollout mechanics and the physical Friday (Sept 18) launch of the rest of
+Apple's early-September hardware (iPhone 18 Pro/Pro Max, Watch Series
+12/Ultra 4, AirPods 5) — distinct from yesterday's Xcode 27.1/iPhone Duo
+item — plus the Sept 30 Android developer-verification deadline for
+Brazil/Indonesia/Singapore/Thailand. Flutter: no new stable release found
+since 3.47.4 (Sept 11), consistent with yesterday, but one search result
+this run referenced an older "3.47.0 (Aug 12)" baseline instead; per this
+file's cross-source-discrepancy policy this is flagged explicitly here
+rather than silently resolved either way, though it does not change the
+"no newer stable build found" conclusion.
+
+Sequences continue directly: Spanish Day 69 (Ordinal Numbers, Los Números
+Ordinales — the natural next step after Day 67-68's cardinal-number
+track; confirmed via this file's Spanish Lessons Taught table that no
+prior lesson had covered ordinals), Zhuangzi Essay 5 (德充符, "The Sign of
+Virtue Complete," the standard next Inner Chapter following Essay 4's
+人間世), Mexico country spotlight (chosen partly because it appeared
+independently in this run's own market-calendar research — Banxico's
+Thursday rate decision — and confirmed absent from the exclusion list),
+打工人 (Dǎgōngrén, "Wage Worker") meme spotlight (Chinese internet-culture
+term, confirmed absent from the exclusion list and distinct from the
+already-used 躺平/Lying Flat and Versailles Literature), Battleship
+Potemkin (1925, dir. Sergei Eisenstein) film spotlight, and The Kuleshov
+Effect as film-analysis method 55 (worked through Lev Kuleshov's 1918
+Ivan Mozzhukhin experiment, deliberately paired with the Potemkin film
+pick from the same Soviet Montage movement, using a different scene for
+each section per this routine's established convention). Updates
+index.html and all six never-repeat tracking tables in ROUTINE_LOG.md.
 
 Older Run Notes entries (2026-07-08 through 2026-09-16) have been
 archived to `ROUTINE_LOG_ARCHIVE_1.md` through `ROUTINE_LOG_ARCHIVE_7.md`
