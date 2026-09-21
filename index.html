@@ -47,6 +47,7 @@
 <b>備註(2026-09-17):</b> 排程本次觸發時,指派的日期參數本身第十五次連續標示錯誤日期(顯示 2026-09-16,即前一日)。STEP 0 依規定直接以系統時鐘覆核(<code>date -u</code> 讀數 2026-09-16 21:40:06 UTC,換算 <code>TZ=Asia/Taipei</code> 即為 2026-09-17 05:40:06,週四),確認實際日期其實已經是 2026-09-17,而非重複執行 09-16——這次的差異同樣直接造成實質影響:portal 分支當時已有完整、已部署的 2026-09-16 內容,若直接信任指派的日期參數,將會誤判 days_owed = 0,把本應產出的 09-17 內容誤認為重複執行而略過不產出。改以系統時鐘覆核後,確認 days_owed = (2026-09-17) − (2026-09-16) = 1,屬正常單日進度。執行前重新核對了所有 <code>claude/*</code> 分支,並直接以 <code>/repos/.../deployments?environment=github-pages</code> API(以容器內建 <code>GITHUB_TOKEN</code> 透過 <code>curl</code> 查詢)確認最新一筆 <code>state: success</code> 部署(commit <code>398b347d</code>)與 <code>claude/epic-brahmagupta-g1y16m</code>、<code>claude/daily-2026-09-16</code> 兩分支尖端完全一致,並無分歧,因此本次直接從 portal 分支尖端切出新分支。台股數據研究過程中,第一輪搜尋出現一則與週二已確認收盤價加減法對不上的矛盾數字(45,639.14 點),依政策捨棄並以第二輪搜尋、經四個獨立台灣財經媒體來源印證的 45,848.90 點(+337.41,+0.74%)取代。詳見 <code>ROUTINE_LOG.md</code> 的 Run Notes。<br>
 <b>備註(2026-09-19):</b> 排程本次觸發時,session 自身的「目前日期」context 第十六次連續標示錯誤日期(顯示 2026-09-18,即前一日)。STEP 0 依規定直接以系統時鐘覆核(<code>date -u</code> 讀數 2026-09-18 21:39:43 UTC,換算 <code>TZ=Asia/Taipei</code> 即為 2026-09-19 05:39:43,週六),確認實際日期其實已經是 2026-09-19。Portal 分支最新內容確認仍停留在 2026-09-17(與 <code>claude/daily-2026-09-17-duplicate-check-2</code> 分支尖端 commit <code>0f471c2</code> 完全一致,經 <code>/repos/.../deployments?environment=github-pages</code> API 重新核實),<b>days_owed = (2026-09-19) − (2026-09-17) = 2</b>——並無 2026-09-18 這一天的任何分支或內容存在,依本檔案政策於 Run Notes 中註明此落差,本次僅產出 2026-09-19 這一天的內容,不回補 09-18。由於本篇簡報產出時已是台北時間週六清晨,三大市場「最近一次收盤」皆為週五(9 月 18 日):美股道瓊小跌 0.18%、標普與那斯達克小漲;亞股全面上漲(日經 +1.38%、恒生 +0.60%、上證 +0.94%、KOSPI +2.66%);台股大漲 892.75 點(+1.93%)重返 47,000 點。核對台股數據時,發現本檔案 2026-09-17 那篇簡報所刊載的台股收盤數字(45,848.90 點)與本次獨立查證到的週四實際收盤價(46,288.00 點)無法透過加減法互相吻合,可能是當時的搜尋結果本身即為過時或誤植的數據;本次不回頭更動 2026-09-17 的既有內容,但已在本篇簡報與 <code>ROUTINE_LOG.md</code> 的 Run Notes 中明確揭露此矛盾,並採用本次獨立核實、可與週五數字完全吻合的數據作為今日基準。本次也將 <code>ROUTINE_LOG.md</code> 的 Run Notes(已成長至 11 筆、約 49KB)依政策歸檔至新建的 <code>ROUTINE_LOG_ARCHIVE_7.md</code>。詳見 <code>ROUTINE_LOG.md</code> 的 Run Notes。<br>
 <b>備註(2026-09-20):</b> 本次系統時鐘確認實際日期為 2026-09-20(週日),portal 分支最新內容為 2026-09-19,<code>days_owed = 1</code>,屬正常單日進度,並無誤判或分支分歧問題。今日為週日,三大市場自週五(9 月 18 日)以來皆無新交易日,市場段落改為對週五數據做獨立重新核實(而非直接沿用),核對結果與昨日簡報完全一致、無任何改動,並新增週末新出現的前瞻背景資訊(10 年期公債殖利率觸及 4.998%、黃金收在每盎司 4,380 美元、油價小幅回落,以及下週(9/21-25)中國 LPR、美歐 PMI、墨西哥央行利率決議、潛在川習峰會等行事曆)。開發新聞段落新增 iOS 27/macOS Golden Gate 的 Siri AI 候補名單推送進度、蘋果硬體陣容於週五完成實體開賣,以及 Android 開發者身分驗證新規 9 月 30 日截止日期;Flutter 段落主動標註一項尚未解決的跨來源版本號小落差(3.47.4 vs. 3.47.0),而非悄悄擇一採用。詳見 <code>ROUTINE_LOG.md</code> 的 Run Notes。<br>
+<b>備註(2026-09-22):</b> session 自身的「目前日期」context 再度標示錯誤日期(顯示 2026-09-21,即前一日),STEP 0 依規定直接以系統時鐘覆核(<code>TZ=UTC date</code> 讀數 2026-09-21 21:39 UTC,換算 <code>TZ=Asia/Taipei date</code> 即為 2026-09-22 05:39,週二),確認實際日期其實已經是 2026-09-22。重新核對所有 <code>claude/*</code> 分支(85 個)與 <code>/repos/.../deployments?environment=github-pages</code> API 後確認:<b>2026-09-21 這一天完全沒有產出內容</b>——查無 <code>claude/daily-2026-09-21</code> 分支,portal 分支(<code>claude/epic-brahmagupta-g1y16m</code>)最新內容仍停留在 2026-09-20(與該分支尖端 commit <code>68f1b364</code> 完全一致),<code>days_owed = (2026-09-22) − (2026-09-20) = 2</code>。依本檔案政策,此落差已在 Run Notes 中完整揭露,本次僅產出 2026-09-22 這一天的內容,不回補 09-21,六大序列各接續一步。由於本篇簡報產出時已是台北時間週二清晨,美股週一(9 月 21 日)強勁反彈收高(那斯達克改寫 6 月以來新高);台股週一收漲 538.09 點、連四紅;香港恒生與南韓 KOSPI 週一同步走高(KOSPI 更首度收在 7,000 點之上);唯獨日本市場因敬老日、橋假期、秋分日連續休市三天(9/21-23,含本篇簡報產出當日),日經指數維持週五收盤數字不變,已於簡報中明確標註為「舊數據但仍為現況」。開發新聞段落新增蘋果 Siri AI 延遲上市集體訴訟和解案已進入理賠申請階段(9/21-12/21,每台約 25 美元)。詳見 <code>ROUTINE_LOG.md</code> 的 Run Notes。<br>
 </div>
 
 <h2>📅 每日內容一覽</h2>
@@ -64,6 +65,16 @@
 </tr>
 </thead>
 <tbody>
+<tr>
+<td>2026-09-22</td>
+<td><a href="briefings/2026-09-22.html">briefings/2026-09-22.html</a></td>
+<td><a href="spanish-lessons/day-70.html">Day 70 — 指示詞(Los Demostrativos: este/ese/aquel)</a></td>
+<td>莊子·大宗師 (Dà Zōngshī) — The Great and Venerable Teacher</td>
+<td>日本 (Japan)</td>
+<td>Hawk Tuah Girl</td>
+<td>《一一》Yi Yi(2000,dir. Edward Yang)</td>
+<td>高調/低調打光與明暗對照法 High-Key vs. Low-Key Lighting / Chiaroscuro</td>
+</tr>
 <tr>
 <td>2026-09-20</td>
 <td><a href="briefings/2026-09-20.html">briefings/2026-09-20.html</a></td>

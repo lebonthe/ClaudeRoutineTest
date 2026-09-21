@@ -216,6 +216,7 @@ the repo so a permanent link can be shared.
 | 2026-09-17 | 67 | 數字 11 到 100(Los Números del 11 al 100) | Steps back to fill a foundational gap left open since Day 6's 0-10: numbers 11-15 (once/doce/trece/catorce/quince) are irregular and must be memorized individually; 16-19 and 21-29 follow a predictable diez-/veinti- + digit pattern but are still fused into a single word (a scattered subset — dieciséis, veintidós, veintitrés, veintiséis — requiring a written accent); from 30 onward the fusion rule stops entirely and decades combine with units via a mandatory "y" as three separate words (treinta y uno, never a fused "treintaiuno"); also covers uno's gender apocope inside compound numbers (veintiún años / treinta y una personas) and the cien-vs-ciento split (cien alone or before a noun for exactly 100, ciento inside any 101-199 compound) | spanish-lessons/day-67.html |
 | 2026-09-19 | 68 | 數字 100 以上:百位數與千位數(Los Números 100+: Centenas y Miles) | Continues directly from Day 67's 11-100: hundreds 200-900 (doscientos, trescientos, cuatrocientos, quinientos, seiscientos, setecientos, ochocientos, novecientos) are the only multi-digit numbers besides uno that agree in gender with the noun counted (quinientas personas vs. quinientos dólares) — a genuinely new rule, since every number from dos through noventa y nueve stays invariable regardless of the noun's gender; three of the eight are irregular spellings not derivable by simply appending -cientos (500 quinientos, 700 setecientos, 900 novecientos); mil (thousand) is invariable and never pluralizes before a smaller number (dos mil, not "dos miles"), with a hundred-word's gender agreement reaching through mil to the final noun (quinientas mil personas); years are read as one continuous number rather than split into two-digit pairs the way English does (1998 = mil novecientos noventa y ocho, never "nineteen ninety-eight"-style) | spanish-lessons/day-68.html |
 | 2026-09-20 | 69 | 序數詞(Los Números Ordinales) | Steps outside the Day 67-68 cardinal-number track into a structurally distinct system: ordinals 1st-10th (primero, segundo, tercero, cuarto, quinto, sexto, séptimo, octavo, noveno, décimo) function as ordinary adjectives, agreeing in BOTH gender and number with the noun described (los primeros meses) — unlike Day 68's hundreds, which agree in gender only; primero and tercero apocopate (drop the final -o) immediately before a masculine singular noun (el primer día, el tercer piso, never "el primero día"); usage collapses sharply after décimo, with everyday speech switching to Day 67-68's cardinal numbers instead, placed AFTER the noun (el siglo veintiuno, not the technically-correct-but-rare vigésimo primero) — the same substitution applies to floor numbers, book chapters, and royal/papal regnal numbers beyond the tenth | spanish-lessons/day-69.html |
+| 2026-09-22 | 70 | 指示詞(Los Demostrativos: este/ese/aquel) | Steps outside the Day 67-69 numbers track into a foundational deictic system used constantly but never formally named: Spanish's three-way demonstrative system (vs. English's two-way this/that) — este (near speaker), ese (near listener/mid-distance), aquel (far from both, or figuratively distant in time, e.g. aquel verano); each fully agrees in gender/number (este/esta/estos/estas, etc.); each also has an invariable neuter form (esto/eso/aquello) used only for an unnamed/abstract idea, never modifying a noun directly and never taking a plural; RAE dropped the old accented pronoun forms (ésta, ése) in 2010, so demonstrative adjective and pronoun now share identical spelling | spanish-lessons/day-70.html |
 
 Note: a duplicate "Day 2" lesson (ser/¿De dónde eres?, i.e. the same topic
 as Day 5) was independently produced on 2026-07-14 on an orphaned branch
@@ -311,6 +312,7 @@ repeated. Before choosing today's piece, check this table.
 | 2026-09-17 | 養生主 (Yǎngshēng Zhǔ) — "The Secret of Caring for Life" (featuring Cook Ding's Butchering of an Ox, 庖丁解牛) | Inner Chapters (內篇), Ch. 3 |
 | 2026-09-19 | 人間世 (Rén Jiān Shì) — "In the World of Men" (featuring the fasting of the mind 心齋, the useless sacred oak, and Zhili Shu 支離疏) | Inner Chapters (內篇), Ch. 4 |
 | 2026-09-20 | 德充符 (Dé Chōng Fú) — "The Sign of Virtue Complete" (featuring Wang Tai 王駘, Shentu Jia 申徒嘉, Shushan the Toeless 叔山無趾, Ai Tai To 哀駘它, and the closing Zhuangzi-Huizi dialogue on being "without feeling" 無情) | Inner Chapters (內篇), Ch. 5 |
+| 2026-09-22 | 大宗師 (Dà Zōngshī) — "The Great and Venerable Teacher" (featuring the True Man 真人 who breathes from his heels, the Dao as the "Great Clod" 大塊, dying Ziyu's 子輿 equanimity, Zisang Hu's 子桑戶 friends singing beside his corpse, the "相濡以沫" spring-fish parable, and Yan Hui's closing report of achieving "sitting and forgetting" 坐忘) | Inner Chapters (內篇), Ch. 6 |
 
 ## Country/Region/Faction Spotlights Featured
 
@@ -380,6 +382,7 @@ repeated. Before choosing today's piece, check this table.
 | 2026-09-17 | Netherlands (荷蘭) |
 | 2026-09-19 | Switzerland (瑞士) |
 | 2026-09-20 | Mexico (墨西哥) |
+| 2026-09-22 | Japan (日本) |
 
 ## Internet Meme Spotlights Featured
 
@@ -449,6 +452,7 @@ repeated. Before choosing today's piece, check this table.
 | 2026-09-17 | Chocolate Rain (Tay Zonday) |
 | 2026-09-19 | Numa Numa (Gary Brolsma) |
 | 2026-09-20 | 打工人 (Dǎgōngrén, "Wage Worker") |
+| 2026-09-22 | Hawk Tuah Girl |
 
 ## Film / Performing Arts Spotlights Featured
 
@@ -516,6 +520,7 @@ and never repeat a subject already listed.
 | 2026-09-17 | The Passion of Joan of Arc (La Passion de Jeanne d'Arc, 1928, dir. Carl Theodor Dreyer) |
 | 2026-09-19 | A City of Sadness (悲情城市, 1989, dir. Hou Hsiao-hsien) |
 | 2026-09-20 | Battleship Potemkin (Броненосец «Потёмкин», 1925, dir. Sergei Eisenstein) |
+| 2026-09-22 | Yi Yi (一一, 2000, dir. Edward Yang) |
 
 ## Film-Appreciation / Criticism Method Lessons
 
@@ -585,6 +590,7 @@ table and pick one not yet covered.
 | 2026-09-17 | Match Dissolve / Superimposed Cross-Dissolve as Transition (a sustained cross-dissolve — the outgoing shot fading out while the incoming shot simultaneously fades in, overlapping for an extended beat rather than an instantaneous replacement — that lets a specific compositional element (a shape, silhouette, or figure's position) stay visually anchored across the transition while everything else transforms around it; distinct from Day 11's Match Cut & Graphic Match, an instantaneous hard cut with no overlap, and Day 29's Ellipsis, which smooths over skipped story time without requiring any positional/compositional rhyme during the transition itself; check what element stays anchored through the overlap, and whether the dissolve is doing meaningful representational work or is a simple scene change) | The Wizard of Oz (1939, dir. Victor Fleming) — the sepia-toned Kansas farmhouse doorway cross-dissolving into the Technicolor world of Munchkinland, a sepia-costumed stand-in dissolving out while Judy Garland in full color dissolves in at the same framed position, so the doorway's silhouette and Dorothy's central position remain the one constant anchor throughout the entire color transformation |
 | 2026-09-19 | The Iris Shot (Iris In / Iris Out) (a circular mask that closes down from the frame's edges to a single point, or opens outward from a point to fill the frame — either isolating a specific detail/character within an otherwise wide shot by narrowing attention onto it, or serving as scene-opening/closing punctuation in place of a straight cut or fade; pioneered/popularized by D.W. Griffith and cinematographer Billy Bitzer in the mid-1910s, decades before Day 46's Wipe or Day 53's Match Dissolve existed as alternatives; distinct from Day 8's Framing & Composition, a property of the camera's own fixed frame rather than a masking device layered onto it, and Day 41's Split Screen, which divides the frame into simultaneous panels rather than narrowing to/from a single point; check whether the iris directs attention to one detail within a continuing shot or serves purely as transitional punctuation, and whether its retro/silent-era connotation is played straight or knowingly nostalgic) | Intolerance (1916, dir. D.W. Griffith, cinematography by Billy Bitzer) — within the film's elaborately-detailed ancient Babylon sequences, built at enormous real-world scale with thousands of extras, Griffith and Bitzer repeatedly iris the frame down from the full, teeming spectacle to a single soldier, face, or object, directing attention onto one human-scale detail before irising back out to re-establish the epic scale of the set and crowd around it — an early demonstration that the iris could function as a directed-attention device within a shot, not merely a transition between them |
 | 2026-09-20 | The Kuleshov Effect (audiences derive an implied emotion or meaning not from a single shot's isolated content but from its juxtaposition with the shots immediately around it — identical footage, recut into a different sequence, reads as an entirely different feeling; named for Soviet filmmaker/theorist Lev Kuleshov, a contemporary of Battleship Potemkin's Sergei Eisenstein within the same Soviet Montage movement, and the foundational proof-of-concept behind Eisenstein's later "intellectual montage"; distinct from Day 11's Match Cut & Graphic Match and Day 24's Match on Action, which concern visual/motion continuity across a cut rather than meaning generated purely by adjacency, and from generic Editing & Montage, which this lesson narrows into one specific, testable mechanism; check what emotional/narrative information a shot seems to carry purely because of its neighboring shots, and whether the same shot recut elsewhere would read differently) | Lev Kuleshov's 1918 experiment at the Moscow Film School — a single expressionless close-up of actor Ivan Mozzhukhin's face was intercut, in three separate short sequences, with a bowl of soup, a girl in a coffin, and a woman reclining on a divan; test audiences praised Mozzhukhin's "acting," reporting hunger, grief, and desire respectively in the three otherwise frame-for-frame-identical sequences — a clean historical demonstration that a shot's perceived meaning is manufactured largely by editorial context, the same mechanism Eisenstein scaled up seven years later in Potemkin's Odessa Steps |
+| 2026-09-22 | High-Key vs. Low-Key Lighting / Chiaroscuro (the ratio of key light to fill light controlling shadow density and mood — high-key uses a high fill-to-key ratio for bright, evenly-lit images; low-key uses little/no fill, letting shadow dominate, with chiaroscuro as its most stylized extreme, isolating subjects in narrow light pools against near-total black; distinct from Day 3's broader Cinematography & Lighting umbrella, which covered light/color/movement together, and Day 22's Lens Choice, a focal-length property rather than a lighting-ratio one; check the key-to-fill ratio in a scene, whether shadow conceals withheld information or implies an unseen threat, and whether a high-key/low-key shift marks a moral turning point) | Double Indemnity (1944, dir. Billy Wilder, cinematography by John F. Seitz) — foundational to film noir's visual grammar, repeatedly lighting interiors in extreme low-key chiaroscuro, most famously the recurring Venetian-blind shadow motif slicing across walls and faces, fracturing Walter Neff and Phyllis Dietrichson into light/shadow bars that visually encode their moral compromise before the murder is even committed; Seitz reportedly under-lit sets to the point Paramount executives worried the film would be unreleasably dark, a deliberate rejection of the studio system's default high-key "glamour" lighting that became, through the film's influence, an entire genre's visual signature |
 
 ## Run Notes
 
@@ -894,3 +900,89 @@ archived to `ROUTINE_LOG_ARCHIVE_1.md` through `ROUTINE_LOG_ARCHIVE_7.md`
 (chronological, oldest first) to keep this file's push size manageable.
 The six never-repeat tracking tables above remain complete and current
 in this file; only the narrative Run Notes are split across archives.
+
+**2026-09-22:** STEP 0 run first, before touching git at all, per this
+file's own policy. The session's own current-date context stated
+2026-09-21 — a day behind, the latest recurrence of this routine's
+long-running stale-context pattern — but was not trusted at face value.
+The container's system clock was checked independently instead: `TZ=UTC
+date` read `Mon Sep 21 21:39:26 UTC 2026`, and `TZ=Asia/Taipei date` read
+`Tue Sep 22 05:39:26 CST 2026`, confirming the actual current date is
+2026-09-22 (Tuesday), a full calendar day ahead of the assigned
+context's stated date.
+
+Full branch-recovery procedure was run before any content work. All
+`claude/*` branches were re-enumerated via `list_branches` (85 branches).
+The GitHub Pages-deployed portal branch was reconfirmed directly via the
+`/repos/.../deployments?environment=github-pages` REST API (queried with
+`curl` using the container's built-in `GITHUB_TOKEN`, since this MCP
+server has no dedicated deployments tool): the latest entry with `state:
+success` (id 6558153425, created 2026-09-20T21:53:45Z ≈ 2026-09-21 05:53
+Taipei) deployed commit `68f1b364` on `ref:
+claude/epic-brahmagupta-g1y16m`. This commit exactly matches the tip of
+`claude/daily-2026-09-20`, confirming the portal branch's latest actual
+dated content is 2026-09-20. All other `claude/*` branches (the older
+`epic-brahmagupta-*`, `gracious-ramanujan-*`, and `happy-newton-*`
+orphans from this bug's earlier occurrences) were spot-checked and
+confirmed to top out at 2026-07-20 content at the latest, well behind the
+portal tip, so no reconciliation was needed.
+
+**No `claude/daily-2026-09-21` branch exists, and no content dated
+2026-09-21 was found on any branch** — the schedule appears not to have
+fired, or to have failed before producing any content, on 2026-09-21.
+`days_owed = (2026-09-22) − (2026-09-20) = 2`. Per this file's own STEP 0
+policy (days_owed > 1: note the gap, produce only today's content, do not
+silently backfill every missed day unless separately instructed), this
+run produces only 2026-09-22's content. The Spanish/Zhuangzi/country/
+meme/film/method sequences continue directly from Day 69/Essay 5
+(德充符)/Mexico/打工人/Battleship Potemkin/The Kuleshov Effect (2026-09-20's
+progress) to Day 70/Essay 6 (大宗師)/Japan/Hawk Tuah Girl/Yi Yi/High-Key
+vs. Low-Key Lighting, with no placeholder inserted for the skipped
+calendar day. `claude/daily-2026-09-22` was branched directly from the
+portal tip.
+
+Market section: by this ~5:50am Taipei Tuesday generation time, the most
+recently closed session in all three regions is Monday, September 21 (US
+close = Tuesday ~4am Taipei). US markets rallied sharply (Dow +366.19/
++0.71% to 52,048.83, S&P 500 +1.49% to 7,764.70, Nasdaq +2.26% to a
+record 27,122.09 on an AI-chip-stock rally) — every figure cross-checked
+arithmetically against Friday's confirmed close and found consistent.
+Taiwan's TAIEX (47,718.84, +538.09/+1.14%, a fourth straight winning
+session) and Hong Kong's Hang Seng (25,042.71, +291.93/+1.18%) and
+South Korea's KOSPI (7,000.88, +106.65/+1.55%, its first close above
+7,000 in this routine's tracking) were likewise cross-checked
+arithmetically against Friday's confirmed closes and found exactly
+consistent. Japan required active investigation rather than a routine
+same-session lookup: an initial query returned no Monday closing figure
+for the Nikkei, and a follow-up search confirmed why — Japanese markets
+are closed for three consecutive days, Sept 21-23 (Respect for the Aged
+Day, a statutory "bridge holiday" falling between two holidays, and the
+Autumnal Equinox), not reopening until Thursday, Sept 24. This means
+**Japan's market is also closed today** (Sept 22, the date of this
+briefing), so the Nikkei figure reported is explicitly Friday's
+already-confirmed close (65,018.95, +882.70, +1.38%), re-flagged as
+stale-but-current rather than presented as a fresh number — the same
+treatment this routine has given genuinely stale Asia figures on prior
+weekend/holiday runs.
+
+Dev-news section: found one genuinely new item since the 2026-09-20
+briefing — Apple's previously-reported $250 million Siri AI
+delayed-launch class-action settlement has moved into its claims-filing
+stage, with the settlement website live and the claim window running
+Sept 21 through Dec 21 (~$25/eligible iPhone). Android's Sept 30
+verified-developer deadline and the Flutter version-number
+cross-source discrepancy are both continuations of previously-reported
+items; the Flutter discrepancy was checked again rather than assumed
+resolved, and if anything widened this run (a "3.47.1, Aug 19" figure
+surfaced alongside the previously-reported 3.47.2/3.47.4), which is
+flagged explicitly rather than silently picked one way.
+
+Country spotlight: Japan was chosen partly because it appeared
+independently in this run's own market research (the Bank of Japan's
+September rate hike, discussed in the 2026-09-20 briefing, and today's
+Nikkei-holiday finding) and was confirmed absent from the exclusion
+list. Meme spotlight (Hawk Tuah Girl) and film spotlight (Yi Yi, 2000,
+dir. Edward Yang — chosen partly to continue this series' Taiwanese New
+Wave lineage alongside the already-featured Hou Hsiao-hsien) were both
+confirmed absent from their respective exclusion lists. Updates
+index.html and all six never-repeat tracking tables in ROUTINE_LOG.md.
