@@ -1084,3 +1084,30 @@ chosen to sit alongside, and be explicitly distinguished from, the
 already-taught 180-Degree Rule (Day 9) and Axial Cutting/"Kubrick Cut"
 (Day 52). Updates index.html and all six never-repeat tracking tables in
 ROUTINE_LOG.md.
+
+**2026-09-23 (second firing, duplicate):** STEP 0 run first, per policy:
+this session's own current-date context read 2026-09-23, confirmed
+correct (no stale-context discrepancy this time).
+
+Full branch-recovery procedure was run before touching content: all
+`claude/*` branches were re-enumerated via `list_branches`, and the
+GitHub Pages-deployed portal branch was reconfirmed via the
+`/repos/.../deployments?environment=github-pages` REST API: the latest
+entry with `state: success` (id 6601463662, created
+2026-09-22T21:49:38Z ≈ 2026-09-23 05:49 Taipei — i.e. already deployed
+by an earlier firing this same morning) deployed commit `5425c62` on
+`ref: claude/epic-brahmagupta-g1y16m`. This commit is the
+"Add 2026-09-23 daily content" commit itself, already present at the
+portal tip and already live at
+https://lebonthe.github.io/ClaudeRoutineTest/, with `briefings/2026-09-
+23.html` and `spanish-lessons/day-71.html` both present and this file's
+own tracking tables already carrying today's Spanish Day 71 / Zhuangzi
+Essay 7 / Colombia / Bing Chilling / Breathless / 30-Degree Rule entries.
+
+`days_owed = (2026-09-23) − (2026-09-23) = 0`. Per this file's own STEP
+0 policy, this is a genuine duplicate same-day firing. No new branch
+content, no second day's briefing/lesson, and no second advance of the
+Spanish/hexagram-or-Zhuangzi/country/meme/film/method sequences were
+produced. This note is committed directly to a branch cut from the
+portal tip and fast-forwarded back in, exactly as done for the
+2026-09-17 and 2026-09-19 duplicate firings.
