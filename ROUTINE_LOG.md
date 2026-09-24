@@ -218,6 +218,7 @@ the repo so a permanent link can be shared.
 | 2026-09-20 | 69 | 序數詞(Los Números Ordinales) | Steps outside the Day 67-68 cardinal-number track into a structurally distinct system: ordinals 1st-10th (primero, segundo, tercero, cuarto, quinto, sexto, séptimo, octavo, noveno, décimo) function as ordinary adjectives, agreeing in BOTH gender and number with the noun described (los primeros meses) — unlike Day 68's hundreds, which agree in gender only; primero and tercero apocopate (drop the final -o) immediately before a masculine singular noun (el primer día, el tercer piso, never "el primero día"); usage collapses sharply after décimo, with everyday speech switching to Day 67-68's cardinal numbers instead, placed AFTER the noun (el siglo veintiuno, not the technically-correct-but-rare vigésimo primero) — the same substitution applies to floor numbers, book chapters, and royal/papal regnal numbers beyond the tenth | spanish-lessons/day-69.html |
 | 2026-09-22 | 70 | 指示詞(Los Demostrativos: este/ese/aquel) | Steps outside the Day 67-69 numbers track into a foundational deictic system used constantly but never formally named: Spanish's three-way demonstrative system (vs. English's two-way this/that) — este (near speaker), ese (near listener/mid-distance), aquel (far from both, or figuratively distant in time, e.g. aquel verano); each fully agrees in gender/number (este/esta/estos/estas, etc.); each also has an invariable neuter form (esto/eso/aquello) used only for an unnamed/abstract idea, never modifying a noun directly and never taking a plural; RAE dropped the old accented pronoun forms (ésta, ése) in 2010, so demonstrative adjective and pronoun now share identical spelling | spanish-lessons/day-70.html |
 | 2026-09-23 | 71 | 「Lo」中性詞(El "Lo" Neutro: Lo + 形容詞 / Lo Que) | Steps back from Day 70's demonstratives to formally unpack a word used constantly since Day 44 without naming its second function: unlike Day 44's lo/la/los/las (direct object pronouns replacing a specific gendered noun, changing form with it), the neuter "lo" never refers to a specific gendered noun and never changes form; lo + a masculine-singular adjective nominalizes it into an abstract quality ("the [X] part/thing": lo bueno, lo importante, lo mejor); lo que is a neuter relative pronoun distinct from Day 52's que/quien/donde/cuyo (which require a specific noun antecedent) — lo que instead stands in for an entire unnamed idea/clause with no antecedent of its own; a related intensifying construction, lo + adjective/adverb + que + verb, produces the conversational "you don't know how [X]..." pattern (No sabes lo cansada que estoy), where lo itself stays fixed while the adjective still agrees with the real subject | spanish-lessons/day-71.html |
+| 2026-09-25 | 72 | Pero 與 Sino / Sino Que 的用法區分(Pero vs. Sino / Sino Que) | (2026-09-24 skipped — no content produced that day, see Run Notes.) Steps outside Day 71's "lo neutro" topic into a classic contrast: pero is the default, general-purpose "but," usable after either an affirmative or negative statement, always adding a qualifying idea without erasing what came before; sino (and its clause-length partner sino que) is a "corrective but," usable only when the first part of the sentence is explicitly negated and the second part directly replaces/contradicts it ("not X, but rather Y"), requiring the two elements be of the same grammatical category (noun/adjective/phrase, not a full clause) unless que is inserted to allow a full conjugated clause (No fue a la fiesta, sino que se quedó en casa); also covers the fixed extension no solo... sino también... | spanish-lessons/day-72.html |
 
 Note: a duplicate "Day 2" lesson (ser/¿De dónde eres?, i.e. the same topic
 as Day 5) was independently produced on 2026-07-14 on an orphaned branch
@@ -315,6 +316,7 @@ repeated. Before choosing today's piece, check this table.
 | 2026-09-20 | 德充符 (Dé Chōng Fú) — "The Sign of Virtue Complete" (featuring Wang Tai 王駘, Shentu Jia 申徒嘉, Shushan the Toeless 叔山無趾, Ai Tai To 哀駘它, and the closing Zhuangzi-Huizi dialogue on being "without feeling" 無情) | Inner Chapters (內篇), Ch. 5 |
 | 2026-09-22 | 大宗師 (Dà Zōngshī) — "The Great and Venerable Teacher" (featuring the True Man 真人 who breathes from his heels, the Dao as the "Great Clod" 大塊, dying Ziyu's 子輿 equanimity, Zisang Hu's 子桑戶 friends singing beside his corpse, the "相濡以沫" spring-fish parable, and Yan Hui's closing report of achieving "sitting and forgetting" 坐忘) | Inner Chapters (內篇), Ch. 6 |
 | 2026-09-23 | 應帝王 (Yìng Dì Wáng) — "Fit to Be Emperors and Kings" (featuring Pu Yi Zi's 蒲衣子 ruler Tai 泰氏, Jie Yu's 接輿 mockery of imposed governance, Lao Dan's 老聃 description of the enlightened king, the shaman Ji Xian 季咸 fleeing Huzi's 壺子 four unreadable "faces," Liezi's 列子 three years of self-forgetting, and the closing Hundun 渾沌 parable of Shu 儵 and Hu 忽 boring seven holes) — final chapter of the Inner Chapters | Inner Chapters (內篇), Ch. 7 |
+| 2026-09-25 | 駢拇 (Pián Mǔ) — "Webbed Toes" (2026-09-24 skipped, see Run Notes; opens the Outer Chapters with the webbed-toes/extra-finger image applied to benevolence and righteousness 仁義 as an unnatural graft onto human nature, the Bo Yi 伯夷 / Robber Zhi 盜跖 pairing arguing that dying for reputation and dying for profit equally injure one's inborn nature, and the closing duck-legs/crane-legs image of resting content in one's own given nature 安其性命之情) — opens the Outer Chapters (外篇) | Outer Chapters (外篇), Ch. 1 |
 
 ## Country/Region/Faction Spotlights Featured
 
@@ -386,6 +388,7 @@ repeated. Before choosing today's piece, check this table.
 | 2026-09-20 | Mexico (墨西哥) |
 | 2026-09-22 | Japan (日本) |
 | 2026-09-23 | Colombia (哥倫比亞) |
+| 2026-09-25 | Argentina (阿根廷) |
 
 ## Internet Meme Spotlights Featured
 
@@ -457,6 +460,7 @@ repeated. Before choosing today's piece, check this table.
 | 2026-09-20 | 打工人 (Dǎgōngrén, "Wage Worker") |
 | 2026-09-22 | Hawk Tuah Girl |
 | 2026-09-23 | Bing Chilling (John Cena) |
+| 2026-09-25 | PPAP / Pen-Pineapple-Apple-Pen (Piko Taro, Japan) |
 
 ## Film / Performing Arts Spotlights Featured
 
@@ -526,6 +530,7 @@ and never repeat a subject already listed.
 | 2026-09-20 | Battleship Potemkin (Броненосец «Потёмкин», 1925, dir. Sergei Eisenstein) |
 | 2026-09-22 | Yi Yi (一一, 2000, dir. Edward Yang) |
 | 2026-09-23 | Breathless (À bout de souffle, 1960, dir. Jean-Luc Godard) |
+| 2026-09-25 | Khon (โขน, Thai classical masked dance-drama) |
 
 ## Film-Appreciation / Criticism Method Lessons
 
@@ -597,6 +602,7 @@ table and pick one not yet covered.
 | 2026-09-20 | The Kuleshov Effect (audiences derive an implied emotion or meaning not from a single shot's isolated content but from its juxtaposition with the shots immediately around it — identical footage, recut into a different sequence, reads as an entirely different feeling; named for Soviet filmmaker/theorist Lev Kuleshov, a contemporary of Battleship Potemkin's Sergei Eisenstein within the same Soviet Montage movement, and the foundational proof-of-concept behind Eisenstein's later "intellectual montage"; distinct from Day 11's Match Cut & Graphic Match and Day 24's Match on Action, which concern visual/motion continuity across a cut rather than meaning generated purely by adjacency, and from generic Editing & Montage, which this lesson narrows into one specific, testable mechanism; check what emotional/narrative information a shot seems to carry purely because of its neighboring shots, and whether the same shot recut elsewhere would read differently) | Lev Kuleshov's 1918 experiment at the Moscow Film School — a single expressionless close-up of actor Ivan Mozzhukhin's face was intercut, in three separate short sequences, with a bowl of soup, a girl in a coffin, and a woman reclining on a divan; test audiences praised Mozzhukhin's "acting," reporting hunger, grief, and desire respectively in the three otherwise frame-for-frame-identical sequences — a clean historical demonstration that a shot's perceived meaning is manufactured largely by editorial context, the same mechanism Eisenstein scaled up seven years later in Potemkin's Odessa Steps |
 | 2026-09-22 | High-Key vs. Low-Key Lighting / Chiaroscuro (the ratio of key light to fill light controlling shadow density and mood — high-key uses a high fill-to-key ratio for bright, evenly-lit images; low-key uses little/no fill, letting shadow dominate, with chiaroscuro as its most stylized extreme, isolating subjects in narrow light pools against near-total black; distinct from Day 3's broader Cinematography & Lighting umbrella, which covered light/color/movement together, and Day 22's Lens Choice, a focal-length property rather than a lighting-ratio one; check the key-to-fill ratio in a scene, whether shadow conceals withheld information or implies an unseen threat, and whether a high-key/low-key shift marks a moral turning point) | Double Indemnity (1944, dir. Billy Wilder, cinematography by John F. Seitz) — foundational to film noir's visual grammar, repeatedly lighting interiors in extreme low-key chiaroscuro, most famously the recurring Venetian-blind shadow motif slicing across walls and faces, fracturing Walter Neff and Phyllis Dietrichson into light/shadow bars that visually encode their moral compromise before the murder is even committed; Seitz reportedly under-lit sets to the point Paramount executives worried the film would be unreleasably dark, a deliberate rejection of the studio system's default high-key "glamour" lighting that became, through the film's influence, an entire genre's visual signature |
 | 2026-09-23 | The 30-Degree Rule (a continuity-editing corollary of Day 9's 180-Degree Rule: a cut between two shots of the same subject should shift camera angle by at least ~30 degrees, or the cut reads as an unintended jarring "pop" indistinguishable from Day 24's Jump Cut even though no story time was skipped; distinct from Day 52's Axial Cutting/"Kubrick Cut," which keeps the exact same sightline while changing only distance, whereas a 30-degree-rule violation can occur at almost any nearby camera position so long as the angular change is too small to register; check whether a same-subject cut reads as a motivated repositioning or an unintended pop, and whether a violation is error or deliberate style) | Late Spring (晚春, 1949, dir. Yasujiro Ozu) — extensively documented (chiefly by David Bordwell) as systematically and deliberately violating both the 180-degree axis and the 30-degree rule as a directorial signature: in many static, low-camera dialogue/domestic scenes Ozu cuts between two setups of the same subject differing by only a few degrees, or occasionally crosses the 180-degree line outright, producing cuts a classically trained editor would reject as unmotivated jumps, instead contributing (alongside his low static "tatami-mat" height and refusal of establishing shots) to the calm, contemplative stillness of his late style |
+| 2026-09-25 | High-Angle vs. Low-Angle Shots: Camera Angle & Power Dynamics (2026-09-24 skipped, see Run Notes; where the camera sits vertically relative to a subject's eyeline, independent of Day 26's Dutch Angle rotation/roll, or Day 22/2026-09-22's lighting/lens variables: a low angle (camera below eyeline, looking up) conventionally reads as power/dominance/threat; a high angle (camera above eyeline, looking down) conventionally reads as vulnerability/diminishment; check where the camera sits relative to each character's eyeline, whether that placement holds steady or shifts with the scene's power balance, and whether the angle reinforces or works against the dialogue/blocking) | Citizen Kane (1941, dir. Orson Welles, cinematography by Gregg Toland) — extreme low angles (built-in ceilings required to shoot upward at all) tower Kane at his political peak, most famously the campaign-rally shot fusing a floor-level angle with his own giant self-portrait banner; the same toolkit runs in reverse in the final act, filming the aged, isolated Kane from higher, more distant positions that shrink him within Xanadu's cavernous, crate-filled interior |
 
 ## Run Notes
 
@@ -1111,3 +1117,101 @@ Spanish/hexagram-or-Zhuangzi/country/meme/film/method sequences were
 produced. This note is committed directly to a branch cut from the
 portal tip and fast-forwarded back in, exactly as done for the
 2026-09-17 and 2026-09-19 duplicate firings.
+
+**2026-09-25:** STEP 0 run first, before touching git at all, per this
+file's own policy: the session's own current-date context stated
+2026-09-24 — a day behind — continuing the same stale-context pattern
+this file has now flagged on roughly twenty separate occasions. The
+system clock was checked independently rather than trusting that label:
+`date -u` read `Thu Sep 24 21:35:39 UTC 2026`, and `TZ=Asia/Taipei date`
+read `Fri Sep 25 05:35:39 CST 2026`, confirming the actual current date
+is 2026-09-25 (Friday).
+
+A full branch-recovery check followed before any content was written:
+all `claude/*` branches were re-enumerated via `list_branches` (89
+found), and the GitHub Pages-deployed portal branch was reconfirmed via
+the `pages-build-deployment` Actions workflow run history (no dedicated
+deployments-API tool was available from the GitHub MCP server this run,
+so the workflow-run history was used instead, consistent with the
+approach taken on 2026-09-16): the latest successful run (#76, created
+2026-09-23T21:36:54Z) deployed commit `fa9c4759` on ref
+`claude/epic-brahmagupta-g1y16m`. That commit is itself the
+"duplicate same-day firing" log entry for 2026-09-23 with no new
+content; the portal branch's actual latest dated content is the prior
+commit, `5425c62` ("Add 2026-09-23 daily content: Spanish Day 71,
+Zhuangzi Essay 7, Colombia, Bing Chilling, Breathless, 30-Degree
+Rule"), fully consistent with `index.html` and this file's six tracking
+tables, all complete through 2026-09-23.
+
+**`days_owed = (2026-09-25) − (2026-09-23) = 2`, and critically,
+2026-09-24 was never produced at all**: no `claude/daily-2026-09-24`
+branch exists on the remote (branches jump directly from
+`claude/daily-2026-09-23`/`claude/daily-2026-09-23-duplicate-check` to
+the `claude/epic-brahmagupta-*` portal-merge branches), and no
+briefing, Spanish lesson, or tracking-table row for that date exists
+anywhere in the repository's branch history. Per this file's own
+multi-day-gap policy, this gap is disclosed here rather than silently
+absorbed, and this run produces only today's (2026-09-25) content: the
+Spanish/Zhuangzi/country/meme/film/method sequences each advance by
+exactly one step (not two), and 2026-09-24 is left as a permanently
+missing day — the same treatment previously given to 2026-07-18,
+2026-09-08, 2026-09-18, and 2026-09-21.
+
+Market section: because 2026-09-24 was never produced, Wednesday
+2026-09-23's US and Taiwan closes were themselves never separately
+reported and are used in today's briefing purely as the arithmetic
+cross-check baseline for Thursday 2026-09-24's figures (the most
+recently closed session as of this ~5:35am Taipei Friday generation
+time). US: Wednesday's confirmed closes (Dow 51,511.59, S&P 7,706.03,
+Nasdaq 26,936.04) reconcile acceptably against Tuesday's already-
+confirmed closes from the 2026-09-23 briefing; Thursday's reported
+percentage moves (Dow -0.31%/-0.32%, S&P -0.51%, Nasdaq -0.78%)
+reconcile arithmetically against Wednesday's confirmed closes within
+normal source-rounding tolerance (Dow ≈51,347 vs. reported ≈51,350;
+S&P ≈7,667; Nasdaq ≈26,726). Taiwan: Wednesday's TAIEX close of
+48,157.29 (+357.12, a fresh all-time high) reconciles exactly against
+Tuesday's confirmed 47,800.17 (47,800.17 + 357.12 = 48,157.29);
+Thursday's close of 48,024.60 (-132.69) and TSMC's NT$2,475 (-25) both
+reconcile exactly against Wednesday's confirmed closes (48,157.29 −
+132.69 = 48,024.60; NT$2,500 − 25 = NT$2,475). Asia: Japan's Nikkei
+resumed trading Thursday after its Sept 21-23 "Silver Week" closure,
+closing at 65,513.99 (+0.8%), reconciling acceptably against the last
+confirmed pre-holiday close (Friday Sept 18's 65,018.95). South Korea's
+KOSPI last traded Wednesday Sept 23 (7,080.92, +0.90%, its fourth
+straight gain) before closing for the Chuseok holiday on both Thursday
+Sept 24 and today, Friday Sept 25 — independently verified via a
+dedicated search rather than assumed, since this routine has previously
+been caught by unannounced regional market holidays. Hong Kong's Hang
+Seng and mainland China's Shanghai Composite returned two mutually
+inconsistent figures for Thursday from different sources (Hang Seng
+24,761.13/-0.3% vs. 24,715.95/-0.5%; Shanghai 3,888.37/-1.2% vs.
+3,902.33/-0.8%); rather than silently picking one, both are disclosed
+in the briefing, consistent with this file's established practice on
+unresolved cross-source conflicts.
+
+Dev-news section: covers a reported industry "Frontier AI Standards
+Agency" being organized by Google, OpenAI, and Anthropic, and a newly
+disclosed Anthropic life-sciences research result (an autonomously
+flagged bacteriophage enzyme system, "ART"); Apple/iOS 27/macOS Golden
+Gate and the Android Sept 30 developer-verification deadline are
+reported as continuations with no material change since the 2026-09-23
+briefing. The Flutter version-number discrepancy tracked in prior
+briefings was explicitly NOT re-verified this run (no new source check
+was performed) and today's briefing says so directly rather than
+implying it was re-confirmed or has resolved.
+
+Country spotlight (Argentina) and meme spotlight (PPAP) were both
+confirmed absent from their respective exclusion lists before
+selection; Argentina's current president (Javier Milei, in office since
+December 2023, term running to December 2027) and 2026 economic
+figures (inflation, GDP growth, fiscal surplus, credit-rating upgrade)
+were independently verified via search rather than assumed from
+training knowledge. Film spotlight (Khon, Thai masked dance-drama) and
+film-analysis method (High-Angle vs. Low-Angle Shots, worked via
+Citizen Kane) were both confirmed absent from their respective
+exclusion lists; the camera-angle lesson was deliberately chosen to sit
+alongside, and be explicitly distinguished from, the already-taught
+Dutch Angle (rotation, not vertical placement) and High-Key/Low-Key
+Lighting (a lighting-ratio variable, not a camera-position one).
+Updates `index.html` and all six never-repeat tracking tables in
+`ROUTINE_LOG.md`.
