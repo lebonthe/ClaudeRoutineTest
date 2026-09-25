@@ -219,6 +219,7 @@ the repo so a permanent link can be shared.
 | 2026-09-22 | 70 | 指示詞(Los Demostrativos: este/ese/aquel) | Steps outside the Day 67-69 numbers track into a foundational deictic system used constantly but never formally named: Spanish's three-way demonstrative system (vs. English's two-way this/that) — este (near speaker), ese (near listener/mid-distance), aquel (far from both, or figuratively distant in time, e.g. aquel verano); each fully agrees in gender/number (este/esta/estos/estas, etc.); each also has an invariable neuter form (esto/eso/aquello) used only for an unnamed/abstract idea, never modifying a noun directly and never taking a plural; RAE dropped the old accented pronoun forms (ésta, ése) in 2010, so demonstrative adjective and pronoun now share identical spelling | spanish-lessons/day-70.html |
 | 2026-09-23 | 71 | 「Lo」中性詞(El "Lo" Neutro: Lo + 形容詞 / Lo Que) | Steps back from Day 70's demonstratives to formally unpack a word used constantly since Day 44 without naming its second function: unlike Day 44's lo/la/los/las (direct object pronouns replacing a specific gendered noun, changing form with it), the neuter "lo" never refers to a specific gendered noun and never changes form; lo + a masculine-singular adjective nominalizes it into an abstract quality ("the [X] part/thing": lo bueno, lo importante, lo mejor); lo que is a neuter relative pronoun distinct from Day 52's que/quien/donde/cuyo (which require a specific noun antecedent) — lo que instead stands in for an entire unnamed idea/clause with no antecedent of its own; a related intensifying construction, lo + adjective/adverb + que + verb, produces the conversational "you don't know how [X]..." pattern (No sabes lo cansada que estoy), where lo itself stays fixed while the adjective still agrees with the real subject | spanish-lessons/day-71.html |
 | 2026-09-25 | 72 | Pero 與 Sino / Sino Que 的用法區分(Pero vs. Sino / Sino Que) | (2026-09-24 skipped — no content produced that day, see Run Notes.) Steps outside Day 71's "lo neutro" topic into a classic contrast: pero is the default, general-purpose "but," usable after either an affirmative or negative statement, always adding a qualifying idea without erasing what came before; sino (and its clause-length partner sino que) is a "corrective but," usable only when the first part of the sentence is explicitly negated and the second part directly replaces/contradicts it ("not X, but rather Y"), requiring the two elements be of the same grammatical category (noun/adjective/phrase, not a full clause) unless que is inserted to allow a full conjugated clause (No fue a la fiesta, sino que se quedó en casa); also covers the fixed extension no solo... sino también... | spanish-lessons/day-72.html |
+| 2026-09-26 | 73 | 更多「反向動詞」:Doler / Faltar / Interesar / Importar (More "Backwards Verbs") | Extends Day 15's foundational gustar pattern to four more everyday verbs sharing the identical structure (indirect object pronoun + verb agreeing with the causing thing, not the person affected): doler ("to hurt," an o→ue stem-changing verb like Day 18's poder, duele/duelen), faltar ("to be lacking/missing," also usable for "time remaining," falta/faltan), interesar ("to interest," interesa/interesan), and importar ("to matter/care about," importa/importan); sharpest flagged trap is specific to doler — Spanish never adds a possessive adjective before a body part in this construction (Me duele la cabeza, never "Me duele mi cabeza"), since the indirect pronoun already establishes whose body part it is | spanish-lessons/day-73.html |
 
 Note: a duplicate "Day 2" lesson (ser/¿De dónde eres?, i.e. the same topic
 as Day 5) was independently produced on 2026-07-14 on an orphaned branch
@@ -317,6 +318,7 @@ repeated. Before choosing today's piece, check this table.
 | 2026-09-22 | 大宗師 (Dà Zōngshī) — "The Great and Venerable Teacher" (featuring the True Man 真人 who breathes from his heels, the Dao as the "Great Clod" 大塊, dying Ziyu's 子輿 equanimity, Zisang Hu's 子桑戶 friends singing beside his corpse, the "相濡以沫" spring-fish parable, and Yan Hui's closing report of achieving "sitting and forgetting" 坐忘) | Inner Chapters (內篇), Ch. 6 |
 | 2026-09-23 | 應帝王 (Yìng Dì Wáng) — "Fit to Be Emperors and Kings" (featuring Pu Yi Zi's 蒲衣子 ruler Tai 泰氏, Jie Yu's 接輿 mockery of imposed governance, Lao Dan's 老聃 description of the enlightened king, the shaman Ji Xian 季咸 fleeing Huzi's 壺子 four unreadable "faces," Liezi's 列子 three years of self-forgetting, and the closing Hundun 渾沌 parable of Shu 儵 and Hu 忽 boring seven holes) — final chapter of the Inner Chapters | Inner Chapters (內篇), Ch. 7 |
 | 2026-09-25 | 駢拇 (Pián Mǔ) — "Webbed Toes" (2026-09-24 skipped, see Run Notes; opens the Outer Chapters with the webbed-toes/extra-finger image applied to benevolence and righteousness 仁義 as an unnatural graft onto human nature, the Bo Yi 伯夷 / Robber Zhi 盜跖 pairing arguing that dying for reputation and dying for profit equally injure one's inborn nature, and the closing duck-legs/crane-legs image of resting content in one's own given nature 安其性命之情) — opens the Outer Chapters (外篇) | Outer Chapters (外篇), Ch. 1 |
+| 2026-09-26 | 馬蹄 (Mǎ Tí) — "Horses' Hooves" (continues the Outer Chapters' "Primitivist" strand from Essay 8; the horse's unspoiled nature vs. Bo Le 伯樂's "expert" management — branding, hoof-paring, haltering — which kills 2-3 horses in 10 before training even begins; extends the same critique to the potter and carpenter who impose external form on clay/wood, then to sage-rulers who "manage" the people via benevolence and righteousness 仁義, arguing for government by non-action 無為而治) | Outer Chapters (外篇), Ch. 2 |
 
 ## Country/Region/Faction Spotlights Featured
 
@@ -389,6 +391,7 @@ repeated. Before choosing today's piece, check this table.
 | 2026-09-22 | Japan (日本) |
 | 2026-09-23 | Colombia (哥倫比亞) |
 | 2026-09-25 | Argentina (阿根廷) |
+| 2026-09-26 | Ghana (加納) |
 
 ## Internet Meme Spotlights Featured
 
@@ -461,6 +464,7 @@ repeated. Before choosing today's piece, check this table.
 | 2026-09-22 | Hawk Tuah Girl |
 | 2026-09-23 | Bing Chilling (John Cena) |
 | 2026-09-25 | PPAP / Pen-Pineapple-Apple-Pen (Piko Taro, Japan) |
+| 2026-09-26 | 工具人 (Tool Man, Taiwan/Chinese-language internet culture) |
 
 ## Film / Performing Arts Spotlights Featured
 
@@ -531,6 +535,7 @@ and never repeat a subject already listed.
 | 2026-09-22 | Yi Yi (一一, 2000, dir. Edward Yang) |
 | 2026-09-23 | Breathless (À bout de souffle, 1960, dir. Jean-Luc Godard) |
 | 2026-09-25 | Khon (โขน, Thai classical masked dance-drama) |
+| 2026-09-26 | Sunrise: A Song of Two Humans (1927, dir. F.W. Murnau) |
 
 ## Film-Appreciation / Criticism Method Lessons
 
@@ -603,6 +608,7 @@ table and pick one not yet covered.
 | 2026-09-22 | High-Key vs. Low-Key Lighting / Chiaroscuro (the ratio of key light to fill light controlling shadow density and mood — high-key uses a high fill-to-key ratio for bright, evenly-lit images; low-key uses little/no fill, letting shadow dominate, with chiaroscuro as its most stylized extreme, isolating subjects in narrow light pools against near-total black; distinct from Day 3's broader Cinematography & Lighting umbrella, which covered light/color/movement together, and Day 22's Lens Choice, a focal-length property rather than a lighting-ratio one; check the key-to-fill ratio in a scene, whether shadow conceals withheld information or implies an unseen threat, and whether a high-key/low-key shift marks a moral turning point) | Double Indemnity (1944, dir. Billy Wilder, cinematography by John F. Seitz) — foundational to film noir's visual grammar, repeatedly lighting interiors in extreme low-key chiaroscuro, most famously the recurring Venetian-blind shadow motif slicing across walls and faces, fracturing Walter Neff and Phyllis Dietrichson into light/shadow bars that visually encode their moral compromise before the murder is even committed; Seitz reportedly under-lit sets to the point Paramount executives worried the film would be unreleasably dark, a deliberate rejection of the studio system's default high-key "glamour" lighting that became, through the film's influence, an entire genre's visual signature |
 | 2026-09-23 | The 30-Degree Rule (a continuity-editing corollary of Day 9's 180-Degree Rule: a cut between two shots of the same subject should shift camera angle by at least ~30 degrees, or the cut reads as an unintended jarring "pop" indistinguishable from Day 24's Jump Cut even though no story time was skipped; distinct from Day 52's Axial Cutting/"Kubrick Cut," which keeps the exact same sightline while changing only distance, whereas a 30-degree-rule violation can occur at almost any nearby camera position so long as the angular change is too small to register; check whether a same-subject cut reads as a motivated repositioning or an unintended pop, and whether a violation is error or deliberate style) | Late Spring (晚春, 1949, dir. Yasujiro Ozu) — extensively documented (chiefly by David Bordwell) as systematically and deliberately violating both the 180-degree axis and the 30-degree rule as a directorial signature: in many static, low-camera dialogue/domestic scenes Ozu cuts between two setups of the same subject differing by only a few degrees, or occasionally crosses the 180-degree line outright, producing cuts a classically trained editor would reject as unmotivated jumps, instead contributing (alongside his low static "tatami-mat" height and refusal of establishing shots) to the calm, contemplative stillness of his late style |
 | 2026-09-25 | High-Angle vs. Low-Angle Shots: Camera Angle & Power Dynamics (2026-09-24 skipped, see Run Notes; where the camera sits vertically relative to a subject's eyeline, independent of Day 26's Dutch Angle rotation/roll, or Day 22/2026-09-22's lighting/lens variables: a low angle (camera below eyeline, looking up) conventionally reads as power/dominance/threat; a high angle (camera above eyeline, looking down) conventionally reads as vulnerability/diminishment; check where the camera sits relative to each character's eyeline, whether that placement holds steady or shifts with the scene's power balance, and whether the angle reinforces or works against the dialogue/blocking) | Citizen Kane (1941, dir. Orson Welles, cinematography by Gregg Toland) — extreme low angles (built-in ceilings required to shoot upward at all) tower Kane at his political peak, most famously the campaign-rally shot fusing a floor-level angle with his own giant self-portrait banner; the same toolkit runs in reverse in the final act, filming the aged, isolated Kane from higher, more distant positions that shrink him within Xanadu's cavernous, crate-filled interior |
+| 2026-09-26 | Foley Artistry & Diegetic Sound-Effects Design (the craft of performing/recording new sound effects — footsteps, cloth, impacts — synced frame-accurately to on-screen action in post, since production audio is usually unusable; distinct from Day 4's broader Sound Design & Score, Day 47's Acousmatic Sound (hidden source), and Day 45's Needle Drop (pre-existing licensed music); check which everyday sounds are unnaturally foregrounded, whether an absence of expected sound/score is itself doing dramatic work, and whether Foley choices favor realism or stylized heightening) | No Country for Old Men (2007, dir. Joel & Ethan Coen, sound by Skip Lievsay) — the Coens dropped a conventional score almost entirely after their first rough cut convinced them it wasn't needed; meticulously sculpted Foley (the captive-bolt gun's hiss-and-thunk, footsteps on carpet vs. tile, boots on gravel, prairie wind) mixed without musical cushioning forces the audience to track danger through manufactured sound detail alone, the "lost comfort zone" effect Lievsay described, earning the film two Academy Award sound nominations |
 
 ## Run Notes
 
@@ -1213,5 +1219,89 @@ exclusion lists; the camera-angle lesson was deliberately chosen to sit
 alongside, and be explicitly distinguished from, the already-taught
 Dutch Angle (rotation, not vertical placement) and High-Key/Low-Key
 Lighting (a lighting-ratio variable, not a camera-position one).
+Updates `index.html` and all six never-repeat tracking tables in
+`ROUTINE_LOG.md`.
+
+**2026-09-26:** STEP 0 run first, before touching git at all, per this
+file's own policy: the session's own current-date context stated
+2026-09-25 — a day behind — the same stale-context pattern this file has
+now flagged on well over twenty occasions. The system clock was checked
+independently rather than trusting that label: `date -u` read `Fri Sep
+25 21:38:29 UTC 2026`, and `TZ=Asia/Taipei date` read `Sat Sep 26
+05:38:29 CST 2026`, confirming the actual current date is 2026-09-26
+(Saturday), a full calendar day ahead of the assigned context's stated
+date.
+
+Full branch-recovery procedure was run before any content work: all
+`claude/*` branches were re-enumerated (85 total via the REST API). The
+GitHub Pages-deployed portal branch was reconfirmed directly via the
+`/repos/.../deployments?environment=github-pages` REST API: the latest
+entry with `state: success` (ref `claude/epic-brahmagupta-g1y16m`,
+created 2026-09-24T21:51:50Z ≈ 2026-09-25 05:51 Taipei) deployed commit
+`4bce1a1`, which exactly matches the tip of `claude/daily-2026-09-25`.
+`days_owed = (2026-09-26) − (2026-09-25) = 1` — a normal single-day
+cadence with no gap this run, unlike the 2026-09-24 gap disclosed in the
+prior entry. Today's new daily branch (`claude/daily-2026-09-26`) was
+cut directly from the portal branch's tip per this file's standard git
+workflow.
+
+Market section: today (Saturday) has no new US/Taiwan/most-Asia trading
+session, so this briefing reports Friday 2026-09-25's closes as each
+market's most recently completed session, cross-checked against
+Thursday's confirmed closes rather than taken at face value. US:
+Friday's Dow 51,828.62 (+478.64, +0.93%), S&P 500 7,743.41 (+0.51%),
+and Nasdaq 27,068.72 (+0.48%) all reconcile exactly against Thursday's
+now-precisely-confirmed closes (Dow 51,349.98 -0.3%, S&P 7,704.13
+essentially flat, Nasdaq 26,939.37 essentially flat) — 51,349.98 ×
+1.0093 ≈ 51,828; 7,704.13 × 1.0051 ≈ 7,743; 26,939.37 × 1.0048 ≈ 27,068
+— with no rounding ambiguity, correcting a wider Nasdaq decline figure
+that had circulated in the 2026-09-25 briefing's search pass (that
+figure is now understood to have been a stale/mislabeled result, per
+this file's standing practice of flagging cross-source inconsistencies
+rather than silently carrying one forward). Taiwan: the Taiwan Stock
+Exchange's 2026-09-25 through 2026-09-28 four-day holiday (Mid-Autumn
+Festival + Confucius's Birthday/Teachers' Day, reopening Tuesday
+2026-09-29) was independently verified via a dedicated holiday-calendar
+search rather than assumed; the most recently completed session remains
+Thursday 2026-09-24 (TAIEX 48,024.60, -0.28%; TSMC NT$2,475, -1.0%),
+unchanged from the 2026-09-25 briefing since no new session has
+occurred. Asia: Japan's Nikkei extended its win streak to five sessions
+Friday (66,364.20, +1.30%); Hong Kong's Hang Seng fell a third straight
+session Friday (24,510.09, about -1.0%); mainland China's Shanghai
+Composite and South Korea's KOSPI were both closed Friday for their
+respective Mid-Autumn/Chuseok holidays (Shanghai reopening Monday
+2026-09-28; KOSPI last traded Wednesday 2026-09-23 at 7,080.92, +0.90%,
+also reopening Monday 2026-09-28). A fresh independent search today
+resolved the 2026-09-25 briefing's disclosed Shanghai Thursday-close
+cross-source conflict: 3,888.4 (-1.22%) is now confirmed as correct,
+versus the other previously-circulated 3,902.33/-0.8% figure, which
+this search did not corroborate.
+
+Dev-news section: covers Anthropic's Claude Opus 5.5 release (priced
+~20% below Opus 5, positioned for agentic coding/long-running knowledge
+work) alongside a same-day OpenAI release described as a "price war,"
+and separate Anthropic research on multi-agent negotiation; the
+"Frontier AI Standards Agency" effort and Apple/Android items are
+reported as continuations with no material change since 2026-09-25. The
+Flutter version-number discrepancy left unverified in the 2026-09-25
+briefing was actively re-checked this run (not merely carried forward)
+and is now resolved: 3.47.5 (paired with Dart 3.13.4), dated 2026-09-18,
+is confirmed as the current latest stable release.
+
+Country spotlight (Ghana) and meme spotlight (工具人/Tool Man) were both
+confirmed absent from their respective exclusion lists before selection;
+Ghana's current president (John Dramani Mahama, sworn in January 2025
+for a second, non-consecutive term after first serving 2012-2017) and
+2026 economic figures were independently verified via search rather
+than assumed from training knowledge. The 工具人 meme's exact
+forum-of-origin and coinage date were not clearly documented in
+available sources; the briefing discloses this uncertainty directly
+rather than asserting an unverified specific origin. Film spotlight
+(Sunrise: A Song of Two Humans, dir. F.W. Murnau) and film-analysis
+method (Foley Artistry & Diegetic Sound-Effects Design, worked via No
+Country for Old Men) were both confirmed absent from their respective
+exclusion lists; the Foley lesson was deliberately distinguished from
+the three prior sound-related lessons (Sound Design & Score, Acousmatic
+Sound, Needle Drop) to avoid overlap.
 Updates `index.html` and all six never-repeat tracking tables in
 `ROUTINE_LOG.md`.
