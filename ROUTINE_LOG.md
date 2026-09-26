@@ -1305,3 +1305,32 @@ the three prior sound-related lessons (Sound Design & Score, Acousmatic
 Sound, Needle Drop) to avoid overlap.
 Updates `index.html` and all six never-repeat tracking tables in
 `ROUTINE_LOG.md`.
+
+**2026-09-26 (second firing, duplicate):** STEP 0 run first, per policy,
+before touching git at all: the system clock was read directly (`date -u`
+→ `Sat Sep 26 21:35:09 UTC 2026`; `TZ=Asia/Taipei date` → `2026-09-26`,
+Saturday), confirming the actual current date is still 2026-09-26 — no
+stale-context discrepancy this run.
+
+Full branch-recovery procedure was run before any content work: all
+`claude/*` branches were re-enumerated via `list_branches`, and the
+GitHub Pages-deployed portal branch was reconfirmed directly via the
+`/repos/.../deployments?environment=github-pages` REST API: the latest
+entry with `state: success` (id 6670799484, ref
+`claude/epic-brahmagupta-g1y16m`, created 2026-09-25T21:50:19Z ≈
+2026-09-26 05:50 Taipei — i.e. already deployed by the day's earlier
+firing) deployed commit `e382a4d9`, the "Add 2026-09-26 daily content"
+commit already sitting at the portal tip. `briefings/2026-09-26.html`
+and `spanish-lessons/day-73.html` are both present, and this file's own
+tracking tables already carry today's Spanish Day 73 / Hexagram 馬蹄
+(Outer Chapters Ch. 2) / Ghana / 工具人 / Sunrise: A Song of Two Humans /
+Foley Artistry entries, matching the content already logged in this
+file's immediately preceding entry above.
+
+`days_owed = (2026-09-26) − (2026-09-26) = 0`. Per this file's own STEP
+0 policy, this is a genuine duplicate same-day firing. No new
+briefing/lesson content, and no second advance of the
+Spanish/hexagram-or-Zhuangzi/country/meme/film/method sequences, was
+produced. This note is committed directly to a branch cut from the
+portal tip and fast-forwarded back in, exactly as done for the
+2026-09-17, 2026-09-19, and 2026-09-23 duplicate firings.
