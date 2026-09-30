@@ -223,6 +223,7 @@ the repo so a permanent link can be shared.
 | 2026-09-28 | 74 | Ya 與 Todavía / Aún(已經 vs. 還/仍然) | (2026-09-27 skipped — no content produced that day, see Run Notes.) Steps outside Day 73's backwards-verb track into a foundational time-adverb pair used constantly but never formally named: ya ("already") marks a completed or newly-true state, most often paired with the present perfect (Day 21) or preterite (Days 16-19) — ¿Ya comiste?, Ya llegó; todavía (or the more formal/literary aún) marks an ongoing, not-yet-changed state, most often paired with the present or a progressive (Day 14) — Todavía como, Aún está lloviendo; the sharpest trap is the negative flip, which reverses the pair's ordinary affirmative meaning rather than simply adding "no" to it: ya no + verb means an action that WAS happening has now stopped ("no longer," Ya no fumo), while todavía no + verb means an action that hasn't started yet but is still expected ("not yet," Todavía no llega); cross-referenced with Day 66's acabar de (marks an action as freshly finished without commenting on duration) as a third, distinct way to talk about completion | spanish-lessons/day-74.html |
 | 2026-09-29 | 75 | 動詞 + 固定介系詞(Verbos con Preposición Fija: pensar en / soñar con / depender de / casarse con / acordarse de / confiar en) | New topic, not covered in Days 1-74: six verb + preposition pairs commonly mistranslated from Chinese/English; contrasts pensar en (think about) vs. pensar de (opinion) and acordarse de vs. recordar; confiar en que + clause keeps en. | spanish-lessons/day-75.html |
 | 2026-09-30 | 76 | Hace + 時間表達(Hace que / Desde hace / Desde; hace + 過去式 = ago) | New topic, not covered in Days 1-75: duration with hace...que + present, desde hace + span, desde + point in time, hace + preterite = "ago"; ties to Day 66 llevar + gerundio. | spanish-lessons/day-76.html |
+| 2026-10-01 | 77 | Tener 慣用語(tener hambre / sed / frío / calor / sueño / miedo / razón / prisa / ganas de; tener vs. hacer/estar) | New topic, not covered in Days 1-76: expressing physical states and feelings with tener + noun, mucho/mucha agreement, tener ganas de + infinitive, tener ... años. | spanish-lessons/day-77.html |
 
 Note: a duplicate "Day 2" lesson (ser/¿De dónde eres?, i.e. the same topic
 as Day 5) was independently produced on 2026-07-14 on an orphaned branch
@@ -325,6 +326,7 @@ repeated. Before choosing today's piece, check this table.
 | 2026-09-28 | 胠篋 (Qū Qiè) — "Rifling Trunks" (2026-09-27 skipped, see Run Notes; continues the Outer Chapters' Primitivist strand from Essays 8-9 with its most famous paradox: "steal a belt-buckle and you're executed; steal a state and you become a marquis" 竊鉤者誅,竊國者為諸侯 — the same locks, seals, weights, and measures built to guard against petty thieves only help the great brigand carry off the whole state more securely once he has stolen it, and the very virtues (benevolence and righteousness 仁義) sages devised to "help" rulers govern are what arm and legitimize the greatest theft of all; concludes with the radical demand to "smash the sages and release the thieves" 擿玉毀珠,小盜不起 / 絕聖棄知,大盜乃止 — abolishing sageliness and cleverness themselves as the only way to end the world's plunder) | Outer Chapters (外篇), Ch. 3 |
 | 2026-09-29 | 在宥 (Zài Yòu) — "Letting Be and Leaving Alone" (continues the Outer Chapters from Essay 10; "I have heard of letting the world be, never of governing it"; the Yellow Emperor and Guang Chengzi on Mount Kongtong; Cloud General and Great Nebulous, the "fasting of the heart"; 物而不物,故能物物) | Outer Chapters (外篇), Ch. 11 |
 | 2026-09-30 | 天地 (Tiān Dì) — "Heaven and Earth" (Outer Chapters, continues from Essay 11; the machine-heart 機心 gardener parable, the lost Mysterious Pearl found by Xiang Wang 象罔) | Outer Chapters (外篇) |
+| 2026-10-01 | 天道 (Tiān Dào) — "The Way of Heaven" (Outer Chapters, continues from Essay 12; the Way turns without accumulating, emptiness/stillness/non-action, the still mind as a mirror, Wheelwright Bian and the "dregs of the ancients") | Outer Chapters (外篇) |
 
 ## Country/Region/Faction Spotlights Featured
 
@@ -401,6 +403,7 @@ repeated. Before choosing today's piece, check this table.
 | 2026-09-28 | India (印度) |
 | 2026-09-29 | Brazil (巴西) | briefings/2026-09-29.html |
 | 2026-09-30 | Tunisia (突尼西亞) | briefings/2026-09-30.html |
+| 2026-10-01 | Belgium (比利時) | briefings/2026-10-01.html |
 
 ## Internet Meme Spotlights Featured
 
@@ -477,6 +480,7 @@ repeated. Before choosing today's piece, check this table.
 | 2026-09-28 | American Chopper Argument (美式改裝車爭吵迷因) |
 | 2026-09-29 | Keyboard Cat (鍵盤貓) | briefings/2026-09-29.html |
 | 2026-09-30 | Leeroy Jenkins | briefings/2026-09-30.html |
+| 2026-10-01 | Rage Comics (暴怒漫畫) | briefings/2026-10-01.html |
 
 ## Film / Performing Arts Spotlights Featured
 
@@ -551,6 +555,7 @@ and never repeat a subject already listed.
 | 2026-09-28 | Stalker (Сталкер, 1979, dir. Andrei Tarkovsky) |
 | 2026-09-29 | Spirited Away (千と千尋の神隠し, 2001, dir. Hayao Miyazaki) | briefings/2026-09-29.html |
 | 2026-09-30 | Hamilton (musical, 2015; book/music/lyrics Lin-Manuel Miranda, dir. Thomas Kail) | briefings/2026-09-30.html |
+| 2026-10-01 | Raise the Red Lantern (大紅燈籠高高掛, 1991, dir. Zhang Yimou) | briefings/2026-10-01.html |
 
 ## Film-Appreciation / Criticism Method Lessons
 
@@ -627,6 +632,7 @@ table and pick one not yet covered.
 | 2026-09-28 | Handheld Camera & Cinéma-Vérité Aesthetic (2026-09-27 skipped, see Run Notes; deliberately unstabilized, shoulder- or hand-carried camera work — jitter, micro-drift, imperfect framing — borrowed from documentary/newsreel shooting to read as unmediated, "being there" realism; distinct from Day 15's broader Camera Movement taxonomy, which names pan/tilt/dolly/crane/Steadicam/zoom as motivated or unmotivated movements through space without addressing this specific instability-as-verisimilitude choice, and from Day 3's Long Take, an unbroken shot that can be either handheld or perfectly smooth depending on rig; check whether the shake is subtle/observational or extreme/violent, whether it's sustained as a scene-long register or breaks in only at a crisis point, and whether the film contrasts handheld chaos against otherwise stable/composed cinematography to mark a shift in a scene's stakes) | Saving Private Ryan (1998, dir. Steven Spielberg, cinematography by Janusz Kamiński) — the Omaha Beach landing sequence, shot largely handheld with the camera's protective coating stripped from the lenses and a reduced shutter angle to make each frame's motion blur harsher and more staccato, plunging the audience into the same disoriented, chaotic point of near-total sensory overload as the landing soldiers, a technique so influential it became the default visual grammar for nearly all subsequent combat filmmaking |
 | 2026-09-29 | Subtext in Dialogue (Lesson 61; reading the gap between what a line says and what the character means; worked example: the role-play rehearsal scene in In the Mood for Love, 2000, dir. Wong Kar-wai) | briefings/2026-09-29.html |
 | 2026-09-30 | Want vs. Need / Character Arc (Lesson 62; the conscious external goal vs. the internal truth the protagonist must face; worked example: the airport scene in Casablanca, 1942, dir. Michael Curtiz) | briefings/2026-09-30.html |
+| 2026-10-01 | Intertextuality, Homage & Allusion (Lesson 63; reading a film against earlier films — allusion vs. homage vs. parody vs. pastiche) | The Untouchables (1987, Brian De Palma), Union Station shootout as homage to Battleship Potemkin's Odessa Steps |
 
 ## Run Notes
 
@@ -767,3 +773,10 @@ Selections: Spanish Day 75 (verbs + fixed prepositions), Zhuangzi Essay 11 在�
 Section 1: US Tuesday 9/29 close (Dow 51,349.92, -0.26%; S&P 500 7,670.84, -0.16%; Nasdaq 26,797.54, -0.09%) reconciled arithmetically against Monday 9/28. One search returned Dow 46,316 / S&P 6,661 under a 9/29 label; that was a 2025 figure and was discarded. Asia 9/29 (Nikkei 65,481.27; Kospi 6,870.81; Hang Seng 24,543.41) and TAIEX 47,631.96 (-392.64, prior close 48,024.60 on 9/24) all reconcile with earlier closes. WebFetch was blocked by the egress proxy for the article pages, so figures rest on search summaries that were internally consistent. Section 2: no new Apple release or Flutter release confirmed; noted as carried forward.
 
 Selections: Spanish Day 76 (hace/desde time expressions), Zhuangzi Essay 12 天地, Tunisia, Leeroy Jenkins, Hamilton, Method Lesson 62 (Want vs. Need / Character Arc, worked example from Casablanca). Country/meme/film sections were written from general knowledge without live sources and are labeled as such in the briefing.
+
+
+**2026-10-01:** STEP 0 run first: `date -u` read `Wed Sep 30 21:34 UTC` and `TZ=Asia/Taipei date` read `Thu Oct 1 05:34 CST`, so the actual date is 2026-10-01 (Thursday) even though the session's context header said 2026-09-30. Session started on a stale local branch (`claude/magical-darwin-pzlhp1`, only Day 3 content), the known divergence signal; recovered by listing all branches and reading the Pages deployment API: latest deployment `ref: claude/epic-brahmagupta-g1y16m`, `sha: 06e1edc`, matching `claude/daily-2026-09-30`. days_owed = 1, so today's content was produced, branched as `claude/daily-2026-10-01` off the portal tip.
+
+Section 1: US Wed 9/30 close (Dow 50,906.05, -0.9%; S&P 500 7,651.54, -0.3%; Nasdaq 26,861.06, +0.2%) reconciled exactly against Tuesday 9/29. A first search returned Dow 46,397.89 / S&P 6,688.46 under a 9/30 label; those are 2025-era figures and were discarded after a session-specific re-query. Asia 9/30: Nikkei ~66,795 (+2.01%), Hang Seng 24,613.27 (source says +0.37% but arithmetic gives ~+0.28%, flagged), Kospi -0.1% and Shanghai +0.3% without confirmed levels. TAIEX 47,940.13 (+308.17) reconciles with 47,631.96. Dev news: Android developer verification confirmed live 9/30; an 'iOS 26.0.1 on 9/29' search result was a 2025 event and was discarded; no new AI or Flutter item could be confirmed.
+
+Selections: Spanish Day 77 (tener expressions), Zhuangzi Essay 13 天道, Belgium, Rage Comics, Raise the Red Lantern, Method Lesson 63 (Intertextuality/Homage, worked example The Untouchables vs. Battleship Potemkin). Country/meme/film sections were written from general knowledge without live sources and are labeled as such in the briefing.
