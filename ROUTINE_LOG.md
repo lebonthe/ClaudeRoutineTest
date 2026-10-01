@@ -224,6 +224,7 @@ the repo so a permanent link can be shared.
 | 2026-09-29 | 75 | 動詞 + 固定介系詞(Verbos con Preposición Fija: pensar en / soñar con / depender de / casarse con / acordarse de / confiar en) | New topic, not covered in Days 1-74: six verb + preposition pairs commonly mistranslated from Chinese/English; contrasts pensar en (think about) vs. pensar de (opinion) and acordarse de vs. recordar; confiar en que + clause keeps en. | spanish-lessons/day-75.html |
 | 2026-09-30 | 76 | Hace + 時間表達(Hace que / Desde hace / Desde; hace + 過去式 = ago) | New topic, not covered in Days 1-75: duration with hace...que + present, desde hace + span, desde + point in time, hace + preterite = "ago"; ties to Day 66 llevar + gerundio. | spanish-lessons/day-76.html |
 | 2026-10-01 | 77 | Tener 慣用語(tener hambre / sed / frío / calor / sueño / miedo / razón / prisa / ganas de; tener vs. hacer/estar) | New topic, not covered in Days 1-76: expressing physical states and feelings with tener + noun, mucho/mucha agreement, tener ganas de + infinitive, tener ... años. | spanish-lessons/day-77.html |
+| 2026-10-02 | 78 | Ir vs. Venir 與 Llevar vs. Traer(視角動詞) | New topic, not covered in Days 1-77: perspective-dependent motion verbs; ir (away from speaker/listener) vs. venir (toward), voy not vengo when going to the listener's place, llevar vs. traer, irregular imperatives ve/ven. | spanish-lessons/day-78.html |
 
 Note: a duplicate "Day 2" lesson (ser/¿De dónde eres?, i.e. the same topic
 as Day 5) was independently produced on 2026-07-14 on an orphaned branch
@@ -327,6 +328,7 @@ repeated. Before choosing today's piece, check this table.
 | 2026-09-29 | 在宥 (Zài Yòu) — "Letting Be and Leaving Alone" (continues the Outer Chapters from Essay 10; "I have heard of letting the world be, never of governing it"; the Yellow Emperor and Guang Chengzi on Mount Kongtong; Cloud General and Great Nebulous, the "fasting of the heart"; 物而不物,故能物物) | Outer Chapters (外篇), Ch. 11 |
 | 2026-09-30 | 天地 (Tiān Dì) — "Heaven and Earth" (Outer Chapters, continues from Essay 11; the machine-heart 機心 gardener parable, the lost Mysterious Pearl found by Xiang Wang 象罔) | Outer Chapters (外篇) |
 | 2026-10-01 | 天道 (Tiān Dào) — "The Way of Heaven" (Outer Chapters, continues from Essay 12; the Way turns without accumulating, emptiness/stillness/non-action, the still mind as a mirror, Wheelwright Bian and the "dregs of the ancients") | Outer Chapters (外篇) |
+| 2026-10-02 | 天運 (Tiān Yùn) — "The Turning of Heaven" (Outer Chapters, continues from Essay 13; unanswerable cosmic questions, tigers and wolves as "benevolent", perfect benevolence has no partiality, Xianchi music, Confucius and Lao Dan, footprints vs. shoes, Dong Shi imitating Xi Shi) | Outer Chapters (外篇) |
 
 ## Country/Region/Faction Spotlights Featured
 
@@ -404,6 +406,7 @@ repeated. Before choosing today's piece, check this table.
 | 2026-09-29 | Brazil (巴西) | briefings/2026-09-29.html |
 | 2026-09-30 | Tunisia (突尼西亞) | briefings/2026-09-30.html |
 | 2026-10-01 | Belgium (比利時) | briefings/2026-10-01.html |
+| 2026-10-02 | Austria (奧地利) | briefings/2026-10-02.html |
 
 ## Internet Meme Spotlights Featured
 
@@ -481,6 +484,7 @@ repeated. Before choosing today's piece, check this table.
 | 2026-09-29 | Keyboard Cat (鍵盤貓) | briefings/2026-09-29.html |
 | 2026-09-30 | Leeroy Jenkins | briefings/2026-09-30.html |
 | 2026-10-01 | Rage Comics (暴怒漫畫) | briefings/2026-10-01.html |
+| 2026-10-02 | Cheems / Swole Doge vs. Cheems (Hong Kong Shiba Inu Balltze) | briefings/2026-10-02.html |
 
 ## Film / Performing Arts Spotlights Featured
 
@@ -556,6 +560,7 @@ and never repeat a subject already listed.
 | 2026-09-29 | Spirited Away (千と千尋の神隠し, 2001, dir. Hayao Miyazaki) | briefings/2026-09-29.html |
 | 2026-09-30 | Hamilton (musical, 2015; book/music/lyrics Lin-Manuel Miranda, dir. Thomas Kail) | briefings/2026-09-30.html |
 | 2026-10-01 | Raise the Red Lantern (大紅燈籠高高掛, 1991, dir. Zhang Yimou) | briefings/2026-10-01.html |
+| 2026-10-02 | A Touch of Zen (俠女, 1971, dir. King Hu) | briefings/2026-10-02.html |
 
 ## Film-Appreciation / Criticism Method Lessons
 
@@ -633,6 +638,7 @@ table and pick one not yet covered.
 | 2026-09-29 | Subtext in Dialogue (Lesson 61; reading the gap between what a line says and what the character means; worked example: the role-play rehearsal scene in In the Mood for Love, 2000, dir. Wong Kar-wai) | briefings/2026-09-29.html |
 | 2026-09-30 | Want vs. Need / Character Arc (Lesson 62; the conscious external goal vs. the internal truth the protagonist must face; worked example: the airport scene in Casablanca, 1942, dir. Michael Curtiz) | briefings/2026-09-30.html |
 | 2026-10-01 | Intertextuality, Homage & Allusion (Lesson 63; reading a film against earlier films — allusion vs. homage vs. parody vs. pastiche) | The Untouchables (1987, Brian De Palma), Union Station shootout as homage to Battleship Potemkin's Odessa Steps |
+| 2026-10-02 | Pacing & Average Shot Length (Lesson 64; scene tempo as shots per minute, judged against a film's own baseline and its changes in rhythm) | Psycho (1960, dir. Alfred Hitchcock), shower scene: burst of very short shots after long patient takes, then a slow still shot |
 
 ## Run Notes
 
@@ -780,3 +786,10 @@ Selections: Spanish Day 76 (hace/desde time expressions), Zhuangzi Essay 12 天�
 Section 1: US Wed 9/30 close (Dow 50,906.05, -0.9%; S&P 500 7,651.54, -0.3%; Nasdaq 26,861.06, +0.2%) reconciled exactly against Tuesday 9/29. A first search returned Dow 46,397.89 / S&P 6,688.46 under a 9/30 label; those are 2025-era figures and were discarded after a session-specific re-query. Asia 9/30: Nikkei ~66,795 (+2.01%), Hang Seng 24,613.27 (source says +0.37% but arithmetic gives ~+0.28%, flagged), Kospi -0.1% and Shanghai +0.3% without confirmed levels. TAIEX 47,940.13 (+308.17) reconciles with 47,631.96. Dev news: Android developer verification confirmed live 9/30; an 'iOS 26.0.1 on 9/29' search result was a 2025 event and was discarded; no new AI or Flutter item could be confirmed.
 
 Selections: Spanish Day 77 (tener expressions), Zhuangzi Essay 13 天道, Belgium, Rage Comics, Raise the Red Lantern, Method Lesson 63 (Intertextuality/Homage, worked example The Untouchables vs. Battleship Potemkin). Country/meme/film sections were written from general knowledge without live sources and are labeled as such in the briefing.
+
+
+**2026-10-02:** STEP 0 run first: `date -u` read `Thu Oct 1 21:35 UTC` and `TZ=Asia/Taipei date` read `Fri Oct 2 05:35 CST`, so the actual date is 2026-10-02 (Friday) even though the session's context header said 2026-10-01. Session started on a stale local branch (`claude/magical-darwin-4zo2iv`, only Day 3 content), the known divergence signal; recovered by listing all remote branches and reading the Pages deployment API: latest successful deployment `ref: claude/epic-brahmagupta-g1y16m`, `sha: 5c9c1da`, matching the 2026-10-01 entry (the longest history of any branch, 78 briefings). days_owed = 1, so today's content was produced on `claude/daily-2026-10-02` cut from that tip.
+
+Section 1: US Thu 10/1 close (Dow 50,926.56, +0.04%; S&P 500 7,666.45, +0.19%; Nasdaq 26,871.60, +0.04%) reconciles with 9/30. Nikkei ~68,840 (+3.1%) is consistent; Kospi 6,946 (+1.6%) does not fully reconcile with the prior level (flagged). China/HK closed for National Day. TAIEX 48,353.49 (+413, record close) reconciles with 47,940.13. WebFetch/article reads were not used; figures rest on internally consistent search summaries. Section 2: a search result claiming Claude Sonnet 4.5 launched 9/30 was a 2025 event and was discarded; OpenAI DevDay (9/29) taken from OpenAI's own recap page.
+
+Selections: Spanish Day 78 (ir/venir, llevar/traer), Zhuangzi Essay 14 天運, Austria (population/GDP/chancellor from a Robert Schuman Foundation sheet), Cheems (dates from a Wikipedia/meme.com search summary), A Touch of Zen, Method Lesson 64 (Pacing & ASL, worked example Psycho shower scene). Film, method and Zhuangzi sections come from general knowledge and are labeled as such.
