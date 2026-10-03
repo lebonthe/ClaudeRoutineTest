@@ -225,6 +225,8 @@ the repo so a permanent link can be shared.
 | 2026-09-30 | 76 | Hace + 時間表達(Hace que / Desde hace / Desde; hace + 過去式 = ago) | New topic, not covered in Days 1-75: duration with hace...que + present, desde hace + span, desde + point in time, hace + preterite = "ago"; ties to Day 66 llevar + gerundio. | spanish-lessons/day-76.html |
 | 2026-10-01 | 77 | Tener 慣用語(tener hambre / sed / frío / calor / sueño / miedo / razón / prisa / ganas de; tener vs. hacer/estar) | New topic, not covered in Days 1-76: expressing physical states and feelings with tener + noun, mucho/mucha agreement, tener ganas de + infinitive, tener ... años. | spanish-lessons/day-77.html |
 | 2026-10-02 | 78 | Ir vs. Venir 與 Llevar vs. Traer(視角動詞) | New topic, not covered in Days 1-77: perspective-dependent motion verbs; ir (away from speaker/listener) vs. venir (toward), voy not vengo when going to the listener's place, llevar vs. traer, irregular imperatives ve/ven. | spanish-lessons/day-78.html |
+| 2026-10-03 | 79 | Salir / Dejar / Irse(三種「離開」) | salir (leave a place) vs. dejar (leave behind/let/quit) vs. irse (go away). | spanish-lessons/day-79.html |
+| 2026-10-04 | 80 | Quedar vs. Quedarse(留下、剩下、約定、合不合適) | quedarse (stay) vs. quedar (arrange to meet, be left, be located, fit/suit); me quedan + noun as a gustar-like structure; quedarse + adjective/sin. | spanish-lessons/day-80.html |
 
 Note: a duplicate "Day 2" lesson (ser/¿De dónde eres?, i.e. the same topic
 as Day 5) was independently produced on 2026-07-14 on an orphaned branch
@@ -329,6 +331,8 @@ repeated. Before choosing today's piece, check this table.
 | 2026-09-30 | 天地 (Tiān Dì) — "Heaven and Earth" (Outer Chapters, continues from Essay 11; the machine-heart 機心 gardener parable, the lost Mysterious Pearl found by Xiang Wang 象罔) | Outer Chapters (外篇) |
 | 2026-10-01 | 天道 (Tiān Dào) — "The Way of Heaven" (Outer Chapters, continues from Essay 12; the Way turns without accumulating, emptiness/stillness/non-action, the still mind as a mirror, Wheelwright Bian and the "dregs of the ancients") | Outer Chapters (外篇) |
 | 2026-10-02 | 天運 (Tiān Yùn) — "The Turning of Heaven" (Outer Chapters, continues from Essay 13; unanswerable cosmic questions, tigers and wolves as "benevolent", perfect benevolence has no partiality, Xianchi music, Confucius and Lao Dan, footprints vs. shoes, Dong Shi imitating Xi Shi) | Outer Chapters (外篇) |
+| 2026-10-03 | 刻意 (Kè Yì) — "Constrained in Will" (Outer Chapters, Ch. 8) | Outer Chapters (外篇), Ch. 8 |
+| 2026-10-04 | 繕性 (Shàn Xìng) — "Mending the Inborn Nature" (Outer Chapters; tranquility nourishing knowledge, the "benighted" who mend nature by learning, ancient hermits waiting on fate) | Outer Chapters (外篇), Ch. 9 |
 
 ## Country/Region/Faction Spotlights Featured
 
@@ -407,6 +411,8 @@ repeated. Before choosing today's piece, check this table.
 | 2026-09-30 | Tunisia (突尼西亞) | briefings/2026-09-30.html |
 | 2026-10-01 | Belgium (比利時) | briefings/2026-10-01.html |
 | 2026-10-02 | Austria (奧地利) | briefings/2026-10-02.html |
+| 2026-10-03 | The Philippines (菲律賓) | briefings/2026-10-03.html |
+| 2026-10-04 | Hungary (匈牙利) | briefings/2026-10-04.html |
 
 ## Internet Meme Spotlights Featured
 
@@ -485,6 +491,8 @@ repeated. Before choosing today's piece, check this table.
 | 2026-09-30 | Leeroy Jenkins | briefings/2026-09-30.html |
 | 2026-10-01 | Rage Comics (暴怒漫畫) | briefings/2026-10-01.html |
 | 2026-10-02 | Cheems / Swole Doge vs. Cheems (Hong Kong Shiba Inu Balltze) | briefings/2026-10-02.html |
+| 2026-10-03 | Hampster Dance (倉鼠舞) | briefings/2026-10-03.html |
+| 2026-10-04 | Ermahgerd (Goosebumps "Berks" Girl) | briefings/2026-10-04.html |
 
 ## Film / Performing Arts Spotlights Featured
 
@@ -561,6 +569,8 @@ and never repeat a subject already listed.
 | 2026-09-30 | Hamilton (musical, 2015; book/music/lyrics Lin-Manuel Miranda, dir. Thomas Kail) | briefings/2026-09-30.html |
 | 2026-10-01 | Raise the Red Lantern (大紅燈籠高高掛, 1991, dir. Zhang Yimou) | briefings/2026-10-01.html |
 | 2026-10-02 | A Touch of Zen (俠女, 1971, dir. King Hu) | briefings/2026-10-02.html |
+| 2026-10-03 | Rakugo (落語, Japanese solo comic storytelling) | briefings/2026-10-03.html |
+| 2026-10-04 | Taxi Driver (1976, dir. Martin Scorsese) | briefings/2026-10-04.html |
 
 ## Film-Appreciation / Criticism Method Lessons
 
@@ -639,6 +649,8 @@ table and pick one not yet covered.
 | 2026-09-30 | Want vs. Need / Character Arc (Lesson 62; the conscious external goal vs. the internal truth the protagonist must face; worked example: the airport scene in Casablanca, 1942, dir. Michael Curtiz) | briefings/2026-09-30.html |
 | 2026-10-01 | Intertextuality, Homage & Allusion (Lesson 63; reading a film against earlier films — allusion vs. homage vs. parody vs. pastiche) | The Untouchables (1987, Brian De Palma), Union Station shootout as homage to Battleship Potemkin's Odessa Steps |
 | 2026-10-02 | Pacing & Average Shot Length (Lesson 64; scene tempo as shots per minute, judged against a film's own baseline and its changes in rhythm) | Psycho (1960, dir. Alfred Hitchcock), shower scene: burst of very short shots after long patient takes, then a slow still shot |
+| 2026-10-03 | Establishing Shot & Spatial Orientation (Lesson 65; worked example The Shining) | The Shining |
+| 2026-10-04 | Opening & Closing Image Pairs / Bookending (Lesson 66; compare first and last shot for what changed) | The Searchers (1956, dir. John Ford, cinematography Winton C. Hoch) — homestead doorway shot at the start and end; Ethan left outside as the door closes |
 
 ## Run Notes
 
@@ -799,3 +811,7 @@ Selections: Spanish Day 78 (ir/venir, llevar/traer), Zhuangzi Essay 14 天運, A
 Section 1: Saturday, so no market is open; reported the Friday 10/2 closes. Nikkei 68,309.46 (-0.94%, prior close 68,956.72 per the same source, which slightly revises yesterday's ~68,840) reconciles; Kospi 7,003.74 (+0.46%) implies a prior close of 6,971.35 versus yesterday's 6,946 (flagged); TAIEX ~48,476 (+122) reconciles with 48,353.49. US closing levels could NOT be confirmed (finance article pages blocked by the egress proxy): percentages (S&P +0.89%, Dow +0.64%, Nasdaq +1.35%) come from one search summary, levels are implied estimates, and a "Nasdaq record 30,808" figure was discarded as inconsistent. Several first-pass searches returned January/July 2026 or 2025 figures under an Oct 2 label and were discarded. Section 2: no new Apple/AI/Android/Flutter release confirmed; carried forward.
 
 Selections: Spanish Day 79 (salir/dejar/irse), Zhuangzi Essay 15 刻意, The Philippines (population/GDP/forecast from a World Bank-derived search summary), Hampster Dance, Rakugo, Method Lesson 65 (Establishing Shot & Spatial Orientation, worked example The Shining). Film, method, meme and Zhuangzi sections come from general knowledge and are labeled as such.
+
+**2026-10-04:** STEP 0 run first: `date -u` read `Sat Oct 3 21:35 UTC` and `TZ=Asia/Taipei date` read `Sun Oct 4 05:35 CST`, so the actual date is 2026-10-04 (Sunday) even though the session's context header said 2026-10-03. Session started on a stale local branch (`claude/magical-darwin-nycuk7`, only 11 log rows), the known divergence signal; recovered via `list_branches` and the Pages deployment API: latest successful deployment `ref: claude/epic-brahmagupta-g1y16m`, `sha: 85e9f79`, matching `claude/daily-2026-10-03`. days_owed = 1, so today's content was produced on `claude/daily-2026-10-04` cut from that tip. The 2026-10-03 run had not added its rows to the tracking tables (only Run Notes and index); they were backfilled today (Day 79, Essay 15, Philippines, Hampster Dance, Rakugo, Lesson 65).
+
+Section 1: Sunday, no market open. Searches could not confirm Friday Oct 2 closes (results labeled Oct 2 were from other months or 2025; one recap cited 128,000 jobs, conflicting with yesterday's 29,000, and was discarded), so yesterday's figures were carried forward and flagged unverified. Section 2: nothing new confirmed. Hungary leadership (PM Péter Magyar since May 2026, Tisza won April 12 election) was verified by search after a first result wrongly said Orbán; population/GDP from a search summary. Selections: Spanish Day 80 (quedar/quedarse), Zhuangzi Essay 16 繕性, Hungary, Ermahgerd, Taxi Driver, Method Lesson 66 (Bookending, The Searchers). Meme, film, method and Zhuangzi text come from general knowledge.
