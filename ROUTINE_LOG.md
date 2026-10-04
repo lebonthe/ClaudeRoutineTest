@@ -227,6 +227,7 @@ the repo so a permanent link can be shared.
 | 2026-10-02 | 78 | Ir vs. Venir 與 Llevar vs. Traer(視角動詞) | New topic, not covered in Days 1-77: perspective-dependent motion verbs; ir (away from speaker/listener) vs. venir (toward), voy not vengo when going to the listener's place, llevar vs. traer, irregular imperatives ve/ven. | spanish-lessons/day-78.html |
 | 2026-10-03 | 79 | Salir / Dejar / Irse(三種「離開」) | salir (leave a place) vs. dejar (leave behind/let/quit) vs. irse (go away). | spanish-lessons/day-79.html |
 | 2026-10-04 | 80 | Quedar vs. Quedarse(留下、剩下、約定、合不合適) | quedarse (stay) vs. quedar (arrange to meet, be left, be located, fit/suit); me quedan + noun as a gustar-like structure; quedarse + adjective/sin. | spanish-lessons/day-80.html |
+| 2026-10-05 | 81 | 天氣表達(El Tiempo: hace / está / hay / llover) | New topic, not covered in Days 1-80: weather vocabulary and structures; hace + noun (mucho, not muy), está + adjective, hay + noun, impersonal llover (o→ue) / nevar (e→ie); hacía/estaba for past background vs. llovió for a single event; hace calor (weather) vs. tengo calor (person). | spanish-lessons/day-81.html |
 
 Note: a duplicate "Day 2" lesson (ser/¿De dónde eres?, i.e. the same topic
 as Day 5) was independently produced on 2026-07-14 on an orphaned branch
@@ -333,6 +334,7 @@ repeated. Before choosing today's piece, check this table.
 | 2026-10-02 | 天運 (Tiān Yùn) — "The Turning of Heaven" (Outer Chapters, continues from Essay 13; unanswerable cosmic questions, tigers and wolves as "benevolent", perfect benevolence has no partiality, Xianchi music, Confucius and Lao Dan, footprints vs. shoes, Dong Shi imitating Xi Shi) | Outer Chapters (外篇) |
 | 2026-10-03 | 刻意 (Kè Yì) — "Constrained in Will" (Outer Chapters, Ch. 8) | Outer Chapters (外篇), Ch. 8 |
 | 2026-10-04 | 繕性 (Shàn Xìng) — "Mending the Inborn Nature" (Outer Chapters; tranquility nourishing knowledge, the "benighted" who mend nature by learning, ancient hermits waiting on fate) | Outer Chapters (外篇), Ch. 9 |
+| 2026-10-05 | 秋水 (Qiū Shuǐ) — "Autumn Floods" (Outer Chapters, Ch. 10; Lord of the River and Ruo of the North Sea, frog in a well / summer insect / narrow scholar, relativity of size and value, kui and centipede, Chu tortoise, owl and rotten rat, Hao River bridge "you are not a fish") | Outer Chapters (外篇), Ch. 10 |
 
 ## Country/Region/Faction Spotlights Featured
 
@@ -413,6 +415,7 @@ repeated. Before choosing today's piece, check this table.
 | 2026-10-02 | Austria (奧地利) | briefings/2026-10-02.html |
 | 2026-10-03 | The Philippines (菲律賓) | briefings/2026-10-03.html |
 | 2026-10-04 | Hungary (匈牙利) | briefings/2026-10-04.html |
+| 2026-10-05 | Norway (挪威) | briefings/2026-10-05.html |
 
 ## Internet Meme Spotlights Featured
 
@@ -493,6 +496,7 @@ repeated. Before choosing today's piece, check this table.
 | 2026-10-02 | Cheems / Swole Doge vs. Cheems (Hong Kong Shiba Inu Balltze) | briefings/2026-10-02.html |
 | 2026-10-03 | Hampster Dance (倉鼠舞) | briefings/2026-10-03.html |
 | 2026-10-04 | Ermahgerd (Goosebumps "Berks" Girl) | briefings/2026-10-04.html |
+| 2026-10-05 | "Keep Calm and Carry On" (1939 UK Ministry of Information poster; rediscovered 2000 at Barter Books) | briefings/2026-10-05.html |
 
 ## Film / Performing Arts Spotlights Featured
 
@@ -571,6 +575,7 @@ and never repeat a subject already listed.
 | 2026-10-02 | A Touch of Zen (俠女, 1971, dir. King Hu) | briefings/2026-10-02.html |
 | 2026-10-03 | Rakugo (落語, Japanese solo comic storytelling) | briefings/2026-10-03.html |
 | 2026-10-04 | Taxi Driver (1976, dir. Martin Scorsese) | briefings/2026-10-04.html |
+| 2026-10-05 | Takarazuka Revue (寶塚歌劇團, Japan, all-female musical theatre, founded 1913) | briefings/2026-10-05.html |
 
 ## Film-Appreciation / Criticism Method Lessons
 
@@ -651,6 +656,7 @@ table and pick one not yet covered.
 | 2026-10-02 | Pacing & Average Shot Length (Lesson 64; scene tempo as shots per minute, judged against a film's own baseline and its changes in rhythm) | Psycho (1960, dir. Alfred Hitchcock), shower scene: burst of very short shots after long patient takes, then a slow still shot |
 | 2026-10-03 | Establishing Shot & Spatial Orientation (Lesson 65; worked example The Shining) | The Shining |
 | 2026-10-04 | Opening & Closing Image Pairs / Bookending (Lesson 66; compare first and last shot for what changed) | The Searchers (1956, dir. John Ford, cinematography Winton C. Hoch) — homestead doorway shot at the start and end; Ethan left outside as the door closes |
+| 2026-10-05 | Silence & Absence of Score (Lesson 67; withheld music, room tone and small sounds as foreground, silence before threat) | No Country for Old Men (2007, dir. Joel & Ethan Coen) — Chigurh gas-station coin-toss scene, almost no conventional score, tension carried by small sounds |
 
 ## Run Notes
 
@@ -815,3 +821,7 @@ Selections: Spanish Day 79 (salir/dejar/irse), Zhuangzi Essay 15 刻意, The Phi
 **2026-10-04:** STEP 0 run first: `date -u` read `Sat Oct 3 21:35 UTC` and `TZ=Asia/Taipei date` read `Sun Oct 4 05:35 CST`, so the actual date is 2026-10-04 (Sunday) even though the session's context header said 2026-10-03. Session started on a stale local branch (`claude/magical-darwin-nycuk7`, only 11 log rows), the known divergence signal; recovered via `list_branches` and the Pages deployment API: latest successful deployment `ref: claude/epic-brahmagupta-g1y16m`, `sha: 85e9f79`, matching `claude/daily-2026-10-03`. days_owed = 1, so today's content was produced on `claude/daily-2026-10-04` cut from that tip. The 2026-10-03 run had not added its rows to the tracking tables (only Run Notes and index); they were backfilled today (Day 79, Essay 15, Philippines, Hampster Dance, Rakugo, Lesson 65).
 
 Section 1: Sunday, no market open. Searches could not confirm Friday Oct 2 closes (results labeled Oct 2 were from other months or 2025; one recap cited 128,000 jobs, conflicting with yesterday's 29,000, and was discarded), so yesterday's figures were carried forward and flagged unverified. Section 2: nothing new confirmed. Hungary leadership (PM Péter Magyar since May 2026, Tisza won April 12 election) was verified by search after a first result wrongly said Orbán; population/GDP from a search summary. Selections: Spanish Day 80 (quedar/quedarse), Zhuangzi Essay 16 繕性, Hungary, Ermahgerd, Taxi Driver, Method Lesson 66 (Bookending, The Searchers). Meme, film, method and Zhuangzi text come from general knowledge.
+
+**2026-10-05:** STEP 0 run first: `date -u` read `Sun Oct 4 21:35 UTC` and `TZ=Asia/Taipei date` read `Mon Oct 5 05:35 CST`, so the actual date is 2026-10-05 (Monday) even though the session's context header said 2026-10-04. Session started on stale branch `claude/magical-darwin-t5e2hf` (8 files, Day 3), the known divergence signal; recovered via `list_branches` and the Pages deployments API: latest successful deployment `ref: claude/epic-brahmagupta-g1y16m`, `sha: d59343d`, identical to `claude/daily-2026-10-04` and the longest history (Day 80). days_owed = 1, so today's content was produced on `claude/daily-2026-10-05` cut from that tip. Selections: Spanish Day 81 (weather), Zhuangzi Essay 17 秋水, Norway, Keep Calm and Carry On, Takarazuka Revue, Method Lesson 67 (Silence & Absence of Score, No Country for Old Men).
+
+Section 1: Monday 05:35 Taipei, no Asian market open yet; most recent closed session is Friday Oct 2. US percentages (Dow +0.5%, S&P +0.7%, Nasdaq +1.2%; September payrolls +29,000 vs ~90,000 expected, unemployment 4.2%) came from an extended search whose summaries were internally consistent and sourced (Yahoo Finance, TheStreet); they differ from the percentages carried forward on 2026-10-04 (S&P ~+0.89%, Nasdaq ~+1.35%), now considered superseded. TheStreet page was blocked by the egress proxy so no closing levels. Asia Friday closes (Nikkei 68,309.46, Kospi 7,003.74, TAIEX ~48,476) remain carried forward and unverified. Section 2: no new releases confirmed. Norway's current-government facts and the Keep Calm and Carry On / Takarazuka details are from general knowledge, flagged in the briefing. Iran was considered for the country slot but skipped: search summaries reported major, fast-moving leadership changes that could not be cross-verified; it stays available for a later date.
