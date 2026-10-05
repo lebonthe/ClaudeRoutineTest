@@ -228,6 +228,7 @@ the repo so a permanent link can be shared.
 | 2026-10-03 | 79 | Salir / Dejar / Irse(三種「離開」) | salir (leave a place) vs. dejar (leave behind/let/quit) vs. irse (go away). | spanish-lessons/day-79.html |
 | 2026-10-04 | 80 | Quedar vs. Quedarse(留下、剩下、約定、合不合適) | quedarse (stay) vs. quedar (arrange to meet, be left, be located, fit/suit); me quedan + noun as a gustar-like structure; quedarse + adjective/sin. | spanish-lessons/day-80.html |
 | 2026-10-05 | 81 | 天氣表達(El Tiempo: hace / está / hay / llover) | New topic, not covered in Days 1-80: weather vocabulary and structures; hace + noun (mucho, not muy), está + adjective, hay + noun, impersonal llover (o→ue) / nevar (e→ie); hacía/estaba for past background vs. llovió for a single event; hace calor (weather) vs. tengo calor (person). | spanish-lessons/day-81.html |
+| 2026-10-06 | 82 | Pedir vs. Preguntar(要求 vs. 提問) | New topic, not covered in Days 1-81: pedir (e→i; pidió/pidieron) = request/order vs. preguntar = ask a question; preguntar por/si, pedir que + subjunctive, pedir prestado. | spanish-lessons/day-82.html |
 
 Note: a duplicate "Day 2" lesson (ser/¿De dónde eres?, i.e. the same topic
 as Day 5) was independently produced on 2026-07-14 on an orphaned branch
@@ -335,6 +336,7 @@ repeated. Before choosing today's piece, check this table.
 | 2026-10-03 | 刻意 (Kè Yì) — "Constrained in Will" (Outer Chapters, Ch. 8) | Outer Chapters (外篇), Ch. 8 |
 | 2026-10-04 | 繕性 (Shàn Xìng) — "Mending the Inborn Nature" (Outer Chapters; tranquility nourishing knowledge, the "benighted" who mend nature by learning, ancient hermits waiting on fate) | Outer Chapters (外篇), Ch. 9 |
 | 2026-10-05 | 秋水 (Qiū Shuǐ) — "Autumn Floods" (Outer Chapters, Ch. 10; Lord of the River and Ruo of the North Sea, frog in a well / summer insect / narrow scholar, relativity of size and value, kui and centipede, Chu tortoise, owl and rotten rat, Hao River bridge "you are not a fish") | Outer Chapters (外篇), Ch. 10 |
+| 2026-10-06 | 至樂 (Zhì Lè) — "Perfect Happiness" (Outer Chapters; ultimate happiness as non-action, Zhuangzi drumming on a basin after his wife's death, Uncle Lame-and-Crooked and the elbow growth, the skull in the roadside dream, the seabird of Lu fed with royal banquets) | Outer Chapters (外篇), Ch. 18 |
 
 ## Country/Region/Faction Spotlights Featured
 
@@ -416,6 +418,7 @@ repeated. Before choosing today's piece, check this table.
 | 2026-10-03 | The Philippines (菲律賓) | briefings/2026-10-03.html |
 | 2026-10-04 | Hungary (匈牙利) | briefings/2026-10-04.html |
 | 2026-10-05 | Norway (挪威) | briefings/2026-10-05.html |
+| 2026-10-06 | Greece (希臘) | briefings/2026-10-06.html |
 
 ## Internet Meme Spotlights Featured
 
@@ -497,6 +500,7 @@ repeated. Before choosing today's piece, check this table.
 | 2026-10-03 | Hampster Dance (倉鼠舞) | briefings/2026-10-03.html |
 | 2026-10-04 | Ermahgerd (Goosebumps "Berks" Girl) | briefings/2026-10-04.html |
 | 2026-10-05 | "Keep Calm and Carry On" (1939 UK Ministry of Information poster; rediscovered 2000 at Barter Books) | briefings/2026-10-05.html |
+| 2026-10-06 | "Honey Badger Don't Care" (2011 YouTube narration video by "Randall") | briefings/2026-10-06.html |
 
 ## Film / Performing Arts Spotlights Featured
 
@@ -576,6 +580,7 @@ and never repeat a subject already listed.
 | 2026-10-03 | Rakugo (落語, Japanese solo comic storytelling) | briefings/2026-10-03.html |
 | 2026-10-04 | Taxi Driver (1976, dir. Martin Scorsese) | briefings/2026-10-04.html |
 | 2026-10-05 | Takarazuka Revue (寶塚歌劇團, Japan, all-female musical theatre, founded 1913) | briefings/2026-10-05.html |
+| 2026-10-06 | The Third Man (1949, dir. Carol Reed) | briefings/2026-10-06.html |
 
 ## Film-Appreciation / Criticism Method Lessons
 
@@ -657,6 +662,7 @@ table and pick one not yet covered.
 | 2026-10-03 | Establishing Shot & Spatial Orientation (Lesson 65; worked example The Shining) | The Shining |
 | 2026-10-04 | Opening & Closing Image Pairs / Bookending (Lesson 66; compare first and last shot for what changed) | The Searchers (1956, dir. John Ford, cinematography Winton C. Hoch) — homestead doorway shot at the start and end; Ethan left outside as the door closes |
 | 2026-10-05 | Silence & Absence of Score (Lesson 67; withheld music, room tone and small sounds as foreground, silence before threat) | No Country for Old Men (2007, dir. Joel & Ethan Coen) — Chigurh gas-station coin-toss scene, almost no conventional score, tension carried by small sounds |
+| 2026-10-06 | Suspense vs. Surprise / Dramatic Irony & Information Asymmetry (Lesson 68; audience knows more than characters; Hitchcock's bomb-under-the-table) | Sabotage (1936, dir. Alfred Hitchcock) — Stevie's bus ride with the time bomb |
 
 ## Run Notes
 
@@ -825,3 +831,9 @@ Section 1: Sunday, no market open. Searches could not confirm Friday Oct 2 close
 **2026-10-05:** STEP 0 run first: `date -u` read `Sun Oct 4 21:35 UTC` and `TZ=Asia/Taipei date` read `Mon Oct 5 05:35 CST`, so the actual date is 2026-10-05 (Monday) even though the session's context header said 2026-10-04. Session started on stale branch `claude/magical-darwin-t5e2hf` (8 files, Day 3), the known divergence signal; recovered via `list_branches` and the Pages deployments API: latest successful deployment `ref: claude/epic-brahmagupta-g1y16m`, `sha: d59343d`, identical to `claude/daily-2026-10-04` and the longest history (Day 80). days_owed = 1, so today's content was produced on `claude/daily-2026-10-05` cut from that tip. Selections: Spanish Day 81 (weather), Zhuangzi Essay 17 秋水, Norway, Keep Calm and Carry On, Takarazuka Revue, Method Lesson 67 (Silence & Absence of Score, No Country for Old Men).
 
 Section 1: Monday 05:35 Taipei, no Asian market open yet; most recent closed session is Friday Oct 2. US percentages (Dow +0.5%, S&P +0.7%, Nasdaq +1.2%; September payrolls +29,000 vs ~90,000 expected, unemployment 4.2%) came from an extended search whose summaries were internally consistent and sourced (Yahoo Finance, TheStreet); they differ from the percentages carried forward on 2026-10-04 (S&P ~+0.89%, Nasdaq ~+1.35%), now considered superseded. TheStreet page was blocked by the egress proxy so no closing levels. Asia Friday closes (Nikkei 68,309.46, Kospi 7,003.74, TAIEX ~48,476) remain carried forward and unverified. Section 2: no new releases confirmed. Norway's current-government facts and the Keep Calm and Carry On / Takarazuka details are from general knowledge, flagged in the briefing. Iran was considered for the country slot but skipped: search summaries reported major, fast-moving leadership changes that could not be cross-verified; it stays available for a later date.
+
+**2026-10-06:** STEP 0 run first: `date -u` read `Mon Oct 5 21:35 UTC` and `TZ=Asia/Taipei date` read `Tue Oct 6 05:35 CST`, so the actual date is 2026-10-06 (Tuesday), one day ahead of the session's context header (2026-10-05, the same stale-label pattern as earlier runs). Portal branch confirmed via the deployments REST API (latest success, id 6847124487, created 2026-10-04T21:40Z, `ref: claude/epic-brahmagupta-g1y16m`, commit d7753fc); that branch's tip c7beda2 equals `claude/daily-2026-10-05`, with latest entry 2026-10-05, so `days_owed = 1`. The starting branch `claude/magical-darwin-s5pexn` was stale (stopped at 2026-07-20), the known divergence signal, so work was branched from the portal tip instead.
+
+Section 1: Tuesday 05:35 Taipei, no Asian market open. Latest closes are Monday Oct 5. US (single search summary; Yahoo and TheStreet were blocked by the egress proxy so no second source): Nasdaq 27,477.31 (+1.05%, record), S&P 500 7,773.95 (+0.66%), Dow 51,267.90 (+0.18%). TAIEX 49,712.04 (+1,236.30, +2.55%) per Focus Taiwan / Taipei Times; other outlets printed 49,532 (+2.18%) and +2.35%, treated as mislabeled/early because 48,476 + 1,236.30 ties. Nikkei 70,037.61 (+2.53%), ties to 68,309.46; one outlet printed 69,947. KOSPI Oct 5 close not found; last confirmed 7,003.74 (Oct 2), market likely on a substitute holiday (unverified).
+Section 2: thin; no new releases confirmed for Apple, Android, Flutter. Noted iOS 27.1/27.2 expected before end of October; Flutter version label (3.44 vs. 3.47.x in yesterday's note) not reconciled.
+Sequences advanced: Spanish Day 82, Zhuangzi 至樂, Greece, Honey Badger Don't Care, The Third Man, Method Lesson 68 (Suspense vs. Surprise).
