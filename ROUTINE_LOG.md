@@ -229,6 +229,7 @@ the repo so a permanent link can be shared.
 | 2026-10-04 | 80 | Quedar vs. Quedarse(留下、剩下、約定、合不合適) | quedarse (stay) vs. quedar (arrange to meet, be left, be located, fit/suit); me quedan + noun as a gustar-like structure; quedarse + adjective/sin. | spanish-lessons/day-80.html |
 | 2026-10-05 | 81 | 天氣表達(El Tiempo: hace / está / hay / llover) | New topic, not covered in Days 1-80: weather vocabulary and structures; hace + noun (mucho, not muy), está + adjective, hay + noun, impersonal llover (o→ue) / nevar (e→ie); hacía/estaba for past background vs. llovió for a single event; hace calor (weather) vs. tengo calor (person). | spanish-lessons/day-81.html |
 | 2026-10-06 | 82 | Pedir vs. Preguntar(要求 vs. 提問) | New topic, not covered in Days 1-81: pedir (e→i; pidió/pidieron) = request/order vs. preguntar = ask a question; preguntar por/si, pedir que + subjunctive, pedir prestado. | spanish-lessons/day-82.html |
+| 2026-10-07 | 83 | Seguir + 現在分詞(仍然在……、持續……) | New topic, not covered in Days 1-82: seguir (e→i; sigo/sigues/sigue, gerund siguiendo) + gerund = keep doing / still doing; seguir sin + infinitive; seguir + adjective; seguir = follow/continue along; compared with todavía/aún and continuar. | spanish-lessons/day-83.html |
 
 Note: a duplicate "Day 2" lesson (ser/¿De dónde eres?, i.e. the same topic
 as Day 5) was independently produced on 2026-07-14 on an orphaned branch
@@ -337,6 +338,7 @@ repeated. Before choosing today's piece, check this table.
 | 2026-10-04 | 繕性 (Shàn Xìng) — "Mending the Inborn Nature" (Outer Chapters; tranquility nourishing knowledge, the "benighted" who mend nature by learning, ancient hermits waiting on fate) | Outer Chapters (外篇), Ch. 9 |
 | 2026-10-05 | 秋水 (Qiū Shuǐ) — "Autumn Floods" (Outer Chapters, Ch. 10; Lord of the River and Ruo of the North Sea, frog in a well / summer insect / narrow scholar, relativity of size and value, kui and centipede, Chu tortoise, owl and rotten rat, Hao River bridge "you are not a fish") | Outer Chapters (外篇), Ch. 10 |
 | 2026-10-06 | 至樂 (Zhì Lè) — "Perfect Happiness" (Outer Chapters; ultimate happiness as non-action, Zhuangzi drumming on a basin after his wife's death, Uncle Lame-and-Crooked and the elbow growth, the skull in the roadside dream, the seabird of Lu fed with royal banquets) | Outer Chapters (外篇), Ch. 18 |
+| 2026-10-07 | 達生 (Dá Shēng) — "Mastering Life" (Outer Chapters; Lie Zi and Guan Yin on the perfect man, the drunk man falling from a cart, the hunchback cicada catcher, boatman and the whirlpool, tile/belt-buckle/gold archery, woodcarver Qing and the bell stand, Ji Xingzi's wooden fighting cock, the Lüliang waterfall swimmer) | Outer Chapters (外篇), Ch. 19 |
 
 ## Country/Region/Faction Spotlights Featured
 
@@ -419,6 +421,7 @@ repeated. Before choosing today's piece, check this table.
 | 2026-10-04 | Hungary (匈牙利) | briefings/2026-10-04.html |
 | 2026-10-05 | Norway (挪威) | briefings/2026-10-05.html |
 | 2026-10-06 | Greece (希臘) | briefings/2026-10-06.html |
+| 2026-10-07 | Türkiye / Turkey (土耳其) | briefings/2026-10-07.html |
 
 ## Internet Meme Spotlights Featured
 
@@ -501,6 +504,7 @@ repeated. Before choosing today's piece, check this table.
 | 2026-10-04 | Ermahgerd (Goosebumps "Berks" Girl) | briefings/2026-10-04.html |
 | 2026-10-05 | "Keep Calm and Carry On" (1939 UK Ministry of Information poster; rediscovered 2000 at Barter Books) | briefings/2026-10-05.html |
 | 2026-10-06 | "Honey Badger Don't Care" (2011 YouTube narration video by "Randall") | briefings/2026-10-06.html |
+| 2026-10-07 | Planking (平板撐 / "Lying Down Game") | briefings/2026-10-07.html |
 
 ## Film / Performing Arts Spotlights Featured
 
@@ -581,6 +585,7 @@ and never repeat a subject already listed.
 | 2026-10-04 | Taxi Driver (1976, dir. Martin Scorsese) | briefings/2026-10-04.html |
 | 2026-10-05 | Takarazuka Revue (寶塚歌劇團, Japan, all-female musical theatre, founded 1913) | briefings/2026-10-05.html |
 | 2026-10-06 | The Third Man (1949, dir. Carol Reed) | briefings/2026-10-06.html |
+| 2026-10-07 | Mughal-e-Azam (偉大的莫臥兒, 1960, dir. K. Asif) | briefings/2026-10-07.html |
 
 ## Film-Appreciation / Criticism Method Lessons
 
@@ -663,6 +668,7 @@ table and pick one not yet covered.
 | 2026-10-04 | Opening & Closing Image Pairs / Bookending (Lesson 66; compare first and last shot for what changed) | The Searchers (1956, dir. John Ford, cinematography Winton C. Hoch) — homestead doorway shot at the start and end; Ethan left outside as the door closes |
 | 2026-10-05 | Silence & Absence of Score (Lesson 67; withheld music, room tone and small sounds as foreground, silence before threat) | No Country for Old Men (2007, dir. Joel & Ethan Coen) — Chigurh gas-station coin-toss scene, almost no conventional score, tension carried by small sounds |
 | 2026-10-06 | Suspense vs. Surprise / Dramatic Irony & Information Asymmetry (Lesson 68; audience knows more than characters; Hitchcock's bomb-under-the-table) | Sabotage (1936, dir. Alfred Hitchcock) — Stevie's bus ride with the time bomb |
+| 2026-10-07 | Weather & Landscape as Emotion / Pathetic Fallacy (Lesson 69; rain, fog and light as externalized emotion, matching vs. contradicting mood) | Blade Runner (1982, dir. Ridley Scott) — Roy Batty's rooftop death in the rain ("tears in rain"), compared with Singin' in the Rain |
 
 ## Run Notes
 
@@ -837,3 +843,10 @@ Section 1: Monday 05:35 Taipei, no Asian market open yet; most recent closed ses
 Section 1: Tuesday 05:35 Taipei, no Asian market open. Latest closes are Monday Oct 5. US (single search summary; Yahoo and TheStreet were blocked by the egress proxy so no second source): Nasdaq 27,477.31 (+1.05%, record), S&P 500 7,773.95 (+0.66%), Dow 51,267.90 (+0.18%). TAIEX 49,712.04 (+1,236.30, +2.55%) per Focus Taiwan / Taipei Times; other outlets printed 49,532 (+2.18%) and +2.35%, treated as mislabeled/early because 48,476 + 1,236.30 ties. Nikkei 70,037.61 (+2.53%), ties to 68,309.46; one outlet printed 69,947. KOSPI Oct 5 close not found; last confirmed 7,003.74 (Oct 2), market likely on a substitute holiday (unverified).
 Section 2: thin; no new releases confirmed for Apple, Android, Flutter. Noted iOS 27.1/27.2 expected before end of October; Flutter version label (3.44 vs. 3.47.x in yesterday's note) not reconciled.
 Sequences advanced: Spanish Day 82, Zhuangzi 至樂, Greece, Honey Badger Don't Care, The Third Man, Method Lesson 68 (Suspense vs. Surprise).
+
+**2026-10-07:** STEP 0 run first: `date -u` read `Tue Oct 6 21:34 UTC` and `TZ=Asia/Taipei date` read `Wed Oct 7 05:34 CST`, so the actual date is 2026-10-07 (Wednesday), one day ahead of the session's context header (2026-10-06, the same stale-label pattern as earlier runs). Portal branch confirmed via the deployments REST API (latest success, id 6869948035, created 2026-10-05T21:40Z, `ref: claude/epic-brahmagupta-g1y16m`, commit 1271f80); that branch's tip equals `claude/daily-2026-10-06`, with latest entry 2026-10-06, so `days_owed = 1`. The starting branch `claude/magical-darwin-pit3dq` was stale (stopped at 2026-07-20, Day 3), the known divergence signal, so work was branched from the portal tip instead.
+
+Section 1: Wednesday 05:34 Taipei, no Asian market open; latest closes are Tuesday Oct 6. US: S&P 500 7,818.93 (+0.58%, record), Nasdaq 27,599.79 (+0.45%, record), Dow 51,521.28 (+253.38); Dow and Nasdaq tie to the Oct 5 closes logged yesterday. A CNBC Oct 5 headline said "first close above 7,800" which conflicts with the 7,773.95 logged for Oct 5; unresolved because CNBC/TheStreet are blocked by the egress proxy. TAIEX 49,822.55 (+0.22%) per Focus Taiwan; several summaries mislabeled Monday's 49,712.04 as Oct 6. Nikkei 70,683.98 (+737.12, +1.05%); this implies the Oct 5 close was 69,946.86, so **yesterday's logged 70,037.61 was wrong**. KOSPI 6,941.39 (-0.89%), first session after the holiday. Hang Seng and KOSDAQ figures came from single secondary sources and are flagged unverified in the briefing.
+Section 2: iOS 27.2 beta 3 (Oct 5), iPhone foldable with iOS 27.1 reported for Oct 23, Android 17 QPR3 Beta 1 (Oct 2), Flutter 3.47.6 (Oct 1) with 3.50 expected in November. Resolves the earlier 3.44 vs 3.47.x question: 3.44 was the Google I/O release, 3.47.x is the current line.
+Country choice note: Iran was considered because of the Hormuz news hook but skipped because leadership information could not be reliably verified.
+Sequences advanced: Spanish Day 83, Zhuangzi 達生, Türkiye, Planking, Mughal-e-Azam, Method Lesson 69 (Pathetic Fallacy).
