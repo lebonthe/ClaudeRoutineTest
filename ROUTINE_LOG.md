@@ -230,6 +230,7 @@ the repo so a permanent link can be shared.
 | 2026-10-05 | 81 | 天氣表達(El Tiempo: hace / está / hay / llover) | New topic, not covered in Days 1-80: weather vocabulary and structures; hace + noun (mucho, not muy), está + adjective, hay + noun, impersonal llover (o→ue) / nevar (e→ie); hacía/estaba for past background vs. llovió for a single event; hace calor (weather) vs. tengo calor (person). | spanish-lessons/day-81.html |
 | 2026-10-06 | 82 | Pedir vs. Preguntar(要求 vs. 提問) | New topic, not covered in Days 1-81: pedir (e→i; pidió/pidieron) = request/order vs. preguntar = ask a question; preguntar por/si, pedir que + subjunctive, pedir prestado. | spanish-lessons/day-82.html |
 | 2026-10-07 | 83 | Seguir + 現在分詞(仍然在……、持續……) | New topic, not covered in Days 1-82: seguir (e→i; sigo/sigues/sigue, gerund siguiendo) + gerund = keep doing / still doing; seguir sin + infinitive; seguir + adjective; seguir = follow/continue along; compared with todavía/aún and continuar. | spanish-lessons/day-83.html |
+| 2026-10-08 | 84 | Todo / Cada / Ambos(全部、每個、兩者都) | New topic, not covered in Days 1-83: todo el día vs. todos los días, cada (invariable, singular, no article; cada uno, cada vez más), todo as pronoun / todo lo que / todo el mundo, ambos/ambas vs. los dos. | spanish-lessons/day-84.html |
 
 Note: a duplicate "Day 2" lesson (ser/¿De dónde eres?, i.e. the same topic
 as Day 5) was independently produced on 2026-07-14 on an orphaned branch
@@ -339,6 +340,7 @@ repeated. Before choosing today's piece, check this table.
 | 2026-10-05 | 秋水 (Qiū Shuǐ) — "Autumn Floods" (Outer Chapters, Ch. 10; Lord of the River and Ruo of the North Sea, frog in a well / summer insect / narrow scholar, relativity of size and value, kui and centipede, Chu tortoise, owl and rotten rat, Hao River bridge "you are not a fish") | Outer Chapters (外篇), Ch. 10 |
 | 2026-10-06 | 至樂 (Zhì Lè) — "Perfect Happiness" (Outer Chapters; ultimate happiness as non-action, Zhuangzi drumming on a basin after his wife's death, Uncle Lame-and-Crooked and the elbow growth, the skull in the roadside dream, the seabird of Lu fed with royal banquets) | Outer Chapters (外篇), Ch. 18 |
 | 2026-10-07 | 達生 (Dá Shēng) — "Mastering Life" (Outer Chapters; Lie Zi and Guan Yin on the perfect man, the drunk man falling from a cart, the hunchback cicada catcher, boatman and the whirlpool, tile/belt-buckle/gold archery, woodcarver Qing and the bell stand, Ji Xingzi's wooden fighting cock, the Lüliang waterfall swimmer) | Outer Chapters (外篇), Ch. 19 |
+| 2026-10-08 | 山木 (Shān Mù) — "The Mountain Tree" (Outer Chapters, Ch. 20; useless tree and the goose that cannot cackle, empty boat, Taigong Ren and Confucius, 君子之交淡若水, mantis-cicada-magpie in the chestnut grove, the innkeeper's two concubines) | Outer Chapters (外篇), Ch. 20 |
 
 ## Country/Region/Faction Spotlights Featured
 
@@ -422,6 +424,7 @@ repeated. Before choosing today's piece, check this table.
 | 2026-10-05 | Norway (挪威) | briefings/2026-10-05.html |
 | 2026-10-06 | Greece (希臘) | briefings/2026-10-06.html |
 | 2026-10-07 | Türkiye / Turkey (土耳其) | briefings/2026-10-07.html |
+| 2026-10-08 | Ireland (愛爾蘭) | briefings/2026-10-08.html |
 
 ## Internet Meme Spotlights Featured
 
@@ -505,6 +508,7 @@ repeated. Before choosing today's piece, check this table.
 | 2026-10-05 | "Keep Calm and Carry On" (1939 UK Ministry of Information poster; rediscovered 2000 at Barter Books) | briefings/2026-10-05.html |
 | 2026-10-06 | "Honey Badger Don't Care" (2011 YouTube narration video by "Randall") | briefings/2026-10-06.html |
 | 2026-10-07 | Planking (平板撐 / "Lying Down Game") | briefings/2026-10-07.html |
+| 2026-10-08 | Moo Deng (彈力豬, viral pygmy hippo, Thailand, 2024) | briefings/2026-10-08.html |
 
 ## Film / Performing Arts Spotlights Featured
 
@@ -586,6 +590,7 @@ and never repeat a subject already listed.
 | 2026-10-05 | Takarazuka Revue (寶塚歌劇團, Japan, all-female musical theatre, founded 1913) | briefings/2026-10-05.html |
 | 2026-10-06 | The Third Man (1949, dir. Carol Reed) | briefings/2026-10-06.html |
 | 2026-10-07 | Mughal-e-Azam (偉大的莫臥兒, 1960, dir. K. Asif) | briefings/2026-10-07.html |
+| 2026-10-08 | The Nutcracker (胡桃鉗, ballet, 1892; Tchaikovsky / Petipa-Ivanov) | briefings/2026-10-08.html |
 
 ## Film-Appreciation / Criticism Method Lessons
 
@@ -669,6 +674,7 @@ table and pick one not yet covered.
 | 2026-10-05 | Silence & Absence of Score (Lesson 67; withheld music, room tone and small sounds as foreground, silence before threat) | No Country for Old Men (2007, dir. Joel & Ethan Coen) — Chigurh gas-station coin-toss scene, almost no conventional score, tension carried by small sounds |
 | 2026-10-06 | Suspense vs. Surprise / Dramatic Irony & Information Asymmetry (Lesson 68; audience knows more than characters; Hitchcock's bomb-under-the-table) | Sabotage (1936, dir. Alfred Hitchcock) — Stevie's bus ride with the time bomb |
 | 2026-10-07 | Weather & Landscape as Emotion / Pathetic Fallacy (Lesson 69; rain, fog and light as externalized emotion, matching vs. contradicting mood) | Blade Runner (1982, dir. Ridley Scott) — Roy Batty's rooftop death in the rain ("tears in rain"), compared with Singin' in the Rain |
+| 2026-10-08 | The Reaction Shot (Lesson 70; cutting to a face responding rather than the event itself; whose face, when, how long) | City Lights (1931, dir. Charlie Chaplin) — final scene, close-up of the Tramp as the flower girl recognizes him |
 
 ## Run Notes
 
@@ -850,3 +856,9 @@ Section 1: Wednesday 05:34 Taipei, no Asian market open; latest closes are Tuesd
 Section 2: iOS 27.2 beta 3 (Oct 5), iPhone foldable with iOS 27.1 reported for Oct 23, Android 17 QPR3 Beta 1 (Oct 2), Flutter 3.47.6 (Oct 1) with 3.50 expected in November. Resolves the earlier 3.44 vs 3.47.x question: 3.44 was the Google I/O release, 3.47.x is the current line.
 Country choice note: Iran was considered because of the Hormuz news hook but skipped because leadership information could not be reliably verified.
 Sequences advanced: Spanish Day 83, Zhuangzi 達生, Türkiye, Planking, Mughal-e-Azam, Method Lesson 69 (Pathetic Fallacy).
+
+
+**2026-10-08:** STEP 0 run first: `date -u` read `Wed Oct 7 21:34 UTC` and `TZ=Asia/Taipei date` read `Thu Oct 8 05:34 CST`, so the actual date is 2026-10-08 (Thursday), one day ahead of the session's context header (2026-10-07, the same stale-label pattern as earlier runs). Portal branch confirmed via the deployments REST API (latest success, created 2026-10-06T21:40Z, `ref: claude/epic-brahmagupta-g1y16m`, commit 49a94a2); that tip equals `claude/daily-2026-10-07`, latest entry 2026-10-07, so `days_owed = 1`. The starting branch `claude/magical-darwin-o06rqg` was stale (stopped at 2026-07-20, Day 3), the known divergence signal, so work was branched from the portal tip instead.
+
+Section 1: Thursday 05:34 Taipei, no Asian market open; latest closes are Wednesday Oct 7. US: Dow 51,179.87 (-341.41, -0.66%), S&P 500 7,801.77 (-0.22%), Nasdaq 27,538.69 (-0.22%), all tying exactly to the Oct 6 closes logged yesterday. Nikkei ~70,035.71 (-0.92%) and KOSPI ~6,803.90 (-1.98%) both tie to yesterday's closes (CNBC rolling page, provisional). Hang Seng only a ~0.5-0.65% decline, no level. **TAIEX Oct 7 close could not be confirmed**: one outlet printed 49,747.80 (+0.07%), which does not reconcile with the confirmed Oct 6 close of 49,822.55, so it was left out and flagged. Section 2: iOS 27.2 public beta 2 (Oct 6), Xcode 27.1 RC with iPhone Duo (pre-orders Oct 16, on sale Oct 23), Gemini 4 Argon, Claude Haiku 5.5 price cut (single source), Flutter 3.50 due November (secondary source). Ireland leaders (Taoiseach Micheál Martin, President Catherine Connolly) are from general knowledge and flagged unverified; population from CSO April 2026. Meme, film, method and Zhuangzi details from general knowledge, flagged in the briefing.
+Sequences advanced: Spanish Day 84, Zhuangzi 山木, Ireland, Moo Deng, The Nutcracker, Method Lesson 70 (Reaction Shot).
