@@ -231,6 +231,7 @@ the repo so a permanent link can be shared.
 | 2026-10-06 | 82 | Pedir vs. Preguntar(要求 vs. 提問) | New topic, not covered in Days 1-81: pedir (e→i; pidió/pidieron) = request/order vs. preguntar = ask a question; preguntar por/si, pedir que + subjunctive, pedir prestado. | spanish-lessons/day-82.html |
 | 2026-10-07 | 83 | Seguir + 現在分詞(仍然在……、持續……) | New topic, not covered in Days 1-82: seguir (e→i; sigo/sigues/sigue, gerund siguiendo) + gerund = keep doing / still doing; seguir sin + infinitive; seguir + adjective; seguir = follow/continue along; compared with todavía/aún and continuar. | spanish-lessons/day-83.html |
 | 2026-10-08 | 84 | Todo / Cada / Ambos(全部、每個、兩者都) | New topic, not covered in Days 1-83: todo el día vs. todos los días, cada (invariable, singular, no article; cada uno, cada vez más), todo as pronoun / todo lo que / todo el mundo, ambos/ambas vs. los dos. | spanish-lessons/day-84.html |
+| 2026-10-09 | 85 | Soler 與習慣表達(通常、以前總是、習慣於) | New topic, not covered in Days 1-84: soler (o→ue) + infinitive (suelo/solía; only present and imperfect), acostumbrar a, estar acostumbrado/a a, acostumbrarse a, habit adverbs (normalmente, de vez en cuando, de costumbre). | spanish-lessons/day-85.html |
 
 Note: a duplicate "Day 2" lesson (ser/¿De dónde eres?, i.e. the same topic
 as Day 5) was independently produced on 2026-07-14 on an orphaned branch
@@ -341,6 +342,7 @@ repeated. Before choosing today's piece, check this table.
 | 2026-10-06 | 至樂 (Zhì Lè) — "Perfect Happiness" (Outer Chapters; ultimate happiness as non-action, Zhuangzi drumming on a basin after his wife's death, Uncle Lame-and-Crooked and the elbow growth, the skull in the roadside dream, the seabird of Lu fed with royal banquets) | Outer Chapters (外篇), Ch. 18 |
 | 2026-10-07 | 達生 (Dá Shēng) — "Mastering Life" (Outer Chapters; Lie Zi and Guan Yin on the perfect man, the drunk man falling from a cart, the hunchback cicada catcher, boatman and the whirlpool, tile/belt-buckle/gold archery, woodcarver Qing and the bell stand, Ji Xingzi's wooden fighting cock, the Lüliang waterfall swimmer) | Outer Chapters (外篇), Ch. 19 |
 | 2026-10-08 | 山木 (Shān Mù) — "The Mountain Tree" (Outer Chapters, Ch. 20; useless tree and the goose that cannot cackle, empty boat, Taigong Ren and Confucius, 君子之交淡若水, mantis-cicada-magpie in the chestnut grove, the innkeeper's two concubines) | Outer Chapters (外篇), Ch. 20 |
+| 2026-10-09 | 田子方 (Tián Zǐfāng) — "Tian Zifang" (Outer Chapters, Ch. 21; Marquis Wen of Wei, Wen Boxue Zi and 目擊而道存, Yan Hui and 哀莫大於心死, Lao Dan 遊心於物之初, Sunshu Ao, Lie Yukou and Bohun Wuren on the cliff, the true painter of Duke Yuan of Song) | Outer Chapters (外篇), Ch. 21 |
 
 ## Country/Region/Faction Spotlights Featured
 
@@ -425,6 +427,7 @@ repeated. Before choosing today's piece, check this table.
 | 2026-10-06 | Greece (希臘) | briefings/2026-10-06.html |
 | 2026-10-07 | Türkiye / Turkey (土耳其) | briefings/2026-10-07.html |
 | 2026-10-08 | Ireland (愛爾蘭) | briefings/2026-10-08.html |
+| 2026-10-09 | Kyrgyzstan (吉爾吉斯) | briefings/2026-10-09.html |
 
 ## Internet Meme Spotlights Featured
 
@@ -509,6 +512,7 @@ repeated. Before choosing today's piece, check this table.
 | 2026-10-06 | "Honey Badger Don't Care" (2011 YouTube narration video by "Randall") | briefings/2026-10-06.html |
 | 2026-10-07 | Planking (平板撐 / "Lying Down Game") | briefings/2026-10-07.html |
 | 2026-10-08 | Moo Deng (彈力豬, viral pygmy hippo, Thailand, 2024) | briefings/2026-10-08.html |
+| 2026-10-09 | The Dancing Baby / "Baby Cha-Cha" (跳舞的寶寶, 1996 3D animation, Character Studio demo) | briefings/2026-10-09.html |
 
 ## Film / Performing Arts Spotlights Featured
 
@@ -591,6 +595,7 @@ and never repeat a subject already listed.
 | 2026-10-06 | The Third Man (1949, dir. Carol Reed) | briefings/2026-10-06.html |
 | 2026-10-07 | Mughal-e-Azam (偉大的莫臥兒, 1960, dir. K. Asif) | briefings/2026-10-07.html |
 | 2026-10-08 | The Nutcracker (胡桃鉗, ballet, 1892; Tchaikovsky / Petipa-Ivanov) | briefings/2026-10-08.html |
+| 2026-10-09 | Oedipus Rex (伊底帕斯王, Sophocles, c. 429 BC, Greek tragedy) | briefings/2026-10-09.html |
 
 ## Film-Appreciation / Criticism Method Lessons
 
@@ -675,6 +680,7 @@ table and pick one not yet covered.
 | 2026-10-06 | Suspense vs. Surprise / Dramatic Irony & Information Asymmetry (Lesson 68; audience knows more than characters; Hitchcock's bomb-under-the-table) | Sabotage (1936, dir. Alfred Hitchcock) — Stevie's bus ride with the time bomb |
 | 2026-10-07 | Weather & Landscape as Emotion / Pathetic Fallacy (Lesson 69; rain, fog and light as externalized emotion, matching vs. contradicting mood) | Blade Runner (1982, dir. Ridley Scott) — Roy Batty's rooftop death in the rain ("tears in rain"), compared with Singin' in the Rain |
 | 2026-10-08 | The Reaction Shot (Lesson 70; cutting to a face responding rather than the event itself; whose face, when, how long) | City Lights (1931, dir. Charlie Chaplin) — final scene, close-up of the Tramp as the flower girl recognizes him |
+| 2026-10-09 | Scene Structure: Turning Points & Value Shifts (Lesson 71; goal-conflict-turning point, enter late/leave early, beats and value change) | The Social Network (2010, dir. David Fincher) — opening bar scene, Mark and Erica |
 
 ## Run Notes
 
@@ -862,3 +868,10 @@ Sequences advanced: Spanish Day 83, Zhuangzi 達生, Türkiye, Planking, Mughal-
 
 Section 1: Thursday 05:34 Taipei, no Asian market open; latest closes are Wednesday Oct 7. US: Dow 51,179.87 (-341.41, -0.66%), S&P 500 7,801.77 (-0.22%), Nasdaq 27,538.69 (-0.22%), all tying exactly to the Oct 6 closes logged yesterday. Nikkei ~70,035.71 (-0.92%) and KOSPI ~6,803.90 (-1.98%) both tie to yesterday's closes (CNBC rolling page, provisional). Hang Seng only a ~0.5-0.65% decline, no level. **TAIEX Oct 7 close could not be confirmed**: one outlet printed 49,747.80 (+0.07%), which does not reconcile with the confirmed Oct 6 close of 49,822.55, so it was left out and flagged. Section 2: iOS 27.2 public beta 2 (Oct 6), Xcode 27.1 RC with iPhone Duo (pre-orders Oct 16, on sale Oct 23), Gemini 4 Argon, Claude Haiku 5.5 price cut (single source), Flutter 3.50 due November (secondary source). Ireland leaders (Taoiseach Micheál Martin, President Catherine Connolly) are from general knowledge and flagged unverified; population from CSO April 2026. Meme, film, method and Zhuangzi details from general knowledge, flagged in the briefing.
 Sequences advanced: Spanish Day 84, Zhuangzi 山木, Ireland, Moo Deng, The Nutcracker, Method Lesson 70 (Reaction Shot).
+
+
+**2026-10-09:** STEP 0 run first: `date -u` read `Thu Oct 8 21:35 UTC` and `TZ=Asia/Taipei date` read `Fri Oct 9 05:35 CST`, so the actual date is 2026-10-09 (Friday), one day ahead of the session's context header (2026-10-08, the same stale-label pattern as earlier runs). Portal branch confirmed via the deployments REST API (latest success, created 2026-10-07T21:41Z, `ref: claude/epic-brahmagupta-g1y16m`, commit c00ced6); that tip equals `claude/daily-2026-10-08`, latest entry 2026-10-08, so days_owed = 1 and today's content was produced. No other claude/* branch was ahead.
+
+Section 1: Friday 05:35 Taipei; Taiwan closed for National Day, so all latest closes are Thursday Oct 8. US: S&P 500 7,765.36 (-0.47%), Nasdaq 27,193.34 (-1.25%), Dow 51,231.64 (+0.10%); the changes tie exactly to the Oct 7 closes logged yesterday (single Yahoo snapshot, no official close opened). Nikkei 69,042.11 (-1.42%), KOSPI 6,644.27 (-2.35%, one outlet said 6,625.93), Hang Seng 23,785.79 (-1.43%), TAIEX 49,313.44 (-0.99%, turnover ~NT$869.7B); an Investing.com -0.75% TAIEX print was discarded. TAIEX's implied Oct 7 close of 49,806.37 resolves yesterday's unconfirmed figure. Samsung preliminary Q3 operating profit ~107.4T won.
+Section 2: iOS 27.2 beta 3 / public beta 2, Xcode 27.1 RC1 and iPhone Duo submissions, Android 17 QPR3 Beta 1, Flutter 3.47.x, Gemini 4 Argon; the AI model-tracker items were left flagged as unconfirmed.
+Country choice note: Kyrgyzstan's president is verified, the Cabinet chairman is flagged as unconfirmed. Sequences advanced: Spanish Day 85, Zhuangzi 田子方, Kyrgyzstan, Dancing Baby, Oedipus Rex, Method Lesson 71 (Scene Structure).
