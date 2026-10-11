@@ -234,6 +234,7 @@ the repo so a permanent link can be shared.
 | 2026-10-09 | 85 | Soler 與習慣表達(通常、以前總是、習慣於) | New topic, not covered in Days 1-84: soler (o→ue) + infinitive (suelo/solía; only present and imperfect), acostumbrar a, estar acostumbrado/a a, acostumbrarse a, habit adverbs (normalmente, de vez en cuando, de costumbre). | spanish-lessons/day-85.html |
 | 2026-10-10 | 86 | 介系詞 + 原形動詞(al / antes de / después de / sin / en vez de) | New topic, not covered in Days 1-85: prepositions take infinitives only (never -ing); al + infinitive (upon doing), antes de / después de / sin / en vez de (en lugar de) / con / hasta + infinitive when the subject is the same; different subject needs que + verb; object pronouns attach to the infinitive (decírselo). | spanish-lessons/day-86.html |
 | 2026-10-11 | 87 | 現在式的詞幹變化動詞(e→ie / o→ue / e→i / u→ue) | New topic, not covered in Days 1-86: stem-changing ("boot") verbs in the present; vowel changes in all forms except nosotros/vosotros; e→ie (querer, preferir, pensar, empezar), o→ue (poder, dormir, volver), e→i for -ir verbs (pedir, servir, repetir), u→ue (jugar only); tener/venir combine with irregular yo | spanish-lessons/day-87.html |
+| 2026-10-12 | 88 | 介系詞後的人稱代名詞(mí / ti / conmigo / contigo) | New topic, not covered in Days 1-87: prepositional pronouns mí/ti, conmigo/contigo/consigo, exceptions entre/según/excepto/salvo/incluso take yo/tú, a mí/a ti for emphasis and contrast | spanish-lessons/day-88.html |
 
 Note: a duplicate "Day 2" lesson (ser/¿De dónde eres?, i.e. the same topic
 as Day 5) was independently produced on 2026-07-14 on an orphaned branch
@@ -347,6 +348,7 @@ repeated. Before choosing today's piece, check this table.
 | 2026-10-09 | 田子方 (Tián Zǐfāng) — "Tian Zifang" (Outer Chapters, Ch. 21; Marquis Wen of Wei, Wen Boxue Zi and 目擊而道存, Yan Hui and 哀莫大於心死, Lao Dan 遊心於物之初, Sunshu Ao, Lie Yukou and Bohun Wuren on the cliff, the true painter of Duke Yuan of Song) | Outer Chapters (外篇), Ch. 21 |
 | 2026-10-10 | 知北遊 (Zhī Běi Yóu) — "Knowledge Wandered North" (Outer Chapters, Ch. 22; Knowledge asks Doing-Nothing-Saying-Nothing and Abrupt Madness, 知者不言言者不知, 通天下一氣, 天地有大美而不言, 白駒過隙, Dongguo Zi and 道在屎溺, 澡雪而精神, the old swordsmith of the Grand Marshal) | Outer Chapters (外篇), Ch. 22 |
 | 2026-10-11 | 庚桑楚 (Gēng Sāng Chǔ) — "Gengsang Chu" (first of the Miscellaneous Chapters 雜篇, Ch. 23; Gengsang Chu at Mount Weilei refuses to be honored as a sage, Nanrong Zhu and Lao Dan, 衛生之經 and the infant who cries all day without hoarseness, 宇/宙 definition, the boat-swallowing fish out of water, the list of things that disturb the will) | Miscellaneous Chapters (雜篇), Ch. 23 |
+| 2026-10-12 | 徐無鬼 (Xú Wúguǐ) — "Xu Wugui" (Miscellaneous Chapters, Ch. 24; Xu Wugui and Marquis Wu of Wei, judging dogs and horses, Zhuangzi at Hui Shi's grave and 郢人斲堊 / Carpenter Shi, the Wu monkey) | Miscellaneous Chapters (雜篇) |
 
 ## Country/Region/Faction Spotlights Featured
 
@@ -434,6 +436,7 @@ repeated. Before choosing today's piece, check this table.
 | 2026-10-09 | Kyrgyzstan (吉爾吉斯) | briefings/2026-10-09.html |
 | 2026-10-10 | Australia (澳洲) | briefings/2026-10-10.html |
 | 2026-10-11 | Canada (加拿大) | briefings/2026-10-11.html |
+| 2026-10-12 | Sweden (瑞典) | briefings/2026-10-12.html |
 
 ## Internet Meme Spotlights Featured
 
@@ -521,6 +524,7 @@ repeated. Before choosing today's piece, check this table.
 | 2026-10-09 | The Dancing Baby / "Baby Cha-Cha" (跳舞的寶寶, 1996 3D animation, Character Studio demo) | briefings/2026-10-09.html |
 | 2026-10-10 | The Mannequin Challenge (人體模型挑戰, 2016, Edgewater High School, Orlando; "Black Beatles") | briefings/2026-10-10.html |
 | 2026-10-11 | Ancient Aliens Guy / "I'm not saying it was aliens" (古代外星人大叔, History Channel series, Giorgio Tsoukalos, c. 2012) | briefings/2026-10-11.html |
+| 2026-10-12 | "Y U NO" Guy (Y U NO 小人, rage-comic era, c. 2010) | briefings/2026-10-12.html |
 
 ## Film / Performing Arts Spotlights Featured
 
@@ -606,6 +610,7 @@ and never repeat a subject already listed.
 | 2026-10-09 | Oedipus Rex (伊底帕斯王, Sophocles, c. 429 BC, Greek tragedy) | briefings/2026-10-09.html |
 | 2026-10-10 | Pulp Fiction (黑色追緝令, 1994, dir. Quentin Tarantino) | briefings/2026-10-10.html |
 | 2026-10-11 | Farewell My Concubine (霸王別姬, 1993, dir. Chen Kaige) | briefings/2026-10-11.html |
+| 2026-10-12 | Cinema Paradiso (新天堂樂園, 1988, dir. Giuseppe Tornatore) | briefings/2026-10-12.html |
 
 ## Film-Appreciation / Criticism Method Lessons
 
@@ -693,6 +698,7 @@ table and pick one not yet covered.
 | 2026-10-09 | Scene Structure: Turning Points & Value Shifts (Lesson 71; goal-conflict-turning point, enter late/leave early, beats and value change) | The Social Network (2010, dir. David Fincher) — opening bar scene, Mark and Erica |
 | 2026-10-10 | Overlapping Dialogue & Sound Density (Lesson 72; controlled vs. chaotic overlap, whose words are clear, speed as dominance) | His Girl Friday (1940, dir. Howard Hawks) — Walter and Hildy's newsroom scene; contrast with Nashville (1975) |
 | 2026-10-11 | Off-Screen Space / Hors-champ (Lesson 73; what the frame withholds, Burch's six zones, cues via sound/eyeline/shadow) | Frenzy (1972, dir. Alfred Hitchcock) — camera retreats down the staircase and out to the street during the murder of Babs; contrast with Psycho (1960) |
+| 2026-10-12 | Mirrors & Reflections (Lesson 74; doubling, identity, broken/multiplied glass) | The Lady from Shanghai (1947, dir. Orson Welles) — Magic Mirror Maze finale; contrast with Taxi Driver and Citizen Kane |
 
 ## Run Notes
 
@@ -900,3 +906,7 @@ Country: Australia; leaders (Albanese, Mostyn), area, religion and history from 
 
 Section 1: Sunday 05:35 Taipei, no major market open; latest closes are Friday Oct 9. US: Dow ~51,655, S&P 500 7,811.54 (+0.59%), Nasdaq ~27,366 (+0.6%), re-confirmed by search and tying to the figures logged yesterday; weekly Nasdaq result conflicted between sources and was left out. Nikkei Oct 9 close (69,030.92) carried from yesterday, not re-verified. Korea and Hang Seng Friday closes NOT confirmed (search returned irreconcilable Hang Seng levels, discarded; a KOSPI Oct 8 close of 6,625.93 conflicts with the logged 6,644.27, unresolved). Taiwan closed Oct 9 for substitute National Day holiday (re-confirmed); last TAIEX close Oct 8 49,313.44. Section 2: nothing new confirmed (search returned low-quality SEO pages).
 Country: Canada; PM Mark Carney and Governor General Mary Simon from general knowledge, flagged unverified; population from Statistics Canada (April 1, 2026 preliminary, 41,417,056) via search. Sequences advanced: Spanish Day 87, Zhuangzi 庚桑楚, Canada, Ancient Aliens, Farewell My Concubine, Method Lesson 73 (Off-Screen Space).
+
+**2026-10-12:** STEP 0 run first: `date -u` read `Sun Oct 11 21:34 UTC` and `TZ=Asia/Taipei date` read `Mon Oct 12 05:34 CST`, so the actual date is 2026-10-12 (Monday), one day ahead of the session's context header (2026-10-11, the usual stale-label pattern). Portal branch confirmed via the most recent successful "pages build and deployment" run (head_branch `claude/epic-brahmagupta-g1y16m`, commit 9430427 = `claude/daily-2026-10-11`; the deployments REST endpoint is not exposed by the available tools, so the Pages workflow run was used instead); latest entry 2026-10-11, so days_owed = 1. The starting branch `claude/magical-darwin-wfgzzu` was stale (stopped at 2026-07-20, Day 3), the known divergence signal, so work was branched from the portal tip. No other claude/* branch was ahead (two `claude/routine-add-section*` branches pre-date the current state).
+
+Section 1: Monday 05:35 Taipei, no major market open yet. US Friday Oct 9 close (Dow 51,654.95, S&P 7,811.54, Nasdaq 27,366.17) re-confirmed from a single wire reprint, matching yesterday's log. Japan expected closed Oct 12 (Sports Day, calendar inference). Korea and Hong Kong Oct 9 closes NOT confirmed. Taiwan last close Oct 8 49,313.44 carried. Section 2: nothing dated Oct 10-11 confirmed; secondary-source items flagged unverified. Country: Sweden; the Sept 13, 2026 election result (centre-left 176 vs 173 seats, Kristersson stepping down Sept 17) came from search, but whether Magdalena Andersson has been sworn in as PM was NOT confirmed. Sequences advanced: Spanish Day 88, Zhuangzi 徐無鬼 (Ch. 24), Sweden, Y U NO Guy, Cinema Paradiso, Method Lesson 74 (Mirrors & Reflections).
