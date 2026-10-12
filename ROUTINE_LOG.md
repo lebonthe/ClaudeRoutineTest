@@ -235,6 +235,7 @@ the repo so a permanent link can be shared.
 | 2026-10-10 | 86 | 介系詞 + 原形動詞(al / antes de / después de / sin / en vez de) | New topic, not covered in Days 1-85: prepositions take infinitives only (never -ing); al + infinitive (upon doing), antes de / después de / sin / en vez de (en lugar de) / con / hasta + infinitive when the subject is the same; different subject needs que + verb; object pronouns attach to the infinitive (decírselo). | spanish-lessons/day-86.html |
 | 2026-10-11 | 87 | 現在式的詞幹變化動詞(e→ie / o→ue / e→i / u→ue) | New topic, not covered in Days 1-86: stem-changing ("boot") verbs in the present; vowel changes in all forms except nosotros/vosotros; e→ie (querer, preferir, pensar, empezar), o→ue (poder, dormir, volver), e→i for -ir verbs (pedir, servir, repetir), u→ue (jugar only); tener/venir combine with irregular yo | spanish-lessons/day-87.html |
 | 2026-10-12 | 88 | 介系詞後的人稱代名詞(mí / ti / conmigo / contigo) | New topic, not covered in Days 1-87: prepositional pronouns mí/ti, conmigo/contigo/consigo, exceptions entre/según/excepto/salvo/incluso take yo/tú, a mí/a ti for emphasis and contrast | spanish-lessons/day-88.html |
+| 2026-10-13 | 89 | 過去簡單式 vs. 過去未完成式(Indefinido vs. Imperfecto) | New topic, not covered as a contrast in Days 1-88 (Days 16-20 taught each tense separately): Imperfecto = background/description/habit/in-progress, Indefinido = completed events/sequence/interruption; Imperfecto + cuando + Indefinido; signal words; meaning-change verbs saber/conocer/querer/poder | spanish-lessons/day-89.html |
 
 Note: a duplicate "Day 2" lesson (ser/¿De dónde eres?, i.e. the same topic
 as Day 5) was independently produced on 2026-07-14 on an orphaned branch
@@ -349,6 +350,7 @@ repeated. Before choosing today's piece, check this table.
 | 2026-10-10 | 知北遊 (Zhī Běi Yóu) — "Knowledge Wandered North" (Outer Chapters, Ch. 22; Knowledge asks Doing-Nothing-Saying-Nothing and Abrupt Madness, 知者不言言者不知, 通天下一氣, 天地有大美而不言, 白駒過隙, Dongguo Zi and 道在屎溺, 澡雪而精神, the old swordsmith of the Grand Marshal) | Outer Chapters (外篇), Ch. 22 |
 | 2026-10-11 | 庚桑楚 (Gēng Sāng Chǔ) — "Gengsang Chu" (first of the Miscellaneous Chapters 雜篇, Ch. 23; Gengsang Chu at Mount Weilei refuses to be honored as a sage, Nanrong Zhu and Lao Dan, 衛生之經 and the infant who cries all day without hoarseness, 宇/宙 definition, the boat-swallowing fish out of water, the list of things that disturb the will) | Miscellaneous Chapters (雜篇), Ch. 23 |
 | 2026-10-12 | 徐無鬼 (Xú Wúguǐ) — "Xu Wugui" (Miscellaneous Chapters, Ch. 24; Xu Wugui and Marquis Wu of Wei, judging dogs and horses, Zhuangzi at Hui Shi's grave and 郢人斲堊 / Carpenter Shi, the Wu monkey) | Miscellaneous Chapters (雜篇) |
+| 2026-10-13 | 則陽 (Zéyáng) — "Zeyang" (Miscellaneous Chapters, Ch. 25; Dai Jinren and King Ying of Wei, 蝸角之爭 war on the snail's horns, the Changwu border warden and 鹵莽滅裂, Qu Boyu 行年六十而六十化, 丘里之言) | Miscellaneous Chapters (雜篇), Ch. 25 |
 
 ## Country/Region/Faction Spotlights Featured
 
@@ -437,6 +439,7 @@ repeated. Before choosing today's piece, check this table.
 | 2026-10-10 | Australia (澳洲) | briefings/2026-10-10.html |
 | 2026-10-11 | Canada (加拿大) | briefings/2026-10-11.html |
 | 2026-10-12 | Sweden (瑞典) | briefings/2026-10-12.html |
+| 2026-10-13 | Italy (義大利) | briefings/2026-10-13.html |
 
 ## Internet Meme Spotlights Featured
 
@@ -525,6 +528,7 @@ repeated. Before choosing today's piece, check this table.
 | 2026-10-10 | The Mannequin Challenge (人體模型挑戰, 2016, Edgewater High School, Orlando; "Black Beatles") | briefings/2026-10-10.html |
 | 2026-10-11 | Ancient Aliens Guy / "I'm not saying it was aliens" (古代外星人大叔, History Channel series, Giorgio Tsoukalos, c. 2012) | briefings/2026-10-11.html |
 | 2026-10-12 | "Y U NO" Guy (Y U NO 小人, rage-comic era, c. 2010) | briefings/2026-10-12.html |
+| 2026-10-13 | "Double Rainbow" Guy (雙彩虹大叔, Paul "Bear" Vasquez, Yosemite, video Jan 2010, viral July 2010) | briefings/2026-10-13.html |
 
 ## Film / Performing Arts Spotlights Featured
 
@@ -611,6 +615,7 @@ and never repeat a subject already listed.
 | 2026-10-10 | Pulp Fiction (黑色追緝令, 1994, dir. Quentin Tarantino) | briefings/2026-10-10.html |
 | 2026-10-11 | Farewell My Concubine (霸王別姬, 1993, dir. Chen Kaige) | briefings/2026-10-11.html |
 | 2026-10-12 | Cinema Paradiso (新天堂樂園, 1988, dir. Giuseppe Tornatore) | briefings/2026-10-12.html |
+| 2026-10-13 | Cloud Gate Dance Theatre (雲門舞集, Taiwan, founded 1973 by Lin Hwai-min; AD Cheng Tsung-lung since 2020) | briefings/2026-10-13.html |
 
 ## Film-Appreciation / Criticism Method Lessons
 
@@ -699,6 +704,7 @@ table and pick one not yet covered.
 | 2026-10-10 | Overlapping Dialogue & Sound Density (Lesson 72; controlled vs. chaotic overlap, whose words are clear, speed as dominance) | His Girl Friday (1940, dir. Howard Hawks) — Walter and Hildy's newsroom scene; contrast with Nashville (1975) |
 | 2026-10-11 | Off-Screen Space / Hors-champ (Lesson 73; what the frame withholds, Burch's six zones, cues via sound/eyeline/shadow) | Frenzy (1972, dir. Alfred Hitchcock) — camera retreats down the staircase and out to the street during the murder of Babs; contrast with Psycho (1960) |
 | 2026-10-12 | Mirrors & Reflections (Lesson 74; doubling, identity, broken/multiplied glass) | The Lady from Shanghai (1947, dir. Orson Welles) — Magic Mirror Maze finale; contrast with Taxi Driver and Citizen Kane |
+| 2026-10-13 | Point of Audition / Subjective Sound (Lesson 75; whose ears are we in, Chion's point d'écoute, muffling/ringing/filtering, return of sound) | Saving Private Ryan (1998, dir. Steven Spielberg) — Omaha Beach landing (underwater muffling, Miller's shell-shock); contrast with Sound of Metal (2019) |
 
 ## Run Notes
 
@@ -910,3 +916,8 @@ Country: Canada; PM Mark Carney and Governor General Mary Simon from general kno
 **2026-10-12:** STEP 0 run first: `date -u` read `Sun Oct 11 21:34 UTC` and `TZ=Asia/Taipei date` read `Mon Oct 12 05:34 CST`, so the actual date is 2026-10-12 (Monday), one day ahead of the session's context header (2026-10-11, the usual stale-label pattern). Portal branch confirmed via the most recent successful "pages build and deployment" run (head_branch `claude/epic-brahmagupta-g1y16m`, commit 9430427 = `claude/daily-2026-10-11`; the deployments REST endpoint is not exposed by the available tools, so the Pages workflow run was used instead); latest entry 2026-10-11, so days_owed = 1. The starting branch `claude/magical-darwin-wfgzzu` was stale (stopped at 2026-07-20, Day 3), the known divergence signal, so work was branched from the portal tip. No other claude/* branch was ahead (two `claude/routine-add-section*` branches pre-date the current state).
 
 Section 1: Monday 05:35 Taipei, no major market open yet. US Friday Oct 9 close (Dow 51,654.95, S&P 7,811.54, Nasdaq 27,366.17) re-confirmed from a single wire reprint, matching yesterday's log. Japan expected closed Oct 12 (Sports Day, calendar inference). Korea and Hong Kong Oct 9 closes NOT confirmed. Taiwan last close Oct 8 49,313.44 carried. Section 2: nothing dated Oct 10-11 confirmed; secondary-source items flagged unverified. Country: Sweden; the Sept 13, 2026 election result (centre-left 176 vs 173 seats, Kristersson stepping down Sept 17) came from search, but whether Magdalena Andersson has been sworn in as PM was NOT confirmed. Sequences advanced: Spanish Day 88, Zhuangzi 徐無鬼 (Ch. 24), Sweden, Y U NO Guy, Cinema Paradiso, Method Lesson 74 (Mirrors & Reflections).
+
+
+**2026-10-13:** STEP 0 run first: `date -u` read `Mon Oct 12 21:35 UTC` and `TZ=Asia/Taipei date` read `Tue Oct 13 05:35 CST`, so the actual date is 2026-10-13 (Tuesday), one day ahead of the session's context header (2026-10-12, the usual stale-label pattern). Portal branch confirmed via the deployments REST API (`gh api .../deployments?environment=github-pages`; latest success created 2026-10-11T21:38:53Z, `ref: claude/epic-brahmagupta-g1y16m`, commit 5162e7d = `claude/daily-2026-10-12`); latest entry 2026-10-12, so days_owed = 1 and today's content was produced. No other claude/* branch was ahead (all other daily branches are earlier tips of the same history). New branch `claude/daily-2026-10-13` cut from the portal tip.
+
+Section 1: Tuesday 05:35 Taipei, no Asian market open yet; latest closes are Monday Oct 12. US: Dow 51,850.55 (+0.38%), S&P 500 7,807.24 (-0.06%), Nasdaq 27,245.90 (-0.44%), three sources agreeing and reconciling arithmetically with Friday's logged closes. Taiwan: TAIEX 49,301.96 (-0.02%, intraday low 48,768.82) from one secondary report, ties to the Oct 8 close. Korea: KOSPI 6,384.24 (-3.65%) from a single flash item, ties to the Oct 8 close 6,625.93; flagged likely-but-unconfirmed. Japan closed (Sports Day, calendar inference), Nikkei Oct 9 close carried. Hong Kong NOT confirmed (conflicting results discarded). Section 2: nothing dated Oct 11-12 confirmed; secondary-source items flagged unverified. Country: Italy; Meloni confirmed as PM by search, Mattarella and history from general knowledge, population from a secondary source (59.25M, 2025), flagged. Sequences advanced: Spanish Day 89, Zhuangzi 則陽, Italy, Double Rainbow, Cloud Gate Dance Theatre, Method Lesson 75 (Point of Audition).
