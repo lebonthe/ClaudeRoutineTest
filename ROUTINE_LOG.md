@@ -236,6 +236,7 @@ the repo so a permanent link can be shared.
 | 2026-10-11 | 87 | 現在式的詞幹變化動詞(e→ie / o→ue / e→i / u→ue) | New topic, not covered in Days 1-86: stem-changing ("boot") verbs in the present; vowel changes in all forms except nosotros/vosotros; e→ie (querer, preferir, pensar, empezar), o→ue (poder, dormir, volver), e→i for -ir verbs (pedir, servir, repetir), u→ue (jugar only); tener/venir combine with irregular yo | spanish-lessons/day-87.html |
 | 2026-10-12 | 88 | 介系詞後的人稱代名詞(mí / ti / conmigo / contigo) | New topic, not covered in Days 1-87: prepositional pronouns mí/ti, conmigo/contigo/consigo, exceptions entre/según/excepto/salvo/incluso take yo/tú, a mí/a ti for emphasis and contrast | spanish-lessons/day-88.html |
 | 2026-10-13 | 89 | 過去簡單式 vs. 過去未完成式(Indefinido vs. Imperfecto) | New topic, not covered as a contrast in Days 1-88 (Days 16-20 taught each tense separately): Imperfecto = background/description/habit/in-progress, Indefinido = completed events/sequence/interruption; Imperfecto + cuando + Indefinido; signal words; meaning-change verbs saber/conocer/querer/poder | spanish-lessons/day-89.html |
+| 2026-10-14 | 90 | 四種「porque」(Por qué / Porque / Por que / Porqué) | New topic, not covered in Days 1-89: ¿por qué? (question, accent, two words) vs. porque (answer, one word) vs. el porqué (noun) vs. por que (por + que relative); indirect questions keep por qué; porque + indicative vs. para que; por qué vs. para qué | spanish-lessons/day-90.html |
 
 Note: a duplicate "Day 2" lesson (ser/¿De dónde eres?, i.e. the same topic
 as Day 5) was independently produced on 2026-07-14 on an orphaned branch
@@ -351,6 +352,7 @@ repeated. Before choosing today's piece, check this table.
 | 2026-10-11 | 庚桑楚 (Gēng Sāng Chǔ) — "Gengsang Chu" (first of the Miscellaneous Chapters 雜篇, Ch. 23; Gengsang Chu at Mount Weilei refuses to be honored as a sage, Nanrong Zhu and Lao Dan, 衛生之經 and the infant who cries all day without hoarseness, 宇/宙 definition, the boat-swallowing fish out of water, the list of things that disturb the will) | Miscellaneous Chapters (雜篇), Ch. 23 |
 | 2026-10-12 | 徐無鬼 (Xú Wúguǐ) — "Xu Wugui" (Miscellaneous Chapters, Ch. 24; Xu Wugui and Marquis Wu of Wei, judging dogs and horses, Zhuangzi at Hui Shi's grave and 郢人斲堊 / Carpenter Shi, the Wu monkey) | Miscellaneous Chapters (雜篇) |
 | 2026-10-13 | 則陽 (Zéyáng) — "Zeyang" (Miscellaneous Chapters, Ch. 25; Dai Jinren and King Ying of Wei, 蝸角之爭 war on the snail's horns, the Changwu border warden and 鹵莽滅裂, Qu Boyu 行年六十而六十化, 丘里之言) | Miscellaneous Chapters (雜篇), Ch. 25 |
+| 2026-10-14 | 外物 (Wàiwù) — "External Things" (Miscellaneous Chapters, Ch. 26; 外物不可必, 涸轍之鮒 carp in the dry rut, 任公子釣大魚, 無用之用, 得魚忘筌) | Miscellaneous Chapters (雜篇) |
 
 ## Country/Region/Faction Spotlights Featured
 
@@ -440,6 +442,7 @@ repeated. Before choosing today's piece, check this table.
 | 2026-10-11 | Canada (加拿大) | briefings/2026-10-11.html |
 | 2026-10-12 | Sweden (瑞典) | briefings/2026-10-12.html |
 | 2026-10-13 | Italy (義大利) | briefings/2026-10-13.html |
+| 2026-10-14 | Spain (西班牙) | briefings/2026-10-14.html |
 
 ## Internet Meme Spotlights Featured
 
@@ -529,6 +532,7 @@ repeated. Before choosing today's piece, check this table.
 | 2026-10-11 | Ancient Aliens Guy / "I'm not saying it was aliens" (古代外星人大叔, History Channel series, Giorgio Tsoukalos, c. 2012) | briefings/2026-10-11.html |
 | 2026-10-12 | "Y U NO" Guy (Y U NO 小人, rage-comic era, c. 2010) | briefings/2026-10-12.html |
 | 2026-10-13 | "Double Rainbow" Guy (雙彩虹大叔, Paul "Bear" Vasquez, Yosemite, video Jan 2010, viral July 2010) | briefings/2026-10-13.html |
+| 2026-10-14 | Pizza Rat (披薩鼠, NYC subway, Sept 2015) | briefings/2026-10-14.html |
 
 ## Film / Performing Arts Spotlights Featured
 
@@ -616,6 +620,7 @@ and never repeat a subject already listed.
 | 2026-10-11 | Farewell My Concubine (霸王別姬, 1993, dir. Chen Kaige) | briefings/2026-10-11.html |
 | 2026-10-12 | Cinema Paradiso (新天堂樂園, 1988, dir. Giuseppe Tornatore) | briefings/2026-10-12.html |
 | 2026-10-13 | Cloud Gate Dance Theatre (雲門舞集, Taiwan, founded 1973 by Lin Hwai-min; AD Cheng Tsung-lung since 2020) | briefings/2026-10-13.html |
+| 2026-10-14 | The Wizard of Oz (綠野仙蹤, 1939, dir. Victor Fleming, MGM) | briefings/2026-10-14.html |
 
 ## Film-Appreciation / Criticism Method Lessons
 
@@ -705,6 +710,7 @@ table and pick one not yet covered.
 | 2026-10-11 | Off-Screen Space / Hors-champ (Lesson 73; what the frame withholds, Burch's six zones, cues via sound/eyeline/shadow) | Frenzy (1972, dir. Alfred Hitchcock) — camera retreats down the staircase and out to the street during the murder of Babs; contrast with Psycho (1960) |
 | 2026-10-12 | Mirrors & Reflections (Lesson 74; doubling, identity, broken/multiplied glass) | The Lady from Shanghai (1947, dir. Orson Welles) — Magic Mirror Maze finale; contrast with Taxi Driver and Citizen Kane |
 | 2026-10-13 | Point of Audition / Subjective Sound (Lesson 75; whose ears are we in, Chion's point d'écoute, muffling/ringing/filtering, return of sound) | Saving Private Ryan (1998, dir. Steven Spielberg) — Omaha Beach landing (underwater muffling, Miller's shell-shock); contrast with Sound of Metal (2019) |
+| 2026-10-14 | Theme as a Controlling Idea (Lesson 76; state theme as a testable claim, test it against form, turning point, pattern, counter-evidence) | Ratatouille (2007, dir. Brad Bird) — Anton Ego's bite of the ratatouille, flashback and review |
 
 ## Run Notes
 
@@ -921,3 +927,8 @@ Section 1: Monday 05:35 Taipei, no major market open yet. US Friday Oct 9 close 
 **2026-10-13:** STEP 0 run first: `date -u` read `Mon Oct 12 21:35 UTC` and `TZ=Asia/Taipei date` read `Tue Oct 13 05:35 CST`, so the actual date is 2026-10-13 (Tuesday), one day ahead of the session's context header (2026-10-12, the usual stale-label pattern). Portal branch confirmed via the deployments REST API (`gh api .../deployments?environment=github-pages`; latest success created 2026-10-11T21:38:53Z, `ref: claude/epic-brahmagupta-g1y16m`, commit 5162e7d = `claude/daily-2026-10-12`); latest entry 2026-10-12, so days_owed = 1 and today's content was produced. No other claude/* branch was ahead (all other daily branches are earlier tips of the same history). New branch `claude/daily-2026-10-13` cut from the portal tip.
 
 Section 1: Tuesday 05:35 Taipei, no Asian market open yet; latest closes are Monday Oct 12. US: Dow 51,850.55 (+0.38%), S&P 500 7,807.24 (-0.06%), Nasdaq 27,245.90 (-0.44%), three sources agreeing and reconciling arithmetically with Friday's logged closes. Taiwan: TAIEX 49,301.96 (-0.02%, intraday low 48,768.82) from one secondary report, ties to the Oct 8 close. Korea: KOSPI 6,384.24 (-3.65%) from a single flash item, ties to the Oct 8 close 6,625.93; flagged likely-but-unconfirmed. Japan closed (Sports Day, calendar inference), Nikkei Oct 9 close carried. Hong Kong NOT confirmed (conflicting results discarded). Section 2: nothing dated Oct 11-12 confirmed; secondary-source items flagged unverified. Country: Italy; Meloni confirmed as PM by search, Mattarella and history from general knowledge, population from a secondary source (59.25M, 2025), flagged. Sequences advanced: Spanish Day 89, Zhuangzi 則陽, Italy, Double Rainbow, Cloud Gate Dance Theatre, Method Lesson 75 (Point of Audition).
+
+**2026-10-14:** STEP 0 run first: `date -u` read `Tue Oct 13 21:35 UTC` and `TZ=Asia/Taipei date` read `Wed Oct 14 05:35 CST`, so the actual date is 2026-10-14 (Wednesday), one day ahead of the session's context header (2026-10-13, the usual stale-label pattern). Portal branch confirmed via the deployments REST API (`api.github.com/repos/lebonthe/ClaudeRoutineTest/deployments?environment=github-pages`; latest success created 2026-10-12T21:40Z, `ref: claude/epic-brahmagupta-g1y16m`, sha 6f6a687, identical to `claude/daily-2026-10-13`). The session started on stale branch `claude/magical-darwin-f1q8tk` (3 briefings, Day 3), the known divergence signal; recovered by branching `claude/daily-2026-10-14` from the portal tip. days_owed = 1 (latest entry 2026-10-13).
+
+Section 1: Wednesday 05:35 Taipei, no Asian market open yet; latest closes are Tuesday Oct 13. US: Dow 51,670.10 (-0.35%), S&P 500 7,805.45 (-0.02%), Nasdaq 27,204.38 (-0.15%), tying arithmetically to the Oct 12 closes. Nikkei 67,777.52 (-1.82%) and a ~5.5% KOSPI drop came from one CNBC page labeled Oct 12 (Tokyo was closed that day), judged to be Oct 13 because the Nikkei ties to the Oct 9 close; provisional. Hang Seng final and TAIEX Oct 13 close NOT confirmed (an undated 38,932.40 TAIEX page was discarded as inconsistent). Section 2: nothing dated Oct 12-13 found.
+Selections: Spanish Day 90 (porque), Zhuangzi Essay 26 外物, Spain (leaders from a July 2026 JETRO profile, population from the national statistics office provisional April 2026 figure; rest general knowledge), Pizza Rat, The Wizard of Oz, Method Lesson 76 (Theme as a Controlling Idea, worked example Ratatouille). Film, method, meme and Zhuangzi sections come from general knowledge and are labeled as such.
