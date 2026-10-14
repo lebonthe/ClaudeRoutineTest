@@ -237,6 +237,7 @@ the repo so a permanent link can be shared.
 | 2026-10-12 | 88 | 介系詞後的人稱代名詞(mí / ti / conmigo / contigo) | New topic, not covered in Days 1-87: prepositional pronouns mí/ti, conmigo/contigo/consigo, exceptions entre/según/excepto/salvo/incluso take yo/tú, a mí/a ti for emphasis and contrast | spanish-lessons/day-88.html |
 | 2026-10-13 | 89 | 過去簡單式 vs. 過去未完成式(Indefinido vs. Imperfecto) | New topic, not covered as a contrast in Days 1-88 (Days 16-20 taught each tense separately): Imperfecto = background/description/habit/in-progress, Indefinido = completed events/sequence/interruption; Imperfecto + cuando + Indefinido; signal words; meaning-change verbs saber/conocer/querer/poder | spanish-lessons/day-89.html |
 | 2026-10-14 | 90 | 四種「porque」(Por qué / Porque / Por que / Porqué) | New topic, not covered in Days 1-89: ¿por qué? (question, accent, two words) vs. porque (answer, one word) vs. el porqué (noun) vs. por que (por + que relative); indirect questions keep por qué; porque + indicative vs. para que; por qué vs. para qué | spanish-lessons/day-90.html |
+| 2026-10-15 | 91 | Mientras / Mientras que / Mientras tanto(「當……的時候」「然而」「同時」) | New topic, not covered in Days 1-90: mientras + indicative (simultaneous real actions, Imperfecto in the past) vs. mientras + subjunctive (future/hypothetical "as long as"), mientras que (contrast, "whereas"), mientras tanto ("meanwhile"), mientras más/menos, durante + noun vs. mientras + clause | spanish-lessons/day-91.html |
 
 Note: a duplicate "Day 2" lesson (ser/¿De dónde eres?, i.e. the same topic
 as Day 5) was independently produced on 2026-07-14 on an orphaned branch
@@ -353,6 +354,7 @@ repeated. Before choosing today's piece, check this table.
 | 2026-10-12 | 徐無鬼 (Xú Wúguǐ) — "Xu Wugui" (Miscellaneous Chapters, Ch. 24; Xu Wugui and Marquis Wu of Wei, judging dogs and horses, Zhuangzi at Hui Shi's grave and 郢人斲堊 / Carpenter Shi, the Wu monkey) | Miscellaneous Chapters (雜篇) |
 | 2026-10-13 | 則陽 (Zéyáng) — "Zeyang" (Miscellaneous Chapters, Ch. 25; Dai Jinren and King Ying of Wei, 蝸角之爭 war on the snail's horns, the Changwu border warden and 鹵莽滅裂, Qu Boyu 行年六十而六十化, 丘里之言) | Miscellaneous Chapters (雜篇), Ch. 25 |
 | 2026-10-14 | 外物 (Wàiwù) — "External Things" (Miscellaneous Chapters, Ch. 26; 外物不可必, 涸轍之鮒 carp in the dry rut, 任公子釣大魚, 無用之用, 得魚忘筌) | Miscellaneous Chapters (雜篇) |
+| 2026-10-15 | 寓言 (Yùyán) — "Imputed Words" (Miscellaneous Chapters, Ch. 27; 寓言/重言/卮言 three kinds of speech, 天倪, 言無言, Confucius 行年六十而六十化, Zengzi's three fu vs. three thousand zhong, 罔兩問影, Yangzi Ju and Lao Dan 大白若辱, Yan Chengzi Youyi's nine stages) | Miscellaneous Chapters (雜篇), Ch. 27 |
 
 ## Country/Region/Faction Spotlights Featured
 
@@ -443,6 +445,7 @@ repeated. Before choosing today's piece, check this table.
 | 2026-10-12 | Sweden (瑞典) | briefings/2026-10-12.html |
 | 2026-10-13 | Italy (義大利) | briefings/2026-10-13.html |
 | 2026-10-14 | Spain (西班牙) | briefings/2026-10-14.html |
+| 2026-10-15 | Jamaica (牙買加) | briefings/2026-10-15.html |
 
 ## Internet Meme Spotlights Featured
 
@@ -533,6 +536,7 @@ repeated. Before choosing today's piece, check this table.
 | 2026-10-12 | "Y U NO" Guy (Y U NO 小人, rage-comic era, c. 2010) | briefings/2026-10-12.html |
 | 2026-10-13 | "Double Rainbow" Guy (雙彩虹大叔, Paul "Bear" Vasquez, Yosemite, video Jan 2010, viral July 2010) | briefings/2026-10-13.html |
 | 2026-10-14 | Pizza Rat (披薩鼠, NYC subway, Sept 2015) | briefings/2026-10-14.html |
+| 2026-10-15 | Roll Safe ("You can't ... if you ...", Kayode Ewumi's Hood Documentary character, popularised c. 2016-2017) | briefings/2026-10-15.html |
 
 ## Film / Performing Arts Spotlights Featured
 
@@ -621,6 +625,7 @@ and never repeat a subject already listed.
 | 2026-10-12 | Cinema Paradiso (新天堂樂園, 1988, dir. Giuseppe Tornatore) | briefings/2026-10-12.html |
 | 2026-10-13 | Cloud Gate Dance Theatre (雲門舞集, Taiwan, founded 1973 by Lin Hwai-min; AD Cheng Tsung-lung since 2020) | briefings/2026-10-13.html |
 | 2026-10-14 | The Wizard of Oz (綠野仙蹤, 1939, dir. Victor Fleming, MGM) | briefings/2026-10-14.html |
+| 2026-10-15 | Sholay (火焰, 1975, dir. Ramesh Sippy) | briefings/2026-10-15.html |
 
 ## Film-Appreciation / Criticism Method Lessons
 
@@ -711,6 +716,7 @@ table and pick one not yet covered.
 | 2026-10-12 | Mirrors & Reflections (Lesson 74; doubling, identity, broken/multiplied glass) | The Lady from Shanghai (1947, dir. Orson Welles) — Magic Mirror Maze finale; contrast with Taxi Driver and Citizen Kane |
 | 2026-10-13 | Point of Audition / Subjective Sound (Lesson 75; whose ears are we in, Chion's point d'écoute, muffling/ringing/filtering, return of sound) | Saving Private Ryan (1998, dir. Steven Spielberg) — Omaha Beach landing (underwater muffling, Miller's shell-shock); contrast with Sound of Metal (2019) |
 | 2026-10-14 | Theme as a Controlling Idea (Lesson 76; state theme as a testable claim, test it against form, turning point, pattern, counter-evidence) | Ratatouille (2007, dir. Brad Bird) — Anton Ego's bite of the ratatouille, flashback and review |
+| 2026-10-15 | Exposition: Showing vs. Telling (Lesson 77; channels of information delivery — action, image/design, reaction, dialogue, voice-over, performance; information with conflict vs. lecture; what is withheld) | Raiders of the Lost Ark (1981, dir. Steven Spielberg) — the Peruvian temple opening; contrast with Jaws (1975) Quint's USS Indianapolis monologue |
 
 ## Run Notes
 
@@ -932,3 +938,8 @@ Section 1: Tuesday 05:35 Taipei, no Asian market open yet; latest closes are Mon
 
 Section 1: Wednesday 05:35 Taipei, no Asian market open yet; latest closes are Tuesday Oct 13. US: Dow 51,670.10 (-0.35%), S&P 500 7,805.45 (-0.02%), Nasdaq 27,204.38 (-0.15%), tying arithmetically to the Oct 12 closes. Nikkei 67,777.52 (-1.82%) and a ~5.5% KOSPI drop came from one CNBC page labeled Oct 12 (Tokyo was closed that day), judged to be Oct 13 because the Nikkei ties to the Oct 9 close; provisional. Hang Seng final and TAIEX Oct 13 close NOT confirmed (an undated 38,932.40 TAIEX page was discarded as inconsistent). Section 2: nothing dated Oct 12-13 found.
 Selections: Spanish Day 90 (porque), Zhuangzi Essay 26 外物, Spain (leaders from a July 2026 JETRO profile, population from the national statistics office provisional April 2026 figure; rest general knowledge), Pizza Rat, The Wizard of Oz, Method Lesson 76 (Theme as a Controlling Idea, worked example Ratatouille). Film, method, meme and Zhuangzi sections come from general knowledge and are labeled as such.
+
+**2026-10-15:** STEP 0 run first: `date -u` read `Wed Oct 14 21:35 UTC` and `TZ=Asia/Taipei date` read `Thu Oct 15 05:35 CST`, so the actual date is 2026-10-15 (Thursday), one day ahead of the session's context header (2026-10-14, the usual stale-label pattern). Portal branch confirmed via the deployments REST API (`gh api .../deployments?environment=github-pages`; latest success created 2026-10-13T21:39Z, `ref: claude/epic-brahmagupta-g1y16m`, sha a62c6a5 = `claude/daily-2026-10-14`). The session started on stale branch `claude/magical-darwin-d2b4tn` (Day 3, 2026-07-20), the known divergence signal; recovered by branching `claude/daily-2026-10-15` from the portal tip. days_owed = 1 (latest entry 2026-10-14). No other claude/* branch was ahead.
+
+Section 1: Thursday 05:35 Taipei, no Asian market open yet; latest closes are Wednesday Oct 14. US: Dow 51,621.48 (-0.1%), S&P 500 7,718.94 (-1.1%), Nasdaq 26,692.87 (-1.9%) after hot core CPI (0.3% m/m, 2.6% y/y); all three tie arithmetically to the Oct 13 closes, two wire sources agreeing (mid-session snapshots discarded). TAIEX 48,626 (+285, +0.6%) from one aggregator reprint, ties to the Oct 13 close of 48,341; provisional (timestamp about 13:01). Japan/Korea/Hong Kong Oct 14 closes NOT confirmed (conflicting reports). Section 2: Apple Oct 13 "Welcome Home" launch and Developer Program License Agreement update, Gemini 4 Argon GA (Gemini Enterprise), from secondary pages; nothing for Android/Flutter. Zhuangzi, country, meme, film and method sections come from general knowledge and are labeled as such.
+Selections: Spanish Day 91 (mientras), Zhuangzi Essay 27 寓言, Jamaica, Roll Safe, Sholay, Method Lesson 77 (Exposition: Showing vs. Telling, worked example Raiders of the Lost Ark).
