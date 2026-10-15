@@ -238,6 +238,7 @@ the repo so a permanent link can be shared.
 | 2026-10-13 | 89 | 過去簡單式 vs. 過去未完成式(Indefinido vs. Imperfecto) | New topic, not covered as a contrast in Days 1-88 (Days 16-20 taught each tense separately): Imperfecto = background/description/habit/in-progress, Indefinido = completed events/sequence/interruption; Imperfecto + cuando + Indefinido; signal words; meaning-change verbs saber/conocer/querer/poder | spanish-lessons/day-89.html |
 | 2026-10-14 | 90 | 四種「porque」(Por qué / Porque / Por que / Porqué) | New topic, not covered in Days 1-89: ¿por qué? (question, accent, two words) vs. porque (answer, one word) vs. el porqué (noun) vs. por que (por + que relative); indirect questions keep por qué; porque + indicative vs. para que; por qué vs. para qué | spanish-lessons/day-90.html |
 | 2026-10-15 | 91 | Mientras / Mientras que / Mientras tanto(「當……的時候」「然而」「同時」) | New topic, not covered in Days 1-90: mientras + indicative (simultaneous real actions, Imperfecto in the past) vs. mientras + subjunctive (future/hypothetical "as long as"), mientras que (contrast, "whereas"), mientras tanto ("meanwhile"), mientras más/menos, durante + noun vs. mientras + clause | spanish-lessons/day-91.html |
+| 2026-10-16 | 92 | Muy vs. Mucho 與 Tan / Tanto(程度副詞與同等比較) | New topic, not covered in Days 1-91 (muy only used in passing in Day 2): muy + adjective/adverb vs. mucho + verb/noun, mucho agreement, no "muy mucho", mucho más/mejor, tan...como vs. tanto...como (equality), tan/tanto alone. | spanish-lessons/day-92.html |
 
 Note: a duplicate "Day 2" lesson (ser/¿De dónde eres?, i.e. the same topic
 as Day 5) was independently produced on 2026-07-14 on an orphaned branch
@@ -355,6 +356,7 @@ repeated. Before choosing today's piece, check this table.
 | 2026-10-13 | 則陽 (Zéyáng) — "Zeyang" (Miscellaneous Chapters, Ch. 25; Dai Jinren and King Ying of Wei, 蝸角之爭 war on the snail's horns, the Changwu border warden and 鹵莽滅裂, Qu Boyu 行年六十而六十化, 丘里之言) | Miscellaneous Chapters (雜篇), Ch. 25 |
 | 2026-10-14 | 外物 (Wàiwù) — "External Things" (Miscellaneous Chapters, Ch. 26; 外物不可必, 涸轍之鮒 carp in the dry rut, 任公子釣大魚, 無用之用, 得魚忘筌) | Miscellaneous Chapters (雜篇) |
 | 2026-10-15 | 寓言 (Yùyán) — "Imputed Words" (Miscellaneous Chapters, Ch. 27; 寓言/重言/卮言 three kinds of speech, 天倪, 言無言, Confucius 行年六十而六十化, Zengzi's three fu vs. three thousand zhong, 罔兩問影, Yangzi Ju and Lao Dan 大白若辱, Yan Chengzi Youyi's nine stages) | Miscellaneous Chapters (雜篇), Ch. 27 |
+| 2026-10-16 | 讓王 (Ràng Wáng) — "Yielding the Throne" (Miscellaneous Chapters, Ch. 28; Yao/Shun decline the empire (Xu You, Shanjuan), King Tai leaves Bin 不以所用養害所養, Zihuazi and Marquis Zhao of Han 兩臂重於天下, Prince Mou 身在江海之上心居魏闕之下 and 重生, Confucius between Chen and Cai, 道之真以治身 其土苴以治天下) | Miscellaneous Chapters (雜篇), Ch. 28 |
 
 ## Country/Region/Faction Spotlights Featured
 
@@ -446,6 +448,7 @@ repeated. Before choosing today's piece, check this table.
 | 2026-10-13 | Italy (義大利) | briefings/2026-10-13.html |
 | 2026-10-14 | Spain (西班牙) | briefings/2026-10-14.html |
 | 2026-10-15 | Jamaica (牙買加) | briefings/2026-10-15.html |
+| 2026-10-16 | Germany (德國) | briefings/2026-10-16.html |
 
 ## Internet Meme Spotlights Featured
 
@@ -537,6 +540,7 @@ repeated. Before choosing today's piece, check this table.
 | 2026-10-13 | "Double Rainbow" Guy (雙彩虹大叔, Paul "Bear" Vasquez, Yosemite, video Jan 2010, viral July 2010) | briefings/2026-10-13.html |
 | 2026-10-14 | Pizza Rat (披薩鼠, NYC subway, Sept 2015) | briefings/2026-10-14.html |
 | 2026-10-15 | Roll Safe ("You can't ... if you ...", Kayode Ewumi's Hood Documentary character, popularised c. 2016-2017) | briefings/2026-10-15.html |
+| 2026-10-16 | Arthur's Fist (亞瑟的拳頭, clenched-fist reaction image from PBS's Arthur, c. 2016-2017) | briefings/2026-10-16.html |
 
 ## Film / Performing Arts Spotlights Featured
 
@@ -626,6 +630,7 @@ and never repeat a subject already listed.
 | 2026-10-13 | Cloud Gate Dance Theatre (雲門舞集, Taiwan, founded 1973 by Lin Hwai-min; AD Cheng Tsung-lung since 2020) | briefings/2026-10-13.html |
 | 2026-10-14 | The Wizard of Oz (綠野仙蹤, 1939, dir. Victor Fleming, MGM) | briefings/2026-10-14.html |
 | 2026-10-15 | Sholay (火焰, 1975, dir. Ramesh Sippy) | briefings/2026-10-15.html |
+| 2026-10-16 | Jeanne Dielman, 23 quai du Commerce, 1080 Bruxelles (1975, dir. Chantal Akerman) | briefings/2026-10-16.html |
 
 ## Film-Appreciation / Criticism Method Lessons
 
@@ -717,6 +722,7 @@ table and pick one not yet covered.
 | 2026-10-13 | Point of Audition / Subjective Sound (Lesson 75; whose ears are we in, Chion's point d'écoute, muffling/ringing/filtering, return of sound) | Saving Private Ryan (1998, dir. Steven Spielberg) — Omaha Beach landing (underwater muffling, Miller's shell-shock); contrast with Sound of Metal (2019) |
 | 2026-10-14 | Theme as a Controlling Idea (Lesson 76; state theme as a testable claim, test it against form, turning point, pattern, counter-evidence) | Ratatouille (2007, dir. Brad Bird) — Anton Ego's bite of the ratatouille, flashback and review |
 | 2026-10-15 | Exposition: Showing vs. Telling (Lesson 77; channels of information delivery — action, image/design, reaction, dialogue, voice-over, performance; information with conflict vs. lecture; what is withheld) | Raiders of the Lost Ark (1981, dir. Steven Spielberg) — the Peruvian temple opening; contrast with Jaws (1975) Quint's USS Indianapolis monologue |
+| 2026-10-16 | Character Introduction (Lesson 78; first-appearance analysis: what we see first, whose point of view, action, space and light, others' reactions) | The Godfather (1972, dir. Francis Ford Coppola) — Bonasera and Don Corleone in the study; contrast with Casablanca (1942) Rick's introduction |
 
 ## Run Notes
 
@@ -943,3 +949,8 @@ Selections: Spanish Day 90 (porque), Zhuangzi Essay 26 外物, Spain (leaders fr
 
 Section 1: Thursday 05:35 Taipei, no Asian market open yet; latest closes are Wednesday Oct 14. US: Dow 51,621.48 (-0.1%), S&P 500 7,718.94 (-1.1%), Nasdaq 26,692.87 (-1.9%) after hot core CPI (0.3% m/m, 2.6% y/y); all three tie arithmetically to the Oct 13 closes, two wire sources agreeing (mid-session snapshots discarded). TAIEX 48,626 (+285, +0.6%) from one aggregator reprint, ties to the Oct 13 close of 48,341; provisional (timestamp about 13:01). Japan/Korea/Hong Kong Oct 14 closes NOT confirmed (conflicting reports). Section 2: Apple Oct 13 "Welcome Home" launch and Developer Program License Agreement update, Gemini 4 Argon GA (Gemini Enterprise), from secondary pages; nothing for Android/Flutter. Zhuangzi, country, meme, film and method sections come from general knowledge and are labeled as such.
 Selections: Spanish Day 91 (mientras), Zhuangzi Essay 27 寓言, Jamaica, Roll Safe, Sholay, Method Lesson 77 (Exposition: Showing vs. Telling, worked example Raiders of the Lost Ark).
+
+**2026-10-16:** STEP 0 run first: `date -u` read `Thu Oct 15 21:35 UTC` and `TZ=Asia/Taipei date` read `Fri Oct 16 05:35 CST`, so the actual date is 2026-10-16 (Friday), one day ahead of the session's context header (2026-10-15, the usual stale-label pattern). Portal branch confirmed via the deployments REST API (latest success created 2026-10-14T21:41Z, `ref: claude/epic-brahmagupta-g1y16m`, sha 6f1b39e = `claude/daily-2026-10-15`). The session started on stale branch `claude/magical-darwin-o9fxm2` (Day 3, 2026-07-20), the known divergence signal; recovered by branching `claude/daily-2026-10-16` from the portal tip. days_owed = 1 (latest entry 2026-10-15). No other claude/* branch was ahead.
+
+Section 1: Friday 05:35 Taipei, no Asian market open yet; latest closes are Thursday Oct 15. US: Dow 52,177.69 (+1.08%, +556), S&P 500 7,744.06 (+0.33%), Nasdaq 26,713.02 (+0.08%), from one aggregator quoting the official close; all three tie arithmetically to the Oct 14 closes and a second outlet's "+556 points" headline matches (mid-session snapshots and pages still carrying Wednesday's numbers discarded). TAIEX 46,970 (-1,656, -3.4%) ties to the Oct 14 close of 48,626; Nikkei 64,425.95 (-4.9%, AP), KOSPI 5,554.22 (-7.6%, level-one circuit breaker), Hang Seng about 24,060-24,070 (two sources differ slightly). TSMC Q3: net income NT$763.06 billion, EPS NT$29.43; Q4 guidance partly unlabeled in the excerpt and flagged as such. WebFetch was blocked (hostname lookup failed), so all figures come from search summaries; the briefing says so. Section 2: no new releases confirmed; iOS 27 / Flutter 3.47 / 3.50 items from secondary sources, flagged. Zhuangzi, country (population/leader from a country profile, rest general knowledge), meme, film and method sections are from general knowledge and labeled as such.
+Selections: Spanish Day 92 (muy/mucho, tan/tanto), Zhuangzi Essay 28 讓王, Germany, Arthur's Fist, Jeanne Dielman, Method Lesson 78 (Character Introduction, worked example The Godfather).
