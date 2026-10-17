@@ -240,6 +240,7 @@ the repo so a permanent link can be shared.
 | 2026-10-15 | 91 | Mientras / Mientras que / Mientras tanto(「當……的時候」「然而」「同時」) | New topic, not covered in Days 1-90: mientras + indicative (simultaneous real actions, Imperfecto in the past) vs. mientras + subjunctive (future/hypothetical "as long as"), mientras que (contrast, "whereas"), mientras tanto ("meanwhile"), mientras más/menos, durante + noun vs. mientras + clause | spanish-lessons/day-91.html |
 | 2026-10-16 | 92 | Muy vs. Mucho 與 Tan / Tanto(程度副詞與同等比較) | New topic, not covered in Days 1-91 (muy only used in passing in Day 2): muy + adjective/adverb vs. mucho + verb/noun, mucho agreement, no "muy mucho", mucho más/mejor, tan...como vs. tanto...como (equality), tan/tanto alone. | spanish-lessons/day-92.html |
 | 2026-10-17 | 93 | Qué vs. Cuál(「什麼」與「哪一個」) | New topic, not covered in Days 1-92: qué + noun (qué libro) and qué es = definition vs. cuál es = identification / choice from a set, cuál/cuáles never directly before a noun (use cuál de…), interrogatives always accented, prepositions before interrogatives, exclamative ¡Qué…!. | spanish-lessons/day-93.html |
+| 2026-10-18 | 94 | Tardar / Durar / Llevar(「花多久時間」「持續多久」「已經多久」) | New topic, not covered in Days 1-93 (llevar + gerundio only in Day 66): tardar en + infinitive (person/vehicle takes time), durar (event lasts), llevar + time + gerundio / llevar sin + infinitive, me lleva una hora (Spain), a más tardar, ¿Cuánto tardas/dura/llevas?. | spanish-lessons/day-94.html |
 
 Note: a duplicate "Day 2" lesson (ser/¿De dónde eres?, i.e. the same topic
 as Day 5) was independently produced on 2026-07-14 on an orphaned branch
@@ -359,6 +360,7 @@ repeated. Before choosing today's piece, check this table.
 | 2026-10-15 | 寓言 (Yùyán) — "Imputed Words" (Miscellaneous Chapters, Ch. 27; 寓言/重言/卮言 three kinds of speech, 天倪, 言無言, Confucius 行年六十而六十化, Zengzi's three fu vs. three thousand zhong, 罔兩問影, Yangzi Ju and Lao Dan 大白若辱, Yan Chengzi Youyi's nine stages) | Miscellaneous Chapters (雜篇), Ch. 27 |
 | 2026-10-16 | 讓王 (Ràng Wáng) — "Yielding the Throne" (Miscellaneous Chapters, Ch. 28; Yao/Shun decline the empire (Xu You, Shanjuan), King Tai leaves Bin 不以所用養害所養, Zihuazi and Marquis Zhao of Han 兩臂重於天下, Prince Mou 身在江海之上心居魏闕之下 and 重生, Confucius between Chen and Cai, 道之真以治身 其土苴以治天下) | Miscellaneous Chapters (雜篇), Ch. 28 |
 | 2026-10-17 | 盜跖 (Dào Zhí) — "Robber Zhi" (Miscellaneous Chapters, Ch. 29; Confucius visits the brigand Zhi at Mount Tai at Liuxia Ji's request, Zhi's tirade against sages and 仁義, 人上壽百歲… 開口而笑者不過四五日, 疾走料虎頭編虎須; closing debate Zi Zhang vs. Man Gou De) | Miscellaneous Chapters (雜篇), Ch. 29 |
+| 2026-10-18 | 說劍 (Shuō Jiàn) — "Discoursing on Swords" (Miscellaneous Chapters, Ch. 30; King Wen of Zhao and his 3,000 swordsmen, the crown prince's gold, Zhuangzi's three swords: Son of Heaven / feudal lord / commoner, 如鬥雞, king stays in palace three months and the swordsmen kill themselves; persuader-style chapter often judged spurious) | Miscellaneous Chapters (雜篇), Ch. 30 |
 
 ## Country/Region/Faction Spotlights Featured
 
@@ -452,6 +454,7 @@ repeated. Before choosing today's piece, check this table.
 | 2026-10-15 | Jamaica (牙買加) | briefings/2026-10-15.html |
 | 2026-10-16 | Germany (德國) | briefings/2026-10-16.html |
 | 2026-10-17 | Denmark (丹麥) | briefings/2026-10-17.html |
+| 2026-10-18 | Luxembourg (盧森堡) | briefings/2026-10-18.html |
 
 ## Internet Meme Spotlights Featured
 
@@ -545,6 +548,7 @@ repeated. Before choosing today's piece, check this table.
 | 2026-10-15 | Roll Safe ("You can't ... if you ...", Kayode Ewumi's Hood Documentary character, popularised c. 2016-2017) | briefings/2026-10-15.html |
 | 2026-10-16 | Arthur's Fist (亞瑟的拳頭, clenched-fist reaction image from PBS's Arthur, c. 2016-2017) | briefings/2026-10-16.html |
 | 2026-10-17 | Tide Pod Challenge (洗衣膠囊挑戰, 2017-2018) | briefings/2026-10-17.html |
+| 2026-10-18 | "Change My Mind" (說服我啊, Steven Crowder campus-debate table photo, 2018) | briefings/2026-10-18.html |
 
 ## Film / Performing Arts Spotlights Featured
 
@@ -636,6 +640,7 @@ and never repeat a subject already listed.
 | 2026-10-15 | Sholay (火焰, 1975, dir. Ramesh Sippy) | briefings/2026-10-15.html |
 | 2026-10-16 | Jeanne Dielman, 23 quai du Commerce, 1080 Bruxelles (1975, dir. Chantal Akerman) | briefings/2026-10-16.html |
 | 2026-10-17 | Chungking Express (重慶森林, 1994, dir. Wong Kar-wai) | briefings/2026-10-17.html |
+| 2026-10-18 | Crouching Tiger, Hidden Dragon (臥虎藏龍, 2000, dir. Ang Lee) | briefings/2026-10-18.html |
 
 ## Film-Appreciation / Criticism Method Lessons
 
@@ -729,6 +734,7 @@ table and pick one not yet covered.
 | 2026-10-15 | Exposition: Showing vs. Telling (Lesson 77; channels of information delivery — action, image/design, reaction, dialogue, voice-over, performance; information with conflict vs. lecture; what is withheld) | Raiders of the Lost Ark (1981, dir. Steven Spielberg) — the Peruvian temple opening; contrast with Jaws (1975) Quint's USS Indianapolis monologue |
 | 2026-10-16 | Character Introduction (Lesson 78; first-appearance analysis: what we see first, whose point of view, action, space and light, others' reactions) | The Godfather (1972, dir. Francis Ford Coppola) — Bonasera and Don Corleone in the study; contrast with Casablanca (1942) Rick's introduction |
 | 2026-10-17 | Tone & Tonal Control (Lesson 79; content vs. delivery, performance pitch, music, camera/editing, design, tonal shifts) | Dr. Strangelove (1964, dir. Stanley Kubrick) — the War Room scenes ("you can't fight in here"), closing nuclear montage with "We'll Meet Again" |
+| 2026-10-18 | Reading an Action Sequence (Lesson 80; geography, stakes/objective, escalation and reversals, framing and shot length that keep the eye oriented) | Mad Max: Fury Road (2015, dir. George Miller) — the first chase after Furiosa leaves the Citadel; contrast with dense handheld chase coverage |
 
 ## Run Notes
 
@@ -965,3 +971,8 @@ Selections: Spanish Day 92 (muy/mucho, tan/tanto), Zhuangzi Essay 28 讓王, Ger
 
 Section 1: Saturday 05:34 Taipei, no market open; latest closes are Friday Oct 16. US: Dow 52,002.41 (-0.34%), S&P 500 7,659.44 (-1.09%), Nasdaq 26,140.03 (-2.14%); these tie arithmetically to the Oct 15 closes recorded in the previous briefing, and HDFC Sky / a Yahoo item still carrying Thursday's rally numbers were discarded as stale. Nikkei 65,324.29 (+1.39%) and KOSPI 5,668.05 (+2.05%) from the CNBC live blog, Hang Seng about 24,187 (+0.5%) from Trading Economics; AP's larger intraday gains not used. TAIEX 47,111 (+141) rests on a single report (ad-hoc-news), flagged as unconfirmed though it ties to the Oct 15 close. WebFetch was not used; all figures are from search summaries. Section 2: Xcode 27.1 / Swift 6.4 (Oct 15) from one third-party blog, flagged unconfirmed; Flutter 3.47 / UIScene items from secondary sources. Section 5 leadership checked by search (Frederiksen's third term, coalition formed June 2026); other Denmark figures are general knowledge. Zhuangzi, meme, film and method sections are from general knowledge and labeled as such. Tide Pod meme includes a safety warning.
 Selections: Spanish Day 93 (Qué vs. Cuál), Zhuangzi Essay 29 盜跖, Denmark, Tide Pod Challenge, Chungking Express, Method Lesson 79 (Tone & Tonal Control, worked example Dr. Strangelove).
+
+**2026-10-18:** STEP 0 run first: `date -u` read `Sat Oct 17 21:35 UTC` and `TZ=Asia/Taipei date` read `Sun Oct 18 05:35 CST`, so the actual date is 2026-10-18 (Sunday), one day ahead of the session's context header (2026-10-17, the usual stale-label pattern). Portal branch confirmed via the deployments REST API (latest success created 2026-10-16T21:40Z, `ref: claude/epic-brahmagupta-g1y16m`, sha 66876b8 = `claude/daily-2026-10-17`). The session started on stale branch `claude/magical-darwin-b9ycah` (Day 3 content), the known divergence signal; recovered by branching `claude/daily-2026-10-18` from the portal tip. days_owed = 1 (latest entry 2026-10-17).
+
+Section 1: Sunday 05:35 Taipei, no market open; latest closes are again Friday Oct 16, the same sessions as the 2026-10-17 briefing, so they were re-verified. US: Dow 52,002.41 (-0.3%), S&P 500 7,659.44 (-1.1%), Nasdaq about 26,140 (-2.1%), confirmed by AP-based recaps (WTOP, La Nacion), Investrade and a Yahoo item (Yahoo rounds S&P to -1.2%). TAIEX 47,111.26 (+141.39) now supported by Ad-Hoc-News, BigGo and a Substack wrap (single-source flag from 10-17 lifted). Nikkei / KOSPI / Hang Seng could NOT be re-confirmed (search returned only old pages), so the 10-17 figures were carried over and labeled as such. WebFetch was not used. Section 2: no new release dated Oct 17-18 found; items from secondary sources (Very Good Ventures, ecorpit, Flutter docs, Daily Star) and flagged. Section 5: population from Wikipedia's demographics page (690,959 on 2026-01-01); leader names (Grand Duke Guillaume, PM Luc Frieden) are general knowledge and NOT confirmed by today's search, flagged in the briefing. Zhuangzi, meme, film and method sections are from general knowledge and labeled as such; meme date/location (Texas Christian University, early 2018) is from memory and flagged approximate.
+Selections: Spanish Day 94 (Tardar / Durar / Llevar), Zhuangzi Essay 30 說劍, Luxembourg, Change My Mind, Crouching Tiger Hidden Dragon, Method Lesson 80 (Reading an Action Sequence, worked example Mad Max: Fury Road).
