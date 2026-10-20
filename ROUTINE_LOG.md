@@ -243,6 +243,7 @@ the repo so a permanent link can be shared.
 | 2026-10-18 | 94 | Tardar / Durar / Llevar(「花多久時間」「持續多久」「已經多久」) | New topic, not covered in Days 1-93 (llevar + gerundio only in Day 66): tardar en + infinitive (person/vehicle takes time), durar (event lasts), llevar + time + gerundio / llevar sin + infinitive, me lleva una hora (Spain), a más tardar, ¿Cuánto tardas/dura/llevas?. | spanish-lessons/day-94.html |
 | 2026-10-19 | 95 | Parecer / Parecerse(「看起來」「好像」「我覺得」「長得像」) | New topic, not covered in Days 1-94: parecer + adjective, parece que + indicative, me parece que (gustar-type indirect object), yo parezco (-zc), no parece que + subjunctive, parecerse a, al parecer. | spanish-lessons/day-95.html |
 | 2026-10-20 | 96 | Echar de menos / Extrañar / Hacer falta(「想念」與「需要」) | New topic, not covered in Days 1-95 (faltar only in Day 73): echar de menos (Spain) vs. extrañar (Latin America) = to miss, subject = the missing person, personal a before a person; hacer falta works like gustar (me hace falta tiempo / me haces falta); extrañar in Spain also = to strike as odd (me extraña que + subjunctive); direction contrast te echo de menos vs. me haces falta. | spanish-lessons/day-96.html |
+| 2026-10-21 | 97 | Empezar a / Ponerse a / Dejar de / Terminar de(「開始」「停止」「完成」) | New topic, not covered in Days 1-96 (acabar de only in Day 66, seguir + gerundio in Day 83, dejar = leave/let in Day 79): empezar/comenzar a + infinitive (e→ie, yo preterite empecé/comencé), empezar por, ponerse a (reflexive, sudden/determined start), dejar de (stop/quit) vs. terminar de (finish), ya no + present. | spanish-lessons/day-97.html |
 
 Note: a duplicate "Day 2" lesson (ser/¿De dónde eres?, i.e. the same topic
 as Day 5) was independently produced on 2026-07-14 on an orphaned branch
@@ -365,6 +366,7 @@ repeated. Before choosing today's piece, check this table.
 | 2026-10-18 | 說劍 (Shuō Jiàn) — "Discoursing on Swords" (Miscellaneous Chapters, Ch. 30; King Wen of Zhao and his 3,000 swordsmen, the crown prince's gold, Zhuangzi's three swords: Son of Heaven / feudal lord / commoner, 如鬥雞, king stays in palace three months and the swordsmen kill themselves; persuader-style chapter often judged spurious) | Miscellaneous Chapters (雜篇), Ch. 30 |
 | 2026-10-19 | 漁父 (Yú Fù) — "The Old Fisherman" (Miscellaneous Chapters, Ch. 31; Confucius at the Apricot Altar, the fisherman's critique of 仁義, eight faults 八疵 and four troubles 四患, man fleeing his shadow, 法天貴真, Confucius bows and the fisherman rows away) | Miscellaneous Chapters (雜篇), Ch. 31 |
 | 2026-10-20 | 列禦寇 (Liè Yùkòu) — "Lie Yukou" (Miscellaneous Chapters, Ch. 32; Liezi turns back from Qi and Bohun Wuren's shoes at the door, 巧者勞而知者憂…泛若不繫之舟, Cao Shang's carriages vs. 舐痔, the embroidered sacrificial ox, Zhu Pingman's dragon-slaying, the pearl under the black dragon's chin, Zhuangzi's deathbed 以天地為棺槨) | Miscellaneous Chapters (雜篇), Ch. 32 |
+| 2026-10-21 | 天下 (Tiānxià) — "All Under Heaven" (Miscellaneous Chapters, Ch. 33, the final chapter; survey of Warring States schools, 內聖外王, 道術將為天下裂, Mohists, Song Xing/Yin Wen, Peng Meng/Tian Pian/Shen Dao, Guan Yin and Lao Dan, Zhuang Zhou's self-portrait with 卮言/重言/寓言, Hui Shi and the Ten Theses, 一尺之捶日取其半) | Miscellaneous Chapters (雜篇), Ch. 33 — final chapter; all 33 now featured |
 
 ## Country/Region/Faction Spotlights Featured
 
@@ -461,6 +463,7 @@ repeated. Before choosing today's piece, check this table.
 | 2026-10-18 | Luxembourg (盧森堡) | briefings/2026-10-18.html |
 | 2026-10-19 | Lithuania (立陶宛) | briefings/2026-10-19.html |
 | 2026-10-20 | Estonia (愛沙尼亞) | briefings/2026-10-20.html |
+| 2026-10-21 | Slovenia (斯洛維尼亞) | briefings/2026-10-21.html |
 
 ## Internet Meme Spotlights Featured
 
@@ -557,6 +560,7 @@ repeated. Before choosing today's piece, check this table.
 | 2026-10-18 | "Change My Mind" (說服我啊, Steven Crowder campus-debate table photo, 2018) | briefings/2026-10-18.html |
 | 2026-10-19 | "The Dress" (白金 vs. 藍黑裙子, Feb 2015, Tumblr/BuzzFeed viral colour-perception photo) | briefings/2026-10-19.html |
 | 2026-10-20 | Bongo Cat (敲鼓貓, @StrayRogue GIF May 2018, bongo edit by @DitzyFlama) | briefings/2026-10-20.html |
+| 2026-10-21 | "OK Boomer" (2019, TikTok/Twitter/Reddit; NZ MP Chlöe Swarbrick, Nov 4, 2019) | briefings/2026-10-21.html |
 
 ## Film / Performing Arts Spotlights Featured
 
@@ -651,6 +655,7 @@ and never repeat a subject already listed.
 | 2026-10-18 | Crouching Tiger, Hidden Dragon (臥虎藏龍, 2000, dir. Ang Lee) | briefings/2026-10-18.html |
 | 2026-10-19 | Blade Runner (銀翼殺手, 1982, dir. Ridley Scott) | briefings/2026-10-19.html |
 | 2026-10-20 | The Magic Flute (魔笛, Die Zauberflöte, 1791, Mozart / Schikaneder, opera) | briefings/2026-10-20.html |
+| 2026-10-21 | Un Chien Andalou (安達魯之犬, 1929, dir. Luis Buñuel, co-written with Salvador Dalí) | briefings/2026-10-21.html |
 
 ## Film-Appreciation / Criticism Method Lessons
 
@@ -747,6 +752,7 @@ table and pick one not yet covered.
 | 2026-10-18 | Reading an Action Sequence (Lesson 80; geography, stakes/objective, escalation and reversals, framing and shot length that keep the eye oriented) | Mad Max: Fury Road (2015, dir. George Miller) — the first chase after Furiosa leaves the Citadel; contrast with dense handheld chase coverage |
 | 2026-10-19 | Anempathetic Sound (Lesson 81; Chion: sound/music that stays cheerful or indifferent while the scene is tragic; match/oppose/ignore, what continues, when it stops) | Psycho (1960, dir. Alfred Hitchcock) — end of the shower scene: music stops, water keeps running, camera follows it into the drain and out to Marion's eye |
 | 2026-10-20 | Repetition with Variation / The Rule of Three (Lesson 82; fixed vs. varying elements, what the variation implies, what the last repetition does, transitions between instances) | Citizen Kane (1941, dir. Orson Welles) — the breakfast-table sequence of Kane's first marriage |
+| 2026-10-21 | Casting as Meaning / Star Persona & Meta-Casting (Lesson 83; typecast vs. subverted image, off-screen history as subtext, cameos by real people, what the film borrows from outside the frame) | Sunset Boulevard (1950, dir. Billy Wilder) — Swanson, von Stroheim, the Queen Kelly screening-room clip, DeMille cameo, final staircase | briefings/2026-10-21.html |
 
 ## Run Notes
 
@@ -999,3 +1005,11 @@ Selections: Spanish Day 95 (Parecer / Parecerse), Zhuangzi Essay 31 漁父, Lith
 
 Section 1: Tuesday 05:35 Taipei, so the latest closes are Monday Oct 19 everywhere. US: Nasdaq 26,430.89 (+1.11%), S&P 500 7,690.73 (+0.41%), Dow 51,966.03 (-0.07%); tie arithmetically to Friday's closes. A CNBC page URL-dated Oct 18 carried these figures (mislabel; Oct 18 was a Sunday); an intraday snapshot was ignored. Taiwan: TAIEX 46,822.08 (-289.18, -0.61%), TSMC flat NT$2,420, agreed by several Taiwanese outlets. Nikkei 64,916.70 (-0.6%), KOSPI 5,768.01 (+1.76%) tie to Friday. Hang Seng left unconfirmed (possible holiday). Section 2: no news dated Oct 19-20 found; latest items were the Oct 5 iOS 27.2 beta 3, mid-October AI releases, Android 17 QPR1 beta 9 (Aug 17) and Flutter 3.47 (Aug 12). WebFetch could not resolve hosts in this session, so figures rely on search summaries.
 Selections: Spanish Day 96 (Echar de menos / Extrañar / Hacer falta), Zhuangzi Essay 32 列禦寇, Estonia (president Ülle Madise, sworn in Oct 12, 2026), Bongo Cat, The Magic Flute, Method Lesson 82 (Repetition with Variation, worked example Citizen Kane breakfast table). Only Zhuangzi Ch. 33 天下 remains unfeatured.
+
+**2026-10-21:** STEP 0 run first: `date -u` read `Tue Oct 20 21:34 UTC` and `TZ=Asia/Taipei date` read `Wed Oct 21 05:34 CST`, so the actual date is 2026-10-21 (Wednesday), one day ahead of the session's context header (2026-10-20, the usual stale-label pattern). Portal branch confirmed via the deployments API: the most recent github-pages deployment (2026-10-19T21:41Z, sha 06a5930) has ref `claude/epic-brahmagupta-g1y16m`, whose latest entry is 2026-10-20 (97 briefings), so days_owed = 1. The session started on `claude/magical-darwin-of0n5o`, a stale branch stuck at 2026-07-20 (Day 3), i.e. the branch-divergence bug again; recovered by listing all claude/* branches via `list_branches` (the `claude/daily-2026-10-20` branch and the portal branch share tip 06a5930; the other epic-brahmagupta-* branches are July leftovers) and checking out the portal branch's tip before doing any work.
+
+Section 1: Wednesday 05:34 Taipei, so the latest closes are Tuesday Oct 20 everywhere. US: Dow 52,495.88 (+529.85, +1.02%), S&P 500 7,712.57 (+0.28%), Nasdaq 26,424.82 (-0.02%), all tying arithmetically to Monday's closes (CNBC's page URL is dated Oct 19 but covers the Oct 20 session). Taiwan: TAIEX 46,292.93 (-529.15, -1.13%), foreign sellers for a 10th straight day, TSMC NT$2,405, tying to Monday's 46,822.08. Nikkei 64,075.42 (-1.3%). KOSPI conflicts between sources (5,552.74 / -3.73% vs. 5,539.05 / about -4%), both tie to Monday, so both were reported and flagged. Hang Seng also conflicts (23,927.47 vs. 23,867.74) and Monday's Hong Kong status is still unconfirmed, so it was flagged as unconfirmed. Section 2: no release dated Oct 20-21; newest items were iOS 27.2 beta 4 / Xcode 27.2 beta (Oct 13); AI-model items are rumor-level and were labeled unverified. WebFetch could not resolve cnbc.com or gulftoday.ae from the sandbox, so figures came from search summaries only.
+
+Selections: Spanish Day 97 (Empezar a / Ponerse a / Dejar de / Terminar de), Zhuangzi Essay 33 天下, Slovenia (President Nataša Pirc Musar; PM Janez Janša elected May 22, 2026, 16th Government appointed June 4, 2026), "OK Boomer", Un Chien Andalou, Method Lesson 83 (Casting as Meaning, worked example Sunset Boulevard).
+
+**OPEN ISSUE (needs the user's decision):** with 天下 (Ch. 33) featured today, all 64 hexagrams AND all 33 Zhuangzi chapters have now been used, so Section 4 has no unrepeated content left under its current rule. Tomorrow's run should not silently invent a track; suggested default if the user does not say otherwise: one chapter of the Daodejing (道德經) per day in order, chapters 1-81, never repeated, tracked in a new table in this file. The user was told in the push notification.
