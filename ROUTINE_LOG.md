@@ -244,6 +244,7 @@ the repo so a permanent link can be shared.
 | 2026-10-19 | 95 | Parecer / Parecerse(「看起來」「好像」「我覺得」「長得像」) | New topic, not covered in Days 1-94: parecer + adjective, parece que + indicative, me parece que (gustar-type indirect object), yo parezco (-zc), no parece que + subjunctive, parecerse a, al parecer. | spanish-lessons/day-95.html |
 | 2026-10-20 | 96 | Echar de menos / Extrañar / Hacer falta(「想念」與「需要」) | New topic, not covered in Days 1-95 (faltar only in Day 73): echar de menos (Spain) vs. extrañar (Latin America) = to miss, subject = the missing person, personal a before a person; hacer falta works like gustar (me hace falta tiempo / me haces falta); extrañar in Spain also = to strike as odd (me extraña que + subjunctive); direction contrast te echo de menos vs. me haces falta. | spanish-lessons/day-96.html |
 | 2026-10-21 | 97 | Empezar a / Ponerse a / Dejar de / Terminar de(「開始」「停止」「完成」) | New topic, not covered in Days 1-96 (acabar de only in Day 66, seguir + gerundio in Day 83, dejar = leave/let in Day 79): empezar/comenzar a + infinitive (e→ie, yo preterite empecé/comencé), empezar por, ponerse a (reflexive, sudden/determined start), dejar de (stop/quit) vs. terminar de (finish), ya no + present. | spanish-lessons/day-97.html |
+| 2026-10-22 | 98 | Recordar / Acordarse de / Olvidar / Olvidarse de(「記得」與「忘記」) | New topic, not covered in Days 1-97 (reflexive verbs Day 46, accidental se Day 57, stem-changing verbs Day 87 only as background): recordar + direct object (o→ue, no preposition, also 'remind') vs. acordarse de (reflexive + de, o→ue), olvidar vs. olvidarse de, se me olvidó + thing as subject, No te olvides de + infinitive. | spanish-lessons/day-98.html |
 
 Note: a duplicate "Day 2" lesson (ser/¿De dónde eres?, i.e. the same topic
 as Day 5) was independently produced on 2026-07-14 on an orphaned branch
@@ -368,6 +369,20 @@ repeated. Before choosing today's piece, check this table.
 | 2026-10-20 | 列禦寇 (Liè Yùkòu) — "Lie Yukou" (Miscellaneous Chapters, Ch. 32; Liezi turns back from Qi and Bohun Wuren's shoes at the door, 巧者勞而知者憂…泛若不繫之舟, Cao Shang's carriages vs. 舐痔, the embroidered sacrificial ox, Zhu Pingman's dragon-slaying, the pearl under the black dragon's chin, Zhuangzi's deathbed 以天地為棺槨) | Miscellaneous Chapters (雜篇), Ch. 32 |
 | 2026-10-21 | 天下 (Tiānxià) — "All Under Heaven" (Miscellaneous Chapters, Ch. 33, the final chapter; survey of Warring States schools, 內聖外王, 道術將為天下裂, Mohists, Song Xing/Yin Wen, Peng Meng/Tian Pian/Shen Dao, Guan Yin and Lao Dan, Zhuang Zhou's self-portrait with 卮言/重言/寓言, Hui Shi and the Ten Theses, 一尺之捶日取其半) | Miscellaneous Chapters (雜篇), Ch. 33 — final chapter; all 33 now featured |
 
+## Daodejing Chapters Featured
+
+New tracking table, added 2026-10-22 once both the I Ching hexagram table
+and the Zhuangzi table were fully used up (see the 2026-10-21 OPEN ISSUE in
+Run Notes). Section 4 now introduces one chapter of the Daodejing (道德經)
+per day, in order (chapters 1-81), never repeated. This default was proposed
+in the 2026-10-21 notification and adopted because no other instruction
+arrived; the user may change it at any time. Before choosing today's
+chapter, check this table and continue from the last one.
+
+| Date | Chapter | Theme |
+|------|---------|-------|
+| 2026-10-22 | 第 1 章 道可道 (Dào kě dào) — "The Way That Can Be Spoken" | the limits of language and naming; the nameless origin vs. the named myriad things; 無欲觀妙 / 有欲觀徼; 玄之又玄, 眾妙之門 |
+
 ## Country/Region/Faction Spotlights Featured
 
 | Date | Subject |
@@ -464,6 +479,7 @@ repeated. Before choosing today's piece, check this table.
 | 2026-10-19 | Lithuania (立陶宛) | briefings/2026-10-19.html |
 | 2026-10-20 | Estonia (愛沙尼亞) | briefings/2026-10-20.html |
 | 2026-10-21 | Slovenia (斯洛維尼亞) | briefings/2026-10-21.html |
+| 2026-10-22 | Latvia (拉脫維亞) | briefings/2026-10-22.html |
 
 ## Internet Meme Spotlights Featured
 
@@ -561,6 +577,7 @@ repeated. Before choosing today's piece, check this table.
 | 2026-10-19 | "The Dress" (白金 vs. 藍黑裙子, Feb 2015, Tumblr/BuzzFeed viral colour-perception photo) | briefings/2026-10-19.html |
 | 2026-10-20 | Bongo Cat (敲鼓貓, @StrayRogue GIF May 2018, bongo edit by @DitzyFlama) | briefings/2026-10-20.html |
 | 2026-10-21 | "OK Boomer" (2019, TikTok/Twitter/Reddit; NZ MP Chlöe Swarbrick, Nov 4, 2019) | briefings/2026-10-21.html |
+| 2026-10-22 | "To Be Continued" (JoJo's Bizarre Adventure anime freeze-frame + Yes "Roundabout", popularised c. 2015-2016) | briefings/2026-10-22.html |
 
 ## Film / Performing Arts Spotlights Featured
 
@@ -656,6 +673,7 @@ and never repeat a subject already listed.
 | 2026-10-19 | Blade Runner (銀翼殺手, 1982, dir. Ridley Scott) | briefings/2026-10-19.html |
 | 2026-10-20 | The Magic Flute (魔笛, Die Zauberflöte, 1791, Mozart / Schikaneder, opera) | briefings/2026-10-20.html |
 | 2026-10-21 | Un Chien Andalou (安達魯之犬, 1929, dir. Luis Buñuel, co-written with Salvador Dalí) | briefings/2026-10-21.html |
+| 2026-10-22 | Pina Bausch and Tanztheater Wuppertal (皮娜·鮑許與烏帕塔舞蹈劇場, dance theatre; Café Müller, Le Sacre du printemps, Nelken; Wenders' Pina, 2011) | briefings/2026-10-22.html |
 
 ## Film-Appreciation / Criticism Method Lessons
 
@@ -753,6 +771,7 @@ table and pick one not yet covered.
 | 2026-10-19 | Anempathetic Sound (Lesson 81; Chion: sound/music that stays cheerful or indifferent while the scene is tragic; match/oppose/ignore, what continues, when it stops) | Psycho (1960, dir. Alfred Hitchcock) — end of the shower scene: music stops, water keeps running, camera follows it into the drain and out to Marion's eye |
 | 2026-10-20 | Repetition with Variation / The Rule of Three (Lesson 82; fixed vs. varying elements, what the variation implies, what the last repetition does, transitions between instances) | Citizen Kane (1941, dir. Orson Welles) — the breakfast-table sequence of Kane's first marriage |
 | 2026-10-21 | Casting as Meaning / Star Persona & Meta-Casting (Lesson 83; typecast vs. subverted image, off-screen history as subtext, cameos by real people, what the film borrows from outside the frame) | Sunset Boulevard (1950, dir. Billy Wilder) — Swanson, von Stroheim, the Queen Kelly screening-room clip, DeMille cameo, final staircase | briefings/2026-10-21.html |
+| 2026-10-22 | Film Stock, Grain & Texture (Lesson 84; what the image surface feels like: celluloid grain vs. clean/rough digital, large-format, texture changes as markers of subjective/objective or memory/present) | Oppenheimer (2023, dir. Christopher Nolan) — colour (Oppenheimer) vs. black-and-white IMAX (Strauss) and the Trinity test; contrast with 28 Days Later (2002, digital video) |
 
 ## Run Notes
 
@@ -1013,3 +1032,11 @@ Section 1: Wednesday 05:34 Taipei, so the latest closes are Tuesday Oct 20 every
 Selections: Spanish Day 97 (Empezar a / Ponerse a / Dejar de / Terminar de), Zhuangzi Essay 33 天下, Slovenia (President Nataša Pirc Musar; PM Janez Janša elected May 22, 2026, 16th Government appointed June 4, 2026), "OK Boomer", Un Chien Andalou, Method Lesson 83 (Casting as Meaning, worked example Sunset Boulevard).
 
 **OPEN ISSUE (needs the user's decision):** with 天下 (Ch. 33) featured today, all 64 hexagrams AND all 33 Zhuangzi chapters have now been used, so Section 4 has no unrepeated content left under its current rule. Tomorrow's run should not silently invent a track; suggested default if the user does not say otherwise: one chapter of the Daodejing (道德經) per day in order, chapters 1-81, never repeated, tracked in a new table in this file. The user was told in the push notification.
+
+**2026-10-22:** STEP 0 run first: `date -u` read `Wed Oct 21 21:34 UTC` and `TZ=Asia/Taipei date` read `Thu Oct 22 05:34 CST`, so the actual date is 2026-10-22 (Thursday), one day ahead of the session's context header (2026-10-21, the usual stale-label pattern). Portal branch confirmed via the deployments API: the most recent github-pages deployment (2026-10-20T21:41Z, state success, sha cf3e6db) has ref `claude/epic-brahmagupta-g1y16m`, whose latest entry is 2026-10-21 (98 briefings), so days_owed = 1. The session started on `claude/magical-darwin-u0izxi`, a stale branch whose history diverges from the portal (its diff against the portal deletes ~200 files); every other claude/* branch listed that is "ahead" of the portal (epic-brahmagupta-*, happy-newton-*, gracious-ramanujan-*) is likewise an old divergent history, not newer content, so nothing needed reconciling. Daily branch `claude/daily-2026-10-22` was cut from the portal tip.
+
+Section 1: Thursday 05:34 Taipei; Asia not yet open, so the latest closes are Wednesday Oct 21 everywhere. US: Dow 52,856.09 (+360.21, +0.69%), S&P 500 about 7,757.17 (+0.58%), Nasdaq 26,702.86 (+1.05%), tying arithmetically to Tuesday's closes; 24/7 Wall St's +0.46% / 7,769.60 S&P figure did not tie and was flagged. Taiwan: TAIEX 46,887.77 (+594.84, +1.28%), TSMC NT$2,420, foreign investors ended a 10-day selling streak (about NT$0.96 billion net buy), tying to Tuesday's 46,292.93. Nikkei 64,621.24 (+0.9%), KOSPI 5,735.66 (+3.3%, ties to Tuesday's 5,552.74; yesterday's alternate 5,539.05 figure is thereby ruled out). Hang Seng left unconfirmed (-0.7% / 23,707.11 vs. -0.9% / 23,651.87). Section 2: Apple 27.2 RCs (Oct 19), Android 17 QPR1 stable / QPR3 Beta 1 (Oct 2), Genkit Dart 1.0 stable (Oct 8); Flutter 3.50 claim unverified; no new AI model release confirmed.
+
+Selections: Spanish Day 98 (Recordar / Acordarse de / Olvidar / Olvidarse de), **Daodejing Chapter 1 (new Section 4 track, see below)**, Latvia (President Edgars Rinkēvičs; PM Andris Kulbergs confirmed May 28, 2026; Oct 3, 2026 election won by United List, post-election government not confirmed), "To Be Continued" (JoJo / Roundabout), Pina Bausch and Tanztheater Wuppertal, Method Lesson 84 (Film Stock, Grain & Texture, worked example Oppenheimer). All Latvia/meme/film/method facts other than the cited news items are general knowledge, flagged as unverified in the briefing.
+
+**Section 4 decision (follow-up to the 2026-10-21 OPEN ISSUE):** no user instruction about Section 4 was found in the repo or the prompt, so the suggested default was adopted: one Daodejing chapter per day in order, tracked in the new "Daodejing Chapters Featured" table above. This is flagged in today's notification so the user can override it. Tomorrow's run should continue with Chapter 2.
