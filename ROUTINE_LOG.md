@@ -245,6 +245,7 @@ the repo so a permanent link can be shared.
 | 2026-10-20 | 96 | Echar de menos / Extrañar / Hacer falta(「想念」與「需要」) | New topic, not covered in Days 1-95 (faltar only in Day 73): echar de menos (Spain) vs. extrañar (Latin America) = to miss, subject = the missing person, personal a before a person; hacer falta works like gustar (me hace falta tiempo / me haces falta); extrañar in Spain also = to strike as odd (me extraña que + subjunctive); direction contrast te echo de menos vs. me haces falta. | spanish-lessons/day-96.html |
 | 2026-10-21 | 97 | Empezar a / Ponerse a / Dejar de / Terminar de(「開始」「停止」「完成」) | New topic, not covered in Days 1-96 (acabar de only in Day 66, seguir + gerundio in Day 83, dejar = leave/let in Day 79): empezar/comenzar a + infinitive (e→ie, yo preterite empecé/comencé), empezar por, ponerse a (reflexive, sudden/determined start), dejar de (stop/quit) vs. terminar de (finish), ya no + present. | spanish-lessons/day-97.html |
 | 2026-10-22 | 98 | Recordar / Acordarse de / Olvidar / Olvidarse de(「記得」與「忘記」) | New topic, not covered in Days 1-97 (reflexive verbs Day 46, accidental se Day 57, stem-changing verbs Day 87 only as background): recordar + direct object (o→ue, no preposition, also 'remind') vs. acordarse de (reflexive + de, o→ue), olvidar vs. olvidarse de, se me olvidó + thing as subject, No te olvides de + infinitive. | spanish-lessons/day-98.html |
+| 2026-10-23 | 99 | Intentar / Tratar de / Lograr / Conseguir(「嘗試」與「成功做到」) | New topic, not covered in Days 1-98: intentar + infinitive (no preposition) vs. tratar de + infinitive (always de), both only "try"; lograr (manage to / achieve, no preposition) vs. conseguir (manage to + infinitive, get/obtain + noun; e→i: consigo, conseguí, consiguió); Lo intenté vs. Lo logré. | spanish-lessons/day-99.html |
 
 Note: a duplicate "Day 2" lesson (ser/¿De dónde eres?, i.e. the same topic
 as Day 5) was independently produced on 2026-07-14 on an orphaned branch
@@ -382,6 +383,7 @@ chapter, check this table and continue from the last one.
 | Date | Chapter | Theme |
 |------|---------|-------|
 | 2026-10-22 | 第 1 章 道可道 (Dào kě dào) — "The Way That Can Be Spoken" | the limits of language and naming; the nameless origin vs. the named myriad things; 無欲觀妙 / 有欲觀徼; 玄之又玄, 眾妙之門 |
+| 2026-10-23 | 第 2 章 天下皆知美之為美 (Tiānxià jiē zhī měi zhī wéi měi) — "When Everyone Knows Beauty as Beauty" | interdependent opposites (有無相生, 難易相成, 長短相較…); naming a pole creates its opposite; 無為之事, 不言之教; 生而不有, 為而不恃, 功成而弗居 |
 
 ## Country/Region/Faction Spotlights Featured
 
@@ -480,6 +482,7 @@ chapter, check this table and continue from the last one.
 | 2026-10-20 | Estonia (愛沙尼亞) | briefings/2026-10-20.html |
 | 2026-10-21 | Slovenia (斯洛維尼亞) | briefings/2026-10-21.html |
 | 2026-10-22 | Latvia (拉脫維亞) | briefings/2026-10-22.html |
+| 2026-10-23 | Mali (馬利) | briefings/2026-10-23.html |
 
 ## Internet Meme Spotlights Featured
 
@@ -578,6 +581,7 @@ chapter, check this table and continue from the last one.
 | 2026-10-20 | Bongo Cat (敲鼓貓, @StrayRogue GIF May 2018, bongo edit by @DitzyFlama) | briefings/2026-10-20.html |
 | 2026-10-21 | "OK Boomer" (2019, TikTok/Twitter/Reddit; NZ MP Chlöe Swarbrick, Nov 4, 2019) | briefings/2026-10-21.html |
 | 2026-10-22 | "To Be Continued" (JoJo's Bizarre Adventure anime freeze-frame + Yes "Roundabout", popularised c. 2015-2016) | briefings/2026-10-22.html |
+| 2026-10-23 | "Press F to Pay Respects" (2014, Call of Duty: Advanced Warfare funeral prompt; Twitch/Discord "F in the chat") | briefings/2026-10-23.html |
 
 ## Film / Performing Arts Spotlights Featured
 
@@ -674,6 +678,7 @@ and never repeat a subject already listed.
 | 2026-10-20 | The Magic Flute (魔笛, Die Zauberflöte, 1791, Mozart / Schikaneder, opera) | briefings/2026-10-20.html |
 | 2026-10-21 | Un Chien Andalou (安達魯之犬, 1929, dir. Luis Buñuel, co-written with Salvador Dalí) | briefings/2026-10-21.html |
 | 2026-10-22 | Pina Bausch and Tanztheater Wuppertal (皮娜·鮑許與烏帕塔舞蹈劇場, dance theatre; Café Müller, Le Sacre du printemps, Nelken; Wenders' Pina, 2011) | briefings/2026-10-22.html |
+| 2026-10-23 | Bertolt Brecht and Epic Theatre (史詩劇場, Verfremdungseffekt; Berliner Ensemble, The Threepenny Opera, Mother Courage) | briefings/2026-10-23.html |
 
 ## Film-Appreciation / Criticism Method Lessons
 
@@ -772,6 +777,7 @@ table and pick one not yet covered.
 | 2026-10-20 | Repetition with Variation / The Rule of Three (Lesson 82; fixed vs. varying elements, what the variation implies, what the last repetition does, transitions between instances) | Citizen Kane (1941, dir. Orson Welles) — the breakfast-table sequence of Kane's first marriage |
 | 2026-10-21 | Casting as Meaning / Star Persona & Meta-Casting (Lesson 83; typecast vs. subverted image, off-screen history as subtext, cameos by real people, what the film borrows from outside the frame) | Sunset Boulevard (1950, dir. Billy Wilder) — Swanson, von Stroheim, the Queen Kelly screening-room clip, DeMille cameo, final staircase | briefings/2026-10-21.html |
 | 2026-10-22 | Film Stock, Grain & Texture (Lesson 84; what the image surface feels like: celluloid grain vs. clean/rough digital, large-format, texture changes as markers of subjective/objective or memory/present) | Oppenheimer (2023, dir. Christopher Nolan) — colour (Oppenheimer) vs. black-and-white IMAX (Strauss) and the Trinity test; contrast with 28 Days Later (2002, digital video) |
+| 2026-10-23 | Transitions as Punctuation: Cut, Fade, Dissolve (Lesson 85; the default hard cut vs. marked fades/dissolves, what a transition separates, how first/last transitions frame the film) | The Godfather (1972, dir. Francis Ford Coppola) — black-screen opening "I believe in America", fade-in on Bonasera, slow pull-back, cut to the wedding | briefings/2026-10-23.html |
 
 ## Run Notes
 
@@ -1040,3 +1046,9 @@ Section 1: Thursday 05:34 Taipei; Asia not yet open, so the latest closes are We
 Selections: Spanish Day 98 (Recordar / Acordarse de / Olvidar / Olvidarse de), **Daodejing Chapter 1 (new Section 4 track, see below)**, Latvia (President Edgars Rinkēvičs; PM Andris Kulbergs confirmed May 28, 2026; Oct 3, 2026 election won by United List, post-election government not confirmed), "To Be Continued" (JoJo / Roundabout), Pina Bausch and Tanztheater Wuppertal, Method Lesson 84 (Film Stock, Grain & Texture, worked example Oppenheimer). All Latvia/meme/film/method facts other than the cited news items are general knowledge, flagged as unverified in the briefing.
 
 **Section 4 decision (follow-up to the 2026-10-21 OPEN ISSUE):** no user instruction about Section 4 was found in the repo or the prompt, so the suggested default was adopted: one Daodejing chapter per day in order, tracked in the new "Daodejing Chapters Featured" table above. This is flagged in today's notification so the user can override it. Tomorrow's run should continue with Chapter 2.
+
+**2026-10-23:** STEP 0 run first: `date -u` read `Thu Oct 22 21:35 UTC` and `TZ=Asia/Taipei date` read `Fri Oct 23 05:35 CST`, so the actual date is 2026-10-23 (Friday), one day ahead of the session's context header (2026-10-22, the usual stale-label pattern). Portal branch confirmed via the deployments API: the most recent github-pages deployment (2026-10-21T21:41Z, sha 348f0e4) has ref `claude/epic-brahmagupta-g1y16m`, whose latest entry is 2026-10-22 (99 briefings), so days_owed = 1. The session started on `claude/magical-darwin-xeofr1`, a stale branch stuck at 2026-07-20 (Day 3), i.e. the branch-divergence bug again; recovered by listing all claude/* branches and checking out the portal tip before doing any work. `claude/daily-2026-10-22` shares the portal tip; the other epic-brahmagupta-* and gracious-ramanujan branches are old July leftovers.
+
+Section 1: Friday 05:35 Taipei, so the latest closes are Thursday Oct 22 everywhere. US: Nasdaq 26,111.92 (-590.94, -2.21%), S&P 500 7,660.02 (-97.15, -1.25%), Dow 52,741.54 (-114.55, -0.22%), all tying arithmetically to Wednesday's closes; a CNBC live-blog set (Nasdaq 26,008.86, S&P 7,663.43, Dow 52,867.98) and a Sunday Guardian set (Dow 52,574.92) did not tie and were treated as mid-session snapshots. Taiwan: TAIEX 46,041.43 (-846.34, -1.81%), TSMC NT$2,385, foreign net sell about NT$81.7 billion, tying to Wednesday's 46,887.77; whether Friday trading is affected by a typhoon day off was not confirmed. Nikkei 62,907.84 (-2.65%), KOSPI 5,533.76 (-3.52%), Hang Seng 22,934.68 (-3.03%), all tie to Wednesday's closes (the Hang Seng tie also settles the figure left unconfirmed on 2026-10-22: 23,651.87). Section 2: no Oct 22-23 release found; iOS 27.2 RC (Oct 19, public release expected about Oct 26, unconfirmed), Xcode 27 Apple-Silicon-only note, Flutter 3.47 / November deprecation (secondary sources), no new AI model. WebFetch could not resolve cnbc.com, so figures come from search summaries.
+
+Selections: Spanish Day 99 (Intentar / Tratar de / Lograr / Conseguir), Daodejing Chapter 2, Mali (leader Assimi Goïta, status unverified), "Press F to Pay Respects", Bertolt Brecht and Epic Theatre, Method Lesson 85 (Transitions as Punctuation, worked example The Godfather's opening). Country/meme/film/method facts other than cited news are general knowledge, flagged as unverified in the briefing. Section 4 continues the Daodejing track; tomorrow should continue with Chapter 3.
