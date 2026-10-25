@@ -248,6 +248,7 @@ the repo so a permanent link can be shared.
 | 2026-10-23 | 99 | Intentar / Tratar de / Lograr / Conseguir(「嘗試」與「成功做到」) | New topic, not covered in Days 1-98: intentar + infinitive (no preposition) vs. tratar de + infinitive (always de), both only "try"; lograr (manage to / achieve, no preposition) vs. conseguir (manage to + infinitive, get/obtain + noun; e→i: consigo, conseguí, consiguió); Lo intenté vs. Lo logré. | spanish-lessons/day-99.html |
 | 2026-10-24 | 100 | Dar / Darse cuenta de / Dar igual / Dar ganas de(「給」與四個常用片語) | New topic, not covered in Days 1-99: dar present (doy) and preterite (di, diste, dio... no accents), darse cuenta de (+ que), dar igual / dar ganas de as gustar-like structures, dar las gracias, dar un paseo; realizar false friend | spanish-lessons/day-100.html |
 | 2026-10-25 | 101 | Pasar(「發生」「度過」「經過」「不想理」) | New topic, not covered in Days 1-100 (only the Day 51 por/para mention): regular -ar verb; pasar = happen (¿Qué pasa? / ¿Qué pasó?), who is affected via indirect object like gustar (¿Qué te pasa?), spend time (pasarlo bien/mal with fixed neuter lo, pasar tiempo con), pass by / come in (pasar por, ¡Pasa!), hand over (Pásame la sal), Spain colloquial pasar de = not be interested; pasé vs. pasó | spanish-lessons/day-101.html |
+| 2026-10-26 | 102 | 連接詞(Por eso / Sin embargo / Además / Entonces / En cambio) | New topic, not covered in Days 1-101 (only pero/sino Day 72 and porque Day 90): por eso introduces a result (opposite direction to porque), sin embargo = however (more mobile and formal than pero), además = besides (same direction), entonces = then/so (conclusion or sequence), en cambio = by contrast (two different subjects); comma/semicolon punctuation, indicative after por eso | spanish-lessons/day-102.html |
 
 Note: a duplicate "Day 2" lesson (ser/¿De dónde eres?, i.e. the same topic
 as Day 5) was independently produced on 2026-07-14 on an orphaned branch
@@ -388,6 +389,7 @@ chapter, check this table and continue from the last one.
 | 2026-10-23 | 第 2 章 天下皆知美之為美 (Tiānxià jiē zhī měi zhī wéi měi) — "When Everyone Knows Beauty as Beauty" | interdependent opposites (有無相生, 難易相成, 長短相較…); naming a pole creates its opposite; 無為之事, 不言之教; 生而不有, 為而不恃, 功成而弗居 |
 | 2026-10-24 | 第 3 章 不尚賢 (Bù shàng xián) — "Do Not Exalt the Worthy" | not exalting rank or prizing rare goods to calm competition and theft; 虛其心 實其腹; 為無為,則無不治 |
 | 2026-10-25 | 第 4 章 道沖而用之 (Dào chōng ér yòng zhī) — "The Way Is Empty, Yet Used" | the Way as an empty vessel that never fills; 淵兮似萬物之宗; 挫其銳 解其紛 和其光 同其塵 (repeated in Ch. 56); 象帝之先 |
+| 2026-10-26 | 第 5 章 天地不仁 (Tiān dì bù rén) — "Heaven and Earth Are Not Humane" | 芻狗 straw dogs, impartiality of heaven/earth/sage; 橐籥 bellows empty yet inexhaustible; 多言數窮 不如守中 |
 
 ## Country/Region/Faction Spotlights Featured
 
@@ -489,6 +491,7 @@ chapter, check this table and continue from the last one.
 | 2026-10-23 | Mali (馬利) | briefings/2026-10-23.html |
 | 2026-10-24 | Malta (馬爾他) | briefings/2026-10-24.html |
 | 2026-10-25 | Mauritius (模里西斯) | briefings/2026-10-25.html |
+| 2026-10-26 | Oman (阿曼) | briefings/2026-10-26.html |
 
 ## Internet Meme Spotlights Featured
 
@@ -590,6 +593,7 @@ chapter, check this table and continue from the last one.
 | 2026-10-23 | "Press F to Pay Respects" (2014, Call of Duty: Advanced Warfare funeral prompt; Twitch/Discord "F in the chat") | briefings/2026-10-23.html |
 | 2026-10-24 | Barbenheimer (July 21, 2023 double release of Barbie and Oppenheimer; mashup posters, double features; later "Glicked") | briefings/2026-10-24.html |
 | 2026-10-25 | "Shut Up and Take My Money!" (Fry, Futurama "Attack of the Killer App", 2010; Reddit/Tumblr image macro c. 2010-2011) | briefings/2026-10-25.html |
+| 2026-10-26 | "Leave Britney Alone!" (Chris Crocker YouTube video, Sept 10, 2007, after the 2007 MTV VMAs; "Leave ___ alone!" snowclone; revisited via #FreeBritney / Framing Britney Spears 2021) | briefings/2026-10-26.html |
 
 ## Film / Performing Arts Spotlights Featured
 
@@ -689,6 +693,7 @@ and never repeat a subject already listed.
 | 2026-10-23 | Bertolt Brecht and Epic Theatre (史詩劇場, Verfremdungseffekt; Berliner Ensemble, The Threepenny Opera, Mother Courage) | briefings/2026-10-23.html |
 | 2026-10-24 | Bizet's Carmen (opéra comique, premiered Opéra-Comique, Paris, 3 March 1875; Meilhac/Halévy libretto after Mérimée; Habanera, Toreador Song; Carmen Jones, Saura's Carmen) | briefings/2026-10-24.html |
 | 2026-10-25 | Giselle (吉賽爾, romantic ballet, Paris Opéra 28 June 1841; Adam / Gautier & Vernoy de Saint-Georges / Coralli & Perrot; Petipa revisions; Akram Khan 2016) | briefings/2026-10-25.html |
+| 2026-10-26 | Paris, Texas (1984, dir. Wim Wenders; Sam Shepard screenplay; Robby Müller cinematography; Ry Cooder slide-guitar score; Palme d'Or 1984) | briefings/2026-10-26.html |
 
 ## Film-Appreciation / Criticism Method Lessons
 
@@ -790,6 +795,7 @@ table and pick one not yet covered.
 | 2026-10-23 | Transitions as Punctuation: Cut, Fade, Dissolve (Lesson 85; the default hard cut vs. marked fades/dissolves, what a transition separates, how first/last transitions frame the film) | The Godfather (1972, dir. Francis Ford Coppola) — black-screen opening "I believe in America", fade-in on Bonasera, slow pull-back, cut to the wedding | briefings/2026-10-23.html |
 | 2026-10-24 | Negative Space, Headroom & Look Room (Lesson 86; empty frame area as tension, who has room ahead of them, where emptiness sits relative to gaze/movement; worked example Once Upon a Time in the West, Cattle Corner station opening, Leone 1968) | briefings/2026-10-24.html |
 | 2026-10-25 | Motivated Lighting & Practical Light Sources (Lesson 87; is the light source visible/plausible in the scene, quality and direction, practicals vs. faked, where motivation is dropped; worked example Barry Lyndon candlelit card-table scene, Kubrick 1975, John Alcott, Zeiss f/0.7 lenses) | briefings/2026-10-25.html |
+| 2026-10-26 | Eye-Trace & Centered Framing (Lesson 88; where the eye lands and whether the focal point holds position across a cut; worked example Mad Max: Fury Road desert chase, Miller / Sixel, center-weighted focal points) | briefings/2026-10-26.html |
 
 ## Run Notes
 
@@ -1077,3 +1083,9 @@ Selections: Spanish Day 100 (Dar / Darse cuenta de / Dar igual / Dar ganas de), 
 Section 1: Sunday 05:35 Taipei, so no session was open and the latest closes everywhere are still Friday Oct 23. Today's searches could not re-confirm the Oct 23 US close (they returned only Oct 16: Dow 52,002.41, S&P 7,659.44, Nasdaq 26,140.03, consistent with the weekly changes quoted yesterday), so the briefing carries yesterday's CNBC-sourced figures and says explicitly they were not re-verified today. Friday TAIEX still unconfirmed (last verified Oct 22: 46,041.43). Section 2: still nothing new beyond iOS 27.2 RC (Oct 19, build 24B115, public release unconfirmed); no new AI model, Android or Flutter release found. Section 5: Mauritius leaders confirmed by search (President Dharam Gokhool, PM Navin Ramgoolam); deputy PM reported inconsistently so omitted.
 
 Selections: Spanish Day 101 (Pasar), Daodejing Chapter 4, Mauritius, "Shut Up and Take My Money!", Giselle, Method Lesson 87 (Motivated Lighting & Practical Light Sources, worked example Barry Lyndon). Tomorrow should continue with Daodejing Chapter 5 and Spanish Day 102.
+
+**2026-10-26:** STEP 0 run first: `date -u` read `Sun Oct 25 21:35 UTC` and `TZ=Asia/Taipei date` read `Mon Oct 26 05:35 CST`, so the actual date is 2026-10-26 (Monday), one day ahead of the session's context header (2026-10-25, the usual stale-label pattern). Portal branch confirmed via the deployments API: the most recent github-pages deployment (2026-10-24T21:40Z, sha 8f6785a) has ref `claude/epic-brahmagupta-g1y16m` (latest entry 2026-10-25, 102 briefings), so days_owed = 1. The session started on `claude/magical-darwin-y5kv5s`, a stale branch (3 briefings, tip 8eddce0), so it was not used as a base; `claude/daily-2026-10-25` and the portal branch point to the same commit 8f6785a. Created `claude/daily-2026-10-26` from the portal tip. Branch-divergence signal noted again.
+
+Section 1: Monday 05:35 Taipei. US Friday Oct 23 figures were confirmed this time by several consistent reports (Dow 52,215.16, -652.82, -1.23%; S&P 500 7,623.68, -0.52%; Nasdaq 25,955.34, -0.21%; WTI $103.23, Brent $116.72); one outlier site printed S&P 5,847.32 and was discarded. **Correction to the 2026-10-24/25 entries:** Taiwan was not merely "unconfirmed" for Friday Oct 23: the TWSE was closed that day for Typhoon 薔琵 (Jangmi), and Monday Oct 26 is also closed (Retrocession Day make-up holiday), reopening Tuesday Oct 27. Last TAIEX close Oct 22: 46,041.43; weekly -1,069.83 (-2.27%) over four sessions (press reports citing TWSE). Asia Oct 23: KOSPI 5,550.30 (+0.3%), Hang Seng 23,093.37 (+0.7%), Nikkei 62,693.16 (-0.3%, early AP, final unconfirmed). Section 2: iOS 27.2 RC Oct 19, public release expected about Oct 26-27 (unconfirmed); Flutter 3.47/Android items from secondary sources; no confirmed AI model launch. Page fetches (WebFetch) failed with DNS errors, so all figures come from search summaries.
+
+Selections: Spanish Day 102 (connectors), Daodejing Chapter 5, Oman (Sultan Haitham bin Tariq, unverified today), "Leave Britney Alone!", Paris, Texas, Method Lesson 88 (Eye-Trace & Centered Framing, worked example Mad Max: Fury Road). Country/meme/film/method facts other than cited news are general knowledge, flagged as unverified in the briefing. Tomorrow should continue with Daodejing Chapter 6 and Spanish Day 103.
