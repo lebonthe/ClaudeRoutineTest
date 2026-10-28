@@ -251,6 +251,7 @@ the repo so a permanent link can be shared.
 | 2026-10-26 | 102 | 連接詞(Por eso / Sin embargo / Además / Entonces / En cambio) | New topic, not covered in Days 1-101 (only pero/sino Day 72 and porque Day 90): por eso introduces a result (opposite direction to porque), sin embargo = however (more mobile and formal than pero), además = besides (same direction), entonces = then/so (conclusion or sequence), en cambio = by contrast (two different subjects); comma/semicolon punctuation, indicative after por eso | spanish-lessons/day-102.html |
 | 2026-10-27 | 103 | 疑問詞(Quién / Dónde / Adónde / Cuándo / Cómo / Cuánto) | New topic, not covered in Days 1-102 (only qué/cuál Day 93 and por qué Day 90): quién/quiénes, dónde vs. adónde, cuándo, cómo, cuánto/a/os/as agreeing with the noun; written accent on all interrogatives, also in indirect questions; preposition before the question word | spanish-lessons/day-103.html |
 | 2026-10-28 | 104 | Cualquier / Cualquiera(任何、隨便哪一個、任何人) | New topic, not covered in Days 1-103: cualquier before a singular noun (same form for both genders), cualquiera standing alone or after the noun (un libro cualquiera = an ordinary book), cualquier cosa idiom, answering ¿Cuál? with Cualquiera, cualesquiera rare; no written accent (contrast with ¿Cuál?) | spanish-lessons/day-104.html |
+| 2026-10-29 | 105 | Cada vez más / Cuanto más(越來越……、越……越……) | New topic, not covered in Days 1-104 (only más que comparatives Day 46 and cada Day 84): cada vez más / menos for gradual change, cada vez mejor / peor with no extra más, cuanto más ... más ... with agreement (cuantos/cuantas), fixed proverb Cuanto más se tiene, más se quiere | spanish-lessons/day-105.html |
 
 Note: a duplicate "Day 2" lesson (ser/¿De dónde eres?, i.e. the same topic
 as Day 5) was independently produced on 2026-07-14 on an orphaned branch
@@ -394,6 +395,7 @@ chapter, check this table and continue from the last one.
 | 2026-10-26 | 第 5 章 天地不仁 (Tiān dì bù rén) — "Heaven and Earth Are Not Humane" | 芻狗 straw dogs, impartiality of heaven/earth/sage; 橐籥 bellows empty yet inexhaustible; 多言數窮 不如守中 |
 | 2026-10-27 | 第 6 章 谷神不死 (Gǔ shén bù sǐ) — "The Valley Spirit Never Dies" | 谷神 as valley/receptive source, 玄牝 the mysterious female, 天地根, 綿綿若存 用之不勤; follows the emptiness images of Ch. 4-5 |
 | 2026-10-28 | 第 7 章 天長地久 (Tiān cháng dì jiǔ) — "Heaven Is Long, Earth Enduring" | heaven and earth endure because they do not live for themselves; 後其身而身先 外其身而身存; 無私 completes 私; follows Ch. 4-6 emptiness/valley images |
+| 2026-10-29 | 第 8 章 上善若水 (Shàng shàn ruò shuǐ) — "The Highest Good Is Like Water" | water as the emblem of the Way: benefits all without contending, settles in low places; seven "goods" (居善地…動善時); 夫唯不爭,故無尤; follows Ch. 4-7 emptiness/selfless-endurance images |
 
 ## Country/Region/Faction Spotlights Featured
 
@@ -498,6 +500,7 @@ chapter, check this table and continue from the last one.
 | 2026-10-26 | Oman (阿曼) | briefings/2026-10-26.html |
 | 2026-10-27 | Slovakia (斯洛伐克) | briefings/2026-10-27.html |
 | 2026-10-28 | Moldova (摩爾多瓦) | briefings/2026-10-28.html |
+| 2026-10-29 | Bulgaria (保加利亞) | briefings/2026-10-29.html |
 
 ## Internet Meme Spotlights Featured
 
@@ -602,6 +605,7 @@ chapter, check this table and continue from the last one.
 | 2026-10-26 | "Leave Britney Alone!" (Chris Crocker YouTube video, Sept 10, 2007, after the 2007 MTV VMAs; "Leave ___ alone!" snowclone; revisited via #FreeBritney / Framing Britney Spears 2021) | briefings/2026-10-26.html |
 | 2026-10-27 | Baby Yoda / The Child / Grogu (The Mandalorian, Disney+ launch Nov 12, 2019; name Grogu revealed Nov 2020) | briefings/2026-10-27.html |
 | 2026-10-28 | "Chill Guy" / "My New Character" (Philip Banks, Aug 2024; viral Oct-Nov 2024; memecoin controversy) | briefings/2026-10-28.html |
+| 2026-10-29 | "Baka Mitai" / "Dame Da Ne" (Yakuza 0 karaoke song, 2015; 2020 first-order-motion-model deepfake singing meme) | briefings/2026-10-29.html |
 
 ## Film / Performing Arts Spotlights Featured
 
@@ -704,6 +708,7 @@ and never repeat a subject already listed.
 | 2026-10-26 | Paris, Texas (1984, dir. Wim Wenders; Sam Shepard screenplay; Robby Müller cinematography; Ry Cooder slide-guitar score; Palme d'Or 1984) | briefings/2026-10-26.html |
 | 2026-10-27 | Close-Up (Nema-ye Nazdik, 1990, dir. Abbas Kiarostami; real people play themselves in a reconstructed 1989 impersonation case) | briefings/2026-10-27.html |
 | 2026-10-28 | Hamlet (Shakespeare, c. 1599-1601; Elsinore; Mousetrap; Olivier 1948, Branagh 1996, Globe 1997) | briefings/2026-10-28.html |
+| 2026-10-29 | Akira (1988, dir. Katsuhiro Otomo; Geinoh Yamashirogumi score; voices recorded before animation; Neo-Tokyo 2019) | briefings/2026-10-29.html |
 
 ## Film-Appreciation / Criticism Method Lessons
 
@@ -808,6 +813,7 @@ table and pick one not yet covered.
 | 2026-10-26 | Eye-Trace & Centered Framing (Lesson 88; where the eye lands and whether the focal point holds position across a cut; worked example Mad Max: Fury Road desert chase, Miller / Sixel, center-weighted focal points) | briefings/2026-10-26.html |
 | 2026-10-27 | Realism vs. Formalism (Lesson 89; Bazin's long-take/deep-focus respect for reality vs. Eisenstein's constructive montage; worked example Bicycle Thieves final sequence, contrasted with Battleship Potemkin) | briefings/2026-10-27.html |
 | 2026-10-28 | The Open Ending / Ambiguity & Refused Closure (Lesson 90; separate plot question from thematic question, cues for both readings, formal signals such as the held shot; worked example The Graduate final bus sequence) | briefings/2026-10-28.html |
+| 2026-10-29 | Dream & Fantasy Sequences / Marking the Unreal (Lesson 91; entry/exit cues, rules of the dream, symbols as psychology, feedback into waking plot, marked vs. unmarked; worked example Wild Strawberries opening nightmare, Bergman 1957) | briefings/2026-10-29.html |
 
 ## Run Notes
 
@@ -1113,3 +1119,20 @@ Selections: Spanish Day 103 (question words), Daodejing Chapter 6, Slovakia, Bab
 Section 1: Wednesday 05:34 Taipei, so the latest closes are Tuesday Oct 27. US: Dow about 52,377.57 (+0.03%), S&P 500 about 7,722.60 (+0.60%), Nasdaq 26,477.81 (+1.18%); these tie arithmetically to the Oct 26 closes recorded yesterday (52,361.58 / 7,676.77 / 26,169.38); Reuters' preliminary numbers differ slightly (Dow 52,387.18, S&P 7,723.05), so last digits are flagged as not final. Taiwan reopened after the four-day closure: TAIEX 46,096.23 (+54.80, +0.12%), turnover about NT$976.5 billion, TSMC NT$2,400 (+15); ties to the Oct 22 close 46,041.43. Nikkei / KOSPI / Hang Seng Tuesday closes NOT confirmed (searches returned only older dates), stated explicitly. Section 2: iOS 27.2 RC (Oct 19-20) public release still unconfirmed; secondary roundup (Tech Startups Oct 27) reports GPT-6.1 Terra, Anthropic IPO filing, Meta $95B raise, Microsoft buyouts, labeled second-hand; Android Oct system updates (9to5Google); no new Flutter release. Section 5: Moldova leaders checked by search today: President Maia Sandu; PM changed in 2026 (Munteanu resigned Jul 3, Osmochescu acting from Jul 8, cabinet headed by Vasile Tofan sworn in Jul 21; Tofan's appointment details not fully confirmed from a primary source, flagged).
 
 Selections: Spanish Day 104 (Cualquier / Cualquiera), Daodejing Chapter 7, Moldova, "Chill Guy", Hamlet, Method Lesson 90 (The Open Ending, worked example The Graduate). Checked against the tracking tables beforehand that none were used before (grep for Moldova, Chill Guy, Hamlet, cualquier found no earlier hits; no earlier method on open endings). Tomorrow should continue with Daodejing Chapter 8 and Spanish Day 105.
+
+**2026-10-29:** STEP 0 run first: `date -u` read `Wed Oct 28 21:35 UTC` and
+`TZ=Asia/Taipei date` read `Thu Oct 29 05:35 CST`, so the actual date is
+2026-10-29 (Thursday), one day ahead of the session's context header
+(2026-10-28). Portal branch confirmed via the unauthenticated
+`/deployments?environment=github-pages` call: latest success deployed
+`55dd47a` on `claude/epic-brahmagupta-g1y16m` (the 2026-10-28 content), so
+days_owed = 1 and today's entry was produced. The two other branches this
+session could start from (`claude/magical-darwin-mcpyhh`, a stale Day-3
+base) were ignored; the daily branch was cut from the portal tip.
+Market data: US, Taiwan, Japan and Korea Wednesday Oct 28 closes tie
+arithmetically to Tuesday's figures; Hang Seng sources conflicted on
+direction and were reported as unconfirmed. Several finance sites
+(cnbc.com, tradingkey.com, kuwaittimes.com) did not resolve from this
+session, so figures rest on search summaries. Today's picks: Spanish Day
+105, Daodejing Ch. 8, Bulgaria, Baka Mitai, Akira, Method Lesson 91
+(dream and fantasy sequences).
