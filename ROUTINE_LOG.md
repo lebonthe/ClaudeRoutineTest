@@ -252,6 +252,7 @@ the repo so a permanent link can be shared.
 | 2026-10-27 | 103 | 疑問詞(Quién / Dónde / Adónde / Cuándo / Cómo / Cuánto) | New topic, not covered in Days 1-102 (only qué/cuál Day 93 and por qué Day 90): quién/quiénes, dónde vs. adónde, cuándo, cómo, cuánto/a/os/as agreeing with the noun; written accent on all interrogatives, also in indirect questions; preposition before the question word | spanish-lessons/day-103.html |
 | 2026-10-28 | 104 | Cualquier / Cualquiera(任何、隨便哪一個、任何人) | New topic, not covered in Days 1-103: cualquier before a singular noun (same form for both genders), cualquiera standing alone or after the noun (un libro cualquiera = an ordinary book), cualquier cosa idiom, answering ¿Cuál? with Cualquiera, cualesquiera rare; no written accent (contrast with ¿Cuál?) | spanish-lessons/day-104.html |
 | 2026-10-29 | 105 | Cada vez más / Cuanto más(越來越……、越……越……) | New topic, not covered in Days 1-104 (only más que comparatives Day 46 and cada Day 84): cada vez más / menos for gradual change, cada vez mejor / peor with no extra más, cuanto más ... más ... with agreement (cuantos/cuantas), fixed proverb Cuanto más se tiene, más se quiere | spanish-lessons/day-105.html |
+| 2026-10-30 | 106 | Casi / Apenas / Solo / Hasta / Incluso / Ni siquiera(差點、幾乎沒、只有、甚至、連……都不) | New topic, not covered in Days 1-105: degree and emphasis adverbs; casi + present for near-misses, apenas (barely / as soon as), solo without accent, hasta/incluso (even), ni siquiera (not even, no extra no before verb) | spanish-lessons/day-106.html |
 
 Note: a duplicate "Day 2" lesson (ser/¿De dónde eres?, i.e. the same topic
 as Day 5) was independently produced on 2026-07-14 on an orphaned branch
@@ -396,6 +397,7 @@ chapter, check this table and continue from the last one.
 | 2026-10-27 | 第 6 章 谷神不死 (Gǔ shén bù sǐ) — "The Valley Spirit Never Dies" | 谷神 as valley/receptive source, 玄牝 the mysterious female, 天地根, 綿綿若存 用之不勤; follows the emptiness images of Ch. 4-5 |
 | 2026-10-28 | 第 7 章 天長地久 (Tiān cháng dì jiǔ) — "Heaven Is Long, Earth Enduring" | heaven and earth endure because they do not live for themselves; 後其身而身先 外其身而身存; 無私 completes 私; follows Ch. 4-6 emptiness/valley images |
 | 2026-10-29 | 第 8 章 上善若水 (Shàng shàn ruò shuǐ) — "The Highest Good Is Like Water" | water as the emblem of the Way: benefits all without contending, settles in low places; seven "goods" (居善地…動善時); 夫唯不爭,故無尤; follows Ch. 4-7 emptiness/selfless-endurance images |
+| 2026-10-30 | 第 9 章 持而盈之 (Chí ér yíng zhī) — "Holding It Full" | overfilled bowl and over-sharpened blade, gold and jade filling the hall, wealth plus arrogance, 功遂身退 天之道; links to Ch. 7-8 | Ch. 9 |
 
 ## Country/Region/Faction Spotlights Featured
 
@@ -501,6 +503,7 @@ chapter, check this table and continue from the last one.
 | 2026-10-27 | Slovakia (斯洛伐克) | briefings/2026-10-27.html |
 | 2026-10-28 | Moldova (摩爾多瓦) | briefings/2026-10-28.html |
 | 2026-10-29 | Bulgaria (保加利亞) | briefings/2026-10-29.html |
+| 2026-10-30 | Laos (寮國) | briefings/2026-10-30.html |
 
 ## Internet Meme Spotlights Featured
 
@@ -606,6 +609,7 @@ chapter, check this table and continue from the last one.
 | 2026-10-27 | Baby Yoda / The Child / Grogu (The Mandalorian, Disney+ launch Nov 12, 2019; name Grogu revealed Nov 2020) | briefings/2026-10-27.html |
 | 2026-10-28 | "Chill Guy" / "My New Character" (Philip Banks, Aug 2024; viral Oct-Nov 2024; memecoin controversy) | briefings/2026-10-28.html |
 | 2026-10-29 | "Baka Mitai" / "Dame Da Ne" (Yakuza 0 karaoke song, 2015; 2020 first-order-motion-model deepfake singing meme) | briefings/2026-10-29.html |
+| 2026-10-30 | "Ievan Polkka" / Loituma Girl / Leekspin (Flash loop, 2006) | briefings/2026-10-30.html |
 
 ## Film / Performing Arts Spotlights Featured
 
@@ -709,6 +713,7 @@ and never repeat a subject already listed.
 | 2026-10-27 | Close-Up (Nema-ye Nazdik, 1990, dir. Abbas Kiarostami; real people play themselves in a reconstructed 1989 impersonation case) | briefings/2026-10-27.html |
 | 2026-10-28 | Hamlet (Shakespeare, c. 1599-1601; Elsinore; Mousetrap; Olivier 1948, Branagh 1996, Globe 1997) | briefings/2026-10-28.html |
 | 2026-10-29 | Akira (1988, dir. Katsuhiro Otomo; Geinoh Yamashirogumi score; voices recorded before animation; Neo-Tokyo 2019) | briefings/2026-10-29.html |
+| 2026-10-30 | Tampopo (1985, dir. Juzo Itami) | briefings/2026-10-30.html |
 
 ## Film-Appreciation / Criticism Method Lessons
 
@@ -814,6 +819,7 @@ table and pick one not yet covered.
 | 2026-10-27 | Realism vs. Formalism (Lesson 89; Bazin's long-take/deep-focus respect for reality vs. Eisenstein's constructive montage; worked example Bicycle Thieves final sequence, contrasted with Battleship Potemkin) | briefings/2026-10-27.html |
 | 2026-10-28 | The Open Ending / Ambiguity & Refused Closure (Lesson 90; separate plot question from thematic question, cues for both readings, formal signals such as the held shot; worked example The Graduate final bus sequence) | briefings/2026-10-28.html |
 | 2026-10-29 | Dream & Fantasy Sequences / Marking the Unreal (Lesson 91; entry/exit cues, rules of the dream, symbols as psychology, feedback into waking plot, marked vs. unmarked; worked example Wild Strawberries opening nightmare, Bergman 1957) | briefings/2026-10-29.html |
+| 2026-10-30 | Confined Space & Single-Location Staging / the "Bottle Film" (Lesson 92; worked example 12 Angry Men, 1957, dir. Sidney Lumet) | briefings/2026-10-30.html |
 
 ## Run Notes
 
@@ -1136,3 +1142,20 @@ direction and were reported as unconfirmed. Several finance sites
 session, so figures rest on search summaries. Today's picks: Spanish Day
 105, Daodejing Ch. 8, Bulgaria, Baka Mitai, Akira, Method Lesson 91
 (dream and fantasy sequences).
+
+**2026-10-30:** STEP 0 run first: `date -u` read `Thu Oct 29 21:35 UTC` and
+`TZ=Asia/Taipei date` read `Fri Oct 30 05:35 CST`, so the actual date is
+2026-10-30 (Friday), one day ahead of the session's context header
+(2026-10-29). Portal branch confirmed via the unauthenticated
+`/deployments?environment=github-pages` call: latest success deployed
+`5ec70dc` on `claude/epic-brahmagupta-g1y16m` (the 2026-10-29 content), so
+days_owed = 1 and today's entry was produced. The session started on
+`claude/magical-darwin-v8dzt4`, a stale Day-3 base, which was ignored; the
+daily branch was cut from the portal tip. Market data: Thursday Oct 29
+closes for the US, Taiwan, Japan and Korea tie arithmetically to
+Wednesday's figures; Hang Seng sources conflicted and no close is stated.
+Dev news was thin: no dated Oct 29 announcements found for Apple, AI,
+Android or Flutter, and the section says so. Today's picks: Spanish Day
+106, Daodejing Ch. 9, Laos, Ievan Polkka / Leekspin, Tampopo, Method
+Lesson 92 (confined-space staging). Checked against the tracking tables
+that none were used before. Leaders of Laos were checked by search.
