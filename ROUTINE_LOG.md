@@ -253,6 +253,7 @@ the repo so a permanent link can be shared.
 | 2026-10-28 | 104 | Cualquier / Cualquiera(任何、隨便哪一個、任何人) | New topic, not covered in Days 1-103: cualquier before a singular noun (same form for both genders), cualquiera standing alone or after the noun (un libro cualquiera = an ordinary book), cualquier cosa idiom, answering ¿Cuál? with Cualquiera, cualesquiera rare; no written accent (contrast with ¿Cuál?) | spanish-lessons/day-104.html |
 | 2026-10-29 | 105 | Cada vez más / Cuanto más(越來越……、越……越……) | New topic, not covered in Days 1-104 (only más que comparatives Day 46 and cada Day 84): cada vez más / menos for gradual change, cada vez mejor / peor with no extra más, cuanto más ... más ... with agreement (cuantos/cuantas), fixed proverb Cuanto más se tiene, más se quiere | spanish-lessons/day-105.html |
 | 2026-10-30 | 106 | Casi / Apenas / Solo / Hasta / Incluso / Ni siquiera(差點、幾乎沒、只有、甚至、連……都不) | New topic, not covered in Days 1-105: degree and emphasis adverbs; casi + present for near-misses, apenas (barely / as soon as), solo without accent, hasta/incluso (even), ni siquiera (not even, no extra no before verb) | spanish-lessons/day-106.html |
+| 2026-10-31 | 107 | 位置介系詞片語(Encima de / Debajo de / Al lado de / Enfrente de / Detrás de) | New topic, not covered in Days 1-106 (only hay/estar Day 56 and pronouns after prepositions Day 88): adverb + de (encima de la mesa), de + el = del, de dropped when the word stands alone (Debajo.), delante de vs. enfrente de / frente a, encima de vs. sobre vs. en, entre takes subject pronouns (entre tú y yo), dentro de for time | spanish-lessons/day-107.html |
 
 Note: a duplicate "Day 2" lesson (ser/¿De dónde eres?, i.e. the same topic
 as Day 5) was independently produced on 2026-07-14 on an orphaned branch
@@ -398,6 +399,7 @@ chapter, check this table and continue from the last one.
 | 2026-10-28 | 第 7 章 天長地久 (Tiān cháng dì jiǔ) — "Heaven Is Long, Earth Enduring" | heaven and earth endure because they do not live for themselves; 後其身而身先 外其身而身存; 無私 completes 私; follows Ch. 4-6 emptiness/valley images |
 | 2026-10-29 | 第 8 章 上善若水 (Shàng shàn ruò shuǐ) — "The Highest Good Is Like Water" | water as the emblem of the Way: benefits all without contending, settles in low places; seven "goods" (居善地…動善時); 夫唯不爭,故無尤; follows Ch. 4-7 emptiness/selfless-endurance images |
 | 2026-10-30 | 第 9 章 持而盈之 (Chí ér yíng zhī) — "Holding It Full" | overfilled bowl and over-sharpened blade, gold and jade filling the hall, wealth plus arrogance, 功遂身退 天之道; links to Ch. 7-8 | Ch. 9 |
+| 2026-10-31 | 第 10 章 載營魄抱一 (Zài yíng pò bào yī) — "Embracing the One" | six questions on practice (unity of body/spirit, soft breath like an infant, cleansing the dark mirror, governing without contrivance, receptive gates of heaven, understanding without cleverness); closing lines 生而不有…是謂玄德 repeated in Ch. 51; follows Ch. 9 | Ch. 10 |
 
 ## Country/Region/Faction Spotlights Featured
 
@@ -504,6 +506,7 @@ chapter, check this table and continue from the last one.
 | 2026-10-28 | Moldova (摩爾多瓦) | briefings/2026-10-28.html |
 | 2026-10-29 | Bulgaria (保加利亞) | briefings/2026-10-29.html |
 | 2026-10-30 | Laos (寮國) | briefings/2026-10-30.html |
+| 2026-10-31 | Romania (羅馬尼亞) | briefings/2026-10-31.html |
 
 ## Internet Meme Spotlights Featured
 
@@ -610,6 +613,7 @@ chapter, check this table and continue from the last one.
 | 2026-10-28 | "Chill Guy" / "My New Character" (Philip Banks, Aug 2024; viral Oct-Nov 2024; memecoin controversy) | briefings/2026-10-28.html |
 | 2026-10-29 | "Baka Mitai" / "Dame Da Ne" (Yakuza 0 karaoke song, 2015; 2020 first-order-motion-model deepfake singing meme) | briefings/2026-10-29.html |
 | 2026-10-30 | "Ievan Polkka" / Loituma Girl / Leekspin (Flash loop, 2006) | briefings/2026-10-30.html |
+| 2026-10-31 | The Floss / "Backpack Kid" (Russell Horning, 2016-2018, SNL May 2017, Fortnite emote 2018) | briefings/2026-10-31.html |
 
 ## Film / Performing Arts Spotlights Featured
 
@@ -714,6 +718,7 @@ and never repeat a subject already listed.
 | 2026-10-28 | Hamlet (Shakespeare, c. 1599-1601; Elsinore; Mousetrap; Olivier 1948, Branagh 1996, Globe 1997) | briefings/2026-10-28.html |
 | 2026-10-29 | Akira (1988, dir. Katsuhiro Otomo; Geinoh Yamashirogumi score; voices recorded before animation; Neo-Tokyo 2019) | briefings/2026-10-29.html |
 | 2026-10-30 | Tampopo (1985, dir. Juzo Itami) | briefings/2026-10-30.html |
+| 2026-10-31 | The Shining (1980, dir. Stanley Kubrick) | briefings/2026-10-31.html |
 
 ## Film-Appreciation / Criticism Method Lessons
 
@@ -820,6 +825,7 @@ table and pick one not yet covered.
 | 2026-10-28 | The Open Ending / Ambiguity & Refused Closure (Lesson 90; separate plot question from thematic question, cues for both readings, formal signals such as the held shot; worked example The Graduate final bus sequence) | briefings/2026-10-28.html |
 | 2026-10-29 | Dream & Fantasy Sequences / Marking the Unreal (Lesson 91; entry/exit cues, rules of the dream, symbols as psychology, feedback into waking plot, marked vs. unmarked; worked example Wild Strawberries opening nightmare, Bergman 1957) | briefings/2026-10-29.html |
 | 2026-10-30 | Confined Space & Single-Location Staging / the "Bottle Film" (Lesson 92; worked example 12 Angry Men, 1957, dir. Sidney Lumet) | briefings/2026-10-30.html |
+| 2026-10-31 | The Flashback & Temporal Structure (Lesson 93; entry cue, whose memory, how past looks/sounds different, information function, effect on the present, exit cue; worked example Casablanca Paris flashback) | Casablanca (1942, dir. Michael Curtiz) | briefings/2026-10-31.html |
 
 ## Run Notes
 
@@ -1159,3 +1165,29 @@ Android or Flutter, and the section says so. Today's picks: Spanish Day
 106, Daodejing Ch. 9, Laos, Ievan Polkka / Leekspin, Tampopo, Method
 Lesson 92 (confined-space staging). Checked against the tracking tables
 that none were used before. Leaders of Laos were checked by search.
+
+**2026-10-31:** STEP 0 run first: `date -u` read `Fri Oct 30 21:35 UTC` and
+`TZ=Asia/Taipei date` read `Sat Oct 31 05:35 CST`, so the actual date is
+2026-10-31 (Saturday), one day ahead of the session's context header
+(2026-10-30). Portal branch confirmed via the unauthenticated
+`/deployments?environment=github-pages` call: latest success deployed
+`381a79e` on `claude/epic-brahmagupta-g1y16m` (the 2026-10-30 content), so
+days_owed = 1 and today's entry was produced. The session started on
+`claude/magical-darwin-3nhld8`, a stale Day-3 base, which was ignored; the
+daily branch was cut from the portal tip. Market data: Friday Oct 30 closes
+for the US, Taiwan, Japan and Korea tie arithmetically to Thursday's
+figures. US figures are approximate (Nasdaq about -2.84%, S&P about -1.8%,
+Dow about -1.1% to -1.3%, final Dow level not confirmed); Hang Seng
+direction (about +1.5%) is consistent but the closing level is not
+cross-checked. Fetching article pages (udn.com, aol.com, whalesbook.com)
+failed to resolve from this session, so figures rest on search summaries.
+Dev news: iOS 27.2 shipped around Oct 26, Xcode 27.1 listed Oct 15; no new
+Android or Flutter release; unverified "Gemini 4" / "Claude Opus 5.5" claims
+from one aggregator are flagged as such. Romania's president was checked by
+search (Nicușor Dan); the prime minister could not be confirmed (one snippet
+says Luca Niculescu from Oct 20, 2026). Today's picks: Spanish Day 107,
+Daodejing Ch. 10, Romania, The Floss, The Shining, Method Lesson 93
+(the flashback). Checked against the tracking tables that none were used
+before (The Shining was not a Section 7 subject earlier; Casablanca was a
+Section 7 subject on 2026-08-27 but is used here only as the Section 8 worked
+example). Tomorrow should continue with Daodejing Chapter 11 and Spanish Day 108.
