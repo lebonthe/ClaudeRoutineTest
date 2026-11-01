@@ -255,6 +255,7 @@ the repo so a permanent link can be shared.
 | 2026-10-30 | 106 | Casi / Apenas / Solo / Hasta / Incluso / Ni siquiera(差點、幾乎沒、只有、甚至、連……都不) | New topic, not covered in Days 1-105: degree and emphasis adverbs; casi + present for near-misses, apenas (barely / as soon as), solo without accent, hasta/incluso (even), ni siquiera (not even, no extra no before verb) | spanish-lessons/day-106.html |
 | 2026-10-31 | 107 | 位置介系詞片語(Encima de / Debajo de / Al lado de / Enfrente de / Detrás de) | New topic, not covered in Days 1-106 (only hay/estar Day 56 and pronouns after prepositions Day 88): adverb + de (encima de la mesa), de + el = del, de dropped when the word stands alone (Debajo.), delante de vs. enfrente de / frente a, encima de vs. sobre vs. en, entre takes subject pronouns (entre tú y yo), dentro de for time | spanish-lessons/day-107.html |
 | 2026-11-01 | 108 | 交通工具與移動方式(Ir en / a pie / Tomar / Coger / Llegar / Bajarse) | New topic, not covered in Days 1-107: ir en + vehicle without article, ir a pie as the exception, tomar/coger + article (coger is vulgar in much of Latin America), llegar a, subir(se) a / bajarse de-en, ¿Cuánto tarda? | spanish-lessons/day-108.html |
+| 2026-11-02 | 109 | 「一樣的」與「本人」(Mismo / Misma / Lo mismo) | New topic, not covered in Days 1-108: el/la/los/las mismo(s) + noun + que (adjective, agrees), lo mismo (neuter, "the same thing"; lo mismo digo), pronoun + mismo for "oneself" (yo mismo / ella misma), adverb + mismo for emphasis (ahora/aquí/hoy mismo, invariable) | spanish-lessons/day-109.html |
 
 Note: a duplicate "Day 2" lesson (ser/¿De dónde eres?, i.e. the same topic
 as Day 5) was independently produced on 2026-07-14 on an orphaned branch
@@ -402,6 +403,7 @@ chapter, check this table and continue from the last one.
 | 2026-10-30 | 第 9 章 持而盈之 (Chí ér yíng zhī) — "Holding It Full" | overfilled bowl and over-sharpened blade, gold and jade filling the hall, wealth plus arrogance, 功遂身退 天之道; links to Ch. 7-8 | Ch. 9 |
 | 2026-10-31 | 第 10 章 載營魄抱一 (Zài yíng pò bào yī) — "Embracing the One" | six questions on practice (unity of body/spirit, soft breath like an infant, cleansing the dark mirror, governing without contrivance, receptive gates of heaven, understanding without cleverness); closing lines 生而不有…是謂玄德 repeated in Ch. 51; follows Ch. 9 | Ch. 10 |
 | 2026-11-01 | 第 11 章 三十輻共一轂 (Sānshí fú gòng yī gū) — "Thirty Spokes" | wheel hub, clay vessel, room with doors and windows: usefulness comes from the empty space; 有之以為利,無之以為用; follows Ch. 10 | Ch. 11 |
+| 2026-11-02 | 第 12 章 五色令人目盲 (Wǔ sè lìng rén mù máng) — "The Five Colors" | five colors/tones/flavors dull the senses; racing/hunting and rare goods disturb the heart and conduct; 為腹不為目 (belly = inner sufficiency, eye = outward display), 去彼取此; over-stimulation vs. Chapter 11's emptiness | briefings/2026-11-02.html |
 
 ## Country/Region/Faction Spotlights Featured
 
@@ -510,6 +512,7 @@ chapter, check this table and continue from the last one.
 | 2026-10-30 | Laos (寮國) | briefings/2026-10-30.html |
 | 2026-10-31 | Romania (羅馬尼亞) | briefings/2026-10-31.html |
 | 2026-11-01 | Czechia (捷克) | briefings/2026-11-01.html |
+| 2026-11-02 | Scotland (蘇格蘭) | briefings/2026-11-02.html |
 
 ## Internet Meme Spotlights Featured
 
@@ -618,6 +621,7 @@ chapter, check this table and continue from the last one.
 | 2026-10-30 | "Ievan Polkka" / Loituma Girl / Leekspin (Flash loop, 2006) | briefings/2026-10-30.html |
 | 2026-10-31 | The Floss / "Backpack Kid" (Russell Horning, 2016-2018, SNL May 2017, Fortnite emote 2018) | briefings/2026-10-31.html |
 | 2026-11-01 | "Trololo" / Mr. Trololo (Eduard Khil, 1976 recording, viral 2009-2010) | briefings/2026-11-01.html |
+| 2026-11-02 | Ellen's Oscar Selfie (March 2, 2014, 86th Academy Awards) | briefings/2026-11-02.html |
 
 ## Film / Performing Arts Spotlights Featured
 
@@ -724,6 +728,7 @@ and never repeat a subject already listed.
 | 2026-10-30 | Tampopo (1985, dir. Juzo Itami) | briefings/2026-10-30.html |
 | 2026-10-31 | The Shining (1980, dir. Stanley Kubrick) | briefings/2026-10-31.html |
 | 2026-11-01 | West Side Story (musical 1957; film 1961, dirs. Robert Wise & Jerome Robbins) | briefings/2026-11-01.html |
+| 2026-11-02 | Jaws (1975, dir. Steven Spielberg) | briefings/2026-11-02.html |
 
 ## Film-Appreciation / Criticism Method Lessons
 
@@ -832,6 +837,7 @@ table and pick one not yet covered.
 | 2026-10-30 | Confined Space & Single-Location Staging / the "Bottle Film" (Lesson 92; worked example 12 Angry Men, 1957, dir. Sidney Lumet) | briefings/2026-10-30.html |
 | 2026-10-31 | The Flashback & Temporal Structure (Lesson 93; entry cue, whose memory, how past looks/sounds different, information function, effect on the present, exit cue; worked example Casablanca Paris flashback) | Casablanca (1942, dir. Michael Curtiz) | briefings/2026-10-31.html |
 | 2026-11-01 | The Cold Open / Prologue (Lesson 94; promise, mini-story, rules and character, the seam, rhyme with the ending; worked example Inglourious Basterds Chapter One farmhouse scene) | Inglourious Basterds (2009, dir. Quentin Tarantino) | briefings/2026-11-01.html |
+| 2026-11-02 | Character Foils / Contrast Characters (Lesson 95; identify the pair, shared ground, contrasts incl. style, mutual revelation, arc, theme; worked example Amadeus 1984, dir. Miloš Forman, Salieri hearing the Serenade for 13 Winds) | briefings/2026-11-02.html |
 
 ## Run Notes
 
@@ -1221,3 +1227,25 @@ Today's picks: Spanish Day 108, Daodejing Ch. 11, Czechia, Trololo,
 West Side Story, Method Lesson 94 (the cold open). Checked against the
 tracking tables that none were used before. Tomorrow should continue with
 Daodejing Chapter 12 and Spanish Day 109.
+
+
+**2026-11-02:** STEP 0 run first: `date -u` read `Sun Nov 1 21:35 UTC` and
+Taipei time `Mon Nov 2 05:35`, so the actual date is Monday 2026-11-02. The
+portal branch was confirmed via `/deployments?environment=github-pages`
+(latest success: `claude/epic-brahmagupta-g1y16m`, tip `d807edb`, holding the
+2026-11-01 entry), so days_owed = 1 and today's entry was produced. The session
+started on `claude/magical-darwin-z096ty` (stale Day-3 base, same divergence
+bug), which was ignored; `claude/daily-2026-11-02` was cut from the portal tip.
+All `claude/daily-*` branches were ancestors of the portal tip, so there was
+nothing to reconcile. Market data: Monday 05:35 Taipei, no market had opened,
+so the latest closes remain Friday Oct 30. Searches today (US, Taiwan,
+Japan/Korea/HK, Monday pre-open) returned nothing dated Oct 30, so the Oct 30
+figures are carried over from the 11-01 briefing and flagged as not
+re-verified; one search returned the AP Friday Oct 23 tally, used only as a
+derived consistency check on the weekly move. Dev news: nothing new dated
+Nov 1-2 found; background only. Scotland's First Minister (John Swinney,
+re-elected May 19, 2026) was checked by search. Today's picks: Spanish Day 109
+(mismo), Daodejing Ch. 12, Scotland, Ellen's Oscar Selfie, Jaws, Method Lesson
+95 (character foils), checked against the tracking tables as unused (grep for
+"foil", "Jaws", "Scotland", "selfie" returned nothing before today).
+Tomorrow should continue with Daodejing Chapter 13 and Spanish Day 110.
