@@ -256,6 +256,7 @@ the repo so a permanent link can be shared.
 | 2026-10-31 | 107 | 位置介系詞片語(Encima de / Debajo de / Al lado de / Enfrente de / Detrás de) | New topic, not covered in Days 1-106 (only hay/estar Day 56 and pronouns after prepositions Day 88): adverb + de (encima de la mesa), de + el = del, de dropped when the word stands alone (Debajo.), delante de vs. enfrente de / frente a, encima de vs. sobre vs. en, entre takes subject pronouns (entre tú y yo), dentro de for time | spanish-lessons/day-107.html |
 | 2026-11-01 | 108 | 交通工具與移動方式(Ir en / a pie / Tomar / Coger / Llegar / Bajarse) | New topic, not covered in Days 1-107: ir en + vehicle without article, ir a pie as the exception, tomar/coger + article (coger is vulgar in much of Latin America), llegar a, subir(se) a / bajarse de-en, ¿Cuánto tarda? | spanish-lessons/day-108.html |
 | 2026-11-02 | 109 | 「一樣的」與「本人」(Mismo / Misma / Lo mismo) | New topic, not covered in Days 1-108: el/la/los/las mismo(s) + noun + que (adjective, agrees), lo mismo (neuter, "the same thing"; lo mismo digo), pronoun + mismo for "oneself" (yo mismo / ella misma), adverb + mismo for emphasis (ahora/aquí/hoy mismo, invariable) | spanish-lessons/day-109.html |
+| 2026-11-03 | 110 | 「另一個」與「其他的」(Otro / Los demás / El resto) | New topic, not covered in Days 1-109: otro/otra/otros/otras with no un/una before it, otro before numbers (otros dos), los demás / las demás (always plural with article) vs. el resto (singular whole), uno ... el otro / unos ... otros, fixed phrases (otra vez, otra cosa, por otro lado) | spanish-lessons/day-110.html |
 
 Note: a duplicate "Day 2" lesson (ser/¿De dónde eres?, i.e. the same topic
 as Day 5) was independently produced on 2026-07-14 on an orphaned branch
@@ -404,6 +405,7 @@ chapter, check this table and continue from the last one.
 | 2026-10-31 | 第 10 章 載營魄抱一 (Zài yíng pò bào yī) — "Embracing the One" | six questions on practice (unity of body/spirit, soft breath like an infant, cleansing the dark mirror, governing without contrivance, receptive gates of heaven, understanding without cleverness); closing lines 生而不有…是謂玄德 repeated in Ch. 51; follows Ch. 9 | Ch. 10 |
 | 2026-11-01 | 第 11 章 三十輻共一轂 (Sānshí fú gòng yī gū) — "Thirty Spokes" | wheel hub, clay vessel, room with doors and windows: usefulness comes from the empty space; 有之以為利,無之以為用; follows Ch. 10 | Ch. 11 |
 | 2026-11-02 | 第 12 章 五色令人目盲 (Wǔ sè lìng rén mù máng) — "The Five Colors" | five colors/tones/flavors dull the senses; racing/hunting and rare goods disturb the heart and conduct; 為腹不為目 (belly = inner sufficiency, eye = outward display), 去彼取此; over-stimulation vs. Chapter 11's emptiness | briefings/2026-11-02.html |
+| 2026-11-03 | 第 13 章 寵辱若驚 (Chǒng rǔ ruò jīng) — "Favor and Disgrace Alike Startle" | praise and blame both hand your worth to others; 貴大患若身 (misfortune comes from having a body/attachment to self); 貴以身為天下 可寄天下 paradox about rulers; follows Ch. 12 | Ch. 13 |
 
 ## Country/Region/Faction Spotlights Featured
 
@@ -513,6 +515,7 @@ chapter, check this table and continue from the last one.
 | 2026-10-31 | Romania (羅馬尼亞) | briefings/2026-10-31.html |
 | 2026-11-01 | Czechia (捷克) | briefings/2026-11-01.html |
 | 2026-11-02 | Scotland (蘇格蘭) | briefings/2026-11-02.html |
+| 2026-11-03 | Pakistan (巴基斯坦) | briefings/2026-11-03.html |
 
 ## Internet Meme Spotlights Featured
 
@@ -622,6 +625,7 @@ chapter, check this table and continue from the last one.
 | 2026-10-31 | The Floss / "Backpack Kid" (Russell Horning, 2016-2018, SNL May 2017, Fortnite emote 2018) | briefings/2026-10-31.html |
 | 2026-11-01 | "Trololo" / Mr. Trololo (Eduard Khil, 1976 recording, viral 2009-2010) | briefings/2026-11-01.html |
 | 2026-11-02 | Ellen's Oscar Selfie (March 2, 2014, 86th Academy Awards) | briefings/2026-11-02.html |
+| 2026-11-03 | "Sad Affleck" (悲傷阿弗列克, Batman v Superman press interview clip, early 2016; revived by the Feb 2023 Grammys "Bored Ben Affleck" moment) | briefings/2026-11-03.html |
 
 ## Film / Performing Arts Spotlights Featured
 
@@ -729,6 +733,7 @@ and never repeat a subject already listed.
 | 2026-10-31 | The Shining (1980, dir. Stanley Kubrick) | briefings/2026-10-31.html |
 | 2026-11-01 | West Side Story (musical 1957; film 1961, dirs. Robert Wise & Jerome Robbins) | briefings/2026-11-01.html |
 | 2026-11-02 | Jaws (1975, dir. Steven Spielberg) | briefings/2026-11-02.html |
+| 2026-11-03 | Sichuan Opera and Face-Changing (川劇與變臉, Biàn Liǎn; 抹臉/吹臉/扯臉; The King of Masks 1996 dir. Wu Tianming) | briefings/2026-11-03.html |
 
 ## Film-Appreciation / Criticism Method Lessons
 
@@ -838,6 +843,7 @@ table and pick one not yet covered.
 | 2026-10-31 | The Flashback & Temporal Structure (Lesson 93; entry cue, whose memory, how past looks/sounds different, information function, effect on the present, exit cue; worked example Casablanca Paris flashback) | Casablanca (1942, dir. Michael Curtiz) | briefings/2026-10-31.html |
 | 2026-11-01 | The Cold Open / Prologue (Lesson 94; promise, mini-story, rules and character, the seam, rhyme with the ending; worked example Inglourious Basterds Chapter One farmhouse scene) | Inglourious Basterds (2009, dir. Quentin Tarantino) | briefings/2026-11-01.html |
 | 2026-11-02 | Character Foils / Contrast Characters (Lesson 95; identify the pair, shared ground, contrasts incl. style, mutual revelation, arc, theme; worked example Amadeus 1984, dir. Miloš Forman, Salieri hearing the Serenade for 13 Winds) | briefings/2026-11-02.html |
+| 2026-11-03 | Shot / Reverse Shot & Dialogue Coverage (Lesson 96; whose face, how close, eyeline off-lens vs. direct, over-the-shoulder vs. clean singles, breaks in the pattern; worked example The Silence of the Lambs 1991, dir. Jonathan Demme, Starling's first meeting with Lecter) | briefings/2026-11-03.html |
 
 ## Run Notes
 
@@ -1249,3 +1255,7 @@ re-elected May 19, 2026) was checked by search. Today's picks: Spanish Day 109
 95 (character foils), checked against the tracking tables as unused (grep for
 "foil", "Jaws", "Scotland", "selfie" returned nothing before today).
 Tomorrow should continue with Daodejing Chapter 13 and Spanish Day 110.
+
+**2026-11-03:** STEP 0 run first: `date -u` read `Mon Nov 2 21:35 UTC` and `TZ=Asia/Taipei date` read `Tue Nov 3 05:35 CST`, so the actual date is 2026-11-03 (Tuesday) even though the session's context header said 2026-11-02. Session started on `claude/magical-darwin-42paxk`, which has the same content as the portal. `list_branches` showed only the first 30 branches in one page, so all `claude/*` branches were compared with `git fetch` and `git ls-tree`: the longest history is `claude/daily-2026-11-02` (110 briefings, 109 lessons), identical to the Pages portal branch. The Pages deployments API (`environment=github-pages`) returned the latest successful deployment `ref: claude/epic-brahmagupta-g1y16m`, `sha: 5c56fea`. days_owed = 1, so today's entry was produced on `claude/daily-2026-11-03` cut from that tip.
+Section 1: Tuesday 05:35 Taipei. The US Monday Nov 2 session closed at 05:00 Taipei (US clocks went back Nov 1). S&P 500 7,541.40 (-0.51%) and Nasdaq 25,164.32 (-1.07%) from CNBC's close via search summary; Dow about 51,983 (+0.4%, Kiplinger) vs. +0.82% (24/7 Wall St.), flagged as inconsistent. The S&P percentage ties to the Oct 30 close of 7,580.07 logged yesterday; the Nasdaq percentage only loosely. Taiwan/Japan/Korea/Hong Kong Nov 2 closes could NOT be confirmed (searches returned only August or Oct 6 data) and were stated as unconfirmed. cnbc.com is not reachable from this session (DNS blocked). Section 2: nothing new dated Nov 2-3; Xcode 27 background only. Country: Pakistan; president Zardari and PM Sharif from a Wikipedia listing found by search, flagged unverified for recent changes; population from census (241.5M, 2023) and a UN mid-2026 estimate (259M). Meme, film, method and Daodejing text come from general knowledge, flagged in the briefing.
+Sequences advanced: Spanish Day 110 (otro / los demás / el resto), Daodejing Ch. 13, Pakistan, Sad Affleck, Sichuan Opera & Face-Changing, Method Lesson 96 (Shot / Reverse Shot, The Silence of the Lambs). Checked against the tracking tables as unused (grep for "Pakistan", "Sad Affleck", "Sichuan", "變臉" returned nothing before today; Day 55 covered alguno/ninguno but not otro/demás/resto). Tomorrow should continue with Daodejing Chapter 14 and Spanish Day 111.
