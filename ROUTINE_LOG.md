@@ -257,6 +257,7 @@ the repo so a permanent link can be shared.
 | 2026-11-01 | 108 | 交通工具與移動方式(Ir en / a pie / Tomar / Coger / Llegar / Bajarse) | New topic, not covered in Days 1-107: ir en + vehicle without article, ir a pie as the exception, tomar/coger + article (coger is vulgar in much of Latin America), llegar a, subir(se) a / bajarse de-en, ¿Cuánto tarda? | spanish-lessons/day-108.html |
 | 2026-11-02 | 109 | 「一樣的」與「本人」(Mismo / Misma / Lo mismo) | New topic, not covered in Days 1-108: el/la/los/las mismo(s) + noun + que (adjective, agrees), lo mismo (neuter, "the same thing"; lo mismo digo), pronoun + mismo for "oneself" (yo mismo / ella misma), adverb + mismo for emphasis (ahora/aquí/hoy mismo, invariable) | spanish-lessons/day-109.html |
 | 2026-11-03 | 110 | 「另一個」與「其他的」(Otro / Los demás / El resto) | New topic, not covered in Days 1-109: otro/otra/otros/otras with no un/una before it, otro before numbers (otros dos), los demás / las demás (always plural with article) vs. el resto (singular whole), uno ... el otro / unos ... otros, fixed phrases (otra vez, otra cosa, por otro lado) | spanish-lessons/day-110.html |
+| 2026-11-04 | 111 | O sea / Es decir / Es que / Así que(「也就是說」「換句話說」「問題是」「所以」) | New topic, not covered in Days 1-110: o sea (restate / confirm inference; colloquial filler), es decir (more formal "that is to say"), es que (introduces an explanation or excuse, softens refusals), así que (result connector + indicative; more colloquial than Day 102's por eso); contrasted with porque (Day 90). | spanish-lessons/day-111.html |
 
 Note: a duplicate "Day 2" lesson (ser/¿De dónde eres?, i.e. the same topic
 as Day 5) was independently produced on 2026-07-14 on an orphaned branch
@@ -406,6 +407,7 @@ chapter, check this table and continue from the last one.
 | 2026-11-01 | 第 11 章 三十輻共一轂 (Sānshí fú gòng yī gū) — "Thirty Spokes" | wheel hub, clay vessel, room with doors and windows: usefulness comes from the empty space; 有之以為利,無之以為用; follows Ch. 10 | Ch. 11 |
 | 2026-11-02 | 第 12 章 五色令人目盲 (Wǔ sè lìng rén mù máng) — "The Five Colors" | five colors/tones/flavors dull the senses; racing/hunting and rare goods disturb the heart and conduct; 為腹不為目 (belly = inner sufficiency, eye = outward display), 去彼取此; over-stimulation vs. Chapter 11's emptiness | briefings/2026-11-02.html |
 | 2026-11-03 | 第 13 章 寵辱若驚 (Chǒng rǔ ruò jīng) — "Favor and Disgrace Alike Startle" | praise and blame both hand your worth to others; 貴大患若身 (misfortune comes from having a body/attachment to self); 貴以身為天下 可寄天下 paradox about rulers; follows Ch. 12 | Ch. 13 |
+| 2026-11-04 | 第 14 章 視之不見 (Shì zhī bù jiàn) — "Looked At, Yet Not Seen" | the Way beyond each sense: 夷 (unseen), 希 (unheard), 微 (untouchable) blend into one; 無狀之狀 無物之象 惚恍; 迎之不見其首 隨之不見其後; 執古之道 以御今之有 道紀; follows Ch. 13 | Ch. 14 |
 
 ## Country/Region/Faction Spotlights Featured
 
@@ -516,6 +518,7 @@ chapter, check this table and continue from the last one.
 | 2026-11-01 | Czechia (捷克) | briefings/2026-11-01.html |
 | 2026-11-02 | Scotland (蘇格蘭) | briefings/2026-11-02.html |
 | 2026-11-03 | Pakistan (巴基斯坦) | briefings/2026-11-03.html |
+| 2026-11-04 | Costa Rica (哥斯大黎加) | briefings/2026-11-04.html |
 
 ## Internet Meme Spotlights Featured
 
@@ -626,6 +629,7 @@ chapter, check this table and continue from the last one.
 | 2026-11-01 | "Trololo" / Mr. Trololo (Eduard Khil, 1976 recording, viral 2009-2010) | briefings/2026-11-01.html |
 | 2026-11-02 | Ellen's Oscar Selfie (March 2, 2014, 86th Academy Awards) | briefings/2026-11-02.html |
 | 2026-11-03 | "Sad Affleck" (悲傷阿弗列克, Batman v Superman press interview clip, early 2016; revived by the Feb 2023 Grammys "Bored Ben Affleck" moment) | briefings/2026-11-03.html |
+| 2026-11-04 | The Oscars Slap / "Will Smith Slap" (March 27, 2022, 94th Academy Awards; Smith resigned from the Academy April 1 and was banned 10 years on April 8) | briefings/2026-11-04.html |
 
 ## Film / Performing Arts Spotlights Featured
 
@@ -734,6 +738,7 @@ and never repeat a subject already listed.
 | 2026-11-01 | West Side Story (musical 1957; film 1961, dirs. Robert Wise & Jerome Robbins) | briefings/2026-11-01.html |
 | 2026-11-02 | Jaws (1975, dir. Steven Spielberg) | briefings/2026-11-02.html |
 | 2026-11-03 | Sichuan Opera and Face-Changing (川劇與變臉, Biàn Liǎn; 抹臉/吹臉/扯臉; The King of Masks 1996 dir. Wu Tianming) | briefings/2026-11-03.html |
+| 2026-11-04 | Ikiru (生きる, 1952, dir. Akira Kurosawa; Takashi Shimura; remade as Living, 2022) | briefings/2026-11-04.html |
 
 ## Film-Appreciation / Criticism Method Lessons
 
@@ -844,6 +849,7 @@ table and pick one not yet covered.
 | 2026-11-01 | The Cold Open / Prologue (Lesson 94; promise, mini-story, rules and character, the seam, rhyme with the ending; worked example Inglourious Basterds Chapter One farmhouse scene) | Inglourious Basterds (2009, dir. Quentin Tarantino) | briefings/2026-11-01.html |
 | 2026-11-02 | Character Foils / Contrast Characters (Lesson 95; identify the pair, shared ground, contrasts incl. style, mutual revelation, arc, theme; worked example Amadeus 1984, dir. Miloš Forman, Salieri hearing the Serenade for 13 Winds) | briefings/2026-11-02.html |
 | 2026-11-03 | Shot / Reverse Shot & Dialogue Coverage (Lesson 96; whose face, how close, eyeline off-lens vs. direct, over-the-shoulder vs. clean singles, breaks in the pattern; worked example The Silence of the Lambs 1991, dir. Jonathan Demme, Starling's first meeting with Lecter) | briefings/2026-11-03.html |
+| 2026-11-04 | Reading Visual Comedy: Staging, Timing & the Gag (Lesson 97; setup, staging, beats/rule of three, static wide vs. cut, deadpan performance, character; worked example Steamboat Bill, Jr. 1928, dir. Charles Reisner, Buster Keaton, the falling house front) | Steamboat Bill, Jr. (1928, dir. Charles Reisner) | briefings/2026-11-04.html |
 
 ## Run Notes
 
@@ -1259,3 +1265,7 @@ Tomorrow should continue with Daodejing Chapter 13 and Spanish Day 110.
 **2026-11-03:** STEP 0 run first: `date -u` read `Mon Nov 2 21:35 UTC` and `TZ=Asia/Taipei date` read `Tue Nov 3 05:35 CST`, so the actual date is 2026-11-03 (Tuesday) even though the session's context header said 2026-11-02. Session started on `claude/magical-darwin-42paxk`, which has the same content as the portal. `list_branches` showed only the first 30 branches in one page, so all `claude/*` branches were compared with `git fetch` and `git ls-tree`: the longest history is `claude/daily-2026-11-02` (110 briefings, 109 lessons), identical to the Pages portal branch. The Pages deployments API (`environment=github-pages`) returned the latest successful deployment `ref: claude/epic-brahmagupta-g1y16m`, `sha: 5c56fea`. days_owed = 1, so today's entry was produced on `claude/daily-2026-11-03` cut from that tip.
 Section 1: Tuesday 05:35 Taipei. The US Monday Nov 2 session closed at 05:00 Taipei (US clocks went back Nov 1). S&P 500 7,541.40 (-0.51%) and Nasdaq 25,164.32 (-1.07%) from CNBC's close via search summary; Dow about 51,983 (+0.4%, Kiplinger) vs. +0.82% (24/7 Wall St.), flagged as inconsistent. The S&P percentage ties to the Oct 30 close of 7,580.07 logged yesterday; the Nasdaq percentage only loosely. Taiwan/Japan/Korea/Hong Kong Nov 2 closes could NOT be confirmed (searches returned only August or Oct 6 data) and were stated as unconfirmed. cnbc.com is not reachable from this session (DNS blocked). Section 2: nothing new dated Nov 2-3; Xcode 27 background only. Country: Pakistan; president Zardari and PM Sharif from a Wikipedia listing found by search, flagged unverified for recent changes; population from census (241.5M, 2023) and a UN mid-2026 estimate (259M). Meme, film, method and Daodejing text come from general knowledge, flagged in the briefing.
 Sequences advanced: Spanish Day 110 (otro / los demás / el resto), Daodejing Ch. 13, Pakistan, Sad Affleck, Sichuan Opera & Face-Changing, Method Lesson 96 (Shot / Reverse Shot, The Silence of the Lambs). Checked against the tracking tables as unused (grep for "Pakistan", "Sad Affleck", "Sichuan", "變臉" returned nothing before today; Day 55 covered alguno/ninguno but not otro/demás/resto). Tomorrow should continue with Daodejing Chapter 14 and Spanish Day 111.
+
+**2026-11-04:** STEP 0 run first: `date -u` read `Tue Nov 3 21:35 UTC` and `TZ=Asia/Taipei date` read `Wed Nov 4 05:35 CST`, so the actual date is 2026-11-04 (Wednesday) even though the session's context header said 2026-11-03. Session started on `claude/magical-darwin-nmb6df`, which is a stale base and was ignored. The Pages deployments API returned latest successful deployment `ref: claude/epic-brahmagupta-g1y16m`, `sha: 20892f4`, holding the 2026-11-03 entry (111 briefings, 110 lessons); `list_branches` returned only the first 30 branches, so `git fetch` and `git ls-tree` were used to compare all `claude/*` branches, and none was ahead of the portal. days_owed = 1, so today's entry was produced on `claude/daily-2026-11-04` cut from the portal tip.
+Section 1: The US Tuesday Nov 3 (midterm day) session closed at 05:00 Taipei. S&P 500 7,567.72 (+0.3%) and Nasdaq 25,372.01 (+0.8%) from an Investing.com close via search summary; both reconcile with the Nov 2 closes logged yesterday (+0.35% and +0.83%). The Dow close was NOT confirmed. Asia Nov 3 closes came from a single CNBC live-page summary: TAIEX 43,307.54, Kospi 5,648.79, Hang Seng about +0.3-0.4%, CSI 300 -0.2%, ASX 200 +0.34%, Japan closed. The percentage declines (-3.59% / -3.72%) were attributed to both Kospi and TAIEX in different summaries, so they are flagged as unverified in the briefing. cnbc.com and kiplinger.com are not reachable from this session, so no page could be opened directly. Section 2: iOS 27.3 beta 1 (Nov 3) and iOS 27.2.1 testing from 9to5Mac/MacRumors summaries; nothing new for Xcode/Android/Flutter. Country: Costa Rica; president Laura Fernández (sworn in May 8, 2026) verified by search; population/GDP/religion approximate. Meme, film, method and Daodejing text come from general knowledge and are flagged in the briefing.
+Sequences advanced: Spanish Day 111 (o sea / es decir / es que / así que), Daodejing Ch. 14, Costa Rica, Oscars Slap, Ikiru, Method Lesson 97 (Reading Visual Comedy, Steamboat Bill, Jr.). Checked against the tracking tables as unused (grep for "Costa Rica", "Slap", "Ikiru", "Keaton", "es que", "o sea", "así que" returned nothing in the tables before today). Tomorrow should continue with Daodejing Chapter 15 and Spanish Day 112.
