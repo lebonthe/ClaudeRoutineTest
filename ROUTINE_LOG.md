@@ -260,6 +260,7 @@ the repo so a permanent link can be shared.
 | 2026-11-04 | 111 | O sea / Es decir / Es que / Así que(「也就是說」「換句話說」「問題是」「所以」) | New topic, not covered in Days 1-110: o sea (restate / confirm inference; colloquial filler), es decir (more formal "that is to say"), es que (introduces an explanation or excuse, softens refusals), así que (result connector + indicative; more colloquial than Day 102's por eso); contrasted with porque (Day 90). | spanish-lessons/day-111.html |
 | 2026-11-05 | 112 | El Voseo(Vos 取代 Tú:vos sos / tenés / querés / hablás;命令式 hablá / comé / viví / vení) | New topic, not covered in Days 1-111: voseo present (vosotros form minus i, no stem change, ser = sos), vos imperative, con vos / te / tu unchanged, regions (Argentina, Uruguay, Paraguay, Central America incl. Costa Rica, parts of Colombia/Ecuador). | spanish-lessons/day-112.html |
 | 2026-11-06 | 113 | Ver / Mirar / Oír / Escuchar(看見、注視、聽見、聆聽) | New topic, not covered in Days 1-112: ver (veo; vi/vio) vs. mirar (deliberate looking), oír (oigo, oyes; oí, oyó, oyeron) vs. escuchar (deliberate listening), personal a with people, perception verb + infinitive (la vi salir), ¡Oye!/¡Mira!, no veo nada vs. no miro nada. | spanish-lessons/day-113.html |
+| 2026-11-07 | 114 | Demasiado / Bastante / Suficiente / Poco(太多、相當、足夠、很少) | New topic, not covered in Days 1-113: quantifiers as adjectives (agree with noun: demasiada gente) vs. adverbs (fixed: demasiado jóvenes), bastante (quite / enough; bastantes), suficiente, poco vs. un poco (de), sobrar / faltar. | spanish-lessons/day-114.html |
 
 Note: a duplicate "Day 2" lesson (ser/¿De dónde eres?, i.e. the same topic
 as Day 5) was independently produced on 2026-07-14 on an orphaned branch
@@ -412,6 +413,7 @@ chapter, check this table and continue from the last one.
 | 2026-11-04 | 第 14 章 視之不見 (Shì zhī bù jiàn) — "Looked At, Yet Not Seen" | the Way beyond each sense: 夷 (unseen), 希 (unheard), 微 (untouchable) blend into one; 無狀之狀 無物之象 惚恍; 迎之不見其首 隨之不見其後; 執古之道 以御今之有 道紀; follows Ch. 13 | Ch. 14 |
 | 2026-11-05 | 第 15 章 古之善為士者 (Gǔ zhī shàn wéi shì zhě) — "The Skilled Ones of Old" | 微妙玄通 深不可識; seven images (豫 猶 儼 渙 敦 曠 混); 孰能濁以靜之徐清; 保此道者不欲盈; 蔽不新成 vs. 蔽而新成 variant; follows Ch. 14 | briefings/2026-11-05.html |
 | 2026-11-06 | 第 16 章 致虛極 (Zhì xū jí) — "Reach Utmost Emptiness" | 致虛極 守靜篤; 萬物並作 吾以觀復; 歸根曰靜 是謂復命; 復命曰常 知常曰明; 不知常 妄作凶; 知常容 容乃公 (公乃全/王 variant); follows Ch. 15 | briefings/2026-11-06.html |
+| 2026-11-07 | 第 17 章 太上,下知有之 (Tài shàng, xià zhī yǒu zhī) — "The Best Rulers Are Barely Known" | four grades of ruler (known only / loved and praised / feared / despised); 信不足焉 有不信焉; 悠兮其貴言; 功成事遂 百姓皆謂我自然; 下知有之 vs. 不知有之 variant; follows Ch. 16 | briefings/2026-11-07.html |
 
 ## Country/Region/Faction Spotlights Featured
 
@@ -525,6 +527,7 @@ chapter, check this table and continue from the last one.
 | 2026-11-04 | Costa Rica (哥斯大黎加) | briefings/2026-11-04.html |
 | 2026-11-05 | Ecuador (厄瓜多) | briefings/2026-11-05.html |
 | 2026-11-06 | Maldives (馬爾地夫) | briefings/2026-11-06.html |
+| 2026-11-07 | Tanzania (坦尚尼亞) | briefings/2026-11-07.html |
 
 ## Internet Meme Spotlights Featured
 
@@ -638,6 +641,7 @@ chapter, check this table and continue from the last one.
 | 2026-11-04 | The Oscars Slap / "Will Smith Slap" (March 27, 2022, 94th Academy Awards; Smith resigned from the Academy April 1 and was banned 10 years on April 8) | briefings/2026-11-04.html |
 | 2026-11-05 | The Wednesday Dance (星期三之舞, Netflix Wednesday, Nov 23, 2022; Jenna Ortega; "Goo Goo Muck" / sped-up "Bloody Mary") | briefings/2026-11-05.html |
 | 2026-11-06 | "Storm Area 51, They Can't Stop All of Us" (Facebook event created June 27, 2019 by Matty Roberts; planned Sept 20, 2019; ~2M RSVPs; Naruto run; Alienstock) | briefings/2026-11-06.html |
+| 2026-11-07 | "Charlie Bit My Finger — again!" (YouTube, May 22, 2007, Howard Davies-Carr; Harry and Charlie; 2021 NFT sale and removal) | briefings/2026-11-07.html |
 
 ## Film / Performing Arts Spotlights Featured
 
@@ -749,6 +753,7 @@ and never repeat a subject already listed.
 | 2026-11-04 | Ikiru (生きる, 1952, dir. Akira Kurosawa; Takashi Shimura; remade as Living, 2022) | briefings/2026-11-04.html |
 | 2026-11-05 | Ugetsu (雨月物語, 1953, dir. Kenji Mizoguchi; Masayuki Mori, Machiko Kyō, Kinuyo Tanaka; cinematography Kazuo Miyagawa) | briefings/2026-11-05.html |
 | 2026-11-06 | The Good, the Bad and the Ugly (Il buono, il brutto, il cattivo, 1966, dir. Sergio Leone; Eastwood, Van Cleef, Wallach; Morricone; Sad Hill cemetery) | briefings/2026-11-06.html |
+| 2026-11-07 | Mother India (1957, dir. Mehboob Khan; Nargis, Sunil Dutt, Rajendra Kumar, Raaj Kumar; music Naushad; remake of Aurat 1940; Oscar-nominated 1958) | briefings/2026-11-07.html |
 
 ## Film-Appreciation / Criticism Method Lessons
 
@@ -862,6 +867,7 @@ table and pick one not yet covered.
 | 2026-11-04 | Reading Visual Comedy: Staging, Timing & the Gag (Lesson 97; setup, staging, beats/rule of three, static wide vs. cut, deadpan performance, character; worked example Steamboat Bill, Jr. 1928, dir. Charles Reisner, Buster Keaton, the falling house front) | Steamboat Bill, Jr. (1928, dir. Charles Reisner) | briefings/2026-11-04.html |
 | 2026-11-05 | Ambient Soundscape & Sound Perspective (Lesson 98; sound layers, mix, close vs. distant perspective, sound match; worked example Apocalypse Now 1979, dir. Francis Ford Coppola, sound design Walter Murch, helicopter-to-ceiling-fan opening) | Apocalypse Now (1979) | briefings/2026-11-05.html |
 | 2026-11-06 | Screen Time vs. Story Time / Real-Time & Time Dilation (Lesson 99; compare runtime to story duration, find clocks, find stretching and compression, effect, where the film breaks its clock; worked example High Noon 1952, dir. Fred Zinnemann, clocks and the noon train countdown) | High Noon (1952) | briefings/2026-11-06.html |
+| 2026-11-07 | Proxemics: Distance Between Characters as Meaning (Lesson 100; Hall's four zones, measure, track change, barriers, compare scenes; worked example Citizen Kane 1941, dir. Orson Welles, the breakfast-table sequence) | Citizen Kane (1941) | briefings/2026-11-07.html |
 
 ## Run Notes
 
@@ -1290,3 +1296,7 @@ Sequences advanced: Spanish Day 112 (voseo), Daodejing Ch. 15, Ecuador, The Wedn
 **2026-11-06:** STEP 0 run first: `date -u` read `Thu Nov 5 21:35 UTC` and `TZ=Asia/Taipei date` read `Fri Nov 6 05:35 CST`, so the actual date is 2026-11-06 (Friday) even though the session's context header said 2026-11-05. Session started on `claude/magical-darwin-k1lx38` (stale base, ignored). Pages deployments API: latest `state: success` deployment ref `claude/epic-brahmagupta-g1y16m` (created 2026-11-04T21:40Z); portal tip `f9f26c4` holds the 2026-11-05 entry (113 briefings); no other claude/* branch was ahead. days_owed = 1, so today's entry was produced on `claude/daily-2026-11-06` cut from the portal tip.
 Section 1: most recent closed US session is Thursday Nov 5. Dow -1,833.06 (-3.44%) to 51,523.06, S&P 500 -4.36% to 7,353.73, Nasdaq -5.52% to 24,315.00 (Nasdaq in correction) per CNBC/Yahoo/NBC summaries; cross-checked by applying Wednesday's reported gains to Tuesday's closes (consistent), and one aggregator's differing levels were treated as an intraday snapshot. Asia Thursday Nov 5 closes from an AP summary: TAIEX -3.2% to 41,574.72 (consistent with the Nov 4 figure 42,948.91 flagged yesterday, now corroborated), Nikkei -1.8% to 61,077.90, Kospi -5.3% to 5,383.80, Hang Seng +3.7% to 24,796.98, Shanghai +0.1% to 3,689.91. Asian closes pre-date Wall Street's Thursday drop. Source hosts (yahoo, cnbc, cp24 etc.) are DNS-blocked from this session, so no page could be opened; all figures are search-summary based and labelled as such. Section 2: nothing new dated Nov 5-6; Flutter/Xcode items flagged low-confidence. Country: Maldives; president Mohamed Muizzu (since Nov 17, 2023), no Nov 2026 reporting found, flagged. Meme, film, method, Daodejing text from general knowledge, flagged in the briefing.
 Sequences advanced: Spanish Day 113 (ver/mirar/oír/escuchar), Daodejing Ch. 16, Maldives, Storm Area 51, The Good the Bad and the Ugly, Method Lesson 99 (screen time vs. story time, High Noon). Checked against the tracking tables as unused. Tomorrow should continue with Daodejing Chapter 17 and Spanish Day 114.
+
+**2026-11-07:** STEP 0 run first: `date -u` read `Fri Nov 6 21:36 UTC` and `TZ=Asia/Taipei date` read `Sat Nov 7 05:36 CST`, so the actual date is 2026-11-07 (Saturday) even though the session's context header said 2026-11-06. Session started on `claude/magical-darwin-aicwuy` (stale base, ignored). Pages deployments API: latest success deployment ref `claude/epic-brahmagupta-g1y16m` (created 2026-11-05T21:40Z), tip `29b2bd8`, identical to `claude/daily-2026-11-06` and holding the 2026-11-06 entry; no other claude/* branch was ahead. days_owed = 1, so today's entry was produced on `claude/daily-2026-11-07` cut from the portal tip. (The `list_branches` MCP call returned only the first 30 branches; `git ls-remote` was used for the full list.)
+Section 1: most recent closed US session is Friday Nov 6; Saturday, so no Asian session today. US per CNBC via search summary: Nasdaq +1.09% to 24,579.42, S&P 500 +0.31% to 7,376.86, Dow -237.33 (-0.46%) to 51,285.73; all three tie arithmetically to Thursday's closes logged on 2026-11-06. October payrolls +165,000 vs. ~59,000 expected, unemployment 4.1%. A 1 p.m. ET snapshot from another source was treated as intraday. Asia Friday Nov 6: Nikkei -6.0% to 57,434.77, Kospi -6.0% to 5,059.69 (circuit breakers intraday), Hang Seng -1.3% to 24,481.86; alternative figures from a second outlet noted. TAIEX 39,701.64 (-1,873.08, -4.5%) is from a single report and ties to Thursday's 41,574.72, flagged probable/unverified. Source hosts are DNS-blocked from this session, so everything is search-summary based. Section 2: nothing new dated Nov 6-7; carried-over items flagged. Country: Tanzania; president Samia Suluhu Hassan (since March 2021); the October 2025 election/crackdown recollection is from general knowledge and flagged unverified. Meme, film, method and Daodejing text come from general knowledge and are flagged in the briefing.
+Sequences advanced: Spanish Day 114 (demasiado / bastante / suficiente / poco), Daodejing Ch. 17, Tanzania, Charlie Bit My Finger, Mother India, Method Lesson 100 (Proxemics, Citizen Kane breakfast sequence). Checked against the tracking tables as unused (grep for "Tanzania", "Charlie bit", "Mother India", "demasiado", "Hall's" returned nothing in the tables before today). Tomorrow should continue with Daodejing Chapter 18 and Spanish Day 115.
