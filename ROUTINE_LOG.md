@@ -261,6 +261,7 @@ the repo so a permanent link can be shared.
 | 2026-11-05 | 112 | El Voseo(Vos 取代 Tú:vos sos / tenés / querés / hablás;命令式 hablá / comé / viví / vení) | New topic, not covered in Days 1-111: voseo present (vosotros form minus i, no stem change, ser = sos), vos imperative, con vos / te / tu unchanged, regions (Argentina, Uruguay, Paraguay, Central America incl. Costa Rica, parts of Colombia/Ecuador). | spanish-lessons/day-112.html |
 | 2026-11-06 | 113 | Ver / Mirar / Oír / Escuchar(看見、注視、聽見、聆聽) | New topic, not covered in Days 1-112: ver (veo; vi/vio) vs. mirar (deliberate looking), oír (oigo, oyes; oí, oyó, oyeron) vs. escuchar (deliberate listening), personal a with people, perception verb + infinitive (la vi salir), ¡Oye!/¡Mira!, no veo nada vs. no miro nada. | spanish-lessons/day-113.html |
 | 2026-11-07 | 114 | Demasiado / Bastante / Suficiente / Poco(太多、相當、足夠、很少) | New topic, not covered in Days 1-113: quantifiers as adjectives (agree with noun: demasiada gente) vs. adverbs (fixed: demasiado jóvenes), bastante (quite / enough; bastantes), suficiente, poco vs. un poco (de), sobrar / faltar. | spanish-lessons/day-114.html |
+| 2026-11-08 | 115 | Prestar / Pedir prestado / Dejar / Devolver(借出、借入、讓、歸還) | New topic, not covered in Days 1-114: lend vs. borrow by direction, dejar = colloquial lend, devolver (o→ue) vs. volver, double pronouns te lo presto / se lo presto. | spanish-lessons/day-115.html |
 
 Note: a duplicate "Day 2" lesson (ser/¿De dónde eres?, i.e. the same topic
 as Day 5) was independently produced on 2026-07-14 on an orphaned branch
@@ -414,6 +415,7 @@ chapter, check this table and continue from the last one.
 | 2026-11-05 | 第 15 章 古之善為士者 (Gǔ zhī shàn wéi shì zhě) — "The Skilled Ones of Old" | 微妙玄通 深不可識; seven images (豫 猶 儼 渙 敦 曠 混); 孰能濁以靜之徐清; 保此道者不欲盈; 蔽不新成 vs. 蔽而新成 variant; follows Ch. 14 | briefings/2026-11-05.html |
 | 2026-11-06 | 第 16 章 致虛極 (Zhì xū jí) — "Reach Utmost Emptiness" | 致虛極 守靜篤; 萬物並作 吾以觀復; 歸根曰靜 是謂復命; 復命曰常 知常曰明; 不知常 妄作凶; 知常容 容乃公 (公乃全/王 variant); follows Ch. 15 | briefings/2026-11-06.html |
 | 2026-11-07 | 第 17 章 太上,下知有之 (Tài shàng, xià zhī yǒu zhī) — "The Best Rulers Are Barely Known" | four grades of ruler (known only / loved and praised / feared / despised); 信不足焉 有不信焉; 悠兮其貴言; 功成事遂 百姓皆謂我自然; 下知有之 vs. 不知有之 variant; follows Ch. 16 | briefings/2026-11-07.html |
+| 2026-11-08 | 第 18 章 大道廢,有仁義 (Dà dào fèi, yǒu rén yì) — "When the Great Way Is Abandoned" | virtues named only after the natural way is lost: 仁義, 大偽, 孝慈, 忠臣; Guodian-text variant noted; follows Ch. 17 | briefings/2026-11-08.html |
 
 ## Country/Region/Faction Spotlights Featured
 
@@ -528,6 +530,7 @@ chapter, check this table and continue from the last one.
 | 2026-11-05 | Ecuador (厄瓜多) | briefings/2026-11-05.html |
 | 2026-11-06 | Maldives (馬爾地夫) | briefings/2026-11-06.html |
 | 2026-11-07 | Tanzania (坦尚尼亞) | briefings/2026-11-07.html |
+| 2026-11-08 | Panama (巴拿馬) | briefings/2026-11-08.html |
 
 ## Internet Meme Spotlights Featured
 
@@ -642,6 +645,7 @@ chapter, check this table and continue from the last one.
 | 2026-11-05 | The Wednesday Dance (星期三之舞, Netflix Wednesday, Nov 23, 2022; Jenna Ortega; "Goo Goo Muck" / sped-up "Bloody Mary") | briefings/2026-11-05.html |
 | 2026-11-06 | "Storm Area 51, They Can't Stop All of Us" (Facebook event created June 27, 2019 by Matty Roberts; planned Sept 20, 2019; ~2M RSVPs; Naruto run; Alienstock) | briefings/2026-11-06.html |
 | 2026-11-07 | "Charlie Bit My Finger — again!" (YouTube, May 22, 2007, Howard Davies-Carr; Harry and Charlie; 2021 NFT sale and removal) | briefings/2026-11-07.html |
+| 2026-11-08 | "Dramatic Look" / Dramatic Chipmunk (2007; prairie dog clip, YouTube) | briefings/2026-11-08.html |
 
 ## Film / Performing Arts Spotlights Featured
 
@@ -754,6 +758,7 @@ and never repeat a subject already listed.
 | 2026-11-05 | Ugetsu (雨月物語, 1953, dir. Kenji Mizoguchi; Masayuki Mori, Machiko Kyō, Kinuyo Tanaka; cinematography Kazuo Miyagawa) | briefings/2026-11-05.html |
 | 2026-11-06 | The Good, the Bad and the Ugly (Il buono, il brutto, il cattivo, 1966, dir. Sergio Leone; Eastwood, Van Cleef, Wallach; Morricone; Sad Hill cemetery) | briefings/2026-11-06.html |
 | 2026-11-07 | Mother India (1957, dir. Mehboob Khan; Nargis, Sunil Dutt, Rajendra Kumar, Raaj Kumar; music Naushad; remake of Aurat 1940; Oscar-nominated 1958) | briefings/2026-11-07.html |
+| 2026-11-08 | Throne of Blood (蜘蛛巣城, 1957, dir. Akira Kurosawa; Mifune, Isuzu Yamada; Macbeth adaptation with Noh influence) | briefings/2026-11-08.html |
 
 ## Film-Appreciation / Criticism Method Lessons
 
@@ -868,6 +873,7 @@ table and pick one not yet covered.
 | 2026-11-05 | Ambient Soundscape & Sound Perspective (Lesson 98; sound layers, mix, close vs. distant perspective, sound match; worked example Apocalypse Now 1979, dir. Francis Ford Coppola, sound design Walter Murch, helicopter-to-ceiling-fan opening) | Apocalypse Now (1979) | briefings/2026-11-05.html |
 | 2026-11-06 | Screen Time vs. Story Time / Real-Time & Time Dilation (Lesson 99; compare runtime to story duration, find clocks, find stretching and compression, effect, where the film breaks its clock; worked example High Noon 1952, dir. Fred Zinnemann, clocks and the noon train countdown) | High Noon (1952) | briefings/2026-11-06.html |
 | 2026-11-07 | Proxemics: Distance Between Characters as Meaning (Lesson 100; Hall's four zones, measure, track change, barriers, compare scenes; worked example Citizen Kane 1941, dir. Orson Welles, the breakfast-table sequence) | Citizen Kane (1941) | briefings/2026-11-07.html |
+| 2026-11-08 | The Crane Shot / Vertical Camera Movement (Lesson 101; direction, reveal/conceal, scale change, motivation; Gone with the Wind Atlanta depot sequence) | briefings/2026-11-08.html |
 
 ## Run Notes
 
@@ -1300,3 +1306,8 @@ Sequences advanced: Spanish Day 113 (ver/mirar/oír/escuchar), Daodejing Ch. 16,
 **2026-11-07:** STEP 0 run first: `date -u` read `Fri Nov 6 21:36 UTC` and `TZ=Asia/Taipei date` read `Sat Nov 7 05:36 CST`, so the actual date is 2026-11-07 (Saturday) even though the session's context header said 2026-11-06. Session started on `claude/magical-darwin-aicwuy` (stale base, ignored). Pages deployments API: latest success deployment ref `claude/epic-brahmagupta-g1y16m` (created 2026-11-05T21:40Z), tip `29b2bd8`, identical to `claude/daily-2026-11-06` and holding the 2026-11-06 entry; no other claude/* branch was ahead. days_owed = 1, so today's entry was produced on `claude/daily-2026-11-07` cut from the portal tip. (The `list_branches` MCP call returned only the first 30 branches; `git ls-remote` was used for the full list.)
 Section 1: most recent closed US session is Friday Nov 6; Saturday, so no Asian session today. US per CNBC via search summary: Nasdaq +1.09% to 24,579.42, S&P 500 +0.31% to 7,376.86, Dow -237.33 (-0.46%) to 51,285.73; all three tie arithmetically to Thursday's closes logged on 2026-11-06. October payrolls +165,000 vs. ~59,000 expected, unemployment 4.1%. A 1 p.m. ET snapshot from another source was treated as intraday. Asia Friday Nov 6: Nikkei -6.0% to 57,434.77, Kospi -6.0% to 5,059.69 (circuit breakers intraday), Hang Seng -1.3% to 24,481.86; alternative figures from a second outlet noted. TAIEX 39,701.64 (-1,873.08, -4.5%) is from a single report and ties to Thursday's 41,574.72, flagged probable/unverified. Source hosts are DNS-blocked from this session, so everything is search-summary based. Section 2: nothing new dated Nov 6-7; carried-over items flagged. Country: Tanzania; president Samia Suluhu Hassan (since March 2021); the October 2025 election/crackdown recollection is from general knowledge and flagged unverified. Meme, film, method and Daodejing text come from general knowledge and are flagged in the briefing.
 Sequences advanced: Spanish Day 114 (demasiado / bastante / suficiente / poco), Daodejing Ch. 17, Tanzania, Charlie Bit My Finger, Mother India, Method Lesson 100 (Proxemics, Citizen Kane breakfast sequence). Checked against the tracking tables as unused (grep for "Tanzania", "Charlie bit", "Mother India", "demasiado", "Hall's" returned nothing in the tables before today). Tomorrow should continue with Daodejing Chapter 18 and Spanish Day 115.
+
+
+**2026-11-08:** STEP 0 run first: `date -u` read `Sat Nov 7 21:35 UTC` and `TZ=Asia/Taipei date` read `Sun Nov 8 05:35 CST`, so the actual date is 2026-11-08 (Sunday) even though the session's context header said 2026-11-07. Session started on `claude/magical-darwin-di9zg1` (stale base, ignored). Pages deployments API: latest success ref `claude/epic-brahmagupta-g1y16m` (created 2026-11-06T21:41Z), tip `30314c2` holding the 2026-11-07 entry; no other claude/* branch was ahead (the `list_branches` call returned up to 2026-10-26 daily branches; `git fetch` showed no ahead branch). days_owed = 1, so today's entry was produced on `claude/daily-2026-11-08` cut from the portal tip.
+Section 1: Sunday in Taipei, all markets closed; latest sessions are Friday Nov 6 (US and Asia). Two searches for a weekend wrap or week-ahead returned only 2025 articles, so no new figures were added; Friday figures are carried over from the 2026-11-07 entry and labelled as not re-verified. Section 2: nothing new dated Nov 7-8; Xcode 27.2 (Oct 29) from Apple's release page snippet and Flutter/iOS 27 items from third-party posts flagged low-confidence. Country: Panama; president Mulino from general knowledge, unverified for 2026. Meme, film, method and Daodejing text from general knowledge, flagged in the briefing (meme origin details are from memory).
+Sequences advanced: Spanish Day 115 (prestar / pedir prestado / dejar / devolver), Daodejing Ch. 18, Panama, Dramatic Look, Throne of Blood, Method Lesson 101 (crane shot, Gone with the Wind). Checked against the tracking tables as unused (grep returned nothing for Panama, Dramatic, Throne of Blood, Gone with the Wind, prestar). Tomorrow should continue with Daodejing Chapter 19 and Spanish Day 116.
