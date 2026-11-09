@@ -263,6 +263,7 @@ the repo so a permanent link can be shared.
 | 2026-11-07 | 114 | Demasiado / Bastante / Suficiente / Poco(太多、相當、足夠、很少) | New topic, not covered in Days 1-113: quantifiers as adjectives (agree with noun: demasiada gente) vs. adverbs (fixed: demasiado jóvenes), bastante (quite / enough; bastantes), suficiente, poco vs. un poco (de), sobrar / faltar. | spanish-lessons/day-114.html |
 | 2026-11-08 | 115 | Prestar / Pedir prestado / Dejar / Devolver(借出、借入、讓、歸還) | New topic, not covered in Days 1-114: lend vs. borrow by direction, dejar = colloquial lend, devolver (o→ue) vs. volver, double pronouns te lo presto / se lo presto. | spanish-lessons/day-115.html |
 | 2026-11-09 | 116 | 動詞 + 固定介系詞(Pensar en / Soñar con / Depender de / Confiar en / Casarse con / Enamorarse de / Quejarse de) | New topic, not covered in Days 1-115: verb + fixed preposition, preposition before question words, pensar en vs. pensar que, confiar en que, de + el = del. | spanish-lessons/day-116.html |
+| 2026-11-10 | 117 | 「變成」的六種說法(Ponerse / Volverse / Hacerse / Convertirse en / Llegar a ser / Quedarse) | New topic, not covered in Days 1-116: ponerse (temporary reaction) vs. volverse (sudden/lasting change) vs. hacerse (effort/choice, jobs, beliefs) vs. convertirse en + noun vs. llegar a ser vs. quedarse (resulting state / sin + noun); hacerse de noche; hacerse el + adj = pretend. | spanish-lessons/day-117.html |
 
 Note: a duplicate "Day 2" lesson (ser/¿De dónde eres?, i.e. the same topic
 as Day 5) was independently produced on 2026-07-14 on an orphaned branch
@@ -418,6 +419,7 @@ chapter, check this table and continue from the last one.
 | 2026-11-07 | 第 17 章 太上,下知有之 (Tài shàng, xià zhī yǒu zhī) — "The Best Rulers Are Barely Known" | four grades of ruler (known only / loved and praised / feared / despised); 信不足焉 有不信焉; 悠兮其貴言; 功成事遂 百姓皆謂我自然; 下知有之 vs. 不知有之 variant; follows Ch. 16 | briefings/2026-11-07.html |
 | 2026-11-08 | 第 18 章 大道廢,有仁義 (Dà dào fèi, yǒu rén yì) — "When the Great Way Is Abandoned" | virtues named only after the natural way is lost: 仁義, 大偽, 孝慈, 忠臣; Guodian-text variant noted; follows Ch. 17 | briefings/2026-11-08.html |
 | 2026-11-09 | 第 19 章 絕聖棄智 (Jué shèng qì zhì) — "Cut Off Sageliness, Discard Cleverness" | 絕聖棄智, 絕仁棄義, 絕巧棄利; 見素抱樸, 少私寡欲; Guodian variant noted; follows Ch. 18 | briefings/2026-11-09.html |
+| 2026-11-10 | 第 20 章 絕學無憂 (Jué xué wú yōu) — "Cut Off Learning, and Worry Ends" | 絕學無憂; 唯之與阿; 眾人熙熙 vs. 我獨泊兮; 貴食母; first line sometimes attached to Ch. 19; follows Ch. 19 | briefings/2026-11-10.html |
 
 ## Country/Region/Faction Spotlights Featured
 
@@ -534,6 +536,7 @@ chapter, check this table and continue from the last one.
 | 2026-11-07 | Tanzania (坦尚尼亞) | briefings/2026-11-07.html |
 | 2026-11-08 | Panama (巴拿馬) | briefings/2026-11-08.html |
 | 2026-11-09 | Senegal (塞內加爾) | briefings/2026-11-09.html |
+| 2026-11-10 | Bahrain (巴林) | briefings/2026-11-10.html |
 
 ## Internet Meme Spotlights Featured
 
@@ -650,6 +653,7 @@ chapter, check this table and continue from the last one.
 | 2026-11-07 | "Charlie Bit My Finger — again!" (YouTube, May 22, 2007, Howard Davies-Carr; Harry and Charlie; 2021 NFT sale and removal) | briefings/2026-11-07.html |
 | 2026-11-08 | "Dramatic Look" / Dramatic Chipmunk (2007; prairie dog clip, YouTube) | briefings/2026-11-08.html |
 | 2026-11-09 | "Baby Shark" / Baby Shark Dance (2016 Pinkfong; 2018 #BabySharkChallenge; most-viewed YouTube video Nov 2020) | briefings/2026-11-09.html |
+| 2026-11-10 | "Epic Sax Guy" (Sergey Stepanov, SunStroke Project "Run Away", Eurovision 2010; 2017 "Hey Mamma" revival) | briefings/2026-11-10.html |
 
 ## Film / Performing Arts Spotlights Featured
 
@@ -764,6 +768,7 @@ and never repeat a subject already listed.
 | 2026-11-07 | Mother India (1957, dir. Mehboob Khan; Nargis, Sunil Dutt, Rajendra Kumar, Raaj Kumar; music Naushad; remake of Aurat 1940; Oscar-nominated 1958) | briefings/2026-11-07.html |
 | 2026-11-08 | Throne of Blood (蜘蛛巣城, 1957, dir. Akira Kurosawa; Mifune, Isuzu Yamada; Macbeth adaptation with Noh influence) | briefings/2026-11-08.html |
 | 2026-11-09 | Rear Window (後窗, 1954, dir. Alfred Hitchcock; James Stewart, Grace Kelly; voyeurism, single-viewpoint staging) | briefings/2026-11-09.html |
+| 2026-11-10 | Mad Max: Fury Road (瘋狂麥斯:憤怒道, 2015, dir. George Miller; Tom Hardy, Charlize Theron; practical stunts, centred framing, six Oscars) | briefings/2026-11-10.html |
 
 ## Film-Appreciation / Criticism Method Lessons
 
@@ -880,6 +885,7 @@ table and pick one not yet covered.
 | 2026-11-07 | Proxemics: Distance Between Characters as Meaning (Lesson 100; Hall's four zones, measure, track change, barriers, compare scenes; worked example Citizen Kane 1941, dir. Orson Welles, the breakfast-table sequence) | Citizen Kane (1941) | briefings/2026-11-07.html |
 | 2026-11-08 | The Crane Shot / Vertical Camera Movement (Lesson 101; direction, reveal/conceal, scale change, motivation; Gone with the Wind Atlanta depot sequence) | briefings/2026-11-08.html |
 | 2026-11-09 | Ideological (Social-Political) Criticism (Lesson 102; power on screen, what is treated as normal, what the ending endorses, historical context, against the grain; Modern Times assembly-line/feeding-machine sequence) | briefings/2026-11-09.html |
+| 2026-11-10 | The Hero's Journey / Mythic Structure (Lesson 103; Campbell 1949, Vogler 1992; ordinary world, call, refusal, threshold, ordeal, return with the elixir, where the film departs; Star Wars 1977 Luke on Tatooine to the Death Star trench run) | briefings/2026-11-10.html |
 
 ## Run Notes
 
@@ -1321,3 +1327,7 @@ Sequences advanced: Spanish Day 115 (prestar / pedir prestado / dejar / devolver
 **2026-11-09:** STEP 0 run first: `date -u` read `Sun Nov 8 21:34 UTC` and `TZ=Asia/Taipei date` read `Mon Nov 9 05:34 CST`, so the actual date is 2026-11-09 (Monday) even though the session's context header said 2026-11-08. Session started on `claude/magical-darwin-5apqtg` (stale base, ignored). Pages deployments API: latest success ref `claude/epic-brahmagupta-g1y16m` (created 2026-11-07T21:39Z), tip `89992c1` holding the 2026-11-08 entry; no other claude/* branch was ahead (116 briefings on the portal and on `claude/daily-2026-11-08`). days_owed = 1.
 Section 1: Monday before the Asian open, so the latest closed sessions are still Friday Nov 6. New from a search summary: Dec E-mini S&P futures closed Friday at about 7,402 (+0.26%); October CPI due Tue Nov 10 (FactSet about 3.9% y/y); PPI Nov 13; about 80% (LSEG) odds of a December Fed hike; CoreWeave, Cisco, Applied Materials report. One calendar claiming US markets closed Monday Nov 9 was ignored as unsupported. Friday closing figures carried over from the 2026-11-07 entry and labelled not re-verified; searches for Taiwan/Korea/Japan/HK Nov 6 closes returned only older dates. Section 2: nothing dated Nov 8-9; Flutter 3.44 / Android 17 / Xcode 27 items are background from search summaries.
 Sequences advanced: Spanish Day 116 (verb + fixed preposition), Daodejing Ch. 19, Senegal, Baby Shark, Rear Window, Method Lesson 102 (ideological criticism, Modern Times). Checked against the tracking tables as unused (grep returned nothing for Senegal, Baby Shark, ideolog before today; Rear Window appeared once only as an example in an earlier lesson, never as a spotlight; Modern Times was a Sep 13 spotlight but is used here as a lesson example). Tomorrow should continue with Daodejing Chapter 20 and Spanish Day 117.
+
+**2026-11-10:** STEP 0 run first: `date -u` read `Mon Nov 9 21:35 UTC` and `TZ=Asia/Taipei date` read `Tue Nov 10 05:35 CST`, so the actual date is 2026-11-10 (Tuesday) even though the session's context header said 2026-11-09. Session started on `claude/magical-darwin-wnv773` (stale Day-3 base, ignored). Pages deployments API: latest success ref `claude/epic-brahmagupta-g1y16m` (created 2026-11-08T21:39Z), tip `1e7bdc8` holding the 2026-11-09 entry; `claude/daily-2026-11-09` is the same commit and no other claude/* branch was ahead. days_owed = 1. `claude/daily-2026-11-10` was cut from the portal tip.
+Section 1: Tuesday 05:35 Taipei, so the latest closes are Monday Nov 9 for the US and Asia. US per CNBC via search summary: S&P 500 +2.35% to 7,549.94, Nasdaq +2.74% to 25,253.14, both tying exactly to the Friday Nov 6 closes logged earlier; Dow about +2.2% (Kiplinger headline +1,104 points; implied close about 52,390 is my own arithmetic, not confirmed). The CNBC live-blog URL carries a Nov 8 date while Yahoo's page says "Monday, November 9"; treated as Monday because the numbers tie. TAIEX +4.94% to 41,664.7 from one market report (wires say +4.9% to +5.6%), consistent with the 39,701.64 Friday close. FSC cut the short-selling limit to 3%; NT$500 billion stabilization fund signalled. Nikkei, Kospi and Hang Seng Nov 9 closes were NOT found and are not stated. WebFetch of cp24.com and kiplinger.com failed (hosts not in the session's allowed network domains), so those figures come from search summaries only. Dev news: nothing new dated Nov 9-10; background only (Flutter 3.47 iOS 15 minimum, legacy-library deprecation expected in the November stable release, per summaries).
+Sequences advanced: Spanish Day 117 (become verbs), Daodejing Ch. 20, Bahrain, Epic Sax Guy, Mad Max: Fury Road, Method Lesson 103 (Hero's Journey, Star Wars). Checked against the tracking tables as unused (grep returned nothing for Bahrain, Epic Sax, Hacerse/Volverse/Convertirse, Hero; "Mad Max" appeared only in passing, never as a spotlight). Tomorrow should continue with Daodejing Chapter 21 and Spanish Day 118.
