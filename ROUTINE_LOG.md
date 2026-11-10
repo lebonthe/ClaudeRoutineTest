@@ -264,6 +264,7 @@ the repo so a permanent link can be shared.
 | 2026-11-08 | 115 | Prestar / Pedir prestado / Dejar / Devolver(借出、借入、讓、歸還) | New topic, not covered in Days 1-114: lend vs. borrow by direction, dejar = colloquial lend, devolver (o→ue) vs. volver, double pronouns te lo presto / se lo presto. | spanish-lessons/day-115.html |
 | 2026-11-09 | 116 | 動詞 + 固定介系詞(Pensar en / Soñar con / Depender de / Confiar en / Casarse con / Enamorarse de / Quejarse de) | New topic, not covered in Days 1-115: verb + fixed preposition, preposition before question words, pensar en vs. pensar que, confiar en que, de + el = del. | spanish-lessons/day-116.html |
 | 2026-11-10 | 117 | 「變成」的六種說法(Ponerse / Volverse / Hacerse / Convertirse en / Llegar a ser / Quedarse) | New topic, not covered in Days 1-116: ponerse (temporary reaction) vs. volverse (sudden/lasting change) vs. hacerse (effort/choice, jobs, beliefs) vs. convertirse en + noun vs. llegar a ser vs. quedarse (resulting state / sin + noun); hacerse de noche; hacerse el + adj = pretend. | spanish-lessons/day-117.html |
+| 2026-11-11 | 118 | 「感覺」與「對不起」(Sentir / Sentirse / Lo siento) | New topic, not covered in Days 1-117: sentir + noun (what you feel) vs. sentirse + adjective/adverb (how you feel), e→ie present and e→i preterite (sintió, sintieron), lo siento (neuter lo), siento + infinitive, siento que + subjunctive (sorry that) vs. + indicative (I feel that), me siento homonym with sentarse, perdón / disculpa / lo siento. | spanish-lessons/day-118.html |
 
 Note: a duplicate "Day 2" lesson (ser/¿De dónde eres?, i.e. the same topic
 as Day 5) was independently produced on 2026-07-14 on an orphaned branch
@@ -420,6 +421,7 @@ chapter, check this table and continue from the last one.
 | 2026-11-08 | 第 18 章 大道廢,有仁義 (Dà dào fèi, yǒu rén yì) — "When the Great Way Is Abandoned" | virtues named only after the natural way is lost: 仁義, 大偽, 孝慈, 忠臣; Guodian-text variant noted; follows Ch. 17 | briefings/2026-11-08.html |
 | 2026-11-09 | 第 19 章 絕聖棄智 (Jué shèng qì zhì) — "Cut Off Sageliness, Discard Cleverness" | 絕聖棄智, 絕仁棄義, 絕巧棄利; 見素抱樸, 少私寡欲; Guodian variant noted; follows Ch. 18 | briefings/2026-11-09.html |
 | 2026-11-10 | 第 20 章 絕學無憂 (Jué xué wú yōu) — "Cut Off Learning, and Worry Ends" | 絕學無憂; 唯之與阿; 眾人熙熙 vs. 我獨泊兮; 貴食母; first line sometimes attached to Ch. 19; follows Ch. 19 | briefings/2026-11-10.html |
+| 2026-11-11 | 第 21 章 孔德之容 (Kǒng dé zhī róng) — "The Form of Great Virtue" | 孔德之容 惟道是從; 惟恍惟惚; 其中有象 / 有物 / 有精 / 有信; 以閱眾甫 (Mawangdui 眾父); 以此; the Way is elusive but not empty; 德 as the visible form of following 道 |
 
 ## Country/Region/Faction Spotlights Featured
 
@@ -537,6 +539,7 @@ chapter, check this table and continue from the last one.
 | 2026-11-08 | Panama (巴拿馬) | briefings/2026-11-08.html |
 | 2026-11-09 | Senegal (塞內加爾) | briefings/2026-11-09.html |
 | 2026-11-10 | Bahrain (巴林) | briefings/2026-11-10.html |
+| 2026-11-11 | South Africa (南非) | briefings/2026-11-11.html |
 
 ## Internet Meme Spotlights Featured
 
@@ -654,6 +657,7 @@ chapter, check this table and continue from the last one.
 | 2026-11-08 | "Dramatic Look" / Dramatic Chipmunk (2007; prairie dog clip, YouTube) | briefings/2026-11-08.html |
 | 2026-11-09 | "Baby Shark" / Baby Shark Dance (2016 Pinkfong; 2018 #BabySharkChallenge; most-viewed YouTube video Nov 2020) | briefings/2026-11-09.html |
 | 2026-11-10 | "Epic Sax Guy" (Sergey Stepanov, SunStroke Project "Run Away", Eurovision 2010; 2017 "Hey Mamma" revival) | briefings/2026-11-10.html |
+| 2026-11-11 | "Confused Travolta" (Vincent Vega intercom scene, Pulp Fiction 1994; Imgur cut-out GIF November 2015, toy-aisle caption; green-screen reaction GIF) | briefings/2026-11-11.html |
 
 ## Film / Performing Arts Spotlights Featured
 
@@ -769,6 +773,7 @@ and never repeat a subject already listed.
 | 2026-11-08 | Throne of Blood (蜘蛛巣城, 1957, dir. Akira Kurosawa; Mifune, Isuzu Yamada; Macbeth adaptation with Noh influence) | briefings/2026-11-08.html |
 | 2026-11-09 | Rear Window (後窗, 1954, dir. Alfred Hitchcock; James Stewart, Grace Kelly; voyeurism, single-viewpoint staging) | briefings/2026-11-09.html |
 | 2026-11-10 | Mad Max: Fury Road (瘋狂麥斯:憤怒道, 2015, dir. George Miller; Tom Hardy, Charlize Theron; practical stunts, centred framing, six Oscars) | briefings/2026-11-10.html |
+| 2026-11-11 | M (1931, dir. Fritz Lang; Peter Lorre as Hans Beckert; Thea von Harbou; first Lang sound film, whistled Grieg leitmotif, chalk "M", underworld trial; banned 1934; 1951 Losey remake) | briefings/2026-11-11.html |
 
 ## Film-Appreciation / Criticism Method Lessons
 
@@ -886,6 +891,7 @@ table and pick one not yet covered.
 | 2026-11-08 | The Crane Shot / Vertical Camera Movement (Lesson 101; direction, reveal/conceal, scale change, motivation; Gone with the Wind Atlanta depot sequence) | briefings/2026-11-08.html |
 | 2026-11-09 | Ideological (Social-Political) Criticism (Lesson 102; power on screen, what is treated as normal, what the ending endorses, historical context, against the grain; Modern Times assembly-line/feeding-machine sequence) | briefings/2026-11-09.html |
 | 2026-11-10 | The Hero's Journey / Mythic Structure (Lesson 103; Campbell 1949, Vogler 1992; ordinary world, call, refusal, threshold, ordeal, return with the elixir, where the film departs; Star Wars 1977 Luke on Tatooine to the Death Star trench run) | briefings/2026-11-10.html |
+| 2026-11-11 | Silhouette & Backlighting (Lesson 104; backlight, rim light, full silhouette, contre-jour; read the shape, what the missing face withholds, who is lit vs. not, background, when the figure enters the light; worked example The Night of the Hunter 1955, dir. Charles Laughton, DP Stanley Cortez, Powell on horseback on the horizon seen from the barn loft) | briefings/2026-11-11.html |
 
 ## Run Notes
 
@@ -1331,3 +1337,7 @@ Sequences advanced: Spanish Day 116 (verb + fixed preposition), Daodejing Ch. 19
 **2026-11-10:** STEP 0 run first: `date -u` read `Mon Nov 9 21:35 UTC` and `TZ=Asia/Taipei date` read `Tue Nov 10 05:35 CST`, so the actual date is 2026-11-10 (Tuesday) even though the session's context header said 2026-11-09. Session started on `claude/magical-darwin-wnv773` (stale Day-3 base, ignored). Pages deployments API: latest success ref `claude/epic-brahmagupta-g1y16m` (created 2026-11-08T21:39Z), tip `1e7bdc8` holding the 2026-11-09 entry; `claude/daily-2026-11-09` is the same commit and no other claude/* branch was ahead. days_owed = 1. `claude/daily-2026-11-10` was cut from the portal tip.
 Section 1: Tuesday 05:35 Taipei, so the latest closes are Monday Nov 9 for the US and Asia. US per CNBC via search summary: S&P 500 +2.35% to 7,549.94, Nasdaq +2.74% to 25,253.14, both tying exactly to the Friday Nov 6 closes logged earlier; Dow about +2.2% (Kiplinger headline +1,104 points; implied close about 52,390 is my own arithmetic, not confirmed). The CNBC live-blog URL carries a Nov 8 date while Yahoo's page says "Monday, November 9"; treated as Monday because the numbers tie. TAIEX +4.94% to 41,664.7 from one market report (wires say +4.9% to +5.6%), consistent with the 39,701.64 Friday close. FSC cut the short-selling limit to 3%; NT$500 billion stabilization fund signalled. Nikkei, Kospi and Hang Seng Nov 9 closes were NOT found and are not stated. WebFetch of cp24.com and kiplinger.com failed (hosts not in the session's allowed network domains), so those figures come from search summaries only. Dev news: nothing new dated Nov 9-10; background only (Flutter 3.47 iOS 15 minimum, legacy-library deprecation expected in the November stable release, per summaries).
 Sequences advanced: Spanish Day 117 (become verbs), Daodejing Ch. 20, Bahrain, Epic Sax Guy, Mad Max: Fury Road, Method Lesson 103 (Hero's Journey, Star Wars). Checked against the tracking tables as unused (grep returned nothing for Bahrain, Epic Sax, Hacerse/Volverse/Convertirse, Hero; "Mad Max" appeared only in passing, never as a spotlight). Tomorrow should continue with Daodejing Chapter 21 and Spanish Day 118.
+
+**2026-11-11:** STEP 0 run first: `date -u` read `Tue Nov 10 21:35 UTC` and `TZ=Asia/Taipei date` read `Wed Nov 11 05:35 CST`, so the actual date is 2026-11-11 (Wednesday) even though the session's context header said 2026-11-10. Session started on `claude/magical-darwin-g424ma` (stale Day-3 base, ignored). Pages deployments API: latest success ref `claude/epic-brahmagupta-g1y16m` (created 2026-11-09T21:41Z), tip `86ebe93` holding the 2026-11-10 entry; `claude/daily-2026-11-10` is the same commit and no other claude/* branch was ahead (118 briefings / 117 lessons on both). days_owed = 1. `claude/daily-2026-11-11` was cut from the portal tip.
+Section 1: Wednesday 05:35 Taipei, so the latest closes are Tuesday Nov 10 for the US and Asia. US per a Reuters close in a search summary: Dow -223.12 to 52,166.63, S&P 500 -48.06 to 7,501.88, Nasdaq -290.69 to 24,962.44; the point changes tie exactly to Monday's logged closes, and they imply a Monday Dow close of 52,389.75 (yesterday's "about 52,390" is now confirmed). Conflicting intraday/undated moves (Yahoo live -0.4%, TheStreet -0.74%, 24/7 Wall St -0.34%) were rejected. October CPI +0.4% m/m vs 0.3% expected. TAIEX +1,050.22 to 42,711.92 (CNA), TSMC NT$2,285. CORRECTION: Monday Nov 9 TAIEX close is 41,661.70 (+1,960.06) per CNA, not the 41,664.7 written in the 2026-11-10 briefing; the old briefing file was left as is and the correction is stated in today's briefing. Nikkei 60,459.58 (+2.9%), Kospi 5,239.13 (+4.39%), Hang Seng 24,557.04 (+0.4%) from wire/CNBC text in search summaries, consistent with an earlier same-day snapshot and with the India Diwali Balipratipada holiday (Nov 10). No pages were fetched directly; all figures are from search summaries. Dev news: Apple Siri AI Developer Preview (Nov 3, 27.3 betas), subscription retention messages (Nov 4), new age-rating descriptors from Nov 16, Play services v26.44 age-range API, Claude Sonnet 4.5 API retirement Nov 30; Flutter 3.50 expected in November but no release announcement found.
+Sequences advanced: Spanish Day 118 (sentir / sentirse / lo siento), Daodejing Ch. 21, South Africa, Confused Travolta, M (1931), Method Lesson 104 (silhouette and backlighting, The Night of the Hunter). Checked against the tracking tables as unused (grep returned nothing for South Africa, Travolta, sentirse, Night of the Hunter; no "M (1931" spotlight; "silhouette" appeared only in passing inside other lessons). Observation for a future run: the Spanish table already contains near-duplicate topics (Days 54/117 become-verbs, 75/116 verb + preposition, 53/63 diminutives), so the topic list should be checked by keyword, not just by the previous day's note. Tomorrow should continue with Daodejing Chapter 22 and Spanish Day 119.
