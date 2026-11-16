@@ -82,6 +82,8 @@ hexagrams, country/region spotlights, and meme spotlights are never repeated).
 
 ## Spanish Lesson Template (required format, set 2026-07-09)
 
+> **2026-11-16:** the new spec requires these five headings in every lesson: 🎯 Learning Goal, Vocabulary, Grammar Point, Example Sentences, Practice Prompt. Keep the phonetic dialogue, culture tip and answer key below as extras, but label the sections with the new names (see spanish-lessons/day-121.html).
+
 Every Spanish lesson must follow this exact structure (written in
 Traditional Chinese, with Spanish target-language content inline). Do not
 revert to the old brief format.
@@ -109,7 +111,44 @@ revert to the old brief format.
 Lesson files are saved under `spanish-lessons/day-XX.html` and pushed to
 the repo so a permanent link can be shared.
 
-## Main Briefing Sections (fixed, 8 total per day)
+## Main Briefing Sections — NEW SPEC (adopted 2026-11-16, supersedes the list below)
+
+From 2026-11-16 the routine follows the user's revised prompt. Each of the eight
+sections: complete English version first, then complete Traditional Chinese
+(Taiwan usage) version — no abbreviated translations.
+
+1. Technology, software development & market news (iPhone, macOS, Apple
+   Intelligence/AI, iOS, Android, Flutter, AI models/tools, US & Taiwan markets).
+   Dev news must answer: what happened / what changed technically / why it
+   matters / who is affected / practical implications. Market data must be
+   date-verified to the actual most recent closed session.
+2. Daily Spanish lesson — fixed template: 🎯 Learning Goal, Vocabulary, Grammar
+   Point, Example Sentences, Practice Prompt (Chinese explanations, Spanish
+   embedded). Track mistakes; periodic reviews and cumulative assessments.
+3. I Ching hexagram → Zhuangzi (both exhausted) → currently the Daodejing in
+   chapter order. Include name/number, text, interpretations, background,
+   philosophical implications, modern reflection.
+4. Country / region / faction introduction (never repeated).
+5. Internet meme introduction (never repeated; distinguish historical vs.
+   current popularity).
+6. Daily English learning — NEW. Unit 1: one preposition concept per day
+   (topic, concept, ≥5 examples with translations + comparison table, 2–3
+   common mistakes, 5-question quiz WITHOUT answers, ≤3 takeaways). Unit 2:
+   8–12-exchange conversation introducing Taiwan to German friend Lena, line-
+   by-line Chinese translation, target prepositions in bold, preposition notes,
+   5 vocab, 3 expressions, 1 translation trap, 3 speaking questions WITHOUT
+   model answers. Review every 3 lessons; cumulative assessment every 7.
+   Records: `progress/english-prepositions.md`,
+   `progress/english-quiz-and-mistakes.md`, `progress/taiwan-conversation.md`.
+7. Film & performing-arts knowledge (never repeated). Record also in
+   `progress/film-arts-introductions.md`.
+8. Film appreciation & criticism methodology — six-part format: Today's
+   Method, Detailed Explanation, Concrete Film Example, Practical Viewing
+   Exercise, Key Takeaways, Suggested Further Viewing. Record also in
+   `progress/film-analysis-methods.md`.
+
+## Main Briefing Sections (fixed, 8 total per day) — OLD SPEC, kept for history
+
 
 1. US / Asia / Taiwan stock market news (figures, gains/losses, source links)
 2. AI / iOS / Android / Flutter development news
@@ -1373,3 +1412,5 @@ Section 1: Monday 05:35 Taipei, so the latest closes are Friday Nov 13 for the U
 Sequences advanced: Spanish Day 121 (ganar / gastar / ahorrar / pagar / cobrar), Daodejing Ch. 24, Cyprus, Blinking White Guy, The Red Shoes, Method Lesson 107 (psychoanalytic criticism, Vertigo makeover / green-light scene). Checked against the tracking tables and archives as unused (grep returned nothing for Cyprus, Blinking, Drew Scanlon, Red Shoes, Pressburger, psychoanaly, Freud, Lacan, uncanny, ganar, gastar, ahorrar, cobrar). Vertigo was an earlier spotlight and dolly-zoom example, used here only as a worked example for a new method. Tomorrow should continue with Daodejing Chapter 25 and Spanish Day 122.
 
 **2026-11-16 (second firing — duplicate, stood down):** STEP 0 run first: `date -u` read `Mon Nov 16 01:16 UTC` and `TZ=Asia/Taipei date` read `Mon Nov 16 09:16 CST`, so the actual date is 2026-11-16 (Monday), matching the session's context header. Session started on `claude/modest-gauss-kaaq5y` (not the portal; ignored). Pages deployments API: latest deployment ref `claude/epic-brahmagupta-g1y16m` (created 2026-11-15T21:42Z), sha `49cc17a`, same commit as `claude/daily-2026-11-16`. Fetched all `claude/*` branches: the newest briefing anywhere is `briefings/2026-11-16.html`, present on the portal. days_owed = 2026-11-16 − 2026-11-16 = 0 → genuine duplicate same-day firing. No content produced, no sequences advanced (Spanish stays at Day 121, Daodejing at Ch. 24, Method Lesson at 107, etc.). Only this note was added, on `claude/daily-2026-11-16-duplicate-check`, fast-forwarded into the portal.
+
+**2026-11-16 (third run — re-run under the NEW spec, at the user's request):** After the duplicate-firing note above, the user said the routine rules had changed and asked for today to be run under the new spec. STEP 0 re-checked: 2026-11-16 (Monday) 09:2x Taipei. Portal (`claude/epic-brahmagupta-g1y16m`, confirmed via Pages deployments API) tip `c293460`; no `claude/*` branch has newer content. Work done on `claude/daily-2026-11-16-newspec`, fast-forwarded into the portal. Changes: (1) the 05:35 briefing was moved unchanged to `briefings/2026-11-16-v1-legacy-format.html`, and a new `briefings/2026-11-16.html` was written in the new eight-section layout (tech + markets merged into Section 1 with what/changed/why/who/implications; Daodejing as Section 3; new Section 6). (2) Today's already-assigned subjects were reorganised, NOT replaced, so no never-repeat sequence advanced twice: Spanish Day 121, Daodejing Ch. 24, Cyprus, Blinking White Guy, The Red Shoes, Method Lesson 107. (3) NEW sequences started: English Preposition Lesson 1 (in/on/at for places) and Taiwan Conversation Day 1 ("Where exactly is Taiwan?", German friend Lena); quiz and speaking answers are pending. (4) New `progress/` folder: english-prepositions.md, english-quiz-and-mistakes.md, taiwan-conversation.md, film-arts-introductions.md, film-analysis-methods.md (the film files copy the ROUTINE_LOG tables). (5) `spanish-lessons/day-121.html` headings relabelled to the new five-part template. (6) Section 1 re-check: the Taiwan Monday session is in progress (no close); an undated ~47,000-point TAIEX figure from search was rejected as unverifiable; latest closed sessions remain Fri Nov 13 for both markets. Added Flutter Material/Cupertino deprecation (scheduled for the November stable, secondary source) and the Google Play API 36 deadline (Nov 1). Tomorrow: Spanish Day 122, Daodejing Ch. 25, Preposition Lesson 2, Taiwan Conversation Day 2, and grade any Lesson 1 answers the user submits.
