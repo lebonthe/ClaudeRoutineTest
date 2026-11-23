@@ -15,6 +15,8 @@ concept as mastered without graded answers.
 | Preposition Lesson 5 (next to/beside/by/near) | 2026-11-20 | 5 (bakery sharing a wall; ATM near from/near/next here; cabin ___ the lake; beside vs. besides Taipei 101; explain near vs. next to the hospital) | Awaiting answers |
 | Preposition Lesson 6 (opposite/in front of/behind) | 2026-11-23 | 5 (7-Eleven across the road = opposite; behind of → behind; sit in the front of the bus; in front of vs. before (report by Friday / scooter at garage door); explain temple in front of vs. opposite my school) | Awaiting answers |
 | Review 2 (Lessons 4–6) | 2026-11-23 | 5 (Taichung between Taipei and Kaohsiung; correct 'near from Taipei 101, just opposite of a bank'; table by the window / friends sat opposite; popular among / difference between; describe home with two of next to/near/opposite/behind) | Awaiting answers |
+| Preposition Lesson 7 (in/on/at time) | 2026-11-24 | 5 (Mid-Autumn ___ 25 September; at/in/on the evening; ___ 6:40 ___ Friday morning ___ tonight; at Chinese New Year vs. on Lunar New Year's Day; on time vs. in time — explain) | Awaiting answers |
+| Cumulative Assessment 1 (Lessons 1–7) | 2026-11-24 | 7 (in Hsinchu / at a company / on the third floor; correct '5 degrees under zero… clouds under us'; moved the barbecue inside; between the mountains and the sea / popular among; next to = nothing between; sat opposite at hotpot; own sentence with in/on/at time) | Awaiting answers |
 
 ## Graded results
 

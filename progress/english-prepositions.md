@@ -7,12 +7,12 @@ to the learner.
 
 ## Curriculum position
 
-- Current stage: **Stage 1 — Basic spatial concepts**
-- Next lesson planned: Lesson 7 — `in / on / at` for time (start of Stage 2), followed by the
-  first cumulative assessment (Lessons 1–7).
+- Current stage: **Stage 2 — Time prepositions** (Stage 1 completed with Lessons 1–6)
+- Lesson 7 (`in / on / at` for time) given 2026-11-24 with Cumulative Assessment 1 (Lessons 1–7, 7 questions); unanswered.
+- Next lesson planned: Lesson 8 — `since / for / during / while` (Stage 2).
 - First review (Lessons 1–3) given 2026-11-18 as a 5-question mixed set; unanswered.
 - Review 2 (Lessons 4–6) given 2026-11-23 as a 5-question mixed set; unanswered.
-- Next review: after Lesson 9. Next cumulative assessment: after Lesson 7.
+- Next review: after Lesson 9 (Lessons 7–9). Next cumulative assessment: after Lesson 14.
 
 ## Completed lessons
 
@@ -24,6 +24,7 @@ to the learner.
 | 4 | 2026-11-19 | between vs. among | between = separate, individual points with a line between them (also times, differences, relationships, named parties even if 3+); among = inside a group/crowd, "one of", "popular among"; the difference between (never among); between you and me; mental model: line vs. crowd; mnemonic 差異永遠 between,人氣都在 among | briefings/2026-11-19.html |
 | 5 | 2026-11-20 | next to / beside / by / near | distance ruler: next to/beside = 0 distance, nothing between (beside more written); by = at the edge of a feature (by the window/sea/road); near/close to = same area, things may be between; mistakes: near from/near to, next my house (next to / next door), beside vs. besides; mnemonic 貼著用 next to,邊上用 by,附近用 near 不加 from | briefings/2026-11-20.html |
 | 6 | 2026-11-23 | opposite / across from / in front of / behind | street test: in front of = same side, before the front; opposite (UK) / across from (US) = other side of a street/table/room, facing; behind = back side; no 'of' after opposite/behind (but 'the opposite of' = reverse); in front of vs. in the front of (inside); time → before, not in front of; sit opposite someone; mnemonic 對面要過街,前面在門口,後面看不到,of 都不要 | briefings/2026-11-23.html |
+| 7 | 2026-11-24 | in / on / at (time) | calendar zoom: in = big container (years, months, seasons, decades, in the morning/afternoon/evening); on = one calendar page (days, dates, birthday, New Year's Eve, on Monday morning); at = clock point or short moment (at 7:30, noon, midnight, at night, at lunchtime, at Christmas/Chinese New Year as period); no preposition with this/next/last/every/today; in the night vs. at night; at/on the weekend UK/US; in time vs. on time; in three days = three days from now; mnemonic 年月季節 in 裡面,星期日期 on 一頁,幾點午夜 at 一點,next this 前面全不填 | briefings/2026-11-24.html |
 
 ## Mastery status
 
@@ -36,3 +37,4 @@ to the learner.
 | between vs. among | Taught, not yet assessed | Quiz pending |
 | next to / beside / by / near | Taught, not yet assessed | Quiz pending |
 | opposite / in front of / behind | Taught, not yet assessed | Quiz + Review 2 pending |
+| in / on / at (time) | Taught, not yet assessed | Quiz + Cumulative Assessment 1 pending |
