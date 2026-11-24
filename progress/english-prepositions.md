@@ -9,7 +9,8 @@ to the learner.
 
 - Current stage: **Stage 2 — Time prepositions** (Stage 1 completed with Lessons 1–6)
 - Lesson 7 (`in / on / at` for time) given 2026-11-24 with Cumulative Assessment 1 (Lessons 1–7, 7 questions); unanswered.
-- Next lesson planned: Lesson 8 — `since / for / during / while` (Stage 2).
+- Lesson 8 (`for / since / during / while`) given 2026-11-25; quiz unanswered.
+- Next lesson planned: Lesson 9 — `by / until / before / after` (Stage 2), followed by Review 3 (Lessons 7–9).
 - First review (Lessons 1–3) given 2026-11-18 as a 5-question mixed set; unanswered.
 - Review 2 (Lessons 4–6) given 2026-11-23 as a 5-question mixed set; unanswered.
 - Next review: after Lesson 9 (Lessons 7–9). Next cumulative assessment: after Lesson 14.
@@ -25,6 +26,7 @@ to the learner.
 | 5 | 2026-11-20 | next to / beside / by / near | distance ruler: next to/beside = 0 distance, nothing between (beside more written); by = at the edge of a feature (by the window/sea/road); near/close to = same area, things may be between; mistakes: near from/near to, next my house (next to / next door), beside vs. besides; mnemonic 貼著用 next to,邊上用 by,附近用 near 不加 from | briefings/2026-11-20.html |
 | 6 | 2026-11-23 | opposite / across from / in front of / behind | street test: in front of = same side, before the front; opposite (UK) / across from (US) = other side of a street/table/room, facing; behind = back side; no 'of' after opposite/behind (but 'the opposite of' = reverse); in front of vs. in the front of (inside); time → before, not in front of; sit opposite someone; mnemonic 對面要過街,前面在門口,後面看不到,of 都不要 | briefings/2026-11-23.html |
 | 7 | 2026-11-24 | in / on / at (time) | calendar zoom: in = big container (years, months, seasons, decades, in the morning/afternoon/evening); on = one calendar page (days, dates, birthday, New Year's Eve, on Monday morning); at = clock point or short moment (at 7:30, noon, midnight, at night, at lunchtime, at Christmas/Chinese New Year as period); no preposition with this/next/last/every/today; in the night vs. at night; at/on the weekend UK/US; in time vs. on time; in three days = three days from now; mnemonic 年月季節 in 裡面,星期日期 on 一頁,幾點午夜 at 一點,next this 前面全不填 | briefings/2026-11-24.html |
+| 8 | 2026-11-25 | for / since / during / while | ruler, flag, frame: for = how long (length), since = starting point up to now (usually present perfect), during + noun, while + clause/-ing; finished period → for + past simple (not since); since = because; mistakes: since three years, During I was…, during three years (Spanish durante transfer); mnemonic 多久用 for,從哪開始用 since;框裡名詞 during,框裡句子 while | briefings/2026-11-25.html |
 
 ## Mastery status
 
@@ -38,3 +40,4 @@ to the learner.
 | next to / beside / by / near | Taught, not yet assessed | Quiz pending |
 | opposite / in front of / behind | Taught, not yet assessed | Quiz + Review 2 pending |
 | in / on / at (time) | Taught, not yet assessed | Quiz + Cumulative Assessment 1 pending |
+| for / since / during / while | Taught, not yet assessed | Quiz pending |

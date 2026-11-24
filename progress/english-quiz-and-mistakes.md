@@ -17,6 +17,7 @@ concept as mastered without graded answers.
 | Review 2 (Lessons 4–6) | 2026-11-23 | 5 (Taichung between Taipei and Kaohsiung; correct 'near from Taipei 101, just opposite of a bank'; table by the window / friends sat opposite; popular among / difference between; describe home with two of next to/near/opposite/behind) | Awaiting answers |
 | Preposition Lesson 7 (in/on/at time) | 2026-11-24 | 5 (Mid-Autumn ___ 25 September; at/in/on the evening; ___ 6:40 ___ Friday morning ___ tonight; at Chinese New Year vs. on Lunar New Year's Day; on time vs. in time — explain) | Awaiting answers |
 | Cumulative Assessment 1 (Lessons 1–7) | 2026-11-24 | 7 (in Hsinchu / at a company / on the third floor; correct '5 degrees under zero… clouds under us'; moved the barbecue inside; between the mountains and the sea / popular among; next to = nothing between; sat opposite at hotpot; own sentence with in/on/at time) | Awaiting answers |
+| Preposition Lesson 8 (for/since/during/while) | 2026-11-25 | 5 (waiting ___ twenty minutes; worked at TSMC ___ 2021 / ___ the pandemic; While vs. During I was hiking on Hehuanshan; correct 'lived in Kaohsiung since five years'; explain didn't sleep during the flight vs. haven't slept since the flight) | Awaiting answers |
 
 ## Graded results
 
