@@ -7,11 +7,12 @@ to the learner.
 
 ## Curriculum position
 
-- Current stage: **Stage 2 — Time prepositions** (Stage 1 completed with Lessons 1–6)
+- Current stage: **Stage 3 — Direction and movement** (Stage 1 = Lessons 1–6, Stage 2 = Lessons 7–9)
 - Lesson 7 (`in / on / at` for time) given 2026-11-24 with Cumulative Assessment 1 (Lessons 1–7, 7 questions); unanswered.
 - Lesson 8 (`for / since / during / while`) given 2026-11-25; quiz unanswered.
 - Lesson 9 (`by / until / before / after`) given 2026-11-26 with Review 3 (Lessons 7–9, 5 questions); unanswered.
-- Next lesson planned: Lesson 10 (Stage 2 continues or moves to Stage 3 depending on performance; no answers received yet).
+- Lesson 10 (`to / toward(s) / from`) given 2026-11-27; quiz unanswered. Stage 3 started.
+- Next lesson planned: Lesson 11 (Stage 3 continues; no answers received yet).
 - First review (Lessons 1–3) given 2026-11-18 as a 5-question mixed set; unanswered.
 - Review 2 (Lessons 4–6) given 2026-11-23 as a 5-question mixed set; unanswered.
 - Review 3 (Lessons 7–9) given 2026-11-26; unanswered.
@@ -30,6 +31,7 @@ to the learner.
 | 7 | 2026-11-24 | in / on / at (time) | calendar zoom: in = big container (years, months, seasons, decades, in the morning/afternoon/evening); on = one calendar page (days, dates, birthday, New Year's Eve, on Monday morning); at = clock point or short moment (at 7:30, noon, midnight, at night, at lunchtime, at Christmas/Chinese New Year as period); no preposition with this/next/last/every/today; in the night vs. at night; at/on the weekend UK/US; in time vs. on time; in three days = three days from now; mnemonic 年月季節 in 裡面,星期日期 on 一頁,幾點午夜 at 一點,next this 前面全不填 | briefings/2026-11-24.html |
 | 8 | 2026-11-25 | for / since / during / while | ruler, flag, frame: for = how long (length), since = starting point up to now (usually present perfect), during + noun, while + clause/-ing; finished period → for + past simple (not since); since = because; mistakes: since three years, During I was…, during three years (Spanish durante transfer); mnemonic 多久用 for,從哪開始用 since;框裡名詞 during,框裡句子 while | briefings/2026-11-25.html |
 | 9 | 2026-11-26 | by / until / before / after | line vs. deadline: until = state/activity continues up to a point (stay, wait, be open); by = one-time action no later than (finish, send, arrive); before/after = order (+ noun, -ing, clause); not … until = 直到……才 (didn't go to bed until 2 a.m. vs. slept until 2); by the time + clause; before Friday strictly excludes Friday; mistakes: finish until Friday, slept until 2 for 兩點才睡, sentence-initial After → After that / Afterwards; mnemonic 撐到底用 until,截止線用 by;排先後用 before/after,『才』要用 not until | briefings/2026-11-26.html |
+| 10 | 2026-11-27 | to / toward(s) / from | arrow model: to = reaches the target, toward(s) = points in a direction (may not arrive; US toward / UK towards), from = starting point; from…to for routes; tickets/trains/flights to + destination; to for recipient/attitude (kind to), towards for attitude to; mistakes: go to home → go home (home/here/there/downtown/abroad are adverbs), arrive to → arrive in (city)/at (point) or get to / reach (no to), I come from Taipei yesterday → came back / got back from; mnemonic 到了用 to,往那邊用 toward,出發點用 from;回家 go home 不加 to | briefings/2026-11-27.html |
 
 ## Mastery status
 
@@ -45,3 +47,4 @@ to the learner.
 | in / on / at (time) | Taught, not yet assessed | Quiz + Cumulative Assessment 1 pending |
 | for / since / during / while | Taught, not yet assessed | Quiz pending |
 | by / until / before / after | Taught, not yet assessed | Quiz + Review 3 pending |
+| to / toward(s) / from | Taught, not yet assessed | Quiz pending |
