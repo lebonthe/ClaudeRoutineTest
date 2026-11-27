@@ -21,6 +21,7 @@ concept as mastered without graded answers.
 | Preposition Lesson 9 (by/until/before/after) | 2026-11-26 | 5 (post office open ___ 5 p.m.; budget ___ Monday morning; choose 加班到十點才回家 = didn't go home until 10; correct sentence-initial After; explain stay until eight vs. be here by eight) | Awaiting answers |
 | Review 3 (Lessons 7–9) | 2026-11-26 | 5 (in January / on the 6th / at 9:30; since 2022 / for almost four years; during the meeting / while my manager was talking; correct 'waiting you since twenty minutes … arrive until 8:45'; own sentences with by and until) | Awaiting answers |
 | Preposition Lesson 10 (to/toward(s)/from) | 2026-11-27 | 5 (went ___ home; arrived ___ Frankfurt; hikers walked toward the summit but turned back; correct 'My friend come from Tainan yesterday'; explain sailing to vs. toward Penghu) | Awaiting answers |
+| Preposition Lesson 11 (into/out of/onto/off) | 2026-11-28 | 5 (get ___ the car; get ___ the train at Banqiao; climbed onto the rock; correct 'got down the bus'; explain jumped into vs. is in the lake) | Awaiting answers |
 
 ## Graded results
 

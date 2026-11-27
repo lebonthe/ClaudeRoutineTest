@@ -12,7 +12,8 @@ to the learner.
 - Lesson 8 (`for / since / during / while`) given 2026-11-25; quiz unanswered.
 - Lesson 9 (`by / until / before / after`) given 2026-11-26 with Review 3 (Lessons 7–9, 5 questions); unanswered.
 - Lesson 10 (`to / toward(s) / from`) given 2026-11-27; quiz unanswered. Stage 3 started.
-- Next lesson planned: Lesson 11 (Stage 3 continues; no answers received yet).
+- Lesson 11 (`into / out of / onto / off`) given 2026-11-28; quiz unanswered.
+- Next lesson planned: Lesson 12 (Stage 3 continues: across / through / along / past) followed by Review 4 (Lessons 10–12); no answers received yet.
 - First review (Lessons 1–3) given 2026-11-18 as a 5-question mixed set; unanswered.
 - Review 2 (Lessons 4–6) given 2026-11-23 as a 5-question mixed set; unanswered.
 - Review 3 (Lessons 7–9) given 2026-11-26; unanswered.
@@ -32,6 +33,7 @@ to the learner.
 | 8 | 2026-11-25 | for / since / during / while | ruler, flag, frame: for = how long (length), since = starting point up to now (usually present perfect), during + noun, while + clause/-ing; finished period → for + past simple (not since); since = because; mistakes: since three years, During I was…, during three years (Spanish durante transfer); mnemonic 多久用 for,從哪開始用 since;框裡名詞 during,框裡句子 while | briefings/2026-11-25.html |
 | 9 | 2026-11-26 | by / until / before / after | line vs. deadline: until = state/activity continues up to a point (stay, wait, be open); by = one-time action no later than (finish, send, arrive); before/after = order (+ noun, -ing, clause); not … until = 直到……才 (didn't go to bed until 2 a.m. vs. slept until 2); by the time + clause; before Friday strictly excludes Friday; mistakes: finish until Friday, slept until 2 for 兩點才睡, sentence-initial After → After that / Afterwards; mnemonic 撐到底用 until,截止線用 by;排先後用 before/after,『才』要用 not until | briefings/2026-11-26.html |
 | 10 | 2026-11-27 | to / toward(s) / from | arrow model: to = reaches the target, toward(s) = points in a direction (may not arrive; US toward / UK towards), from = starting point; from…to for routes; tickets/trains/flights to + destination; to for recipient/attitude (kind to), towards for attitude to; mistakes: go to home → go home (home/here/there/downtown/abroad are adverbs), arrive to → arrive in (city)/at (point) or get to / reach (no to), I come from Taipei yesterday → came back / got back from; mnemonic 到了用 to,往那邊用 toward,出發點用 from;回家 go home 不加 to | briefings/2026-11-27.html |
+| 11 | 2026-11-28 | into / out of / onto / off | container vs. platform in motion: into = outside→inside a container, out of = inside→outside, onto = up onto a surface, off = away from a surface; small vehicles you can only sit in (car, taxi, small boat) → get in(to) / get out of, big walk-around vehicles and things you sit on (bus, train, MRT, plane, ship, scooter, bike) → get on / get off; into vs. in after movement verbs (both used, into clearer; after be only in); mistakes: get down the bus (下車) → get off, get on the taxi → get in(to), enter into the room → enter the room (enter into only for agreements); run into = meet by chance; mnemonic 坐著不能站,進出 in/out;能走或騎著,上下 on/off;enter 直接接地點 | briefings/2026-11-28.html |
 
 ## Mastery status
 
@@ -48,3 +50,4 @@ to the learner.
 | for / since / during / while | Taught, not yet assessed | Quiz pending |
 | by / until / before / after | Taught, not yet assessed | Quiz + Review 3 pending |
 | to / toward(s) / from | Taught, not yet assessed | Quiz pending |
+| into / out of / onto / off | Taught, not yet assessed | Quiz pending |
